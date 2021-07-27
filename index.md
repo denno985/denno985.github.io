@@ -9,7 +9,7 @@
 
 <div class="header-wrap">
 	<div class="logo">
-		<h1>Il Segretario Pagliaccio</h1>
+		<h1>Company Name</h1>
     </div>
 </div><!---header-wrap-End--->
 

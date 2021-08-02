@@ -430,8 +430,8 @@
                 </span>
             </script>
                             </h4>
-
                             <ul class="list-rosters" data-lazy-load=".list-rosters-item">
+    
                                 <li class="list-rosters-item raised-2" data-id="583620"
                                     data-display-none-after-hide="hidden">
                                     <div class="no-padding flex-row">
@@ -448,14 +448,14 @@
                                                 </a>
                                             </div>
                                             <div class="media-body">
-                                                <h4 class="media-heading">DDP</h4>
-                                                <h5>Albano Romina Lecciso</h5>
+                                                <h4 class="media-heading">La Decima Crociata</h4>
+                                                <h5>Daniele</h5>
                                             </div>
                                             <a class="left-heading-link btn btn-clear"
                                                 href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
                                                 Movimenti</a>
                                         </div>
-                                        <div class="team-main-info"><small>Crediti residui</small>46
+                                        <div class="team-main-info"><small>Crediti residui</small>50
                                             <i class="icon fg-fm"></i>
                                         </div>
                                     </div>
@@ -481,857 +481,857 @@
                                                 <th data-key="price"
                                                     class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
                                                     <span data-toggle="tooltip"
-                                                        title="Quotazione d'acquisto">Quotazione</span>
+                                                        title="Quotazione d'acquisto">Q.acq.</span>
                                                 </th>
                                                 <th data-key="cost"
                                                     class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                                                    <span data-toggle="tooltip" title="Anni di contratto">Contratto</span>
+                                                    <span data-toggle="tooltip" title="Quotazione attuale">Q.att.</span>
                                                 </th>
                                             </tr>
                                         </thead>
                                         <tbody>
-    
-        <tr data-id="387" class="">
-            <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-                <span>
-                <span Class="role role-por">Por</span>
-                </span>
-            </td>
-            <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-                <b class="capitalize">contini</b>
-            </td>
-            <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-                <span class="nation-flag nation-ita">ita</span>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-                <small class="uppercase">Napoli</small>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-                <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/napoli.png"
-                    onerror="handleImageError(this, Settings.missingCrestSrc)" />
-                <small class="ellipsis">Napoli</small>
-            </td>
-            <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-dark-blue">0</b>
-            </td>
-            <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-blue2">0</b>
-            </td>
-        </tr>
-        
-        <tr data-id="387" class="">
-            <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-                <span>
-                <span Class="role role-por">Por</span>
-                </span>
-            </td>
-            <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-                <b class="capitalize">meret</b>
-            </td>
-            <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-                <span class="nation-flag nation-ita">ita</span>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-                <small class="uppercase">Napoli</small>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-                <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/napoli.png"
-                    onerror="handleImageError(this, Settings.missingCrestSrc)" />
-                <small class="ellipsis">Napoli</small>
-            </td>
-            <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-dark-blue">5</b>
-            </td>
-            <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-blue2">2</b>
-            </td>
-        </tr>
-        
-        <tr data-id="387" class="">
-            <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-                <span>
-                <span Class="role role-por">Por</span>
-                </span>
-            </td>
-            <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-                <b class="capitalize">ospina</b>
-            </td>
-            <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-                <span class="nation-flag nation-ita">ita</span>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-                <small class="uppercase">Napoli</small>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-                <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/napoli.png"
-                    onerror="handleImageError(this, Settings.missingCrestSrc)" />
-                <small class="ellipsis">Napoli</small>
-            </td>
-            <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-dark-blue">1</b>
-            </td>
-            <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-blue2">0</b>
-            </td>
-        </tr>
-        
-        <tr data-id="387" class="">
-            <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-                <span>
-                <span Class="role role-dd">Dd</span><span Class="role role-e">E</span>
-                </span>
-            </td>
-            <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-                <b class="capitalize">faraoni</b>
-            </td>
-            <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-                <span class="nation-flag nation-ita">ita</span>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-                <small class="uppercase">Verona</small>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-                <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/verona.png"
-                    onerror="handleImageError(this, Settings.missingCrestSrc)" />
-                <small class="ellipsis">Verona</small>
-            </td>
-            <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-dark-blue">14</b>
-            </td>
-            <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-blue2">0</b>
-            </td>
-        </tr>
-        
-        <tr data-id="387" class="">
-            <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-                <span>
-                <span Class="role role-dd">Dd</span><span Class="role role-dc">Dc</span><span Class="role role-e">E</span>
-                </span>
-            </td>
-            <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-                <b class="capitalize">patric</b>
-            </td>
-            <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-                <span class="nation-flag nation-ita">ita</span>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-                <small class="uppercase">Lazio</small>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-                <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/lazio.png"
-                    onerror="handleImageError(this, Settings.missingCrestSrc)" />
-                <small class="ellipsis">Lazio</small>
-            </td>
-            <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-dark-blue">1</b>
-            </td>
-            <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-blue2">1</b>
-            </td>
-        </tr>
-        
-        <tr data-id="387" class="">
-            <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-                <span>
-                <span Class="role role-ds">Ds</span><span Class="role role-e">E</span>
-                </span>
-            </td>
-            <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-                <b class="capitalize">frabotta</b>
-            </td>
-            <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-                <span class="nation-flag nation-ita">ita</span>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-                <small class="uppercase">Juventus</small>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-                <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
-                    onerror="handleImageError(this, Settings.missingCrestSrc)" />
-                <small class="ellipsis">Juventus</small>
-            </td>
-            <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-dark-blue">1</b>
-            </td>
-            <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-blue2">2</b>
-            </td>
-        </tr>
-        
-        <tr data-id="387" class="">
-            <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-                <span>
-                <span Class="role role-dc">Dc</span>
-                </span>
-            </td>
-            <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-                <b class="capitalize">chiellini</b>
-            </td>
-            <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-                <span class="nation-flag nation-ita">ita</span>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-                <small class="uppercase">Juventus</small>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-                <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
-                    onerror="handleImageError(this, Settings.missingCrestSrc)" />
-                <small class="ellipsis">Juventus</small>
-            </td>
-            <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-dark-blue">10</b>
-            </td>
-            <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-blue2">1</b>
-            </td>
-        </tr>
-        
-        <tr data-id="387" class="">
-            <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-                <span>
-                <span Class="role role-dc">Dc</span>
-                </span>
-            </td>
-            <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-                <b class="capitalize">demiral</b>
-            </td>
-            <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-                <span class="nation-flag nation-ita">ita</span>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-                <small class="uppercase">Juventus</small>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-                <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
-                    onerror="handleImageError(this, Settings.missingCrestSrc)" />
-                <small class="ellipsis">Juventus</small>
-            </td>
-            <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-dark-blue">2</b>
-            </td>
-            <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-blue2">1</b>
-            </td>
-        </tr>
-        
-        <tr data-id="387" class="">
-            <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-                <span>
-                <span Class="role role-dc">Dc</span>
-                </span>
-            </td>
-            <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-                <b class="capitalize">glik</b>
-            </td>
-            <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-                <span class="nation-flag nation-ita">ita</span>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-                <small class="uppercase">Benevento</small>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-                <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/benevento.png"
-                    onerror="handleImageError(this, Settings.missingCrestSrc)" />
-                <small class="ellipsis">Benevento</small>
-            </td>
-            <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-dark-blue">11</b>
-            </td>
-            <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-blue2">1</b>
-            </td>
-        </tr>
-        
-        <tr data-id="387" class="">
-            <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-                <span>
-                <span Class="role role-dc">Dc</span>
-                </span>
-            </td>
-            <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-                <b class="capitalize">gunter</b>
-            </td>
-            <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-                <span class="nation-flag nation-ita">ita</span>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-                <small class="uppercase">Verona</small>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-                <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/verona.png"
-                    onerror="handleImageError(this, Settings.missingCrestSrc)" />
-                <small class="ellipsis">Verona</small>
-            </td>
-            <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-dark-blue">1</b>
-            </td>
-            <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-blue2">1</b>
-            </td>
-        </tr>
-        
-        <tr data-id="387" class="">
-            <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-                <span>
-                <span Class="role role-dc">Dc</span>
-                </span>
-            </td>
-            <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-                <b class="capitalize">rugani</b>
-            </td>
-            <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-                <span class="nation-flag nation-ita">ita</span>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-                <small class="uppercase">Cagliari</small>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-                <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/cagliari.png"
-                    onerror="handleImageError(this, Settings.missingCrestSrc)" />
-                <small class="ellipsis">Cagliari</small>
-            </td>
-            <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-dark-blue">11</b>
-            </td>
-            <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-blue2">2</b>
-            </td>
-        </tr>
-        
-        <tr data-id="387" class="">
-            <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-                <span>
-                <span Class="role role-dc">Dc</span>
-                </span>
-            </td>
-            <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-                <b class="capitalize">skriniar</b>
-            </td>
-            <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-                <span class="nation-flag nation-ita">ita</span>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-                <small class="uppercase">Inter</small>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-                <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/inter.png"
-                    onerror="handleImageError(this, Settings.missingCrestSrc)" />
-                <small class="ellipsis">Inter</small>
-            </td>
-            <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-dark-blue">7</b>
-            </td>
-            <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-blue2">2</b>
-            </td>
-        </tr>
-        
-        <tr data-id="387" class="">
-            <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-                <span>
-                <span Class="role role-dc">Dc</span>
-                </span>
-            </td>
-            <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-                <b class="capitalize">smalling</b>
-            </td>
-            <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-                <span class="nation-flag nation-ita">ita</span>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-                <small class="uppercase">Roma</small>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-                <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/roma.png"
-                    onerror="handleImageError(this, Settings.missingCrestSrc)" />
-                <small class="ellipsis">Roma</small>
-            </td>
-            <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-dark-blue">19</b>
-            </td>
-            <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-blue2">1</b>
-            </td>
-        </tr>
-        
-        <tr data-id="387" class="">
-            <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-                <span>
-                <span Class="role role-e">E</span>
-                </span>
-            </td>
-            <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-                <b class="capitalize">lazzari</b>
-            </td>
-            <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-                <span class="nation-flag nation-ita">ita</span>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-                <small class="uppercase">Lazio</small>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-                <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/lazio.png"
-                    onerror="handleImageError(this, Settings.missingCrestSrc)" />
-                <small class="ellipsis">Lazio</small>
-            </td>
-            <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-dark-blue">19</b>
-            </td>
-            <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-blue2">1</b>
-            </td>
-        </tr>
-        
-        <tr data-id="387" class="">
-            <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-                <span>
-                <span Class="role role-m">M</span>
-                </span>
-            </td>
-            <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-                <b class="capitalize">bakayoko</b>
-            </td>
-            <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-                <span class="nation-flag nation-ita">ita</span>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-                <small class="uppercase">Napoli</small>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-                <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/napoli.png"
-                    onerror="handleImageError(this, Settings.missingCrestSrc)" />
-                <small class="ellipsis">Napoli</small>
-            </td>
-            <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-dark-blue">20</b>
-            </td>
-            <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-blue2">2</b>
-            </td>
-        </tr>
-        
-        <tr data-id="387" class="">
-            <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-                <span>
-                <span Class="role role-m">M</span><span Class="role role-c">C</span>
-                </span>
-            </td>
-            <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-                <b class="capitalize">ekdal</b>
-            </td>
-            <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-                <span class="nation-flag nation-ita">ita</span>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-                <small class="uppercase">Sampdoria</small>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-                <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/sampdoria.png"
-                    onerror="handleImageError(this, Settings.missingCrestSrc)" />
-                <small class="ellipsis">Sampdoria</small>
-            </td>
-            <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-dark-blue">8</b>
-            </td>
-            <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-blue2">1</b>
-            </td>
-        </tr>
-        
-        <tr data-id="387" class="">
-            <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-                <span>
-                <span Class="role role-m">M</span><span Class="role role-c">C</span>
-                </span>
-            </td>
-            <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-                <b class="capitalize">mckennie</b>
-            </td>
-            <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-                <span class="nation-flag nation-ita">ita</span>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-                <small class="uppercase">Juventus</small>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-                <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
-                    onerror="handleImageError(this, Settings.missingCrestSrc)" />
-                <small class="ellipsis">Juventus</small>
-            </td>
-            <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-dark-blue">6</b>
-            </td>
-            <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-blue2">2</b>
-            </td>
-        </tr>
-        
-        <tr data-id="387" class="">
-            <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-                <span>
-                <span Class="role role-c">C</span>
-                </span>
-            </td>
-            <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-                <b class="capitalize">arthur</b>
-            </td>
-            <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-                <span class="nation-flag nation-ita">ita</span>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-                <small class="uppercase">Juventus</small>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-                <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
-                    onerror="handleImageError(this, Settings.missingCrestSrc)" />
-                <small class="ellipsis">Juventus</small>
-            </td>
-            <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-dark-blue">16</b>
-            </td>
-            <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-blue2">2</b>
-            </td>
-        </tr>
-        
-        <tr data-id="387" class="">
-            <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-                <span>
-                <span Class="role role-c">C</span>
-                </span>
-            </td>
-            <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-                <b class="capitalize">rabiot</b>
-            </td>
-            <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-                <span class="nation-flag nation-ita">ita</span>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-                <small class="uppercase">Juventus</small>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-                <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
-                    onerror="handleImageError(this, Settings.missingCrestSrc)" />
-                <small class="ellipsis">Juventus</small>
-            </td>
-            <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-dark-blue">2</b>
-            </td>
-            <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-blue2">2</b>
-            </td>
-        </tr>
-        
-        <tr data-id="387" class="">
-            <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-                <span>
-                <span Class="role role-c">C</span><span Class="role role-t">T</span>
-                </span>
-            </td>
-            <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-                <b class="capitalize">castrovilli</b>
-            </td>
-            <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-                <span class="nation-flag nation-ita">ita</span>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-                <small class="uppercase">Fiorentina</small>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-                <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/fiorentina.png"
-                    onerror="handleImageError(this, Settings.missingCrestSrc)" />
-                <small class="ellipsis">Fiorentina</small>
-            </td>
-            <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-dark-blue">8</b>
-            </td>
-            <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-blue2">1</b>
-            </td>
-        </tr>
-        
-        <tr data-id="387" class="">
-            <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-                <span>
-                <span Class="role role-c">C</span><span Class="role role-t">T</span>
-                </span>
-            </td>
-            <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-                <b class="capitalize">ruiz</b>
-            </td>
-            <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-                <span class="nation-flag nation-ita">ita</span>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-                <small class="uppercase">Napoli</small>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-                <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/napoli.png"
-                    onerror="handleImageError(this, Settings.missingCrestSrc)" />
-                <small class="ellipsis">Napoli</small>
-            </td>
-            <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-dark-blue">19</b>
-            </td>
-            <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-blue2">0</b>
-            </td>
-        </tr>
-        
-        <tr data-id="387" class="">
-            <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-                <span>
-                <span Class="role role-w">W</span><span Class="role role-a">A</span>
-                </span>
-            </td>
-            <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-                <b class="capitalize">carles perez</b>
-            </td>
-            <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-                <span class="nation-flag nation-ita">ita</span>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-                <small class="uppercase">Roma</small>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-                <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/roma.png"
-                    onerror="handleImageError(this, Settings.missingCrestSrc)" />
-                <small class="ellipsis">Roma</small>
-            </td>
-            <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-dark-blue">10</b>
-            </td>
-            <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-blue2">1</b>
-            </td>
-        </tr>
-        
-        <tr data-id="387" class="">
-            <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-                <span>
-                <span Class="role role-w">W</span><span Class="role role-a">A</span>
-                </span>
-            </td>
-            <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-                <b class="capitalize">chiesa</b>
-            </td>
-            <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-                <span class="nation-flag nation-ita">ita</span>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-                <small class="uppercase">Juventus</small>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-                <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
-                    onerror="handleImageError(this, Settings.missingCrestSrc)" />
-                <small class="ellipsis">Juventus</small>
-            </td>
-            <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-dark-blue">70</b>
-            </td>
-            <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-blue2">2</b>
-            </td>
-        </tr>
-        
-        <tr data-id="387" class="">
-            <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-                <span>
-                <span Class="role role-w">W</span><span Class="role role-a">A</span>
-                </span>
-            </td>
-            <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-                <b class="capitalize">sottil</b>
-            </td>
-            <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-                <span class="nation-flag nation-ita">ita</span>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-                <small class="uppercase">Cagliari</small>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-                <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/cagliari.png"
-                    onerror="handleImageError(this, Settings.missingCrestSrc)" />
-                <small class="ellipsis">Cagliari</small>
-            </td>
-            <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-dark-blue">6</b>
-            </td>
-            <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-blue2">2</b>
-            </td>
-        </tr>
-        
-        <tr data-id="387" class="">
-            <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-                <span>
-                <span Class="role role-w">W</span><span Class="role role-t">T</span>
-                </span>
-            </td>
-            <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-                <b class="capitalize">bernardeschi</b>
-            </td>
-            <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-                <span class="nation-flag nation-ita">ita</span>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-                <small class="uppercase">Juventus</small>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-                <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
-                    onerror="handleImageError(this, Settings.missingCrestSrc)" />
-                <small class="ellipsis">Juventus</small>
-            </td>
-            <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-dark-blue">2</b>
-            </td>
-            <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-blue2">2</b>
-            </td>
-        </tr>
-        
-        <tr data-id="387" class="">
-            <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-                <span>
-                <span Class="role role-a">A</span>
-                </span>
-            </td>
-            <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-                <b class="capitalize">gervinho</b>
-            </td>
-            <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-                <span class="nation-flag nation-ita">ita</span>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-                <small class="uppercase">Parma</small>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-                <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/parma.png"
-                    onerror="handleImageError(this, Settings.missingCrestSrc)" />
-                <small class="ellipsis">Parma</small>
-            </td>
-            <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-dark-blue">11</b>
-            </td>
-            <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-blue2">0</b>
-            </td>
-        </tr>
-        
-        <tr data-id="387" class="">
-            <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-                <span>
-                <span Class="role role-a">A</span>
-                </span>
-            </td>
-            <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-                <b class="capitalize">insigne</b>
-            </td>
-            <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-                <span class="nation-flag nation-ita">ita</span>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-                <small class="uppercase">Napoli</small>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-                <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/napoli.png"
-                    onerror="handleImageError(this, Settings.missingCrestSrc)" />
-                <small class="ellipsis">Napoli</small>
-            </td>
-            <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-dark-blue">27</b>
-            </td>
-            <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-blue2">2</b>
-            </td>
-        </tr>
-        
-        <tr data-id="387" class="">
-            <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-                <span>
-                <span Class="role role-pc">Pc</span>
-                </span>
-            </td>
-            <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-                <b class="capitalize">morata</b>
-            </td>
-            <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-                <span class="nation-flag nation-ita">ita</span>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-                <small class="uppercase">Juventus</small>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-                <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
-                    onerror="handleImageError(this, Settings.missingCrestSrc)" />
-                <small class="ellipsis">Juventus</small>
-            </td>
-            <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-dark-blue">77</b>
-            </td>
-            <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-blue2">2</b>
-            </td>
-        </tr>
-        
-        <tr data-id="387" class="">
-            <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-                <span>
-                <span Class="role role-pc">Pc</span>
-                </span>
-            </td>
-            <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-                <b class="capitalize">muriel</b>
-            </td>
-            <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-                <span class="nation-flag nation-ita">ita</span>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-                <small class="uppercase">Atalanta</small>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-                <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/atalanta.png"
-                    onerror="handleImageError(this, Settings.missingCrestSrc)" />
-                <small class="ellipsis">Atalanta</small>
-            </td>
-            <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-dark-blue">52</b>
-            </td>
-            <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-blue2">0</b>
-            </td>
-        </tr>
-        
-        <tr data-id="387" class="">
-            <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-                <span>
-                <span Class="role role-pc">Pc</span>
-                </span>
-            </td>
-            <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-                <b class="capitalize">simeone</b>
-            </td>
-            <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-                <span class="nation-flag nation-ita">ita</span>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-                <small class="uppercase">Cagliari</small>
-            </td>
-            <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-                <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/cagliari.png"
-                    onerror="handleImageError(this, Settings.missingCrestSrc)" />
-                <small class="ellipsis">Cagliari</small>
-            </td>
-            <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-dark-blue">1</b>
-            </td>
-            <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-                <b class="text-blue2">1</b>
-            </td>
-        </tr>
-        
-<tr class="no-results">
+
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-por">Por</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">contini</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Napoli</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/napoli.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Napoli</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">0</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-por">Por</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">meret</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Napoli</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/napoli.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Napoli</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">5</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-por">Por</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">ospina</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Napoli</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/napoli.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Napoli</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">faraoni</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Verona</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/verona.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Verona</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">14</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-dc">Dc</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">patric</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Lazio</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/lazio.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Lazio</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-ds">Ds</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">frabotta</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Juventus</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Juventus</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">chiellini</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Juventus</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Juventus</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">10</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">demiral</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Juventus</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Juventus</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">2</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">glik</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Benevento</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/benevento.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Benevento</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">11</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">gunter</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Verona</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/verona.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Verona</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">rugani</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Cagliari</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/cagliari.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Cagliari</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">11</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">skriniar</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Inter</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/inter.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Inter</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">7</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">smalling</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Roma</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/roma.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Roma</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">19</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">lazzari</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Lazio</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/lazio.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Lazio</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">19</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-m">M</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">bakayoko</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Napoli</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/napoli.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Napoli</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">20</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-m">M</span><span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">ekdal</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Sampdoria</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/sampdoria.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Sampdoria</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">8</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-m">M</span><span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">mckennie</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Juventus</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Juventus</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">6</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">arthur</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Juventus</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Juventus</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">16</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">rabiot</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Juventus</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Juventus</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">2</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-c">C</span><span Class="role role-t">T</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">castrovilli</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Fiorentina</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/fiorentina.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Fiorentina</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">8</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-c">C</span><span Class="role role-t">T</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">ruiz</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Napoli</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/napoli.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Napoli</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">19</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-w">W</span><span Class="role role-a">A</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">carles perez</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Roma</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/roma.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Roma</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">10</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-w">W</span><span Class="role role-a">A</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">chiesa</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Juventus</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Juventus</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">70</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-w">W</span><span Class="role role-a">A</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">sottil</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Cagliari</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/cagliari.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Cagliari</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">6</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-w">W</span><span Class="role role-t">T</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">bernardeschi</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Juventus</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Juventus</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">2</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-a">A</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">gervinho</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Parma</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/parma.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Parma</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">11</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-a">A</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">insigne</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Napoli</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/napoli.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Napoli</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">27</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-pc">Pc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">morata</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Juventus</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Juventus</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">77</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-pc">Pc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">muriel</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Atalanta</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/atalanta.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Atalanta</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">52</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-pc">Pc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">simeone</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Cagliari</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/cagliari.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Cagliari</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+                                            <tr class="no-results">
                                                 <td class="padding _finalizing-hidden _free-player-visible" colspan="6">
                                                     <div class="alert alert-info">Nessun giocatore in rosa</div>
                                                 </td>
@@ -1343,19 +1343,6411 @@
                                                         calciatore non più in <span class="euro">EuroLega</span><span
                                                             class="no-euro">Serie A</span></em></td>
                                                 <td class="text-right x4 cell-team-info">
-                                                    <div class="team-main-info full-width">515 <i
+                                                    <div class="team-main-info full-width">437.0<i
                                                             class="icon fg-fm"></i><small>Costo totale
                                                             d'acquisto</small></div>
                                                 </td>
                                                 <td class="text-right x4 cell-team-info">
-                                                    <div class="team-main-info full-width">406 <i
-                                                            class="icon fg-fm"></i><small>Valore totale rosa</small>
+                                                    <div class="team-main-info full-width">33.0<i
+                                                            class="icon fg-fm"></i><small>Anni Rimanenti</small>
                                                     </div>
                                                 </td>
                                             </tr>
                                         </tfoot>
                                     </table>
                                 </li>
+    
+                                <li class="list-rosters-item raised-2" data-id="583620"
+                                    data-display-none-after-hide="hidden">
+                                    <div class="no-padding flex-row">
+                                        <div class="media team-header team-header-sm flex-item-fill relative">
+                                            <div class="media-left">
+                                                <a href="#" class="team-crest"><img class="media-object crest circle"
+                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/squadra/583620_08026945.png"
+                                                        onerror="handleImageError(this, Settings.missingLogoSrc)">
+                                                </a>
+                                                <a href="#" class="team-shirt">
+                                                    <img class="media-object shirt circle"
+                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
+                                                        onerror="handleImageError(this, Settings.missingShirtSrc)">
+                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <h4 class="media-heading">Cs Cannabis Street</h4>
+                                                <h5>Marco</h5>
+                                            </div>
+                                            <a class="left-heading-link btn btn-clear"
+                                                href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
+                                                Movimenti</a>
+                                        </div>
+                                        <div class="team-main-info"><small>Crediti residui</small>50
+                                            <i class="icon fg-fm"></i>
+                                        </div>
+                                    </div>
+                                    <table class="smart-table table-striped fixed table no-margin has-subheader"
+                                        id="rosterTable">
+                                        <thead>
+                                            <tr class="subheader">
+                                                <th data-key="role"
+                                                    class="sortable cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                                                    <span></span>
+                                                </th>
+                                                <th data-key="name" class="sortable cell-text cell-primary x6 smart-x4">
+                                                    <span>Calciatore</span>
+                                                </th>
+                                                <th data-key="nation"
+                                                    class="sortable cell-text cell-primary x0 euro-x1">
+                                                    <span></span>
+                                                </th>
+                                                <th data-key="team"
+                                                    class="sortable cell-text cell-primary x4 euro-x3 smart-x2">
+                                                    <span>Squadra</span>
+                                                </th>
+                                                <th data-key="price"
+                                                    class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                                                    <span data-toggle="tooltip"
+                                                        title="Quotazione d'acquisto">Q.acq.</span>
+                                                </th>
+                                                <th data-key="cost"
+                                                    class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                                                    <span data-toggle="tooltip" title="Quotazione attuale">Q.att.</span>
+                                                </th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-por">Por</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">dragowski</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Fiorentina</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/fiorentina.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Fiorentina</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">16</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-por">Por</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">pau lopez</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Roma</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/roma.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Roma</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">6</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-por">Por</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">sirigu</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Torino</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/torino.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Torino</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">6</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-ds">Ds</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">letizia</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Benevento</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/benevento.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Benevento</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">5</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">molina n.</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Udinese</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/udinese.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Udinese</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">9</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-dc">Dc</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">muldur</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Sassuolo</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/sassuolo.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Sassuolo</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">8</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">izzo</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Torino</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/torino.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Torino</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">12</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">maksimovic</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Napoli</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/napoli.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Napoli</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-ds">Ds</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">hernandez t.</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Milan</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/milan.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Milan</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">5</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">bastoni</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Inter</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/inter.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Inter</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">10</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">manolas</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Napoli</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/napoli.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Napoli</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">36</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">osorio</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Parma</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/parma.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Parma</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">6</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">romagnoli</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Milan</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/milan.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Milan</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">29</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-m">M</span><span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">locatelli</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Sassuolo</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/sassuolo.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Sassuolo</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">20</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-m">M</span><span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">lucas leiva</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Lazio</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/lazio.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Lazio</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">4</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-m">M</span><span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">pulgar</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Fiorentina</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/fiorentina.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Fiorentina</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">7</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-m">M</span><span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">ricci m.</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Spezia</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/spezia.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Spezia</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">freuler</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Atalanta</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/atalanta.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Atalanta</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">8</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">villar</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Roma</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/roma.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Roma</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">7</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">viola</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Benevento</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/benevento.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Benevento</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">5</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-c">C</span><span Class="role role-w">W</span><span Class="role role-t">T</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">bonaventura</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Fiorentina</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/fiorentina.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Fiorentina</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">15</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-c">C</span><span Class="role role-t">T</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">nainggolan</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Cagliari</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/cagliari.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Cagliari</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">29</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-w">W</span><span Class="role role-t">T</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">lopez m.</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Sassuolo</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/sassuolo.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Sassuolo</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">12</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-a">A</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">ilicic</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Atalanta</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/atalanta.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Atalanta</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">40</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-a">A</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">joao pedro</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Cagliari</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/cagliari.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Cagliari</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">3</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-a">A</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">ribery</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Fiorentina</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/fiorentina.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Fiorentina</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">19</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-pc">Pc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">ibrahimovic</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Milan</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/milan.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Milan</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">76</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-pc">Pc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">mandzukic</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Milan</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/milan.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Milan</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">31</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-pc">Pc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">mayoral</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Roma</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/roma.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Roma</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">17</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-pc">Pc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">quagliarella</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Sampdoria</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/sampdoria.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Sampdoria</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">24</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+                                            <tr class="no-results">
+                                                <td class="padding _finalizing-hidden _free-player-visible" colspan="6">
+                                                    <div class="alert alert-info">Nessun giocatore in rosa</div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                        <tfoot class="priced-visible flex-footer">
+                                            <tr>
+                                                <td class="padding cell-middle text-middle x4" colspan="4"><em>*
+                                                        calciatore non più in <span class="euro">EuroLega</span><span
+                                                            class="no-euro">Serie A</span></em></td>
+                                                <td class="text-right x4 cell-team-info">
+                                                    <div class="team-main-info full-width">467.0<i
+                                                            class="icon fg-fm"></i><small>Costo totale
+                                                            d'acquisto</small></div>
+                                                </td>
+                                                <td class="text-right x4 cell-team-info">
+                                                    <div class="team-main-info full-width">31.0<i
+                                                            class="icon fg-fm"></i><small>Anni Rimanenti</small>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </tfoot>
+                                    </table>
+                                </li>
+    
+                                <li class="list-rosters-item raised-2" data-id="583620"
+                                    data-display-none-after-hide="hidden">
+                                    <div class="no-padding flex-row">
+                                        <div class="media team-header team-header-sm flex-item-fill relative">
+                                            <div class="media-left">
+                                                <a href="#" class="team-crest"><img class="media-object crest circle"
+                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/squadra/583620_08026945.png"
+                                                        onerror="handleImageError(this, Settings.missingLogoSrc)">
+                                                </a>
+                                                <a href="#" class="team-shirt">
+                                                    <img class="media-object shirt circle"
+                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
+                                                        onerror="handleImageError(this, Settings.missingShirtSrc)">
+                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <h4 class="media-heading">Ans Rei Sport Verein</h4>
+                                                <h5>Tasso</h5>
+                                            </div>
+                                            <a class="left-heading-link btn btn-clear"
+                                                href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
+                                                Movimenti</a>
+                                        </div>
+                                        <div class="team-main-info"><small>Crediti residui</small>50
+                                            <i class="icon fg-fm"></i>
+                                        </div>
+                                    </div>
+                                    <table class="smart-table table-striped fixed table no-margin has-subheader"
+                                        id="rosterTable">
+                                        <thead>
+                                            <tr class="subheader">
+                                                <th data-key="role"
+                                                    class="sortable cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                                                    <span></span>
+                                                </th>
+                                                <th data-key="name" class="sortable cell-text cell-primary x6 smart-x4">
+                                                    <span>Calciatore</span>
+                                                </th>
+                                                <th data-key="nation"
+                                                    class="sortable cell-text cell-primary x0 euro-x1">
+                                                    <span></span>
+                                                </th>
+                                                <th data-key="team"
+                                                    class="sortable cell-text cell-primary x4 euro-x3 smart-x2">
+                                                    <span>Squadra</span>
+                                                </th>
+                                                <th data-key="price"
+                                                    class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                                                    <span data-toggle="tooltip"
+                                                        title="Quotazione d'acquisto">Q.acq.</span>
+                                                </th>
+                                                <th data-key="cost"
+                                                    class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                                                    <span data-toggle="tooltip" title="Quotazione attuale">Q.att.</span>
+                                                </th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-por">Por</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">handanovic</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Inter</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/inter.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Inter</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">61</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-por">Por</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">montipo'</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Benevento</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/benevento.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Benevento</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-por">Por</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">padelli</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Inter</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/inter.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Inter</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-ds">Ds</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">calabria</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Milan</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/milan.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Milan</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">di lorenzo</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Napoli</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/napoli.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Napoli</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">11</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">hateboer</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Atalanta</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/atalanta.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Atalanta</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">40</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-dc">Dc</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">stryger larsen</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Udinese</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/udinese.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Udinese</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">5</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-ds">Ds</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">dimarco</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Verona</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/verona.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Verona</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">bonifazi</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Udinese</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/udinese.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Udinese</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">4</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">ibanez</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Roma</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/roma.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Roma</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">12</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">kjaer</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Milan</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/milan.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Milan</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">6</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">n'koulou</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Torino</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/torino.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Torino</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">7</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">rodrigo becao</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Udinese</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/udinese.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Udinese</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-m">M</span><span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">bennacer</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Milan</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/milan.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Milan</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">5</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-m">M</span><span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">de roon</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Atalanta</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/atalanta.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Atalanta</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">22</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-m">M</span><span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">duncan</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Cagliari</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/cagliari.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Cagliari</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-m">M</span><span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">thorsby</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Sampdoria</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/sampdoria.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Sampdoria</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">tonali</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Milan</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/milan.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Milan</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">11</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-c">C</span><span Class="role role-t">T</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">pellegrini lo.</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Roma</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/roma.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Roma</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">37</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-c">C</span><span Class="role role-t">T</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">traore' hj.</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Sassuolo</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/sassuolo.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Sassuolo</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">15</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-w">W</span><span Class="role role-t">T</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">pereyra</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Udinese</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/udinese.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Udinese</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-t">T</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">djuricic</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Sassuolo</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/sassuolo.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Sassuolo</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">15</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-t">T</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">luis alberto</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Lazio</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/lazio.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Lazio</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">85</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-a">A</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">berardi</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Sassuolo</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/sassuolo.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Sassuolo</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">11</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-pc">Pc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">lapadula</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Benevento</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/benevento.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Benevento</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-pc">Pc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">martinez l.</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Inter</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/inter.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Inter</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">22</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-pc">Pc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">muriqi</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Lazio</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/lazio.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Lazio</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">2</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-pc">Pc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">zapata d.</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Atalanta</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/atalanta.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Atalanta</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">190</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+                                            <tr class="no-results">
+                                                <td class="padding _finalizing-hidden _free-player-visible" colspan="6">
+                                                    <div class="alert alert-info">Nessun giocatore in rosa</div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                        <tfoot class="priced-visible flex-footer">
+                                            <tr>
+                                                <td class="padding cell-middle text-middle x4" colspan="4"><em>*
+                                                        calciatore non più in <span class="euro">EuroLega</span><span
+                                                            class="no-euro">Serie A</span></em></td>
+                                                <td class="text-right x4 cell-team-info">
+                                                    <div class="team-main-info full-width">570.0<i
+                                                            class="icon fg-fm"></i><small>Costo totale
+                                                            d'acquisto</small></div>
+                                                </td>
+                                                <td class="text-right x4 cell-team-info">
+                                                    <div class="team-main-info full-width">37.0<i
+                                                            class="icon fg-fm"></i><small>Anni Rimanenti</small>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </tfoot>
+                                    </table>
+                                </li>
+    
+                                <li class="list-rosters-item raised-2" data-id="583620"
+                                    data-display-none-after-hide="hidden">
+                                    <div class="no-padding flex-row">
+                                        <div class="media team-header team-header-sm flex-item-fill relative">
+                                            <div class="media-left">
+                                                <a href="#" class="team-crest"><img class="media-object crest circle"
+                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/squadra/583620_08026945.png"
+                                                        onerror="handleImageError(this, Settings.missingLogoSrc)">
+                                                </a>
+                                                <a href="#" class="team-shirt">
+                                                    <img class="media-object shirt circle"
+                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
+                                                        onerror="handleImageError(this, Settings.missingShirtSrc)">
+                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <h4 class="media-heading">Docklands United Football Club</h4>
+                                                <h5>Jacopo</h5>
+                                            </div>
+                                            <a class="left-heading-link btn btn-clear"
+                                                href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
+                                                Movimenti</a>
+                                        </div>
+                                        <div class="team-main-info"><small>Crediti residui</small>50
+                                            <i class="icon fg-fm"></i>
+                                        </div>
+                                    </div>
+                                    <table class="smart-table table-striped fixed table no-margin has-subheader"
+                                        id="rosterTable">
+                                        <thead>
+                                            <tr class="subheader">
+                                                <th data-key="role"
+                                                    class="sortable cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                                                    <span></span>
+                                                </th>
+                                                <th data-key="name" class="sortable cell-text cell-primary x6 smart-x4">
+                                                    <span>Calciatore</span>
+                                                </th>
+                                                <th data-key="nation"
+                                                    class="sortable cell-text cell-primary x0 euro-x1">
+                                                    <span></span>
+                                                </th>
+                                                <th data-key="team"
+                                                    class="sortable cell-text cell-primary x4 euro-x3 smart-x2">
+                                                    <span>Squadra</span>
+                                                </th>
+                                                <th data-key="price"
+                                                    class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                                                    <span data-toggle="tooltip"
+                                                        title="Quotazione d'acquisto">Q.acq.</span>
+                                                </th>
+                                                <th data-key="cost"
+                                                    class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                                                    <span data-toggle="tooltip" title="Quotazione attuale">Q.att.</span>
+                                                </th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-por">Por</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">donnarumma g.</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Milan</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/milan.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Milan</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">47</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-por">Por</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">mirante</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Roma</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/roma.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Roma</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">2</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-por">Por</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">tatarusanu</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Milan</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/milan.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Milan</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-ds">Ds</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">danilo</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Juventus</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Juventus</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">6</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-ds">Ds</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">hakimi</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Inter</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/inter.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Inter</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">96</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-ds">Ds</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">toljan</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Sassuolo</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/sassuolo.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Sassuolo</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">cuadrado</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Juventus</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Juventus</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">23</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">milenkovic</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Fiorentina</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/fiorentina.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Fiorentina</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">30</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-ds">Ds</span><span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">gagliolo</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Parma</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/parma.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Parma</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">3</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">bonucci</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Juventus</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Juventus</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">21</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">colley</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Sampdoria</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/sampdoria.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Sampdoria</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">2</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">danilo lar.</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Bologna</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/bologna.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Bologna</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">4</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">godin</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Cagliari</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/cagliari.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Cagliari</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">11</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-m">M</span><span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">barella</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Inter</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/inter.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Inter</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">30</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-m">M</span><span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">miguel veloso</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Verona</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/verona.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Verona</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">3</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-m">M</span><span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">nandez</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Cagliari</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/cagliari.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Cagliari</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">7</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-m">M</span><span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">strootman</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Genoa</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/genoa.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Genoa</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">12</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">vidal</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Inter</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/inter.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Inter</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">45</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-c">C</span><span Class="role role-t">T</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">kurtic</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Parma</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/parma.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Parma</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">4</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-w">W</span><span Class="role role-a">A</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">pedro</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Roma</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/roma.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Roma</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">13</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-w">W</span><span Class="role role-a">A</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">perisic</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Inter</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/inter.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Inter</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">6</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-w">W</span><span Class="role role-a">A</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">politano</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Napoli</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/napoli.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Napoli</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">5</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-t">T</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">de paul</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Udinese</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/udinese.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Udinese</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">23</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-t">T</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">eriksen</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Inter</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/inter.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Inter</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">8</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-t">T</span><span Class="role role-a">A</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">mkhitaryan</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Roma</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/roma.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Roma</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">37</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-a">A</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">keita b.</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Sampdoria</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/sampdoria.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Sampdoria</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">14</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-a">A</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">rafael leao</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Milan</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/milan.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Milan</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">5</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-pc">Pc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">destro</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Genoa</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/genoa.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Genoa</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-pc">Pc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">mertens</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Napoli</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/napoli.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Napoli</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">73</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-pc">Pc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">osimhen</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Napoli</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/napoli.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Napoli</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">66</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+                                            <tr class="no-results">
+                                                <td class="padding _finalizing-hidden _free-player-visible" colspan="6">
+                                                    <div class="alert alert-info">Nessun giocatore in rosa</div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                        <tfoot class="priced-visible flex-footer">
+                                            <tr>
+                                                <td class="padding cell-middle text-middle x4" colspan="4"><em>*
+                                                        calciatore non più in <span class="euro">EuroLega</span><span
+                                                            class="no-euro">Serie A</span></em></td>
+                                                <td class="text-right x4 cell-team-info">
+                                                    <div class="team-main-info full-width">599.0<i
+                                                            class="icon fg-fm"></i><small>Costo totale
+                                                            d'acquisto</small></div>
+                                                </td>
+                                                <td class="text-right x4 cell-team-info">
+                                                    <div class="team-main-info full-width">31.0<i
+                                                            class="icon fg-fm"></i><small>Anni Rimanenti</small>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </tfoot>
+                                    </table>
+                                </li>
+    
+                                <li class="list-rosters-item raised-2" data-id="583620"
+                                    data-display-none-after-hide="hidden">
+                                    <div class="no-padding flex-row">
+                                        <div class="media team-header team-header-sm flex-item-fill relative">
+                                            <div class="media-left">
+                                                <a href="#" class="team-crest"><img class="media-object crest circle"
+                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/squadra/583620_08026945.png"
+                                                        onerror="handleImageError(this, Settings.missingLogoSrc)">
+                                                </a>
+                                                <a href="#" class="team-shirt">
+                                                    <img class="media-object shirt circle"
+                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
+                                                        onerror="handleImageError(this, Settings.missingShirtSrc)">
+                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <h4 class="media-heading">3 MOON</h4>
+                                                <h5>Silvio</h5>
+                                            </div>
+                                            <a class="left-heading-link btn btn-clear"
+                                                href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
+                                                Movimenti</a>
+                                        </div>
+                                        <div class="team-main-info"><small>Crediti residui</small>50
+                                            <i class="icon fg-fm"></i>
+                                        </div>
+                                    </div>
+                                    <table class="smart-table table-striped fixed table no-margin has-subheader"
+                                        id="rosterTable">
+                                        <thead>
+                                            <tr class="subheader">
+                                                <th data-key="role"
+                                                    class="sortable cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                                                    <span></span>
+                                                </th>
+                                                <th data-key="name" class="sortable cell-text cell-primary x6 smart-x4">
+                                                    <span>Calciatore</span>
+                                                </th>
+                                                <th data-key="nation"
+                                                    class="sortable cell-text cell-primary x0 euro-x1">
+                                                    <span></span>
+                                                </th>
+                                                <th data-key="team"
+                                                    class="sortable cell-text cell-primary x4 euro-x3 smart-x2">
+                                                    <span>Squadra</span>
+                                                </th>
+                                                <th data-key="price"
+                                                    class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                                                    <span data-toggle="tooltip"
+                                                        title="Quotazione d'acquisto">Q.acq.</span>
+                                                </th>
+                                                <th data-key="cost"
+                                                    class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                                                    <span data-toggle="tooltip" title="Quotazione attuale">Q.att.</span>
+                                                </th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-por">Por</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">audero</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Sampdoria</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/sampdoria.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Sampdoria</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-por">Por</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">gollini</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Atalanta</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/atalanta.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Atalanta</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">15</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-por">Por</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">silvestri</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Verona</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/verona.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Verona</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">4</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-ds">Ds</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">spinazzola</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Roma</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/roma.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Roma</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">4</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">maehle</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Atalanta</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/atalanta.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Atalanta</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">15</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">reynolds</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Roma</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/roma.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Roma</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">2</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">zappa</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Cagliari</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/cagliari.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Cagliari</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">masiello</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Genoa</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/genoa.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Genoa</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">3</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-ds">Ds</span><span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">caceres</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Fiorentina</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/fiorentina.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Fiorentina</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">8</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-ds">Ds</span><span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">caldirola</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Benevento</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/benevento.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Benevento</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">5</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-ds">Ds</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">mario rui</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Napoli</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/napoli.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Napoli</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">kumbulla</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Roma</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/roma.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Roma</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">14</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">lovato</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Verona</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/verona.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Verona</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">nuytinck</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Udinese</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/udinese.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Udinese</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">tomori</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Milan</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/milan.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Milan</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">8</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">walukiewicz</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Cagliari</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/cagliari.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Cagliari</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-m">M</span><span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">amrabat</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Fiorentina</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/fiorentina.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Fiorentina</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">10</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-m">M</span><span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">rovella</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Genoa</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/genoa.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Genoa</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">3</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-c">C</span><span Class="role role-t">T</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">barak</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Verona</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/verona.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Verona</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">8</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-c">C</span><span Class="role role-t">T</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">soriano</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Bologna</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/bologna.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Bologna</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">2</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-c">C</span><span Class="role role-t">T</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">zielinski</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Napoli</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/napoli.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Napoli</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">16</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-w">W</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">castillejo</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Milan</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/milan.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Milan</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-t">T</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">calhanoglu</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Milan</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/milan.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Milan</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-t">T</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">ramsey</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Juventus</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Juventus</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">19</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-t">T</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">zaniolo</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Roma</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/roma.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Roma</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">4</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-a">A</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">dybala</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Juventus</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Juventus</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">50</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-a">A</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">messias</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Crotone</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/crotone.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Crotone</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-pc">Pc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">lukaku</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Inter</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/inter.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Inter</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">251</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-pc">Pc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">nzola</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Spezia</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/spezia.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Spezia</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">21</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-pc">Pc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">pavoletti</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Cagliari</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/cagliari.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Cagliari</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">13</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+                                            <tr class="no-results">
+                                                <td class="padding _finalizing-hidden _free-player-visible" colspan="6">
+                                                    <div class="alert alert-info">Nessun giocatore in rosa</div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                        <tfoot class="priced-visible flex-footer">
+                                            <tr>
+                                                <td class="padding cell-middle text-middle x4" colspan="4"><em>*
+                                                        calciatore non più in <span class="euro">EuroLega</span><span
+                                                            class="no-euro">Serie A</span></em></td>
+                                                <td class="text-right x4 cell-team-info">
+                                                    <div class="team-main-info full-width">484.0<i
+                                                            class="icon fg-fm"></i><small>Costo totale
+                                                            d'acquisto</small></div>
+                                                </td>
+                                                <td class="text-right x4 cell-team-info">
+                                                    <div class="team-main-info full-width">32.0<i
+                                                            class="icon fg-fm"></i><small>Anni Rimanenti</small>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </tfoot>
+                                    </table>
+                                </li>
+    
+                                <li class="list-rosters-item raised-2" data-id="583620"
+                                    data-display-none-after-hide="hidden">
+                                    <div class="no-padding flex-row">
+                                        <div class="media team-header team-header-sm flex-item-fill relative">
+                                            <div class="media-left">
+                                                <a href="#" class="team-crest"><img class="media-object crest circle"
+                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/squadra/583620_08026945.png"
+                                                        onerror="handleImageError(this, Settings.missingLogoSrc)">
+                                                </a>
+                                                <a href="#" class="team-shirt">
+                                                    <img class="media-object shirt circle"
+                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
+                                                        onerror="handleImageError(this, Settings.missingShirtSrc)">
+                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <h4 class="media-heading">DDP</h4>
+                                                <h5>Mattia</h5>
+                                            </div>
+                                            <a class="left-heading-link btn btn-clear"
+                                                href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
+                                                Movimenti</a>
+                                        </div>
+                                        <div class="team-main-info"><small>Crediti residui</small>50
+                                            <i class="icon fg-fm"></i>
+                                        </div>
+                                    </div>
+                                    <table class="smart-table table-striped fixed table no-margin has-subheader"
+                                        id="rosterTable">
+                                        <thead>
+                                            <tr class="subheader">
+                                                <th data-key="role"
+                                                    class="sortable cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                                                    <span></span>
+                                                </th>
+                                                <th data-key="name" class="sortable cell-text cell-primary x6 smart-x4">
+                                                    <span>Calciatore</span>
+                                                </th>
+                                                <th data-key="nation"
+                                                    class="sortable cell-text cell-primary x0 euro-x1">
+                                                    <span></span>
+                                                </th>
+                                                <th data-key="team"
+                                                    class="sortable cell-text cell-primary x4 euro-x3 smart-x2">
+                                                    <span>Squadra</span>
+                                                </th>
+                                                <th data-key="price"
+                                                    class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                                                    <span data-toggle="tooltip"
+                                                        title="Quotazione d'acquisto">Q.acq.</span>
+                                                </th>
+                                                <th data-key="cost"
+                                                    class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                                                    <span data-toggle="tooltip" title="Quotazione attuale">Q.att.</span>
+                                                </th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-por">Por</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">consigli</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Sassuolo</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/sassuolo.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Sassuolo</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">2</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-por">Por</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">reina</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Lazio</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/lazio.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Lazio</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-por">Por</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">skorupski</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Bologna</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/bologna.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Bologna</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">3</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-por">Por</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">strakosha</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Lazio</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/lazio.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Lazio</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">52</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">conti</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Parma</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/parma.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Parma</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">karsdorp</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Roma</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/roma.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Roma</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">9</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">zappacosta</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Genoa</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/genoa.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Genoa</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">5</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-ds">Ds</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">augello</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Sampdoria</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/sampdoria.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Sampdoria</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">8</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-ds">Ds</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">czyborra</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Genoa</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/genoa.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Genoa</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">8</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">de vrij</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Inter</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/inter.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Inter</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">43</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">mancini</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Roma</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/roma.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Roma</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">15</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">pezzella ger.</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Fiorentina</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/fiorentina.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Fiorentina</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">12</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">toloi</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Atalanta</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/atalanta.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Atalanta</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">16</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">gosens</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Atalanta</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/atalanta.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Atalanta</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">2</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-e">E</span><span Class="role role-w">W</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">candreva</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Sampdoria</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/sampdoria.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Sampdoria</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">19</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-e">E</span><span Class="role role-w">W</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">lazovic</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Verona</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/verona.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Verona</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-m">M</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">rincon</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Torino</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/torino.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Torino</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-m">M</span><span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">hernani</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Parma</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/parma.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Parma</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">6</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">brozovic</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Inter</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/inter.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Inter</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">2</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-c">C</span><span Class="role role-t">T</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">milinkovic-savic</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Lazio</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/lazio.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Lazio</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">80</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-c">C</span><span Class="role role-t">T</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">pasalic</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Atalanta</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/atalanta.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Atalanta</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">11</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-c">C</span><span Class="role role-t">T</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">pessina</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Atalanta</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/atalanta.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Atalanta</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">3</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-w">W</span><span Class="role role-a">A</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">el shaarawy</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Roma</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/roma.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Roma</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">35</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-w">W</span><span Class="role role-a">A</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">orsolini</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Bologna</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/bologna.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Bologna</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">12</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-a">A</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">correa</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Lazio</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/lazio.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Lazio</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-a">A</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">rebic</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Milan</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/milan.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Milan</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">11</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-pc">Pc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">belotti</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Torino</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/torino.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Torino</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">170</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-pc">Pc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">dzeko</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Roma</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/roma.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Roma</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">146</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-pc">Pc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">scamacca</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Genoa</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/genoa.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Genoa</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">8</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-pc">Pc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">vlahovic</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Fiorentina</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/fiorentina.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Fiorentina</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">19</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+                                            <tr class="no-results">
+                                                <td class="padding _finalizing-hidden _free-player-visible" colspan="6">
+                                                    <div class="alert alert-info">Nessun giocatore in rosa</div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                        <tfoot class="priced-visible flex-footer">
+                                            <tr>
+                                                <td class="padding cell-middle text-middle x4" colspan="4"><em>*
+                                                        calciatore non più in <span class="euro">EuroLega</span><span
+                                                            class="no-euro">Serie A</span></em></td>
+                                                <td class="text-right x4 cell-team-info">
+                                                    <div class="team-main-info full-width">702.0<i
+                                                            class="icon fg-fm"></i><small>Costo totale
+                                                            d'acquisto</small></div>
+                                                </td>
+                                                <td class="text-right x4 cell-team-info">
+                                                    <div class="team-main-info full-width">36.0<i
+                                                            class="icon fg-fm"></i><small>Anni Rimanenti</small>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </tfoot>
+                                    </table>
+                                </li>
+    
+                                <li class="list-rosters-item raised-2" data-id="583620"
+                                    data-display-none-after-hide="hidden">
+                                    <div class="no-padding flex-row">
+                                        <div class="media team-header team-header-sm flex-item-fill relative">
+                                            <div class="media-left">
+                                                <a href="#" class="team-crest"><img class="media-object crest circle"
+                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/squadra/583620_08026945.png"
+                                                        onerror="handleImageError(this, Settings.missingLogoSrc)">
+                                                </a>
+                                                <a href="#" class="team-shirt">
+                                                    <img class="media-object shirt circle"
+                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
+                                                        onerror="handleImageError(this, Settings.missingShirtSrc)">
+                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <h4 class="media-heading">Ozymandias</h4>
+                                                <h5>Pippo</h5>
+                                            </div>
+                                            <a class="left-heading-link btn btn-clear"
+                                                href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
+                                                Movimenti</a>
+                                        </div>
+                                        <div class="team-main-info"><small>Crediti residui</small>50
+                                            <i class="icon fg-fm"></i>
+                                        </div>
+                                    </div>
+                                    <table class="smart-table table-striped fixed table no-margin has-subheader"
+                                        id="rosterTable">
+                                        <thead>
+                                            <tr class="subheader">
+                                                <th data-key="role"
+                                                    class="sortable cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                                                    <span></span>
+                                                </th>
+                                                <th data-key="name" class="sortable cell-text cell-primary x6 smart-x4">
+                                                    <span>Calciatore</span>
+                                                </th>
+                                                <th data-key="nation"
+                                                    class="sortable cell-text cell-primary x0 euro-x1">
+                                                    <span></span>
+                                                </th>
+                                                <th data-key="team"
+                                                    class="sortable cell-text cell-primary x4 euro-x3 smart-x2">
+                                                    <span>Squadra</span>
+                                                </th>
+                                                <th data-key="price"
+                                                    class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                                                    <span data-toggle="tooltip"
+                                                        title="Quotazione d'acquisto">Q.acq.</span>
+                                                </th>
+                                                <th data-key="cost"
+                                                    class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                                                    <span data-toggle="tooltip" title="Quotazione attuale">Q.att.</span>
+                                                </th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-por">Por</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">buffon</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Juventus</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Juventus</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-por">Por</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">sepe</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Parma</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/parma.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Parma</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-por">Por</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">szczesny</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Juventus</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Juventus</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">59</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-ds">Ds</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">dalot</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Milan</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/milan.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Milan</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">5</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">de silvestri</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Bologna</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/bologna.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Bologna</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-dc">Dc</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">d'ambrosio</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Inter</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/inter.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Inter</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">5</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-dc">Dc</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">singo</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Torino</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/torino.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Torino</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">10</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-ds">Ds</span><span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">radu</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Lazio</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/lazio.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Lazio</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-ds">Ds</span><span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">samir</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Udinese</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/udinese.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Udinese</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-ds">Ds</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">alex sandro</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Juventus</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Juventus</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">17</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">dragusin</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Juventus</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Juventus</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">koulibaly</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Napoli</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/napoli.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Napoli</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">35</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">palomino</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Atalanta</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/atalanta.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Atalanta</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">8</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">romero</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Atalanta</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/atalanta.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Atalanta</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">5</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">marusic</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Lazio</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/lazio.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Lazio</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">2</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-m">M</span><span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">cristante</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Roma</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/roma.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Roma</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">5</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-m">M</span><span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">kessie'</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Milan</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/milan.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Milan</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">18</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-m">M</span><span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">mandragora</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Torino</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/torino.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Torino</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">5</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">bentancur</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Juventus</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Juventus</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-c">C</span><span Class="role role-t">T</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">zaccagni</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Verona</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/verona.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Verona</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">7</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-c">C</span><span Class="role role-w">W</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">jankto</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Sampdoria</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/sampdoria.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Sampdoria</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-w">W</span><span Class="role role-a">A</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">deulofeu</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Udinese</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/udinese.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Udinese</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">6</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-w">W</span><span Class="role role-t">T</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">diaz b.</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Milan</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/milan.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Milan</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">9</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-w">W</span><span Class="role role-t">T</span><span Class="role role-a">A</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">verdi</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Torino</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/torino.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Torino</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">3</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-t">T</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">saponara</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Spezia</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/spezia.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Spezia</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-t">T</span><span Class="role role-a">A</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">miranchuk</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Atalanta</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/atalanta.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Atalanta</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">10</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-a">A</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">barrow</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Bologna</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/bologna.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Bologna</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">16</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-a">A</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">sanchez</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Inter</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/inter.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Inter</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">30</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-pc">Pc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">lasagna</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Verona</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/verona.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Verona</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-pc">Pc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">ronaldo</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Juventus</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Juventus</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">240</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+                                            <tr class="no-results">
+                                                <td class="padding _finalizing-hidden _free-player-visible" colspan="6">
+                                                    <div class="alert alert-info">Nessun giocatore in rosa</div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                        <tfoot class="priced-visible flex-footer">
+                                            <tr>
+                                                <td class="padding cell-middle text-middle x4" colspan="4"><em>*
+                                                        calciatore non più in <span class="euro">EuroLega</span><span
+                                                            class="no-euro">Serie A</span></em></td>
+                                                <td class="text-right x4 cell-team-info">
+                                                    <div class="team-main-info full-width">505.0<i
+                                                            class="icon fg-fm"></i><small>Costo totale
+                                                            d'acquisto</small></div>
+                                                </td>
+                                                <td class="text-right x4 cell-team-info">
+                                                    <div class="team-main-info full-width">33.0<i
+                                                            class="icon fg-fm"></i><small>Anni Rimanenti</small>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </tfoot>
+                                    </table>
+                                </li>
+    
+                                <li class="list-rosters-item raised-2" data-id="583620"
+                                    data-display-none-after-hide="hidden">
+                                    <div class="no-padding flex-row">
+                                        <div class="media team-header team-header-sm flex-item-fill relative">
+                                            <div class="media-left">
+                                                <a href="#" class="team-crest"><img class="media-object crest circle"
+                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/squadra/583620_08026945.png"
+                                                        onerror="handleImageError(this, Settings.missingLogoSrc)">
+                                                </a>
+                                                <a href="#" class="team-shirt">
+                                                    <img class="media-object shirt circle"
+                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
+                                                        onerror="handleImageError(this, Settings.missingShirtSrc)">
+                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <h4 class="media-heading">Scemi e Buscemi</h4>
+                                                <h5>Ivan</h5>
+                                            </div>
+                                            <a class="left-heading-link btn btn-clear"
+                                                href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
+                                                Movimenti</a>
+                                        </div>
+                                        <div class="team-main-info"><small>Crediti residui</small>50
+                                            <i class="icon fg-fm"></i>
+                                        </div>
+                                    </div>
+                                    <table class="smart-table table-striped fixed table no-margin has-subheader"
+                                        id="rosterTable">
+                                        <thead>
+                                            <tr class="subheader">
+                                                <th data-key="role"
+                                                    class="sortable cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                                                    <span></span>
+                                                </th>
+                                                <th data-key="name" class="sortable cell-text cell-primary x6 smart-x4">
+                                                    <span>Calciatore</span>
+                                                </th>
+                                                <th data-key="nation"
+                                                    class="sortable cell-text cell-primary x0 euro-x1">
+                                                    <span></span>
+                                                </th>
+                                                <th data-key="team"
+                                                    class="sortable cell-text cell-primary x4 euro-x3 smart-x2">
+                                                    <span>Squadra</span>
+                                                </th>
+                                                <th data-key="price"
+                                                    class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                                                    <span data-toggle="tooltip"
+                                                        title="Quotazione d'acquisto">Q.acq.</span>
+                                                </th>
+                                                <th data-key="cost"
+                                                    class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                                                    <span data-toggle="tooltip" title="Quotazione attuale">Q.att.</span>
+                                                </th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-por">Por</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">cragno</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Cagliari</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/cagliari.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Cagliari</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">4</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-por">Por</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">musso</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Udinese</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/udinese.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Udinese</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">11</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-por">Por</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">perin</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Genoa</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/genoa.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Genoa</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-ds">Ds</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">darmian</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Inter</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/inter.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Inter</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-ds">Ds</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">young</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Inter</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/inter.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Inter</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">12</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">tomiyasu</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Bologna</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/bologna.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Bologna</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">4</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-ds">Ds</span><span Class="role role-dc">Dc</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">criscito</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Genoa</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/genoa.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Genoa</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">21</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-ds">Ds</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">bastoni s.</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Spezia</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/spezia.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Spezia</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">12</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-ds">Ds</span><span Class="role role-e">E</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">biraghi</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Fiorentina</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/fiorentina.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Fiorentina</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">3</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">acerbi</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Lazio</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/lazio.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Lazio</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">35</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">de ligt</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Juventus</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Juventus</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">38</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">djimsiti</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Atalanta</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/atalanta.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Atalanta</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-dc">Dc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">ferrari g.</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Sassuolo</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/sassuolo.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Sassuolo</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">3</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-m">M</span><span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">cyprien</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Parma</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/parma.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Parma</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">10</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-m">M</span><span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">tameze</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Verona</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/verona.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Verona</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">4</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">kucka</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Parma</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/parma.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Parma</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">10</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">lukic</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Torino</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/torino.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Torino</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">9</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">sensi</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Inter</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/inter.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Inter</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">11</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-c">C</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">veretout</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Roma</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/roma.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Roma</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">41</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-c">C</span><span Class="role role-t">T</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">ilic</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Verona</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/verona.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Verona</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">12</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-w">W</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">saelemaekers</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Milan</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/milan.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Milan</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">13</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-w">W</span><span Class="role role-t">T</span><span Class="role role-a">A</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">damsgaard</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Sampdoria</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/sampdoria.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Sampdoria</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-t">T</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">malinovskyi</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Atalanta</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/atalanta.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Atalanta</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">9</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-t">T</span><span Class="role role-a">A</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">kulusevski</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Juventus</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Juventus</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">7</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-a">A</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">boga</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Sassuolo</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/sassuolo.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Sassuolo</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">9</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-a">A</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">lozano</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Napoli</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/napoli.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Napoli</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">21</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">2</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-pc">Pc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">caicedo</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Lazio</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/lazio.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Lazio</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">1</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-pc">Pc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">caputo</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Sassuolo</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/sassuolo.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Sassuolo</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">7</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">0</b>
+                </td>
+            </tr>
+            
+            <tr data-id="387" class="">
+                <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                    <span>
+                    <span Class="role role-pc">Pc</span>
+                    </span>
+                </td>
+                <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+                    <b class="capitalize">immobile</b>
+                </td>
+                <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+                    <span class="nation-flag nation-ita">ita</span>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+                    <small class="uppercase">Lazio</small>
+                </td>
+                <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+                    <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/lazio.png"
+                        onerror="handleImageError(this, Settings.missingCrestSrc)" />
+                    <small class="ellipsis">Lazio</small>
+                </td>
+                <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-dark-blue">261</b>
+                </td>
+                <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                    <b class="text-blue2">1</b>
+                </td>
+            </tr>
+            
+                                            <tr class="no-results">
+                                                <td class="padding _finalizing-hidden _free-player-visible" colspan="6">
+                                                    <div class="alert alert-info">Nessun giocatore in rosa</div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                        <tfoot class="priced-visible flex-footer">
+                                            <tr>
+                                                <td class="padding cell-middle text-middle x4" colspan="4"><em>*
+                                                        calciatore non più in <span class="euro">EuroLega</span><span
+                                                            class="no-euro">Serie A</span></em></td>
+                                                <td class="text-right x4 cell-team-info">
+                                                    <div class="team-main-info full-width">572.0<i
+                                                            class="icon fg-fm"></i><small>Costo totale
+                                                            d'acquisto</small></div>
+                                                </td>
+                                                <td class="text-right x4 cell-team-info">
+                                                    <div class="team-main-info full-width">31.0<i
+                                                            class="icon fg-fm"></i><small>Anni Rimanenti</small>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </tfoot>
+                                    </table>
+                                </li>
+    
                                 <li class="no-current-competition-team">
 
 

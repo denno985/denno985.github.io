@@ -1,5 +1,5 @@
 
-
+<!DOCTYPE html>
 <!--Layout Interno-->
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="it-it"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="it-it"> <![endif]-->

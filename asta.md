@@ -1577,7 +1577,7 @@
                                                 href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
                                                 Movimenti</a>
                                         </div>
-                                        <div class="team-main-info"><small>Crediti residui</small>387
+                                        <div class="team-main-info"><small>Crediti residui</small>381
                                             <i class="icon fg-fm"></i>
                                         </div>
                                     </div>
@@ -2840,7 +2840,7 @@
                                                 href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
                                                 Movimenti</a>
                                         </div>
-                                        <div class="team-main-info"><small>Crediti residui</small>387
+                                        <div class="team-main-info"><small>Crediti residui</small>385
                                             <i class="icon fg-fm"></i>
                                         </div>
                                     </div>

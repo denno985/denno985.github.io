@@ -6838,7 +6838,7 @@
                                                 </a>
                                             </div>
                                             <div class="media-body">
-                                                <h4 class="media-heading">Ivan</h4>
+                                                <h4 class="media-heading">Fantacalcio for Dumfries</h4>
                                                 <h5>Ivan</h5>
                                             </div>
                                             <a class="left-heading-link btn btn-clear"

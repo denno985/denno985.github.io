@@ -454,7 +454,7 @@
                                                 href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
                                                 Movimenti</a>
                                         </div>
-                                        <div class="team-main-info"><small>Crediti residui</small>0
+                                        <div class="team-main-info"><small>Crediti residui</small>50
                                             <i class="icon fg-fm"></i>
                                         </div>
                                     </div>
@@ -1379,7 +1379,7 @@
                                                 href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
                                                 Movimenti</a>
                                         </div>
-                                        <div class="team-main-info"><small>Crediti residui</small>15
+                                        <div class="team-main-info"><small>Crediti residui</small>65
                                             <i class="icon fg-fm"></i>
                                         </div>
                                     </div>
@@ -2304,7 +2304,7 @@
                                                 href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
                                                 Movimenti</a>
                                         </div>
-                                        <div class="team-main-info"><small>Crediti residui</small>104
+                                        <div class="team-main-info"><small>Crediti residui</small>154
                                             <i class="icon fg-fm"></i>
                                         </div>
                                     </div>
@@ -3229,7 +3229,7 @@
                                                 href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
                                                 Movimenti</a>
                                         </div>
-                                        <div class="team-main-info"><small>Crediti residui</small>6
+                                        <div class="team-main-info"><small>Crediti residui</small>50
                                             <i class="icon fg-fm"></i>
                                         </div>
                                     </div>
@@ -4126,7 +4126,7 @@
                                                 href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
                                                 Movimenti</a>
                                         </div>
-                                        <div class="team-main-info"><small>Crediti residui</small>0
+                                        <div class="team-main-info"><small>Crediti residui</small>50
                                             <i class="icon fg-fm"></i>
                                         </div>
                                     </div>
@@ -5051,7 +5051,7 @@
                                                 href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
                                                 Movimenti</a>
                                         </div>
-                                        <div class="team-main-info"><small>Crediti residui</small>0
+                                        <div class="team-main-info"><small>Crediti residui</small>50
                                             <i class="icon fg-fm"></i>
                                         </div>
                                     </div>
@@ -5920,7 +5920,7 @@
                                                 href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
                                                 Movimenti</a>
                                         </div>
-                                        <div class="team-main-info"><small>Crediti residui</small>44
+                                        <div class="team-main-info"><small>Crediti residui</small>92
                                             <i class="icon fg-fm"></i>
                                         </div>
                                     </div>
@@ -5980,7 +5980,7 @@
             <b class="text-dark-blue">57</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -6008,7 +6008,7 @@
             <b class="text-dark-blue">0</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -6036,7 +6036,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -6092,7 +6092,7 @@
             <b class="text-dark-blue">10</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -6120,7 +6120,7 @@
             <b class="text-dark-blue">14</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -6148,7 +6148,7 @@
             <b class="text-dark-blue">4</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -6232,7 +6232,7 @@
             <b class="text-dark-blue">11</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -6344,7 +6344,7 @@
             <b class="text-dark-blue">17</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -6400,7 +6400,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -6484,7 +6484,7 @@
             <b class="text-dark-blue">10</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -6512,7 +6512,7 @@
             <b class="text-dark-blue">16</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -6568,7 +6568,7 @@
             <b class="text-dark-blue">8</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -6652,7 +6652,7 @@
             <b class="text-dark-blue">20</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -6680,7 +6680,7 @@
             <b class="text-dark-blue">15</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -6708,7 +6708,7 @@
             <b class="text-dark-blue">19</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -6736,7 +6736,7 @@
             <b class="text-dark-blue">8</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -6764,7 +6764,7 @@
             <b class="text-dark-blue">75</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -6792,7 +6792,7 @@
             <b class="text-dark-blue">57</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -6813,7 +6813,7 @@
                                                             d'acquisto</small></div>
                                                 </td>
                                                 <td class="text-right x4 cell-team-info">
-                                                    <div class="team-main-info full-width">48<i
+                                                    <div class="team-main-info full-width">5<i
                                                             class="icon fg-fm"></i><small>Anni Rimanenti</small>
                                                     </div>
                                                 </td>
@@ -6845,7 +6845,7 @@
                                                 href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
                                                 Movimenti</a>
                                         </div>
-                                        <div class="team-main-info"><small>Crediti residui</small>5
+                                        <div class="team-main-info"><small>Crediti residui</small>54
                                             <i class="icon fg-fm"></i>
                                         </div>
                                     </div>

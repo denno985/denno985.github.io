@@ -2,16 +2,9 @@
 
 
 <!DOCTYPE html>
-<!--Layout Interno-->
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="it-it"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="it-it"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9" lang="it-it"> <![endif]-->
-<!--[if gt IE 8]><!-->
+
 <html class="no-js" lang="it-it">
-<!--<![endif]-->
 <head>
-    <!-- LayoutInterno 2021 -->
-    <!-- Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) PROD -->
 <script type="text/javascript" async=true>
 	(function() {
 	  var host = window.location.hostname;
@@ -168,142 +161,7 @@
 	})();
 	</script>
 	<!-- End Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
-	
-	
-	
-	
 
-	
-	
-	
-	
-	
-	<!-- Quantcast Tag -->
-	<script type="text/javascript" async defer>
-	var _qevents = _qevents || [];
-	
-	(function() {
-	var elem = document.createElement('script');
-	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-	elem.async = true;
-	elem.type = "text/javascript";
-	var scpt = document.getElementsByTagName('script')[0];
-	scpt.parentNode.insertBefore(elem, scpt);
-	})();
-	
-	_qevents.push({
-	qacct:"p-Z3sQVQNy9sAbB",
-	uid:"a.clemente@quadronica.com"
-	});
-	</script>
-	
-	<noscript>
-	<div style="display:none;">
-	<img src="//pixel.quantserve.com/pixel/p-Z3sQVQNy9sAbB.gif" border="0" height="1" width="1" alt="Quantcast"/>
-	</div>
-	</noscript>
-	<!-- End Quantcast tag -->
-	
-	
-	
-	
-	
-	
-	
-	
-	  
-    <script src='https://www.googletagservices.com/tag/js/gpt.js'></script>
-<script>
-
-var GOOGLE_VENDOR_ID = 755;
-	var REPROMPT_DELAY = 1000 * 60 * 60 * 24; //24h
-
-    var __count = 0;
-    console.log(">>> START TIMING... PROD");
-    console.time('TIMING');
-
-    var googletag = googletag || {};
-    googletag.cmd = googletag.cmd || [];
-
-
-    console.log(++__count + ". SET GOOGLE TAG...");
-    googletag.cmd.push(function () {
-        googletag.defineSlot('/2913532/Leghe2016_MPU_BTF_ROS_Piemme', [[300, 600], [300, 250]], 'div-gpt-ad-1540304961874-0').addService(googletag.pubads());
-        googletag.pubads().enableSingleRequest();
-        googletag.pubads().disableInitialLoad();
-        googletag.enableServices();
-    })
-
-    console.log(++__count + ". LOADING TC DATA...");
-    console.timeLog('TIMING');
-    __tcfapi('addEventListener', 2, function (tcData, success) {
-        if (success && ['tcloaded', 'useractioncomplete'].includes(tcData.eventStatus)) {
-            console.log(++__count + ". CMP LOADED: REFRESH GOOGLE TAG...");
-            console.timeLog("TIMING");
-
-
-            googletag.pubads().refresh();
-
-if (tcData && tcData.vendor && tcData.vendor.consents && tcData.vendor.legitimateInterests) {
-                console.log("GOOGLE CONSENT: " + tcData.vendor.consents[GOOGLE_VENDOR_ID]);
-                console.log("GOOGLE LEG.INTERESTS: " + tcData.vendor.legitimateInterests[GOOGLE_VENDOR_ID]);
-                if (!tcData.vendor.consents[GOOGLE_VENDOR_ID] || !tcData.vendor.legitimateInterests[GOOGLE_VENDOR_ID]) {
-                    //REQUEST CONSENT
-
-var force = typeof(tcData.vendor.consents[GOOGLE_VENDOR_ID]) == "undefined" 
-                				|| typeof(tcData.vendor.legitimateInterests[GOOGLE_VENDOR_ID]) == "undefined"
-
-                    onVendorBlocked(force );
-                }
-            }
-
-            __tcfapi('removeEventListener', 2, () => { }, tcData.listenerId);
-
-        } else {
-            console.log("GOOGLE TAG WAITING... ", tcData)
-
-        }
-    });  
-
-
-function onVendorBlocked() {
-        try {
-            var lastRequestTimestamp = +localStorage.getItem('lastVendorRequestTimestamp');
-            var now = Date.now();
-            var force =  /clearRepromptHash=true/.test(location.search);
-            var delay = now - lastRequestTimestamp;
-            console.log("FORCE REPROMPT: " + force + " | delay: " + delay);
-            if (force || (delay > REPROMPT_DELAY)) {
-                localStorage.removeItem('_cmpRepromptHash');
-                localStorage.setItem('lastVendorRequestTimestamp', now);
-                if (lastRequestTimestamp > 0) __tcfapi('displayConsentUi', 2, function() {} )
-            } 
-        } catch(e) {
-            console.warn("onVendorBlocked - ERROR ", e);
-        }
-		
-	}
-</script>
-
-<!-- Facebook Pixel Code -->
-<script async defer>
-    !function (f, b, e, v, n, t, s) {
-        if (f.fbq) return; n = f.fbq = function () {
-            n.callMethod ?
-                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-        };
-        if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
-        n.queue = []; t = b.createElement(e); t.async = !0;
-        t.src = v; s = b.getElementsByTagName(e)[0];
-        s.parentNode.insertBefore(t, s)
-    }(window, document, 'script',
-        'https://connect.facebook.net/en_US/fbevents.js');
-    fbq('init', '1374640486166510');
-    fbq('track', 'PageView');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-        src="https://www.facebook.com/tr?id=1374640486166510&ev=PageView&noscript=1" /></noscript>
-<!-- End Facebook Pixel Code --> 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <!-- Disable Zooming (Chrome and Firefox) Chrome and Firefox on Android will not wait for 300ms if zooming has been disabled using the following viewport setting -->
@@ -352,73 +210,7 @@ function onVendorBlocked() {
     <link href="https://d2lhpso9w1g8dk.cloudfront.net/web/css/default/widgets.css?_v=130920211100" rel="stylesheet">
     <link href="https://d2lhpso9w1g8dk.cloudfront.net/web/css/default/leagues.min.css?_v=130920211100" rel="stylesheet">
     <script src="https://d2lhpso9w1g8dk.cloudfront.net/web/js/vanilla.js?_v=130920211100"></script>
-    <!-- START COMSCORE SCRIPT -->
-    <!-- COMSCORE TAG -->
-<script>
-
-	var COMSCORE_VENDOR_ID = 77
-	__tcfapi('getTCData', 2, (tcData, success) => {
-
-		if (success) {
-
-			console.log("COMSCORE: ON LOAD CMP...");
-            var _COMSCORE_TAGS = { c1: "2", c2: "6034891" };
-            if (tcData.eventStatus == "tcloaded") {
-                _COMSCORE_TAGS.cs_ucfr = tcData.vendor.consents[COMSCORE_VENDOR_ID] ? "1" : "0"
-            }
-
-			(function () {
-				var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-				s.src = "https://sb.scorecardresearch.com/cs/6034891/beacon.js";
-
-				s.onload = function () {
-					console.log("COMSCORE: SEND TAGS...");
-					self.COMSCORE && COMSCORE.beacon(_COMSCORE_TAGS);
-				}
-				console.log("COMSCORE: INIT...");
-				el.parentNode.insertBefore(s, el);
-			})();
-
-
-		} else {
-			console.warn("COMSCORE: ON FAIL CMP...");
-
-		}
-
-	}, [COMSCORE_VENDOR_ID]);
-
-
-</script>
-<noscript>
-	<img src="http://b.scorecardresearch.com/p?c1=2&c2=6034891&cv=3.6&cj=1" />
-</noscript>
-<!-- END COMSCORE TAG -->
-
-
-
-  
-    <!-- END COMSCORE SCRIPT -->
-        <script id="serverBridge">
-        var data = {
-            jsVer: "130920211100",
-            webBaseUrl: "https://leghe.fantacalcio.it/",
-            authAppKey: "4ab27d6de1e92c810c6d4efc8607065a735b917f",
-            fbid: "276105532435709",
-            gameType: +"0",
-            gameTip: "Lega",
-            lastMatchday: +"38",
-            imgBaseUrl: "https://d2lhpso9w1g8dk.cloudfront.net/web/img/",
-            shirtsBaseUrl: "https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta_2021/",
-            crestsBaseUrl: "https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/squadra_2021/",
-            logosBaseUrl: "https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/lega_2021/",
-            playerCardsBaseUrl: "https://content.fantacalcio.it/web/campioncini/card/",
-            playerCampioncinoBaseUrl: "https://content.fantacalcio.it/web/campioncini/small/"
-        };
-        __.s('sd', data);
-        __.s('u', __.dp("eyJzdGF0ZSI6MTYzMTUzMDY5MTI3Niwic3VjY2VzcyI6dHJ1ZSwiZGF0YSI6eyJ1dGVudGUiOnsic29jaWFsIjpbXSwiaWQiOjM1OTcsInVzZXJuYW1lIjoiYmFkYW5pZWxlIiwiZW1haWwiOiJkLnZhZHJ1Y2Npb0BnbWFpbC5jb20iLCJjb25mZXJtYXRvIjoxLCJtYXJrZXRpbmciOjEsInV0ZW50ZV90b2tlbiI6IkI1RTgwN0U3OUFEN0QzQkU2MURCQzhERkMzQ0FFNjlEMzM3NTNBRDVDRkFDQkFEM0M1NUE4QTNDNEFBNTAzQUE1RjFDN0YxMDBCRTVENEQ1NURERTBCQ0ZEMUFBQzg3MUJGRUNCMEVCMjVBRERFNTFBRDUzNUQzRDkzNTQyNjU4MzZCQjc1RkVERkZCMzM1QjEwNzg5QTVBREE3RjZCRUEwODFDQzJCMTIyNkI2QTAyMkI0M0Y3QTc1NjM4OEJBMDRFRDc3RkU5NDQ1OUQyRkJDMzFCOThDNkE1Qzc4RTQ3Mjc0QkFBRTNFQjQzRUE0NENGRkEzRUVFQjM3REU4NzI3QTlCRjdCRUEyRjU2OEUzRjQyMjNBRjkwQzE2QzUyNzdGODhBNDJDMjE3MjBEN0MwMDQyRTcxNzM4RUNDNDgyIiwic3F1YWRyYSI6IiIsInByb3ZpbmNpYSI6IkJBIiwibmFzY2l0YSI6IjE5ODUiLCJkYXRhX2MiOiIyMDA5LTA2LTE3VDEyOjQ0OjM3IiwiZGF0YV9tIjoiMjAxOC0wNy0xMVQxMjoxODoxMyIsInJlZ2FsbyI6MH0sImFjcXVpc3RvIjpudWxsLCJsZWdoZSI6W3siaWQiOjE0Nzk1Mywibm9tZSI6IkxlZ2EgQm9iaWNhIiwiYWxpYXMiOiJsZWdhLWJvYmljYSIsIm9yZGluZSI6MSwib3JkaW5lX2NvbXAiOiIzMzM5ODg7MzMzOTQ3OzMzOTM0MCIsInZpc2liaWxlIjp0cnVlLCJsaW5rIjoiaHR0cHM6Ly9sZWdoZS5mYW50YWNhbGNpby5pdC9sZWdhLWJvYmljYSIsInRpcG9fbGVnYSI6MCwibG9nbyI6Im5vX2xvZ28ucG5nIn1dfSwiZXJyb3JfbXNncyI6bnVsbCwidG9rZW4iOiIiLCJ1cGRhdGUiOnRydWV9"));
-        __.X('serverBridge');
-    </script>
- 
+    
         <script>
         var data = {
             

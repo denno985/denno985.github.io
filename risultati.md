@@ -1,14 +1,4 @@
 <table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>squadra1</th>
-      <th>squadra2</th>
-      <th>punti1</th>
-      <th>punti2</th>
-      <th>gol1</th>
-      <th>gol2</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td>CS Cannabis Street</td>

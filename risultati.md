@@ -493,34 +493,34 @@
     <tr>
       <td>CS Cannabis Street</td>
       <td>Piove sul Bagnato</td>
-      <td>66.5</td>
-      <td>77.5</td>
-      <td>1</td>
-      <td>2</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Il Diritto di Riscatto</td>
       <td>USS Torquemada</td>
-      <td>75.0</td>
-      <td>73.5</td>
-      <td>2</td>
-      <td>2</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Ans Rei Sport Verein</td>
       <td>Sic Mundus</td>
-      <td>81.5</td>
-      <td>67.5</td>
-      <td>3</td>
-      <td>1</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Fantacalcio for Dumfries</td>
       <td>Docklands United Football Club</td>
-      <td>71.0</td>
-      <td>71.0</td>
-      <td>1</td>
-      <td>1</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>16a giornata</th><table border="1" class="dataframe">
@@ -528,33 +528,33 @@
     <tr>
       <td>Piove sul Bagnato</td>
       <td>Fantacalcio for Dumfries</td>
-      <td>59.0</td>
-      <td>76.5</td>
+      <td>0.0</td>
+      <td>0.0</td>
       <td>0</td>
-      <td>2</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Docklands United Football Club</td>
       <td>Ans Rei Sport Verein</td>
-      <td>76.0</td>
-      <td>86.5</td>
-      <td>2</td>
-      <td>4</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Sic Mundus</td>
       <td>Il Diritto di Riscatto</td>
-      <td>77.0</td>
-      <td>75.5</td>
-      <td>2</td>
-      <td>2</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>USS Torquemada</td>
       <td>CS Cannabis Street</td>
-      <td>69.5</td>
-      <td>61.0</td>
-      <td>1</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
       <td>0</td>
     </tr>
   </tbody>
@@ -563,34 +563,34 @@
     <tr>
       <td>Il Diritto di Riscatto</td>
       <td>Docklands United Football Club</td>
-      <td>77.0</td>
-      <td>69.0</td>
-      <td>2</td>
-      <td>1</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Ans Rei Sport Verein</td>
       <td>Piove sul Bagnato</td>
-      <td>73.0</td>
-      <td>60.5</td>
-      <td>2</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
       <td>0</td>
     </tr>
     <tr>
       <td>Fantacalcio for Dumfries</td>
       <td>CS Cannabis Street</td>
-      <td>70.5</td>
-      <td>79.5</td>
-      <td>1</td>
-      <td>3</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Sic Mundus</td>
       <td>USS Torquemada</td>
-      <td>71.0</td>
-      <td>76.5</td>
-      <td>1</td>
-      <td>2</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>18a giornata</th><table border="1" class="dataframe">
@@ -738,34 +738,34 @@
     <tr>
       <td>CS Cannabis Street</td>
       <td>Piove sul Bagnato</td>
-      <td>66.5</td>
-      <td>77.5</td>
-      <td>1</td>
-      <td>2</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Il Diritto di Riscatto</td>
       <td>USS Torquemada</td>
-      <td>75.0</td>
-      <td>73.5</td>
-      <td>2</td>
-      <td>2</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Ans Rei Sport Verein</td>
       <td>Sic Mundus</td>
-      <td>81.5</td>
-      <td>67.5</td>
-      <td>3</td>
-      <td>1</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Fantacalcio for Dumfries</td>
       <td>Docklands United Football Club</td>
-      <td>71.0</td>
-      <td>71.0</td>
-      <td>1</td>
-      <td>1</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>23a giornata</th><table border="1" class="dataframe">
@@ -773,33 +773,33 @@
     <tr>
       <td>Piove sul Bagnato</td>
       <td>Fantacalcio for Dumfries</td>
-      <td>59.0</td>
-      <td>76.5</td>
+      <td>0.0</td>
+      <td>0.0</td>
       <td>0</td>
-      <td>2</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Docklands United Football Club</td>
       <td>Ans Rei Sport Verein</td>
-      <td>76.0</td>
-      <td>86.5</td>
-      <td>2</td>
-      <td>4</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Sic Mundus</td>
       <td>Il Diritto di Riscatto</td>
-      <td>77.0</td>
-      <td>75.5</td>
-      <td>2</td>
-      <td>2</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>USS Torquemada</td>
       <td>CS Cannabis Street</td>
-      <td>69.5</td>
-      <td>61.0</td>
-      <td>1</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
       <td>0</td>
     </tr>
   </tbody>
@@ -808,34 +808,34 @@
     <tr>
       <td>Il Diritto di Riscatto</td>
       <td>Docklands United Football Club</td>
-      <td>77.0</td>
-      <td>69.0</td>
-      <td>2</td>
-      <td>1</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Ans Rei Sport Verein</td>
       <td>Piove sul Bagnato</td>
-      <td>73.0</td>
-      <td>60.5</td>
-      <td>2</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
       <td>0</td>
     </tr>
     <tr>
       <td>Fantacalcio for Dumfries</td>
       <td>CS Cannabis Street</td>
-      <td>70.5</td>
-      <td>79.5</td>
-      <td>1</td>
-      <td>3</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Sic Mundus</td>
       <td>USS Torquemada</td>
-      <td>71.0</td>
-      <td>76.5</td>
-      <td>1</td>
-      <td>2</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>25a giornata</th><table border="1" class="dataframe">
@@ -983,34 +983,34 @@
     <tr>
       <td>CS Cannabis Street</td>
       <td>Piove sul Bagnato</td>
-      <td>66.5</td>
-      <td>77.5</td>
-      <td>1</td>
-      <td>2</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Il Diritto di Riscatto</td>
       <td>USS Torquemada</td>
-      <td>75.0</td>
-      <td>73.5</td>
-      <td>2</td>
-      <td>2</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Ans Rei Sport Verein</td>
       <td>Sic Mundus</td>
-      <td>81.5</td>
-      <td>67.5</td>
-      <td>3</td>
-      <td>1</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Fantacalcio for Dumfries</td>
       <td>Docklands United Football Club</td>
-      <td>71.0</td>
-      <td>71.0</td>
-      <td>1</td>
-      <td>1</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>30a giornata</th><table border="1" class="dataframe">
@@ -1018,33 +1018,33 @@
     <tr>
       <td>Piove sul Bagnato</td>
       <td>Fantacalcio for Dumfries</td>
-      <td>59.0</td>
-      <td>76.5</td>
+      <td>0.0</td>
+      <td>0.0</td>
       <td>0</td>
-      <td>2</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Docklands United Football Club</td>
       <td>Ans Rei Sport Verein</td>
-      <td>76.0</td>
-      <td>86.5</td>
-      <td>2</td>
-      <td>4</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Sic Mundus</td>
       <td>Il Diritto di Riscatto</td>
-      <td>77.0</td>
-      <td>75.5</td>
-      <td>2</td>
-      <td>2</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>USS Torquemada</td>
       <td>CS Cannabis Street</td>
-      <td>69.5</td>
-      <td>61.0</td>
-      <td>1</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
       <td>0</td>
     </tr>
   </tbody>
@@ -1053,34 +1053,34 @@
     <tr>
       <td>Il Diritto di Riscatto</td>
       <td>Docklands United Football Club</td>
-      <td>77.0</td>
-      <td>69.0</td>
-      <td>2</td>
-      <td>1</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Ans Rei Sport Verein</td>
       <td>Piove sul Bagnato</td>
-      <td>73.0</td>
-      <td>60.5</td>
-      <td>2</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
       <td>0</td>
     </tr>
     <tr>
       <td>Fantacalcio for Dumfries</td>
       <td>CS Cannabis Street</td>
-      <td>70.5</td>
-      <td>79.5</td>
-      <td>1</td>
-      <td>3</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Sic Mundus</td>
       <td>USS Torquemada</td>
-      <td>71.0</td>
-      <td>76.5</td>
-      <td>1</td>
-      <td>2</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>32a giornata</th><table border="1" class="dataframe">

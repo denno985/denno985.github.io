@@ -1,4 +1,4 @@
-1a giornata<table border="1" class="dataframe">
+<th>1a giornata</th><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>CS Cannabis Street</td>

@@ -1,4 +1,4 @@
-<th>1a giornata</th><table border="1" class="dataframe">
+<li><a href="https://denno985.github.io/giornate/1" class="active">1a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>CS Cannabis Street</td>
@@ -33,7 +33,7 @@
       <td>1</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>2a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/2" class="active">2a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>Piove sul Bagnato</td>
@@ -68,7 +68,7 @@
       <td>0</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>3a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/3" class="active">3a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>Il Diritto di Riscatto</td>
@@ -103,7 +103,7 @@
       <td>2</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>4a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/4" class="active">4a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>CS Cannabis Street</td>
@@ -138,7 +138,7 @@
       <td>3</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>5a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/5" class="active">5a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>Il Diritto di Riscatto</td>
@@ -173,7 +173,7 @@
       <td>0</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>6a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/6" class="active">6a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>CS Cannabis Street</td>
@@ -208,7 +208,7 @@
       <td>3</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>7a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/7" class="active">7a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>Il Diritto di Riscatto</td>
@@ -243,7 +243,7 @@
       <td>2</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>8a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/8" class="active">8a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>CS Cannabis Street</td>
@@ -278,7 +278,7 @@
       <td>1</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>9a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/9" class="active">9a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>Piove sul Bagnato</td>
@@ -313,7 +313,7 @@
       <td>0</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>10a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/10" class="active">10a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>Il Diritto di Riscatto</td>
@@ -348,7 +348,7 @@
       <td>2</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>11a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/11" class="active">11a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>CS Cannabis Street</td>
@@ -383,7 +383,7 @@
       <td>0</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>12a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/12" class="active">12a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>Il Diritto di Riscatto</td>
@@ -418,7 +418,7 @@
       <td>0</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>13a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/13" class="active">13a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>CS Cannabis Street</td>
@@ -453,7 +453,7 @@
       <td>0</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>14a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/14" class="active">14a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>Il Diritto di Riscatto</td>
@@ -488,7 +488,7 @@
       <td>0</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>15a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/15" class="active">15a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>CS Cannabis Street</td>
@@ -523,7 +523,7 @@
       <td>0</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>16a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/16" class="active">16a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>Piove sul Bagnato</td>
@@ -558,7 +558,7 @@
       <td>0</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>17a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/17" class="active">17a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>Il Diritto di Riscatto</td>
@@ -593,7 +593,7 @@
       <td>0</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>18a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/18" class="active">18a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>CS Cannabis Street</td>
@@ -628,7 +628,7 @@
       <td>0</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>19a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/19" class="active">19a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>Il Diritto di Riscatto</td>
@@ -663,7 +663,7 @@
       <td>0</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>20a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/20" class="active">20a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>CS Cannabis Street</td>
@@ -698,7 +698,7 @@
       <td>0</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>21a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/21" class="active">21a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>Il Diritto di Riscatto</td>
@@ -733,7 +733,7 @@
       <td>0</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>22a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/22" class="active">22a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>CS Cannabis Street</td>
@@ -768,7 +768,7 @@
       <td>0</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>23a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/23" class="active">23a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>Piove sul Bagnato</td>
@@ -803,7 +803,7 @@
       <td>0</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>24a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/24" class="active">24a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>Il Diritto di Riscatto</td>
@@ -838,7 +838,7 @@
       <td>0</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>25a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/25" class="active">25a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>CS Cannabis Street</td>
@@ -873,7 +873,7 @@
       <td>0</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>26a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/26" class="active">26a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>Il Diritto di Riscatto</td>
@@ -908,7 +908,7 @@
       <td>0</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>27a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/27" class="active">27a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>CS Cannabis Street</td>
@@ -943,7 +943,7 @@
       <td>0</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>28a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/28" class="active">28a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>Il Diritto di Riscatto</td>
@@ -978,7 +978,7 @@
       <td>0</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>29a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/29" class="active">29a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>CS Cannabis Street</td>
@@ -1013,7 +1013,7 @@
       <td>0</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>30a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/30" class="active">30a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>Piove sul Bagnato</td>
@@ -1048,7 +1048,7 @@
       <td>0</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>31a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/31" class="active">31a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>Il Diritto di Riscatto</td>
@@ -1083,7 +1083,7 @@
       <td>0</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>32a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/32" class="active">32a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>CS Cannabis Street</td>
@@ -1118,7 +1118,7 @@
       <td>0</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>33a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/33" class="active">33a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>Il Diritto di Riscatto</td>
@@ -1153,7 +1153,7 @@
       <td>0</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>34a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/34" class="active">34a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>CS Cannabis Street</td>
@@ -1188,7 +1188,7 @@
       <td>0</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>35a giornata</th><table border="1" class="dataframe">
+</table><th><br/></th><li><a href="https://denno985.github.io/giornate/35" class="active">35a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>Il Diritto di Riscatto</td>

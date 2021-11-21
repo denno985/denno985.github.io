@@ -2,7 +2,7 @@
   <tbody>
     <tr>
       <td>1a giornata</td>
-      <td>NaN</td>
+      <td></td>
       <td>Pti</td>
       <td>Pti</td>
       <td>Gol</td>
@@ -38,7 +38,7 @@
     </tr>
     <tr>
       <td>2a giornata</td>
-      <td>NaN</td>
+      <td></td>
       <td>Pti</td>
       <td>Pti</td>
       <td>Gol</td>
@@ -74,7 +74,7 @@
     </tr>
     <tr>
       <td>3a giornata</td>
-      <td>NaN</td>
+      <td></td>
       <td>Pti</td>
       <td>Pti</td>
       <td>Gol</td>
@@ -188,7 +188,7 @@
   <tbody>
     <tr>
       <td>1a giornata</td>
-      <td>NaN</td>
+      <td></td>
       <td>Pti</td>
       <td>Pti</td>
       <td>Gol</td>
@@ -224,7 +224,7 @@
     </tr>
     <tr>
       <td>2a giornata</td>
-      <td>NaN</td>
+      <td></td>
       <td>Pti</td>
       <td>Pti</td>
       <td>Gol</td>
@@ -260,7 +260,7 @@
     </tr>
     <tr>
       <td>3a giornata</td>
-      <td>NaN</td>
+      <td></td>
       <td>Pti</td>
       <td>Pti</td>
       <td>Gol</td>

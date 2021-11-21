@@ -123,7 +123,7 @@
 </table><th><br/></th><th>Classifica a punti</th><table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th>Classifica a punti</th>
+      <th>Squadra</th>
       <th>punti</th>
     </tr>
   </thead>
@@ -164,7 +164,7 @@
 </table><th><br/></th><th>Classifica Sprint</th><table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th>Classifica Sprint</th>
+      <th>Squadra</th>
       <th>punti</th>
     </tr>
   </thead>
@@ -205,7 +205,7 @@
 </table><th><br/></th><th>Classifica Scalatore</th><table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th>Classifica Scalatore</th>
+      <th>Squadra</th>
       <th>punti</th>
     </tr>
   </thead>

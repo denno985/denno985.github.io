@@ -133,32 +133,32 @@
       <td>757.5</td>
     </tr>
     <tr>
-      <td>Sic Mundus</td>
-      <td>745</td>
-    </tr>
-    <tr>
-      <td>USS Torquemada</td>
-      <td>715</td>
-    </tr>
-    <tr>
       <td>Il Diritto di Riscatto</td>
       <td>757</td>
+    </tr>
+    <tr>
+      <td>Sic Mundus</td>
+      <td>745</td>
     </tr>
     <tr>
       <td>Docklands United Football Club</td>
       <td>741.5</td>
     </tr>
     <tr>
-      <td>CS Cannabis Street</td>
-      <td>692</td>
+      <td>Fantacalcio for Dumfries</td>
+      <td>724.5</td>
+    </tr>
+    <tr>
+      <td>USS Torquemada</td>
+      <td>715</td>
     </tr>
     <tr>
       <td>Piove sul Bagnato</td>
       <td>702</td>
     </tr>
     <tr>
-      <td>Fantacalcio for Dumfries</td>
-      <td>724.5</td>
+      <td>CS Cannabis Street</td>
+      <td>692</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Classifica Sprint</th><table border="1" class="dataframe">

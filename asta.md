@@ -1379,7 +1379,7 @@
                                                 href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
                                                 Movimenti</a>
                                         </div>
-                                        <div class="team-main-info"><small>Crediti residui</small>45
+                                        <div class="team-main-info"><small>Crediti residui</small>35
                                             <i class="icon fg-fm"></i>
                                         </div>
                                     </div>
@@ -3229,7 +3229,7 @@
                                                 href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
                                                 Movimenti</a>
                                         </div>
-                                        <div class="team-main-info"><small>Crediti residui</small>32
+                                        <div class="team-main-info"><small>Crediti residui</small>22
                                             <i class="icon fg-fm"></i>
                                         </div>
                                     </div>
@@ -5164,7 +5164,7 @@
                                                 href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
                                                 Movimenti</a>
                                         </div>
-                                        <div class="team-main-info"><small>Crediti residui</small>74
+                                        <div class="team-main-info"><small>Crediti residui</small>65
                                             <i class="icon fg-fm"></i>
                                         </div>
                                     </div>
@@ -6089,7 +6089,7 @@
                                                 href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
                                                 Movimenti</a>
                                         </div>
-                                        <div class="team-main-info"><small>Crediti residui</small>36
+                                        <div class="team-main-info"><small>Crediti residui</small>31
                                             <i class="icon fg-fm"></i>
                                         </div>
                                     </div>

@@ -423,34 +423,34 @@
     <tr>
       <td>CS Cannabis Street</td>
       <td>Sic Mundus</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>68.0</td>
+      <td>79.5</td>
+      <td>1</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>Piove sul Bagnato</td>
       <td>Docklands United Football Club</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>60.5</td>
+      <td>65.5</td>
       <td>0</td>
       <td>0</td>
     </tr>
     <tr>
       <td>Ans Rei Sport Verein</td>
       <td>USS Torquemada</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>79.5</td>
+      <td>74.5</td>
+      <td>3</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Fantacalcio for Dumfries</td>
       <td>Il Diritto Di Riscatto</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>81.0</td>
+      <td>86.0</td>
+      <td>3</td>
+      <td>4</td>
     </tr>
   </tbody>
 </table><th><br/></th><li><a href="https://denno985.github.io/giornate/14" class="active">14a giornata</a></li><table border="1" class="dataframe">

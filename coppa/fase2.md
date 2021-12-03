@@ -385,9 +385,9 @@
     <tr>
       <td>CS Cannabis Street</td>
       <td>Piove sul Bagnato</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>68</td>
+      <td>60.5</td>
+      <td>1</td>
       <td>0</td>
       <td></td>
       <td></td>

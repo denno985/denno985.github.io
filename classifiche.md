@@ -1,4 +1,4 @@
-<th>Classifica Generale</th><table border="1" class="dataframe">
+<style>th{background-color: rgb(42, 87, 235);color: white;}</style><th>Classifica Generale</th><table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>

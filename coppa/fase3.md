@@ -1,4 +1,4 @@
-<th>Calendario girone A</th><table border="1" class="dataframe">
+<head><link rel="stylesheet" type="text/css" href="example.css" media=”screen” /></head><th>Calendario girone A</th><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>1a giornata</td>

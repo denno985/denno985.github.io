@@ -1,4 +1,4 @@
-<th>Classifica Genarale</th><table border="1" class="dataframe">
+<th>Classifica Generale</th><table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
@@ -132,40 +132,49 @@
 </table><th><br/></th><th>Classifica a punti</th><table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
+      <th></th>
       <th>Squadra</th>
-      <th>punti</th>
+      <th>Punti</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <th>1</th>
       <td>Il Diritto Di Riscatto</td>
       <td>998</td>
     </tr>
     <tr>
+      <th>2</th>
       <td>Ans Rei Sport Verein</td>
       <td>983.5</td>
     </tr>
     <tr>
+      <th>3</th>
       <td>Docklands United Football Club</td>
       <td>968.5</td>
     </tr>
     <tr>
+      <th>4</th>
       <td>Sic Mundus</td>
       <td>947</td>
     </tr>
     <tr>
+      <th>5</th>
       <td>USS Torquemada</td>
       <td>944</td>
     </tr>
     <tr>
+      <th>6</th>
       <td>Fantacalcio for Dumfries</td>
       <td>941.5</td>
     </tr>
     <tr>
+      <th>7</th>
       <td>Piove sul Bagnato</td>
       <td>896.5</td>
     </tr>
     <tr>
+      <th>8</th>
       <td>CS Cannabis Street</td>
       <td>889.5</td>
     </tr>
@@ -173,40 +182,49 @@
 </table><th><br/></th><th>Classifica Sprint</th><table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
+      <th></th>
       <th>Squadra</th>
-      <th>punti</th>
+      <th>Punti</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <th>1</th>
       <td>Ans Rei Sport Verein</td>
       <td>4</td>
     </tr>
     <tr>
+      <th>2</th>
       <td>Sic Mundus</td>
       <td>3</td>
     </tr>
     <tr>
+      <th>3</th>
       <td>Il Diritto Di Riscatto</td>
       <td>3</td>
     </tr>
     <tr>
+      <th>4</th>
       <td>Piove sul Bagnato</td>
       <td>1</td>
     </tr>
     <tr>
+      <th>5</th>
       <td>CS Cannabis Street</td>
       <td>1</td>
     </tr>
     <tr>
+      <th>6</th>
       <td>Docklands United Football Club</td>
       <td>1</td>
     </tr>
     <tr>
+      <th>7</th>
       <td>USS Torquemada</td>
       <td>1</td>
     </tr>
     <tr>
+      <th>8</th>
       <td>Fantacalcio for Dumfries</td>
       <td>0</td>
     </tr>
@@ -214,40 +232,49 @@
 </table><th><br/></th><th>Classifica Scalatore</th><table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
+      <th></th>
       <th>Squadra</th>
-      <th>punti</th>
+      <th>Punti</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <th>1</th>
       <td>Il Diritto Di Riscatto</td>
       <td>11</td>
     </tr>
     <tr>
+      <th>2</th>
       <td>Ans Rei Sport Verein</td>
       <td>7</td>
     </tr>
     <tr>
+      <th>3</th>
       <td>Sic Mundus</td>
       <td>6</td>
     </tr>
     <tr>
+      <th>4</th>
       <td>Docklands United Football Club</td>
       <td>6</td>
     </tr>
     <tr>
+      <th>5</th>
       <td>USS Torquemada</td>
       <td>6</td>
     </tr>
     <tr>
+      <th>6</th>
       <td>Piove sul Bagnato</td>
       <td>0</td>
     </tr>
     <tr>
+      <th>7</th>
       <td>Fantacalcio for Dumfries</td>
       <td>0</td>
     </tr>
     <tr>
+      <th>8</th>
       <td>CS Cannabis Street</td>
       <td>0</td>
     </tr>

@@ -128,7 +128,7 @@
   </thead>
   <tbody>
     <tr>
-      <th>16</th>
+      <th>1</th>
       <td>Il Diritto Di Riscatto</td>
       <td>0</td>
       <td>0</td>
@@ -142,7 +142,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <th>17</th>
+      <th>2</th>
       <td>Ans Rei Sport Verein</td>
       <td>0</td>
       <td>0</td>
@@ -156,7 +156,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <th>18</th>
+      <th>3</th>
       <td>Docklands United Football Club</td>
       <td>0</td>
       <td>0</td>
@@ -300,7 +300,7 @@
   </thead>
   <tbody>
     <tr>
-      <th>-1</th>
+      <th>1</th>
       <td>USS Torquemada</td>
       <td>0</td>
       <td>0</td>
@@ -314,7 +314,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <th>0</th>
+      <th>2</th>
       <td>CS Cannabis Street</td>
       <td>0</td>
       <td>0</td>
@@ -328,7 +328,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <th>1</th>
+      <th>3</th>
       <td>Fantacalcio for Dumfries</td>
       <td>0</td>
       <td>0</td>

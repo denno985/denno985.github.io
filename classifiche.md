@@ -862,4 +862,135 @@
       <td>0</td>
     </tr>
   </tbody>
+</table><th><br/></th><th>Classifica 2° girone</th><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Squadra</th>
+      <th>Punti</th>
+      <th>Giocate</th>
+      <th>Vinte</th>
+      <th>Nulle</th>
+      <th>Perse</th>
+      <th>Gol fatti</th>
+      <th>Gol subiti</th>
+      <th>Diff. Reti</th>
+      <th>Punti tot.</th>
+      <th>Media pti</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>76</th>
+      <td>Ans Rei Sport Verein</td>
+      <td>18</td>
+      <td>6</td>
+      <td>6</td>
+      <td>0</td>
+      <td>0</td>
+      <td>16</td>
+      <td>6</td>
+      <td>10</td>
+      <td>467</td>
+      <td>77.83</td>
+    </tr>
+    <tr>
+      <th>78</th>
+      <td>Il Diritto Di Riscatto</td>
+      <td>14</td>
+      <td>6</td>
+      <td>4</td>
+      <td>2</td>
+      <td>0</td>
+      <td>15</td>
+      <td>9</td>
+      <td>6</td>
+      <td>468.5</td>
+      <td>78.08</td>
+    </tr>
+    <tr>
+      <th>77</th>
+      <td>USS Torquemada</td>
+      <td>13</td>
+      <td>6</td>
+      <td>4</td>
+      <td>1</td>
+      <td>1</td>
+      <td>12</td>
+      <td>9</td>
+      <td>3</td>
+      <td>448.5</td>
+      <td>74.75</td>
+    </tr>
+    <tr>
+      <th>81</th>
+      <td>Piove sul Bagnato</td>
+      <td>7</td>
+      <td>6</td>
+      <td>2</td>
+      <td>1</td>
+      <td>3</td>
+      <td>4</td>
+      <td>9</td>
+      <td>-5</td>
+      <td>391.5</td>
+      <td>65.25</td>
+    </tr>
+    <tr>
+      <th>80</th>
+      <td>Docklands United Football Club</td>
+      <td>5</td>
+      <td>6</td>
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
+      <td>10</td>
+      <td>9</td>
+      <td>1</td>
+      <td>443</td>
+      <td>73.83</td>
+    </tr>
+    <tr>
+      <th>79</th>
+      <td>Fantacalcio for Dumfries</td>
+      <td>4</td>
+      <td>6</td>
+      <td>1</td>
+      <td>1</td>
+      <td>4</td>
+      <td>9</td>
+      <td>13</td>
+      <td>-4</td>
+      <td>435</td>
+      <td>72.50</td>
+    </tr>
+    <tr>
+      <th>83</th>
+      <td>Sic Mundus</td>
+      <td>4</td>
+      <td>6</td>
+      <td>1</td>
+      <td>1</td>
+      <td>4</td>
+      <td>7</td>
+      <td>14</td>
+      <td>-7</td>
+      <td>417.5</td>
+      <td>69.58</td>
+    </tr>
+    <tr>
+      <th>82</th>
+      <td>CS Cannabis Street</td>
+      <td>3</td>
+      <td>6</td>
+      <td>1</td>
+      <td>0</td>
+      <td>5</td>
+      <td>6</td>
+      <td>10</td>
+      <td>-4</td>
+      <td>404.5</td>
+      <td>67.42</td>
+    </tr>
+  </tbody>
 </table><th><br/></th>

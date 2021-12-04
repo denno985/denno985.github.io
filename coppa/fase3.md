@@ -1,4 +1,4 @@
-<style>th{color:red;}</style><th>Calendario girone A</th><table border="1" class="dataframe">
+<style>th{background-color: rgb(42, 87, 235);color: white;}</style><th>Calendario girone A</th><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>1a giornata</td>

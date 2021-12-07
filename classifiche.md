@@ -28,7 +28,7 @@
       <td>19</td>
       <td>11</td>
       <td>1059.5</td>
-      <td>75.678571</td>
+      <td>75.68</td>
     </tr>
     <tr>
       <th>2</th>
@@ -42,7 +42,7 @@
       <td>24</td>
       <td>8</td>
       <td>1071</td>
-      <td>76.5</td>
+      <td>76.50</td>
     </tr>
     <tr>
       <th>3</th>
@@ -56,7 +56,7 @@
       <td>23</td>
       <td>-3</td>
       <td>1007.5</td>
-      <td>71.964286</td>
+      <td>71.96</td>
     </tr>
     <tr>
       <th>4</th>
@@ -70,7 +70,7 @@
       <td>28</td>
       <td>-2</td>
       <td>1026.5</td>
-      <td>73.321429</td>
+      <td>73.32</td>
     </tr>
     <tr>
       <th>5</th>
@@ -84,7 +84,7 @@
       <td>23</td>
       <td>3</td>
       <td>1045.5</td>
-      <td>74.678571</td>
+      <td>74.68</td>
     </tr>
     <tr>
       <th>6</th>
@@ -98,7 +98,7 @@
       <td>22</td>
       <td>-5</td>
       <td>972.5</td>
-      <td>69.464286</td>
+      <td>69.46</td>
     </tr>
     <tr>
       <th>7</th>
@@ -126,7 +126,7 @@
       <td>34</td>
       <td>-9</td>
       <td>1027</td>
-      <td>73.357143</td>
+      <td>73.36</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Classifica a punti</th><table border="1" class="dataframe">
@@ -327,20 +327,6 @@
     </tr>
     <tr>
       <th>3</th>
-      <td>CS Cannabis Street</td>
-      <td>9</td>
-      <td>7</td>
-      <td>2</td>
-      <td>3</td>
-      <td>2</td>
-      <td>9</td>
-      <td>10</td>
-      <td>-1</td>
-      <td>485</td>
-      <td>69.29</td>
-    </tr>
-    <tr>
-      <th>4</th>
       <td>Il Diritto Di Riscatto</td>
       <td>9</td>
       <td>7</td>
@@ -354,21 +340,21 @@
       <td>75.64</td>
     </tr>
     <tr>
-      <th>5</th>
-      <td>USS Torquemada</td>
-      <td>8</td>
+      <th>4</th>
+      <td>CS Cannabis Street</td>
+      <td>9</td>
       <td>7</td>
       <td>2</td>
-      <td>2</td>
       <td>3</td>
-      <td>8</td>
-      <td>12</td>
-      <td>-4</td>
-      <td>495.5</td>
-      <td>70.79</td>
+      <td>2</td>
+      <td>9</td>
+      <td>10</td>
+      <td>-1</td>
+      <td>485</td>
+      <td>69.29</td>
     </tr>
     <tr>
-      <th>6</th>
+      <th>5</th>
       <td>Ans Rei Sport Verein</td>
       <td>8</td>
       <td>7</td>
@@ -380,6 +366,20 @@
       <td>1</td>
       <td>516.5</td>
       <td>73.79</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>USS Torquemada</td>
+      <td>8</td>
+      <td>7</td>
+      <td>2</td>
+      <td>2</td>
+      <td>3</td>
+      <td>8</td>
+      <td>12</td>
+      <td>-4</td>
+      <td>495.5</td>
+      <td>70.79</td>
     </tr>
     <tr>
       <th>7</th>

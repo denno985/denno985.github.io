@@ -109,7 +109,7 @@
       <td></td>
     </tr>
   </tbody>
-</table><th><br/></th><th>Calendario Girone A</th><table border="1" class="dataframe">
+</table><th><br/></th><th>Classifica Girone A</th><table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
@@ -281,7 +281,7 @@
       <td></td>
     </tr>
   </tbody>
-</table><th><br/></th><th>Calendario Girone A</th><table border="1" class="dataframe">
+</table><th><br/></th><th>Classifica Girone B</th><table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>

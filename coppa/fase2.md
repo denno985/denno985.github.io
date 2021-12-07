@@ -1,4 +1,79 @@
-<th>Calendario girone A</th><table border="1" class="dataframe">
+<th>Classifica girone A</th><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Squadra</th>
+      <th>Punti</th>
+      <th>Giocate</th>
+      <th>Vinte</th>
+      <th>Nulle</th>
+      <th>Perse</th>
+      <th>Gol fatti</th>
+      <th>Gol subiti</th>
+      <th>Diff. Reti</th>
+      <th>Punti tot.</th>
+      <th>Media pti</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1</th>
+      <td>Docklands United Football Club</td>
+      <td>13</td>
+      <td>6</td>
+      <td>4</td>
+      <td>1</td>
+      <td>1</td>
+      <td>12</td>
+      <td>9</td>
+      <td>3</td>
+      <td>448</td>
+      <td>74.67</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Il Diritto Di Riscatto</td>
+      <td>12</td>
+      <td>6</td>
+      <td>4</td>
+      <td>0</td>
+      <td>2</td>
+      <td>14</td>
+      <td>11</td>
+      <td>3</td>
+      <td>466.5</td>
+      <td>77.75</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Sic Mundus</td>
+      <td>5</td>
+      <td>6</td>
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
+      <td>7</td>
+      <td>7</td>
+      <td>0</td>
+      <td>412</td>
+      <td>68.67</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>CS Cannabis Street</td>
+      <td>4</td>
+      <td>6</td>
+      <td>1</td>
+      <td>1</td>
+      <td>4</td>
+      <td>6</td>
+      <td>12</td>
+      <td>-6</td>
+      <td>407</td>
+      <td>67.83</td>
+    </tr>
+  </tbody>
+</table><th><br/></th><th>Calendario girone A</th><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>1a giornata</td>
@@ -139,7 +214,7 @@
       <td>9</td>
       <td>3</td>
       <td>448</td>
-      <td>74.666667</td>
+      <td>74.67</td>
     </tr>
     <tr>
       <th>2</th>
@@ -167,7 +242,7 @@
       <td>7</td>
       <td>0</td>
       <td>412</td>
-      <td>68.666667</td>
+      <td>68.67</td>
     </tr>
     <tr>
       <th>4</th>
@@ -181,7 +256,7 @@
       <td>12</td>
       <td>-6</td>
       <td>407</td>
-      <td>67.833333</td>
+      <td>67.83</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Calendario girone B</th><table border="1" class="dataframe">
@@ -295,7 +370,7 @@
       <td>1</td>
     </tr>
   </tbody>
-</table><th><br/></th><th>Classifica Girone B</th><table border="1" class="dataframe">
+</table><th><br/></th><th>Classifica girone B</th><table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
@@ -325,7 +400,7 @@
       <td>5</td>
       <td>6</td>
       <td>446.5</td>
-      <td>74.416667</td>
+      <td>74.42</td>
     </tr>
     <tr>
       <th>2</th>
@@ -339,7 +414,7 @@
       <td>10</td>
       <td>-1</td>
       <td>431</td>
-      <td>71.833333</td>
+      <td>71.83</td>
     </tr>
     <tr>
       <th>3</th>

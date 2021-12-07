@@ -325,7 +325,7 @@
       <td>0</td>
       <td>0</td>
       <td>88</td>
-      <td>88</td>
+      <td>88.0</td>
     </tr>
     <tr>
       <th>3</th>

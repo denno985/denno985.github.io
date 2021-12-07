@@ -129,20 +129,6 @@
   <tbody>
     <tr>
       <th>1</th>
-      <td>Il Diritto Di Riscatto</td>
-      <td>1</td>
-      <td>1</td>
-      <td>0</td>
-      <td>1</td>
-      <td>0</td>
-      <td>2</td>
-      <td>2</td>
-      <td>0</td>
-      <td>73</td>
-      <td>73</td>
-    </tr>
-    <tr>
-      <th>2</th>
       <td>Ans Rei Sport Verein</td>
       <td>1</td>
       <td>1</td>
@@ -154,6 +140,20 @@
       <td>0</td>
       <td>77</td>
       <td>77</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Il Diritto Di Riscatto</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>2</td>
+      <td>2</td>
+      <td>0</td>
+      <td>73</td>
+      <td>73</td>
     </tr>
     <tr>
       <th>3</th>
@@ -315,20 +315,6 @@
     </tr>
     <tr>
       <th>2</th>
-      <td>USS Torquemada</td>
-      <td>0</td>
-      <td>1</td>
-      <td>0</td>
-      <td>0</td>
-      <td>1</td>
-      <td>0</td>
-      <td>4</td>
-      <td>-4</td>
-      <td>64.5</td>
-      <td>64.5</td>
-    </tr>
-    <tr>
-      <th>3</th>
       <td>CS Cannabis Street</td>
       <td>0</td>
       <td>0</td>
@@ -340,6 +326,20 @@
       <td>0</td>
       <td>88</td>
       <td>88</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>USS Torquemada</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>4</td>
+      <td>-4</td>
+      <td>64.5</td>
+      <td>64.5</td>
     </tr>
   </tbody>
 </table><th><br/></th>

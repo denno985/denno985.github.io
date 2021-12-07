@@ -109,7 +109,7 @@
       <td></td>
     </tr>
   </tbody>
-</table><th><br/></th><th>Classifica girone A</th><table border="1" class="dataframe">
+</table><th><br/></th><th>Calendario Girone A</th><table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
@@ -281,7 +281,7 @@
       <td></td>
     </tr>
   </tbody>
-</table><th><br/></th><th>Classifica Girone B</th><table border="1" class="dataframe">
+</table><th><br/></th><th>Calendario Girone A</th><table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
@@ -301,6 +301,20 @@
   <tbody>
     <tr>
       <th>1</th>
+      <td>Fantacalcio for Dumfries</td>
+      <td>3</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>4</td>
+      <td>0</td>
+      <td>4</td>
+      <td>85.5</td>
+      <td>85.5</td>
+    </tr>
+    <tr>
+      <th>2</th>
       <td>USS Torquemada</td>
       <td>0</td>
       <td>1</td>
@@ -314,7 +328,7 @@
       <td>64.5</td>
     </tr>
     <tr>
-      <th>2</th>
+      <th>3</th>
       <td>CS Cannabis Street</td>
       <td>0</td>
       <td>0</td>
@@ -326,20 +340,6 @@
       <td>0</td>
       <td>88</td>
       <td>88</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>Fantacalcio for Dumfries</td>
-      <td>3</td>
-      <td>1</td>
-      <td>1</td>
-      <td>0</td>
-      <td>0</td>
-      <td>4</td>
-      <td>0</td>
-      <td>4</td>
-      <td>85.5</td>
-      <td>85.5</td>
     </tr>
   </tbody>
 </table><th><br/></th>

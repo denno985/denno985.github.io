@@ -528,34 +528,34 @@
     <tr>
       <td>Piove sul Bagnato</td>
       <td>Fantacalcio for Dumfries</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>82.5</td>
+      <td>72.5</td>
+      <td>3</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Docklands United Football Club</td>
       <td>Ans Rei Sport Verein</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>78.5</td>
+      <td>79.0</td>
+      <td>3</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>Sic Mundus</td>
       <td>Il Diritto Di Riscatto</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>71.0</td>
+      <td>77.0</td>
+      <td>1</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>USS Torquemada</td>
       <td>CS Cannabis Street</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>67.0</td>
+      <td>74.0</td>
+      <td>1</td>
+      <td>2</td>
     </tr>
   </tbody>
 </table><th><br/></th><li><a href="https://denno985.github.io/giornate/17" class="active">17a giornata</a></li><table border="1" class="dataframe">

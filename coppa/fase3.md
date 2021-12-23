@@ -19,7 +19,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>0</td>
+      <td>70.5</td>
       <td></td>
       <td></td>
       <td></td>
@@ -31,10 +31,10 @@
       <td>73</td>
       <td>2</td>
       <td>2</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>66</td>
+      <td>72</td>
+      <td>1</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>2a giornata</td>
@@ -130,30 +130,30 @@
     <tr>
       <th>1</th>
       <td>Il Diritto Di Riscatto</td>
-      <td>4</td>
-      <td>2</td>
-      <td>1</td>
-      <td>1</td>
-      <td>0</td>
-      <td>5</td>
+      <td>7</td>
       <td>3</td>
       <td>2</td>
-      <td>231.5</td>
-      <td>77.17</td>
+      <td>1</td>
+      <td>0</td>
+      <td>7</td>
+      <td>4</td>
+      <td>3</td>
+      <td>303.5</td>
+      <td>75.88</td>
     </tr>
     <tr>
       <th>2</th>
       <td>Ans Rei Sport Verein</td>
       <td>2</td>
-      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td>2</td>
-      <td>0</td>
-      <td>5</td>
-      <td>5</td>
-      <td>0</td>
-      <td>229.5</td>
-      <td>76.50</td>
+      <td>1</td>
+      <td>6</td>
+      <td>7</td>
+      <td>-1</td>
+      <td>295.5</td>
+      <td>73.88</td>
     </tr>
     <tr>
       <th>3</th>
@@ -166,8 +166,8 @@
       <td>4</td>
       <td>6</td>
       <td>-2</td>
-      <td>229</td>
-      <td>76.33</td>
+      <td>299.5</td>
+      <td>74.88</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Calendario girone B</th><table border="1" class="dataframe">
@@ -191,7 +191,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>0</td>
+      <td>76</td>
       <td></td>
       <td></td>
       <td></td>
@@ -203,10 +203,10 @@
       <td>85.5</td>
       <td>0</td>
       <td>4</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>73.5</td>
+      <td>73.5</td>
+      <td>2</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>2a giornata</td>
@@ -301,6 +301,20 @@
   <tbody>
     <tr>
       <th>1</th>
+      <td>Fantacalcio for Dumfries</td>
+      <td>5</td>
+      <td>3</td>
+      <td>1</td>
+      <td>2</td>
+      <td>0</td>
+      <td>7</td>
+      <td>3</td>
+      <td>4</td>
+      <td>300.5</td>
+      <td>75.12</td>
+    </tr>
+    <tr>
+      <th>2</th>
       <td>CS Cannabis Street</td>
       <td>4</td>
       <td>2</td>
@@ -310,36 +324,22 @@
       <td>3</td>
       <td>2</td>
       <td>1</td>
-      <td>231</td>
-      <td>77.00</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>Fantacalcio for Dumfries</td>
-      <td>4</td>
-      <td>2</td>
-      <td>1</td>
-      <td>1</td>
-      <td>0</td>
-      <td>5</td>
-      <td>1</td>
-      <td>4</td>
-      <td>227</td>
-      <td>75.67</td>
+      <td>307</td>
+      <td>76.75</td>
     </tr>
     <tr>
       <th>3</th>
       <td>USS Torquemada</td>
-      <td>0</td>
-      <td>2</td>
-      <td>0</td>
-      <td>0</td>
-      <td>2</td>
       <td>1</td>
-      <td>6</td>
+      <td>3</td>
+      <td>0</td>
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
+      <td>8</td>
       <td>-5</td>
-      <td>217.5</td>
-      <td>72.50</td>
+      <td>291</td>
+      <td>72.75</td>
     </tr>
   </tbody>
 </table><th><br/></th>

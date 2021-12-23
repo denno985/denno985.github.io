@@ -204,9 +204,9 @@
       <td>0</td>
       <td>4</td>
       <td>73.5</td>
-      <td>73.5</td>
+      <td>81.5</td>
       <td>2</td>
-      <td>2</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>2a giornata</td>
@@ -302,16 +302,16 @@
     <tr>
       <th>1</th>
       <td>Fantacalcio for Dumfries</td>
-      <td>5</td>
-      <td>3</td>
-      <td>1</td>
-      <td>2</td>
-      <td>0</td>
       <td>7</td>
       <td>3</td>
-      <td>4</td>
-      <td>300.5</td>
-      <td>75.12</td>
+      <td>2</td>
+      <td>1</td>
+      <td>0</td>
+      <td>8</td>
+      <td>3</td>
+      <td>5</td>
+      <td>308.5</td>
+      <td>77.12</td>
     </tr>
     <tr>
       <th>2</th>
@@ -330,14 +330,14 @@
     <tr>
       <th>3</th>
       <td>USS Torquemada</td>
-      <td>1</td>
+      <td>0</td>
       <td>3</td>
       <td>0</td>
-      <td>1</td>
-      <td>2</td>
+      <td>0</td>
       <td>3</td>
-      <td>8</td>
-      <td>-5</td>
+      <td>3</td>
+      <td>9</td>
+      <td>-6</td>
       <td>291</td>
       <td>72.75</td>
     </tr>

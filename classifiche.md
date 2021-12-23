@@ -103,30 +103,30 @@
     <tr>
       <th>7</th>
       <td>CS Cannabis Street</td>
-      <td>19</td>
+      <td>18</td>
       <td>17</td>
       <td>5</td>
-      <td>4</td>
-      <td>8</td>
+      <td>3</td>
+      <td>9</td>
       <td>24</td>
-      <td>28</td>
-      <td>-4</td>
+      <td>29</td>
+      <td>-5</td>
       <td>1194.5</td>
       <td>70.26</td>
     </tr>
     <tr>
       <th>8</th>
       <td>Fantacalcio for Dumfries</td>
-      <td>14</td>
+      <td>16</td>
       <td>17</td>
-      <td>3</td>
-      <td>5</td>
+      <td>4</td>
+      <td>4</td>
       <td>9</td>
-      <td>30</td>
+      <td>31</td>
       <td>40</td>
-      <td>-10</td>
-      <td>1239</td>
-      <td>72.88</td>
+      <td>-9</td>
+      <td>1247</td>
+      <td>73.35</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Classifica a punti</th><table border="1" class="dataframe">
@@ -156,7 +156,7 @@
     <tr>
       <th>4</th>
       <td>Fantacalcio for Dumfries</td>
-      <td>1239</td>
+      <td>1247</td>
     </tr>
     <tr>
       <th>5</th>
@@ -206,7 +206,7 @@
     <tr>
       <th>4</th>
       <td>CS Cannabis Street</td>
-      <td>3</td>
+      <td>2</td>
     </tr>
     <tr>
       <th>5</th>
@@ -226,7 +226,7 @@
     <tr>
       <th>8</th>
       <td>Fantacalcio for Dumfries</td>
-      <td>0</td>
+      <td>1</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Classifica Scalatore</th><table border="1" class="dataframe">
@@ -603,17 +603,17 @@
     </tr>
     <tr>
       <th>4</th>
-      <td>CS Cannabis Street</td>
+      <td>Fantacalcio for Dumfries</td>
       <td>4</td>
       <td>3</td>
       <td>1</td>
       <td>1</td>
       <td>1</td>
-      <td>5</td>
       <td>6</td>
-      <td>-1</td>
-      <td>218</td>
-      <td>72.67</td>
+      <td>6</td>
+      <td>0</td>
+      <td>220</td>
+      <td>73.33</td>
     </tr>
     <tr>
       <th>5</th>
@@ -645,17 +645,17 @@
     </tr>
     <tr>
       <th>7</th>
-      <td>Fantacalcio for Dumfries</td>
-      <td>2</td>
+      <td>CS Cannabis Street</td>
       <td>3</td>
+      <td>3</td>
+      <td>1</td>
       <td>0</td>
       <td>2</td>
-      <td>1</td>
       <td>5</td>
-      <td>6</td>
-      <td>-1</td>
-      <td>212</td>
-      <td>70.67</td>
+      <td>7</td>
+      <td>-2</td>
+      <td>218</td>
+      <td>72.67</td>
     </tr>
     <tr>
       <th>8</th>

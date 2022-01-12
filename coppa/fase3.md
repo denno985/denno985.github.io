@@ -91,8 +91,8 @@
       <td>79</td>
       <td>3</td>
       <td>3</td>
-      <td>0</td>
-      <td>0</td>
+      <td>63.5</td>
+      <td>63.5</td>
       <td>0</td>
       <td>0</td>
     </tr>
@@ -103,7 +103,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>0</td>
+      <td>69</td>
       <td></td>
       <td></td>
       <td></td>
@@ -138,36 +138,36 @@
       <td>9</td>
       <td>6</td>
       <td>3</td>
-      <td>380.5</td>
-      <td>76.1</td>
+      <td>449.5</td>
+      <td>74.92</td>
     </tr>
     <tr>
       <th>2</th>
       <td>Docklands United Football Club</td>
-      <td>2</td>
       <td>3</td>
+      <td>4</td>
       <td>0</td>
-      <td>2</td>
+      <td>3</td>
       <td>1</td>
       <td>6</td>
       <td>8</td>
       <td>-2</td>
-      <td>375</td>
-      <td>75.0</td>
+      <td>438.5</td>
+      <td>73.08</td>
     </tr>
     <tr>
       <th>3</th>
       <td>Ans Rei Sport Verein</td>
-      <td>2</td>
       <td>3</td>
+      <td>4</td>
       <td>0</td>
-      <td>2</td>
+      <td>3</td>
       <td>1</td>
       <td>6</td>
       <td>7</td>
       <td>-1</td>
-      <td>367.5</td>
-      <td>73.5</td>
+      <td>431</td>
+      <td>71.83</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Calendario girone B</th><table border="1" class="dataframe">
@@ -263,10 +263,10 @@
       <td>67</td>
       <td>2</td>
       <td>1</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>84</td>
+      <td>80.5</td>
+      <td>4</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>Fantacalcio for Dumfries</td>
@@ -275,7 +275,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>0</td>
+      <td>70</td>
       <td></td>
       <td></td>
       <td></td>
@@ -302,16 +302,16 @@
     <tr>
       <th>1</th>
       <td>CS Cannabis Street</td>
-      <td>7</td>
+      <td>10</td>
+      <td>4</td>
       <td>3</td>
-      <td>2</td>
       <td>1</td>
       <td>0</td>
-      <td>4</td>
-      <td>2</td>
-      <td>2</td>
-      <td>378</td>
-      <td>75.6</td>
+      <td>8</td>
+      <td>5</td>
+      <td>3</td>
+      <td>462</td>
+      <td>77.00</td>
     </tr>
     <tr>
       <th>2</th>
@@ -324,22 +324,22 @@
       <td>8</td>
       <td>4</td>
       <td>4</td>
-      <td>373.5</td>
-      <td>74.7</td>
+      <td>443.5</td>
+      <td>73.92</td>
     </tr>
     <tr>
       <th>3</th>
       <td>USS Torquemada</td>
       <td>0</td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
       <td>0</td>
-      <td>3</td>
-      <td>3</td>
-      <td>9</td>
-      <td>-6</td>
-      <td>359</td>
-      <td>71.8</td>
+      <td>4</td>
+      <td>6</td>
+      <td>13</td>
+      <td>-7</td>
+      <td>439.5</td>
+      <td>73.25</td>
     </tr>
   </tbody>
 </table><th><br/></th>

@@ -633,34 +633,34 @@
     <tr>
       <td>Il Diritto Di Riscatto</td>
       <td>CS Cannabis Street</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>69.5</td>
+      <td>84.0</td>
+      <td>1</td>
+      <td>4</td>
     </tr>
     <tr>
       <td>Ans Rei Sport Verein</td>
       <td>Fantacalcio for Dumfries</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>62.5</td>
+      <td>70.0</td>
       <td>0</td>
-      <td>0</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>Docklands United Football Club</td>
       <td>USS Torquemada</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>63.5</td>
+      <td>79.5</td>
       <td>0</td>
-      <td>0</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>Sic Mundus</td>
       <td>Piove sul Bagnato</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>68.0</td>
+      <td>77.5</td>
+      <td>1</td>
+      <td>2</td>
     </tr>
   </tbody>
 </table><th><br/></th><li><a href="https://denno985.github.io/giornate/20" class="active">20a giornata</a></li><table border="1" class="dataframe">

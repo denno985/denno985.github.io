@@ -41,8 +41,8 @@
       <td>41</td>
       <td>35</td>
       <td>6</td>
-      <td>1445</td>
-      <td>76.05</td>
+      <td>1444.5</td>
+      <td>76.03</td>
     </tr>
     <tr>
       <th>3</th>
@@ -111,8 +111,8 @@
       <td>31</td>
       <td>38</td>
       <td>-7</td>
-      <td>1373</td>
-      <td>72.26</td>
+      <td>1371.5</td>
+      <td>72.18</td>
     </tr>
     <tr>
       <th>8</th>
@@ -141,7 +141,7 @@
     <tr>
       <th>1</th>
       <td>Il Diritto Di Riscatto</td>
-      <td>1445</td>
+      <td>1444.5</td>
     </tr>
     <tr>
       <th>2</th>
@@ -166,7 +166,7 @@
     <tr>
       <th>6</th>
       <td>Sic Mundus</td>
-      <td>1373</td>
+      <td>1371.5</td>
     </tr>
     <tr>
       <th>7</th>
@@ -598,8 +598,8 @@
       <td>9</td>
       <td>11</td>
       <td>-2</td>
-      <td>374</td>
-      <td>74.8</td>
+      <td>373.5</td>
+      <td>74.7</td>
     </tr>
     <tr>
       <th>4</th>
@@ -668,8 +668,8 @@
       <td>5</td>
       <td>10</td>
       <td>-5</td>
-      <td>346.5</td>
-      <td>69.3</td>
+      <td>345</td>
+      <td>69.0</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Classifica 4° girone</th><table border="1" class="dataframe">

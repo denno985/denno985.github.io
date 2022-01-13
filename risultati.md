@@ -633,7 +633,7 @@
     <tr>
       <td>Il Diritto Di Riscatto</td>
       <td>CS Cannabis Street</td>
-      <td>69.5</td>
+      <td>69.0</td>
       <td>84.0</td>
       <td>1</td>
       <td>4</td>
@@ -657,7 +657,7 @@
     <tr>
       <td>Sic Mundus</td>
       <td>Piove sul Bagnato</td>
-      <td>68.0</td>
+      <td>66.5</td>
       <td>77.5</td>
       <td>1</td>
       <td>2</td>

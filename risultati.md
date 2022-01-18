@@ -668,34 +668,34 @@
     <tr>
       <td>CS Cannabis Street</td>
       <td>Sic Mundus</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>59.0</td>
+      <td>85.0</td>
       <td>0</td>
-      <td>0</td>
+      <td>4</td>
     </tr>
     <tr>
       <td>Piove sul Bagnato</td>
       <td>Docklands United Football Club</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>69.0</td>
+      <td>80.0</td>
+      <td>1</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>Ans Rei Sport Verein</td>
       <td>USS Torquemada</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>65.5</td>
+      <td>75.0</td>
       <td>0</td>
-      <td>0</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Fantacalcio for Dumfries</td>
       <td>Il Diritto Di Riscatto</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>82.5</td>
+      <td>72.5</td>
+      <td>3</td>
+      <td>2</td>
     </tr>
   </tbody>
 </table><th><br/></th><li><a href="https://denno985.github.io/giornate/21" class="active">21a giornata</a></li><table border="1" class="dataframe">

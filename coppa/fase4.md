@@ -10,39 +10,39 @@
   <tbody>
     <tr>
       <th>1</th>
-      <td>USS Torquemada</td>
-      <td>0</td>
-      <td>0</td>
+      <td>Fantacalcio for Dumfries</td>
+      <td>10</td>
+      <td>82.5</td>
     </tr>
     <tr>
       <th>2</th>
-      <td>Il Diritto Di Riscatto</td>
-      <td>0</td>
-      <td>0</td>
+      <td>Docklands United Football Club</td>
+      <td>9</td>
+      <td>80</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>Fantacalcio for Dumfries</td>
-      <td>0</td>
-      <td>0</td>
+      <td>USS Torquemada</td>
+      <td>8</td>
+      <td>75</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>CS Cannabis Street</td>
-      <td>0</td>
-      <td>0</td>
+      <td>Il Diritto Di Riscatto</td>
+      <td>7</td>
+      <td>72.5</td>
     </tr>
     <tr>
       <th>5</th>
       <td>Ans Rei Sport Verein</td>
-      <td>0</td>
-      <td>0</td>
+      <td>6</td>
+      <td>65.5</td>
     </tr>
     <tr>
       <th>6</th>
-      <td>Docklands United Football Club</td>
-      <td>0</td>
-      <td>0</td>
+      <td>CS Cannabis Street</td>
+      <td>5</td>
+      <td>59</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>1a giornata</th><table border="1" class="dataframe">
@@ -54,33 +54,33 @@
     </tr>
     <tr>
       <td>Il Diritto Di Riscatto</td>
-      <td></td>
-      <td></td>
+      <td>72.5</td>
+      <td>7</td>
     </tr>
     <tr>
       <td>CS Cannabis Street</td>
-      <td></td>
-      <td></td>
+      <td>59</td>
+      <td>5</td>
     </tr>
     <tr>
       <td>Ans Rei Sport Verein</td>
-      <td></td>
-      <td></td>
+      <td>65.5</td>
+      <td>6</td>
     </tr>
     <tr>
       <td>Fantacalcio for Dumfries</td>
-      <td></td>
-      <td></td>
+      <td>82.5</td>
+      <td>10</td>
     </tr>
     <tr>
       <td>Docklands United Football Club</td>
-      <td></td>
-      <td></td>
+      <td>80</td>
+      <td>9</td>
     </tr>
     <tr>
       <td>USS Torquemada</td>
-      <td></td>
-      <td></td>
+      <td>75</td>
+      <td>8</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>2a giornata</th><table border="1" class="dataframe">

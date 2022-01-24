@@ -703,33 +703,33 @@
     <tr>
       <td>Il Diritto Di Riscatto</td>
       <td>Ans Rei Sport Verein</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
+      <td>70.0</td>
+      <td>62.0</td>
+      <td>1</td>
       <td>0</td>
     </tr>
     <tr>
       <td>Docklands United Football Club</td>
       <td>CS Cannabis Street</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>70.0</td>
+      <td>82.0</td>
+      <td>1</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>Sic Mundus</td>
       <td>Fantacalcio for Dumfries</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>58.0</td>
+      <td>70.0</td>
       <td>0</td>
-      <td>0</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>USS Torquemada</td>
       <td>Piove sul Bagnato</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
+      <td>69.5</td>
+      <td>61.5</td>
+      <td>1</td>
       <td>0</td>
     </tr>
   </tbody>

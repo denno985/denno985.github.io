@@ -11,38 +11,38 @@
     <tr>
       <th>1</th>
       <td>Fantacalcio for Dumfries</td>
-      <td>10</td>
-      <td>82.5</td>
+      <td>19</td>
+      <td>152.5</td>
     </tr>
     <tr>
       <th>2</th>
       <td>Docklands United Football Club</td>
-      <td>9</td>
-      <td>80</td>
+      <td>18</td>
+      <td>150</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>USS Torquemada</td>
-      <td>8</td>
-      <td>75</td>
+      <td>Il Diritto Di Riscatto</td>
+      <td>16</td>
+      <td>142.5</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>Il Diritto Di Riscatto</td>
-      <td>7</td>
-      <td>72.5</td>
+      <td>CS Cannabis Street</td>
+      <td>15</td>
+      <td>141</td>
     </tr>
     <tr>
       <th>5</th>
-      <td>Ans Rei Sport Verein</td>
-      <td>6</td>
-      <td>65.5</td>
+      <td>USS Torquemada</td>
+      <td>14</td>
+      <td>144.5</td>
     </tr>
     <tr>
       <th>6</th>
-      <td>CS Cannabis Street</td>
-      <td>5</td>
-      <td>59</td>
+      <td>Ans Rei Sport Verein</td>
+      <td>11</td>
+      <td>127.5</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>1a giornata</th><table border="1" class="dataframe">
@@ -92,33 +92,33 @@
     </tr>
     <tr>
       <td>Il Diritto Di Riscatto</td>
-      <td></td>
-      <td></td>
+      <td>70</td>
+      <td>9</td>
     </tr>
     <tr>
       <td>CS Cannabis Street</td>
-      <td></td>
-      <td></td>
+      <td>82</td>
+      <td>10</td>
     </tr>
     <tr>
       <td>Ans Rei Sport Verein</td>
-      <td></td>
-      <td></td>
+      <td>62</td>
+      <td>5</td>
     </tr>
     <tr>
       <td>Fantacalcio for Dumfries</td>
-      <td></td>
-      <td></td>
+      <td>70</td>
+      <td>9</td>
     </tr>
     <tr>
       <td>Docklands United Football Club</td>
-      <td></td>
-      <td></td>
+      <td>70</td>
+      <td>9</td>
     </tr>
     <tr>
       <td>USS Torquemada</td>
-      <td></td>
-      <td></td>
+      <td>69.5</td>
+      <td>6</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>3a giornata</th><table border="1" class="dataframe">

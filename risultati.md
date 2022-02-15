@@ -773,34 +773,34 @@
     <tr>
       <td>Piove sul Bagnato</td>
       <td>Fantacalcio for Dumfries</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>59.5</td>
+      <td>69.0</td>
       <td>0</td>
-      <td>0</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>Docklands United Football Club</td>
       <td>Ans Rei Sport Verein</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>66.0</td>
+      <td>72.0</td>
+      <td>1</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Sic Mundus</td>
       <td>Il Diritto Di Riscatto</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
+      <td>86.5</td>
+      <td>64.0</td>
+      <td>4</td>
       <td>0</td>
     </tr>
     <tr>
       <td>USS Torquemada</td>
       <td>CS Cannabis Street</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>66.0</td>
+      <td>71.5</td>
+      <td>1</td>
+      <td>1</td>
     </tr>
   </tbody>
 </table><th><br/></th><li><a href="https://denno985.github.io/giornate/24" class="active">24a giornata</a></li><table border="1" class="dataframe">

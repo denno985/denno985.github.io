@@ -11,38 +11,38 @@
     <tr>
       <th>1</th>
       <td>Docklands United Football Club</td>
-      <td>27</td>
-      <td>221.5</td>
+      <td>34</td>
+      <td>287.5</td>
     </tr>
     <tr>
       <th>2</th>
-      <td>Il Diritto Di Riscatto</td>
-      <td>26</td>
-      <td>215.5</td>
+      <td>Fantacalcio for Dumfries</td>
+      <td>33</td>
+      <td>282</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>Fantacalcio for Dumfries</td>
-      <td>25</td>
-      <td>213</td>
+      <td>Il Diritto Di Riscatto</td>
+      <td>31</td>
+      <td>279.5</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>USS Torquemada</td>
-      <td>22</td>
-      <td>211.5</td>
+      <td>CS Cannabis Street</td>
+      <td>31</td>
+      <td>277.5</td>
     </tr>
     <tr>
       <th>5</th>
-      <td>CS Cannabis Street</td>
-      <td>22</td>
-      <td>206</td>
+      <td>USS Torquemada</td>
+      <td>29</td>
+      <td>277.5</td>
     </tr>
     <tr>
       <th>6</th>
       <td>Ans Rei Sport Verein</td>
-      <td>16</td>
-      <td>187</td>
+      <td>26</td>
+      <td>259</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>1a giornata</th><table border="1" class="dataframe">
@@ -168,33 +168,33 @@
     </tr>
     <tr>
       <td>Il Diritto Di Riscatto</td>
-      <td></td>
-      <td></td>
+      <td>64</td>
+      <td>5</td>
     </tr>
     <tr>
       <td>CS Cannabis Street</td>
-      <td></td>
-      <td></td>
+      <td>71.5</td>
+      <td>9</td>
     </tr>
     <tr>
       <td>Ans Rei Sport Verein</td>
-      <td></td>
-      <td></td>
+      <td>72</td>
+      <td>10</td>
     </tr>
     <tr>
       <td>Fantacalcio for Dumfries</td>
-      <td></td>
-      <td></td>
+      <td>69</td>
+      <td>8</td>
     </tr>
     <tr>
       <td>Docklands United Football Club</td>
-      <td></td>
-      <td></td>
+      <td>66</td>
+      <td>7</td>
     </tr>
     <tr>
       <td>USS Torquemada</td>
-      <td></td>
-      <td></td>
+      <td>66</td>
+      <td>7</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>5a giornata</th><table border="1" class="dataframe">

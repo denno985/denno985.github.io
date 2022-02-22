@@ -111,8 +111,8 @@
       <td>37</td>
       <td>44</td>
       <td>-7</td>
-      <td>1727.5</td>
-      <td>71.98</td>
+      <td>1728.5</td>
+      <td>72.02</td>
     </tr>
     <tr>
       <th>8</th>
@@ -161,7 +161,7 @@
     <tr>
       <th>5</th>
       <td>Fantacalcio for Dumfries</td>
-      <td>1727.5</td>
+      <td>1728.5</td>
     </tr>
     <tr>
       <th>6</th>
@@ -734,6 +734,20 @@
     </tr>
     <tr>
       <th>4</th>
+      <td>Fantacalcio for Dumfries</td>
+      <td>4</td>
+      <td>3</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>194</td>
+      <td>64.67</td>
+    </tr>
+    <tr>
+      <th>5</th>
       <td>Ans Rei Sport Verein</td>
       <td>4</td>
       <td>3</td>
@@ -745,20 +759,6 @@
       <td>0</td>
       <td>194</td>
       <td>64.67</td>
-    </tr>
-    <tr>
-      <th>5</th>
-      <td>Fantacalcio for Dumfries</td>
-      <td>4</td>
-      <td>3</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-      <td>0</td>
-      <td>193</td>
-      <td>64.33</td>
     </tr>
     <tr>
       <th>6</th>

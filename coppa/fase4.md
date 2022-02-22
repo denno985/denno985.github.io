@@ -18,12 +18,12 @@
       <th>2</th>
       <td>Fantacalcio for Dumfries</td>
       <td>41</td>
-      <td>345.5</td>
+      <td>346.5</td>
     </tr>
     <tr>
       <th>3</th>
       <td>CS Cannabis Street</td>
-      <td>39</td>
+      <td>38</td>
       <td>341</td>
     </tr>
     <tr>
@@ -212,7 +212,7 @@
     <tr>
       <td>CS Cannabis Street</td>
       <td>63.5</td>
-      <td>8</td>
+      <td>7</td>
     </tr>
     <tr>
       <td>Ans Rei Sport Verein</td>
@@ -221,7 +221,7 @@
     </tr>
     <tr>
       <td>Fantacalcio for Dumfries</td>
-      <td>63.5</td>
+      <td>64.5</td>
       <td>8</td>
     </tr>
     <tr>

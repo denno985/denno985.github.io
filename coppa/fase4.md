@@ -11,38 +11,38 @@
     <tr>
       <th>1</th>
       <td>Docklands United Football Club</td>
-      <td>34</td>
-      <td>287.5</td>
+      <td>44</td>
+      <td>356.5</td>
     </tr>
     <tr>
       <th>2</th>
       <td>Fantacalcio for Dumfries</td>
-      <td>33</td>
-      <td>282</td>
+      <td>41</td>
+      <td>345.5</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>Il Diritto Di Riscatto</td>
-      <td>31</td>
-      <td>279.5</td>
+      <td>CS Cannabis Street</td>
+      <td>39</td>
+      <td>341</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>CS Cannabis Street</td>
-      <td>31</td>
-      <td>277.5</td>
+      <td>USS Torquemada</td>
+      <td>38</td>
+      <td>346</td>
     </tr>
     <tr>
       <th>5</th>
-      <td>USS Torquemada</td>
-      <td>29</td>
-      <td>277.5</td>
+      <td>Il Diritto Di Riscatto</td>
+      <td>37</td>
+      <td>342</td>
     </tr>
     <tr>
       <th>6</th>
       <td>Ans Rei Sport Verein</td>
-      <td>26</td>
-      <td>259</td>
+      <td>32</td>
+      <td>321.5</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>1a giornata</th><table border="1" class="dataframe">
@@ -206,33 +206,33 @@
     </tr>
     <tr>
       <td>Il Diritto Di Riscatto</td>
-      <td></td>
-      <td></td>
+      <td>62.5</td>
+      <td>6</td>
     </tr>
     <tr>
       <td>CS Cannabis Street</td>
-      <td></td>
-      <td></td>
+      <td>63.5</td>
+      <td>8</td>
     </tr>
     <tr>
       <td>Ans Rei Sport Verein</td>
-      <td></td>
-      <td></td>
+      <td>62.5</td>
+      <td>6</td>
     </tr>
     <tr>
       <td>Fantacalcio for Dumfries</td>
-      <td></td>
-      <td></td>
+      <td>63.5</td>
+      <td>8</td>
     </tr>
     <tr>
       <td>Docklands United Football Club</td>
-      <td></td>
-      <td></td>
+      <td>69</td>
+      <td>10</td>
     </tr>
     <tr>
       <td>USS Torquemada</td>
-      <td></td>
-      <td></td>
+      <td>68.5</td>
+      <td>9</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>6a giornata</th><table border="1" class="dataframe">

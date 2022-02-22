@@ -824,7 +824,7 @@
     <tr>
       <td>Fantacalcio for Dumfries</td>
       <td>CS Cannabis Street</td>
-      <td>63.5</td>
+      <td>64.5</td>
       <td>63.5</td>
       <td>0</td>
       <td>0</td>

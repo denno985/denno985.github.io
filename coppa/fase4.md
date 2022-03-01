@@ -11,38 +11,38 @@
     <tr>
       <th>1</th>
       <td>Docklands United Football Club</td>
-      <td>44</td>
-      <td>356.5</td>
+      <td>50</td>
+      <td>424.5</td>
     </tr>
     <tr>
       <th>2</th>
       <td>Fantacalcio for Dumfries</td>
-      <td>41</td>
-      <td>346.5</td>
+      <td>48</td>
+      <td>417</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>CS Cannabis Street</td>
-      <td>38</td>
-      <td>341</td>
+      <td>USS Torquemada</td>
+      <td>48</td>
+      <td>423</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>USS Torquemada</td>
-      <td>38</td>
-      <td>346</td>
+      <td>Il Diritto Di Riscatto</td>
+      <td>46</td>
+      <td>418.5</td>
     </tr>
     <tr>
       <th>5</th>
-      <td>Il Diritto Di Riscatto</td>
-      <td>37</td>
-      <td>342</td>
+      <td>CS Cannabis Street</td>
+      <td>43</td>
+      <td>407</td>
     </tr>
     <tr>
       <th>6</th>
       <td>Ans Rei Sport Verein</td>
-      <td>32</td>
-      <td>321.5</td>
+      <td>40</td>
+      <td>394.5</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>1a giornata</th><table border="1" class="dataframe">
@@ -244,33 +244,33 @@
     </tr>
     <tr>
       <td>Il Diritto Di Riscatto</td>
-      <td></td>
-      <td></td>
+      <td>76.5</td>
+      <td>9</td>
     </tr>
     <tr>
       <td>CS Cannabis Street</td>
-      <td></td>
-      <td></td>
+      <td>66</td>
+      <td>5</td>
     </tr>
     <tr>
       <td>Ans Rei Sport Verein</td>
-      <td></td>
-      <td></td>
+      <td>73</td>
+      <td>8</td>
     </tr>
     <tr>
       <td>Fantacalcio for Dumfries</td>
-      <td></td>
-      <td></td>
+      <td>70.5</td>
+      <td>7</td>
     </tr>
     <tr>
       <td>Docklands United Football Club</td>
-      <td></td>
-      <td></td>
+      <td>68</td>
+      <td>6</td>
     </tr>
     <tr>
       <td>USS Torquemada</td>
-      <td></td>
-      <td></td>
+      <td>77</td>
+      <td>10</td>
     </tr>
   </tbody>
 </table><th><br/></th>

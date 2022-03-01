@@ -843,34 +843,34 @@
     <tr>
       <td>CS Cannabis Street</td>
       <td>Ans Rei Sport Verein</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>66.0</td>
+      <td>73.0</td>
+      <td>1</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Piove sul Bagnato</td>
       <td>Il Diritto Di Riscatto</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>70.0</td>
+      <td>76.5</td>
+      <td>1</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Docklands United Football Club</td>
       <td>Sic Mundus</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>68.0</td>
+      <td>66.0</td>
+      <td>1</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>USS Torquemada</td>
       <td>Fantacalcio for Dumfries</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>77.0</td>
+      <td>70.5</td>
+      <td>2</td>
+      <td>1</td>
     </tr>
   </tbody>
 </table><th><br/></th><li><a href="https://denno985.github.io/giornate/26" class="active">26a giornata</a></li><table border="1" class="dataframe">

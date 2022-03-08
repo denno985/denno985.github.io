@@ -19,114 +19,114 @@
     <tr>
       <th>1</th>
       <td>USS Torquemada</td>
-      <td>46</td>
-      <td>25</td>
-      <td>14</td>
+      <td>49</td>
+      <td>26</td>
+      <td>15</td>
       <td>4</td>
       <td>7</td>
-      <td>39</td>
-      <td>32</td>
-      <td>7</td>
-      <td>1803.5</td>
-      <td>72.14</td>
+      <td>42</td>
+      <td>34</td>
+      <td>8</td>
+      <td>1884</td>
+      <td>72.46</td>
     </tr>
     <tr>
       <th>2</th>
-      <td>Il Diritto Di Riscatto</td>
-      <td>40</td>
-      <td>25</td>
+      <td>Ans Rei Sport Verein</td>
+      <td>41</td>
+      <td>26</td>
       <td>11</td>
+      <td>8</td>
       <td>7</td>
-      <td>7</td>
-      <td>48</td>
-      <td>45</td>
-      <td>3</td>
-      <td>1863</td>
-      <td>74.52</td>
+      <td>44</td>
+      <td>35</td>
+      <td>9</td>
+      <td>1889.5</td>
+      <td>72.67</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>Ans Rei Sport Verein</td>
-      <td>38</td>
-      <td>25</td>
-      <td>10</td>
-      <td>8</td>
+      <td>Il Diritto Di Riscatto</td>
+      <td>40</td>
+      <td>26</td>
+      <td>11</td>
       <td>7</td>
-      <td>41</td>
-      <td>33</td>
       <td>8</td>
-      <td>1806</td>
-      <td>72.24</td>
+      <td>49</td>
+      <td>48</td>
+      <td>1</td>
+      <td>1934.5</td>
+      <td>74.40</td>
     </tr>
     <tr>
       <th>4</th>
       <td>Docklands United Football Club</td>
       <td>33</td>
-      <td>25</td>
+      <td>26</td>
       <td>8</td>
       <td>9</td>
-      <td>8</td>
-      <td>41</td>
-      <td>39</td>
-      <td>2</td>
-      <td>1828.5</td>
-      <td>73.14</td>
+      <td>9</td>
+      <td>43</td>
+      <td>42</td>
+      <td>1</td>
+      <td>1902</td>
+      <td>73.15</td>
     </tr>
     <tr>
       <th>5</th>
       <td>Piove sul Bagnato</td>
-      <td>31</td>
-      <td>25</td>
+      <td>32</td>
+      <td>26</td>
       <td>8</td>
-      <td>7</td>
+      <td>8</td>
       <td>10</td>
-      <td>31</td>
-      <td>36</td>
+      <td>32</td>
+      <td>37</td>
       <td>-5</td>
-      <td>1740</td>
-      <td>69.60</td>
+      <td>1806.5</td>
+      <td>69.48</td>
     </tr>
     <tr>
       <th>6</th>
       <td>Sic Mundus</td>
-      <td>30</td>
-      <td>25</td>
+      <td>31</td>
+      <td>26</td>
       <td>8</td>
-      <td>6</td>
+      <td>7</td>
       <td>11</td>
-      <td>41</td>
-      <td>41</td>
+      <td>42</td>
+      <td>42</td>
       <td>0</td>
-      <td>1800.5</td>
-      <td>72.02</td>
+      <td>1868</td>
+      <td>71.85</td>
     </tr>
     <tr>
       <th>7</th>
-      <td>Fantacalcio for Dumfries</td>
-      <td>29</td>
-      <td>25</td>
+      <td>CS Cannabis Street</td>
+      <td>30</td>
+      <td>26</td>
       <td>8</td>
-      <td>5</td>
+      <td>6</td>
       <td>12</td>
-      <td>38</td>
-      <td>46</td>
-      <td>-8</td>
-      <td>1799</td>
-      <td>71.96</td>
+      <td>37</td>
+      <td>42</td>
+      <td>-5</td>
+      <td>1836.5</td>
+      <td>70.63</td>
     </tr>
     <tr>
       <th>8</th>
-      <td>CS Cannabis Street</td>
-      <td>27</td>
-      <td>25</td>
-      <td>7</td>
-      <td>6</td>
-      <td>12</td>
-      <td>34</td>
-      <td>41</td>
-      <td>-7</td>
-      <td>1755.5</td>
-      <td>70.22</td>
+      <td>Fantacalcio for Dumfries</td>
+      <td>29</td>
+      <td>26</td>
+      <td>8</td>
+      <td>5</td>
+      <td>13</td>
+      <td>40</td>
+      <td>49</td>
+      <td>-9</td>
+      <td>1871.5</td>
+      <td>71.98</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Classifica a punti</th><table border="1" class="dataframe">
@@ -141,42 +141,42 @@
     <tr>
       <th>1</th>
       <td>Il Diritto Di Riscatto</td>
-      <td>1863</td>
+      <td>1934.5</td>
     </tr>
     <tr>
       <th>2</th>
       <td>Docklands United Football Club</td>
-      <td>1828.5</td>
+      <td>1902</td>
     </tr>
     <tr>
       <th>3</th>
       <td>Ans Rei Sport Verein</td>
-      <td>1806</td>
+      <td>1889.5</td>
     </tr>
     <tr>
       <th>4</th>
       <td>USS Torquemada</td>
-      <td>1803.5</td>
+      <td>1884</td>
     </tr>
     <tr>
       <th>5</th>
-      <td>Sic Mundus</td>
-      <td>1800.5</td>
+      <td>Fantacalcio for Dumfries</td>
+      <td>1871.5</td>
     </tr>
     <tr>
       <th>6</th>
-      <td>Fantacalcio for Dumfries</td>
-      <td>1799</td>
+      <td>Sic Mundus</td>
+      <td>1868</td>
     </tr>
     <tr>
       <th>7</th>
       <td>CS Cannabis Street</td>
-      <td>1755.5</td>
+      <td>1836.5</td>
     </tr>
     <tr>
       <th>8</th>
       <td>Piove sul Bagnato</td>
-      <td>1740</td>
+      <td>1806.5</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Classifica Sprint</th><table border="1" class="dataframe">
@@ -201,7 +201,7 @@
     <tr>
       <th>3</th>
       <td>Ans Rei Sport Verein</td>
-      <td>4</td>
+      <td>5</td>
     </tr>
     <tr>
       <th>4</th>
@@ -692,115 +692,115 @@
   <tbody>
     <tr>
       <th>1</th>
-      <td>Sic Mundus</td>
-      <td>7</td>
-      <td>4</td>
-      <td>2</td>
+      <td>USS Torquemada</td>
+      <td>10</td>
+      <td>5</td>
+      <td>3</td>
       <td>1</td>
       <td>1</td>
+      <td>8</td>
       <td>6</td>
       <td>2</td>
-      <td>4</td>
-      <td>286</td>
-      <td>71.50</td>
+      <td>359</td>
+      <td>71.8</td>
     </tr>
     <tr>
       <th>2</th>
-      <td>USS Torquemada</td>
-      <td>7</td>
-      <td>4</td>
-      <td>2</td>
-      <td>1</td>
-      <td>1</td>
+      <td>Ans Rei Sport Verein</td>
+      <td>10</td>
       <td>5</td>
-      <td>4</td>
+      <td>3</td>
       <td>1</td>
-      <td>278.5</td>
-      <td>69.62</td>
+      <td>1</td>
+      <td>7</td>
+      <td>5</td>
+      <td>2</td>
+      <td>350.5</td>
+      <td>70.1</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>Docklands United Football Club</td>
-      <td>7</td>
-      <td>4</td>
+      <td>Sic Mundus</td>
+      <td>8</td>
+      <td>5</td>
+      <td>2</td>
       <td>2</td>
       <td>1</td>
-      <td>1</td>
-      <td>4</td>
+      <td>7</td>
       <td>3</td>
-      <td>1</td>
-      <td>274.5</td>
-      <td>68.62</td>
+      <td>4</td>
+      <td>353.5</td>
+      <td>70.7</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>Ans Rei Sport Verein</td>
+      <td>Docklands United Football Club</td>
       <td>7</td>
-      <td>4</td>
+      <td>5</td>
       <td>2</td>
       <td>1</td>
-      <td>1</td>
-      <td>4</td>
-      <td>3</td>
-      <td>1</td>
-      <td>267</td>
-      <td>66.75</td>
+      <td>2</td>
+      <td>6</td>
+      <td>6</td>
+      <td>0</td>
+      <td>348</td>
+      <td>69.6</td>
     </tr>
     <tr>
       <th>5</th>
       <td>Il Diritto Di Riscatto</td>
       <td>6</td>
-      <td>4</td>
+      <td>5</td>
       <td>2</td>
       <td>0</td>
-      <td>2</td>
-      <td>4</td>
-      <td>7</td>
-      <td>-3</td>
-      <td>276</td>
-      <td>69.00</td>
+      <td>3</td>
+      <td>5</td>
+      <td>10</td>
+      <td>-5</td>
+      <td>347.5</td>
+      <td>69.5</td>
     </tr>
     <tr>
       <th>6</th>
-      <td>Fantacalcio for Dumfries</td>
-      <td>4</td>
-      <td>4</td>
-      <td>1</td>
+      <td>CS Cannabis Street</td>
+      <td>5</td>
+      <td>5</td>
       <td>1</td>
       <td>2</td>
       <td>2</td>
-      <td>3</td>
+      <td>5</td>
+      <td>6</td>
       <td>-1</td>
-      <td>264.5</td>
-      <td>66.12</td>
+      <td>347</td>
+      <td>69.4</td>
     </tr>
     <tr>
       <th>7</th>
       <td>Piove sul Bagnato</td>
-      <td>4</td>
-      <td>4</td>
-      <td>1</td>
+      <td>5</td>
+      <td>5</td>
       <td>1</td>
       <td>2</td>
-      <td>3</td>
-      <td>3</td>
+      <td>2</td>
+      <td>4</td>
+      <td>4</td>
       <td>0</td>
-      <td>261.5</td>
-      <td>65.38</td>
+      <td>328</td>
+      <td>65.6</td>
     </tr>
     <tr>
       <th>8</th>
-      <td>CS Cannabis Street</td>
-      <td>2</td>
+      <td>Fantacalcio for Dumfries</td>
       <td>4</td>
-      <td>0</td>
-      <td>2</td>
-      <td>2</td>
-      <td>2</td>
       <td>5</td>
-      <td>-3</td>
-      <td>266</td>
-      <td>66.50</td>
+      <td>1</td>
+      <td>1</td>
+      <td>3</td>
+      <td>4</td>
+      <td>6</td>
+      <td>-2</td>
+      <td>337</td>
+      <td>67.4</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Classifica 5° girone</th><table border="1" class="dataframe">

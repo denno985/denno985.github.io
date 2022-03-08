@@ -878,34 +878,34 @@
     <tr>
       <td>Il Diritto Di Riscatto</td>
       <td>CS Cannabis Street</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>71.5</td>
+      <td>81.0</td>
+      <td>1</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>Ans Rei Sport Verein</td>
       <td>Fantacalcio for Dumfries</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>83.5</td>
+      <td>72.5</td>
+      <td>3</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Docklands United Football Club</td>
       <td>USS Torquemada</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>73.5</td>
+      <td>80.5</td>
+      <td>2</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>Sic Mundus</td>
       <td>Piove sul Bagnato</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>67.5</td>
+      <td>66.5</td>
+      <td>1</td>
+      <td>1</td>
     </tr>
   </tbody>
 </table><th><br/></th><li><a href="https://denno985.github.io/giornate/27" class="active">27a giornata</a></li><table border="1" class="dataframe">

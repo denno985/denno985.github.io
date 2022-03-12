@@ -1,6 +1,20 @@
 <style>th{background-color: rgb(42, 87, 235);color: white;}</style><th>Svalvolati on the road</th><table border="1" class="dataframe">
   <tbody>
     <tr>
+      <td>Semifinali</td>
+      <td></td>
+      <td>Pti</td>
+      <td>Pti</td>
+      <td>Gol</td>
+      <td>Gol</td>
+      <td>Pti</td>
+      <td>Pti</td>
+      <td>Gol</td>
+      <td>Gol</td>
+      <td>rigori</td>
+      <td>rigori</td>
+    </tr>
+    <tr>
       <td>USS Torquemada</td>
       <td>Fantacalcio for Dumfries</td>
       <td>0</td>
@@ -15,6 +29,20 @@
       <td>0</td>
     </tr>
     <tr>
+      <td>83.69381</td>
+      <td>78.103333</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Il Diritto Di Riscatto</td>
       <td>Docklands United Football Club</td>
       <td>0</td>
@@ -27,6 +55,20 @@
       <td>0</td>
       <td>0</td>
       <td>0</td>
+    </tr>
+    <tr>
+      <td>77.824762</td>
+      <td>84.87381</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Apocalypse Now - This is the end</th><table border="1" class="dataframe">
@@ -48,6 +90,16 @@
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ans Rei Sport Verein</td>
+      <td>Sic Mundus</td>
+      <td>76</td>
+      <td>82.5</td>
+      <td>2</td>
+      <td>3</td>
       <td></td>
       <td></td>
     </tr>

@@ -86,20 +86,20 @@
     <tr>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
-      <td>Ans Rei Sport Verein</td>
-      <td>Sic Mundus</td>
-      <td>76</td>
-      <td>82.5</td>
-      <td>2</td>
-      <td>3</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>

@@ -948,24 +948,24 @@
     <tr>
       <td>Il Diritto Di Riscatto</td>
       <td>Ans Rei Sport Verein</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>78.0</td>
+      <td>66.0</td>
+      <td>3</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>Docklands United Football Club</td>
       <td>CS Cannabis Street</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>71.5</td>
+      <td>76.0</td>
+      <td>1</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Sic Mundus</td>
       <td>Fantacalcio for Dumfries</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>62.0</td>
+      <td>64.5</td>
       <td>0</td>
       <td>0</td>
     </tr>

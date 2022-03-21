@@ -972,10 +972,10 @@
     <tr>
       <td>USS Torquemada</td>
       <td>Piove sul Bagnato</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>74.5</td>
+      <td>73.0</td>
+      <td>2</td>
+      <td>2</td>
     </tr>
   </tbody>
 </table><th><br/></th><li><a href="https://denno985.github.io/giornate/29" class="active">29a giornata</a></li><table border="1" class="dataframe">

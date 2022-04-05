@@ -983,34 +983,34 @@
     <tr>
       <td>CS Cannabis Street</td>
       <td>Piove sul Bagnato</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>74.0</td>
+      <td>71.5</td>
+      <td>2</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>Il Diritto Di Riscatto</td>
       <td>USS Torquemada</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>73.0</td>
+      <td>72.0</td>
+      <td>2</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Ans Rei Sport Verein</td>
       <td>Sic Mundus</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>67.5</td>
+      <td>66.5</td>
+      <td>1</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>Fantacalcio for Dumfries</td>
       <td>Docklands United Football Club</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>62.0</td>
+      <td>68.0</td>
       <td>0</td>
-      <td>0</td>
+      <td>1</td>
     </tr>
   </tbody>
 </table><th><br/></th><li><a href="https://denno985.github.io/giornate/30" class="active">30a giornata</a></li><table border="1" class="dataframe">

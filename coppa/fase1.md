@@ -44,13 +44,13 @@
       <td>CS Cannabis Street</td>
       <td>63</td>
     </tr>
+  </tbody>
+</table><table border="1" class="dataframe">
+  <tbody>
     <tr>
       <td>2a giornata</td>
       <td>Pti</td>
     </tr>
-  </tbody>
-</table><table border="1" class="dataframe">
-  <tbody>
     <tr>
       <td>Supersquadra A</td>
       <td></td>
@@ -91,6 +91,9 @@
       <td>USS Torquemada</td>
       <td>77</td>
     </tr>
+  </tbody>
+</table><table border="1" class="dataframe">
+  <tbody>
     <tr>
       <td>3a giornata</td>
       <td>Pti</td>
@@ -99,9 +102,6 @@
       <td>Supersquadra A</td>
       <td></td>
     </tr>
-  </tbody>
-</table><table border="1" class="dataframe">
-  <tbody>
     <tr>
       <td>Sic Mundus</td>
       <td>73.5</td>

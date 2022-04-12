@@ -143,7 +143,6 @@
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>level_0</th>
       <th>Squadra</th>
       <th>Punti</th>
       <th>Bonus</th>
@@ -153,7 +152,6 @@
   <tbody>
     <tr>
       <th>1</th>
-      <td>0</td>
       <td>Supersquadra A</td>
       <td>921</td>
       <td>10</td>
@@ -161,7 +159,6 @@
     </tr>
     <tr>
       <th>2</th>
-      <td>1</td>
       <td>Il Diritto Di Riscatto</td>
       <td>235.5</td>
       <td>5</td>
@@ -169,7 +166,6 @@
     </tr>
     <tr>
       <th>3</th>
-      <td>2</td>
       <td>Fantacalcio for Dumfries</td>
       <td>233</td>
       <td>0</td>
@@ -177,7 +173,6 @@
     </tr>
     <tr>
       <th>4</th>
-      <td>4</td>
       <td>Sic Mundus</td>
       <td>225</td>
       <td>5</td>
@@ -185,7 +180,6 @@
     </tr>
     <tr>
       <th>5</th>
-      <td>3</td>
       <td>Piove sul Bagnato</td>
       <td>227.5</td>
       <td>0</td>
@@ -196,7 +190,6 @@
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>level_0</th>
       <th>Squadra</th>
       <th>Punti</th>
       <th>Bonus</th>
@@ -206,7 +199,6 @@
   <tbody>
     <tr>
       <th>1</th>
-      <td>0</td>
       <td>Supersquadra B</td>
       <td>885</td>
       <td>-10</td>
@@ -214,7 +206,6 @@
     </tr>
     <tr>
       <th>2</th>
-      <td>1</td>
       <td>Docklands United Football Club</td>
       <td>232</td>
       <td>0</td>
@@ -222,7 +213,6 @@
     </tr>
     <tr>
       <th>3</th>
-      <td>2</td>
       <td>Ans Rei Sport Verein</td>
       <td>221</td>
       <td>0</td>
@@ -230,7 +220,6 @@
     </tr>
     <tr>
       <th>4</th>
-      <td>3</td>
       <td>USS Torquemada</td>
       <td>219</td>
       <td>-5</td>
@@ -238,7 +227,6 @@
     </tr>
     <tr>
       <th>5</th>
-      <td>4</td>
       <td>CS Cannabis Street</td>
       <td>213</td>
       <td>-5</td>

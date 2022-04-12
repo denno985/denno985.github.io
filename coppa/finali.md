@@ -17,10 +17,10 @@
     <tr>
       <td>USS Torquemada</td>
       <td>Fantacalcio for Dumfries</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>67</td>
+      <td>79</td>
+      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -45,10 +45,10 @@
     <tr>
       <td>Il Diritto Di Riscatto</td>
       <td>Docklands United Football Club</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>75</td>
+      <td>79.5</td>
+      <td>2</td>
+      <td>3</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>

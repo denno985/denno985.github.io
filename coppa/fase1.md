@@ -1,10 +1,6 @@
 <style>th{background-color: rgb(42, 87, 235);color: white;}</style><th>Calendario</th><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>Il Mucchio Selvaggio</td>
-      <td></td>
-    </tr>
-    <tr>
       <td>1a giornata</td>
       <td>Pti</td>
     </tr>

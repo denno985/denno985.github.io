@@ -1018,33 +1018,33 @@
     <tr>
       <td>Piove sul Bagnato</td>
       <td>Fantacalcio for Dumfries</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>76.0</td>
+      <td>79.0</td>
+      <td>2</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>Docklands United Football Club</td>
       <td>Ans Rei Sport Verein</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>79.5</td>
+      <td>68.0</td>
+      <td>3</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>Sic Mundus</td>
       <td>Il Diritto Di Riscatto</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>67.5</td>
+      <td>75.0</td>
+      <td>1</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>USS Torquemada</td>
       <td>CS Cannabis Street</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
+      <td>67.0</td>
+      <td>59.0</td>
+      <td>1</td>
       <td>0</td>
     </tr>
   </tbody>

@@ -19,44 +19,44 @@
     <tr>
       <th>1</th>
       <td>USS Torquemada</td>
-      <td>57</td>
-      <td>30</td>
+      <td>58</td>
+      <td>31</td>
       <td>17</td>
-      <td>6</td>
       <td>7</td>
-      <td>49</td>
-      <td>39</td>
+      <td>7</td>
+      <td>50</td>
+      <td>40</td>
       <td>10</td>
-      <td>2172.5</td>
-      <td>72.42</td>
+      <td>2240</td>
+      <td>72.26</td>
     </tr>
     <tr>
       <th>2</th>
       <td>Il Diritto Di Riscatto</td>
-      <td>50</td>
-      <td>30</td>
+      <td>51</td>
+      <td>31</td>
       <td>14</td>
+      <td>9</td>
       <td>8</td>
-      <td>8</td>
-      <td>58</td>
-      <td>53</td>
+      <td>60</td>
+      <td>55</td>
       <td>5</td>
-      <td>2235</td>
-      <td>74.50</td>
+      <td>2307</td>
+      <td>74.42</td>
     </tr>
     <tr>
       <th>3</th>
       <td>Docklands United Football Club</td>
-      <td>42</td>
-      <td>30</td>
+      <td>43</td>
+      <td>31</td>
       <td>11</td>
-      <td>9</td>
       <td>10</td>
-      <td>51</td>
-      <td>45</td>
+      <td>10</td>
+      <td>53</td>
+      <td>47</td>
       <td>6</td>
-      <td>2199.5</td>
-      <td>73.32</td>
+      <td>2273.5</td>
+      <td>73.34</td>
     </tr>
     <tr>
       <th>4</th>
@@ -89,16 +89,16 @@
     <tr>
       <th>6</th>
       <td>Sic Mundus</td>
-      <td>34</td>
-      <td>30</td>
+      <td>35</td>
+      <td>31</td>
       <td>8</td>
-      <td>10</td>
+      <td>11</td>
       <td>12</td>
-      <td>45</td>
       <td>46</td>
+      <td>47</td>
       <td>-1</td>
-      <td>2135.5</td>
-      <td>71.18</td>
+      <td>2203</td>
+      <td>71.06</td>
     </tr>
     <tr>
       <th>7</th>
@@ -141,32 +141,32 @@
     <tr>
       <th>1</th>
       <td>Il Diritto Di Riscatto</td>
-      <td>2235</td>
+      <td>2307</td>
     </tr>
     <tr>
       <th>2</th>
       <td>Docklands United Football Club</td>
-      <td>2199.5</td>
+      <td>2273.5</td>
     </tr>
     <tr>
       <th>3</th>
       <td>USS Torquemada</td>
-      <td>2172.5</td>
+      <td>2240</td>
     </tr>
     <tr>
       <th>4</th>
+      <td>Sic Mundus</td>
+      <td>2203</td>
+    </tr>
+    <tr>
+      <th>5</th>
       <td>Ans Rei Sport Verein</td>
       <td>2160</td>
     </tr>
     <tr>
-      <th>5</th>
+      <th>6</th>
       <td>Fantacalcio for Dumfries</td>
       <td>2148</td>
-    </tr>
-    <tr>
-      <th>6</th>
-      <td>Sic Mundus</td>
-      <td>2135.5</td>
     </tr>
     <tr>
       <th>7</th>
@@ -824,44 +824,44 @@
     <tr>
       <th>1</th>
       <td>Docklands United Football Club</td>
-      <td>6</td>
-      <td>2</td>
-      <td>2</td>
-      <td>0</td>
-      <td>0</td>
-      <td>4</td>
-      <td>1</td>
+      <td>7</td>
       <td>3</td>
-      <td>147.5</td>
-      <td>73.75</td>
+      <td>2</td>
+      <td>1</td>
+      <td>0</td>
+      <td>6</td>
+      <td>3</td>
+      <td>3</td>
+      <td>221.5</td>
+      <td>73.83</td>
     </tr>
     <tr>
       <th>2</th>
       <td>Il Diritto Di Riscatto</td>
-      <td>4</td>
-      <td>2</td>
-      <td>1</td>
-      <td>1</td>
-      <td>0</td>
-      <td>4</td>
+      <td>5</td>
       <td>3</td>
       <td>1</td>
-      <td>148</td>
-      <td>74.00</td>
+      <td>2</td>
+      <td>0</td>
+      <td>6</td>
+      <td>5</td>
+      <td>1</td>
+      <td>220</td>
+      <td>73.33</td>
     </tr>
     <tr>
       <th>3</th>
       <td>USS Torquemada</td>
-      <td>4</td>
-      <td>2</td>
-      <td>1</td>
-      <td>1</td>
-      <td>0</td>
+      <td>5</td>
       <td>3</td>
-      <td>2</td>
       <td>1</td>
-      <td>139</td>
-      <td>69.50</td>
+      <td>2</td>
+      <td>0</td>
+      <td>4</td>
+      <td>3</td>
+      <td>1</td>
+      <td>206.5</td>
+      <td>68.83</td>
     </tr>
     <tr>
       <th>4</th>
@@ -893,6 +893,20 @@
     </tr>
     <tr>
       <th>6</th>
+      <td>Sic Mundus</td>
+      <td>2</td>
+      <td>3</td>
+      <td>0</td>
+      <td>2</td>
+      <td>1</td>
+      <td>3</td>
+      <td>4</td>
+      <td>-1</td>
+      <td>201.5</td>
+      <td>67.17</td>
+    </tr>
+    <tr>
+      <th>7</th>
       <td>Ans Rei Sport Verein</td>
       <td>1</td>
       <td>2</td>
@@ -904,20 +918,6 @@
       <td>-2</td>
       <td>135.5</td>
       <td>67.75</td>
-    </tr>
-    <tr>
-      <th>7</th>
-      <td>Sic Mundus</td>
-      <td>1</td>
-      <td>2</td>
-      <td>0</td>
-      <td>1</td>
-      <td>1</td>
-      <td>2</td>
-      <td>3</td>
-      <td>-1</td>
-      <td>134</td>
-      <td>67.00</td>
     </tr>
     <tr>
       <th>8</th>

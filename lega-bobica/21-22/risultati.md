@@ -1061,16 +1061,16 @@
     <tr>
       <td>Ans Rei Sport Verein</td>
       <td>Piove sul Bagnato</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>66.5</td>
+      <td>74.0</td>
+      <td>1</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Fantacalcio for Dumfries</td>
       <td>CS Cannabis Street</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>63.0</td>
+      <td>64.5</td>
       <td>0</td>
       <td>0</td>
     </tr>
@@ -1078,7 +1078,7 @@
       <td>Sic Mundus</td>
       <td>USS Torquemada</td>
       <td>67.5</td>
-      <td>67.5</td>
+      <td>68.5</td>
       <td>1</td>
       <td>1</td>
     </tr>

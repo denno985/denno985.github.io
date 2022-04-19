@@ -1053,10 +1053,10 @@
     <tr>
       <td>Il Diritto Di Riscatto</td>
       <td>Docklands United Football Club</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>72.0</td>
+      <td>74.0</td>
+      <td>2</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Ans Rei Sport Verein</td>
@@ -1077,10 +1077,10 @@
     <tr>
       <td>Sic Mundus</td>
       <td>USS Torquemada</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>67.5</td>
+      <td>67.5</td>
+      <td>1</td>
+      <td>1</td>
     </tr>
   </tbody>
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/21-22/giornate/32" class="active">32a giornata</a></li><table border="1" class="dataframe">

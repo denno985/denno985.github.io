@@ -1088,34 +1088,34 @@
     <tr>
       <td>CS Cannabis Street</td>
       <td>Ans Rei Sport Verein</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>73.0</td>
+      <td>71.5</td>
+      <td>2</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>Piove sul Bagnato</td>
       <td>Il Diritto Di Riscatto</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>70.0</td>
+      <td>66.5</td>
+      <td>1</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>Docklands United Football Club</td>
       <td>Sic Mundus</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>66.5</td>
+      <td>67.5</td>
+      <td>1</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>USS Torquemada</td>
       <td>Fantacalcio for Dumfries</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>64.0</td>
+      <td>70.5</td>
       <td>0</td>
-      <td>0</td>
+      <td>1</td>
     </tr>
   </tbody>
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/21-22/giornate/33" class="active">33a giornata</a></li><table border="1" class="dataframe">

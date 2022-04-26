@@ -21,10 +21,10 @@
       <td>79</td>
       <td>1</td>
       <td>3</td>
+      <td>64</td>
+      <td>70.5</td>
       <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>1</td>
       <td>0</td>
       <td>0</td>
     </tr>
@@ -49,10 +49,10 @@
       <td>79.5</td>
       <td>2</td>
       <td>3</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>66.5</td>
+      <td>66.5</td>
+      <td>1</td>
+      <td>1</td>
       <td>0</td>
       <td>0</td>
     </tr>
@@ -84,8 +84,8 @@
       <td>rigori</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Fantacalcio for Dumfries</td>
+      <td>Docklands United Football Club</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -95,7 +95,7 @@
     </tr>
     <tr>
       <td></td>
-      <td></td>
+      <td>0</td>
       <td></td>
       <td></td>
       <td></td>

@@ -1123,34 +1123,34 @@
     <tr>
       <td>Il Diritto Di Riscatto</td>
       <td>CS Cannabis Street</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>72.0</td>
+      <td>73.5</td>
+      <td>2</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Ans Rei Sport Verein</td>
       <td>Fantacalcio for Dumfries</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>66.5</td>
+      <td>76.0</td>
+      <td>1</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Docklands United Football Club</td>
       <td>USS Torquemada</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>79.5</td>
+      <td>72.5</td>
+      <td>3</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Sic Mundus</td>
       <td>Piove sul Bagnato</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>69.5</td>
+      <td>67.5</td>
+      <td>1</td>
+      <td>1</td>
     </tr>
   </tbody>
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/21-22/giornate/34" class="active">34a giornata</a></li><table border="1" class="dataframe">

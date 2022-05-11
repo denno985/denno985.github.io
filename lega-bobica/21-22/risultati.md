@@ -1158,34 +1158,34 @@
     <tr>
       <td>CS Cannabis Street</td>
       <td>Sic Mundus</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>68.0</td>
+      <td>67.0</td>
+      <td>1</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>Piove sul Bagnato</td>
       <td>Docklands United Football Club</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>78.0</td>
+      <td>76.5</td>
+      <td>3</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Ans Rei Sport Verein</td>
       <td>USS Torquemada</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
+      <td>91.0</td>
+      <td>62.5</td>
+      <td>5</td>
       <td>0</td>
     </tr>
     <tr>
       <td>Fantacalcio for Dumfries</td>
       <td>Il Diritto Di Riscatto</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>65.0</td>
+      <td>73.5</td>
       <td>0</td>
-      <td>0</td>
+      <td>2</td>
     </tr>
   </tbody>
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/21-22/giornate/35" class="active">35a giornata</a></li><table border="1" class="dataframe">

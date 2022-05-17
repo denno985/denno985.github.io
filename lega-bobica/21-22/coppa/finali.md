@@ -86,10 +86,10 @@
     <tr>
       <td>Fantacalcio for Dumfries</td>
       <td>Docklands United Football Club</td>
+      <td>61.5</td>
+      <td>75</td>
       <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>2</td>
       <td>0</td>
       <td>0</td>
     </tr>

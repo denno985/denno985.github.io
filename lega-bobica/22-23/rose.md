@@ -514,7 +514,7 @@
             <b class="text-dark-blue">4</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -542,7 +542,7 @@
             <b class="text-dark-blue">5</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -570,7 +570,7 @@
             <b class="text-dark-blue">4</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -598,7 +598,7 @@
             <b class="text-dark-blue">4</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -626,7 +626,7 @@
             <b class="text-dark-blue">6</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -654,7 +654,7 @@
             <b class="text-dark-blue">13</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -682,7 +682,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -710,7 +710,7 @@
             <b class="text-dark-blue">2</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -738,7 +738,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -766,7 +766,7 @@
             <b class="text-dark-blue">7</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -794,7 +794,7 @@
             <b class="text-dark-blue">19</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -822,7 +822,7 @@
             <b class="text-dark-blue">8</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -850,7 +850,7 @@
             <b class="text-dark-blue">12</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -878,7 +878,7 @@
             <b class="text-dark-blue">19</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -906,7 +906,7 @@
             <b class="text-dark-blue">15</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -934,7 +934,7 @@
             <b class="text-dark-blue">8</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -962,7 +962,7 @@
             <b class="text-dark-blue">30</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -990,7 +990,7 @@
             <b class="text-dark-blue">12</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -1018,7 +1018,7 @@
             <b class="text-dark-blue">6</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -1046,7 +1046,7 @@
             <b class="text-dark-blue">67</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -1074,7 +1074,7 @@
             <b class="text-dark-blue">11</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -1102,7 +1102,7 @@
             <b class="text-dark-blue">8</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -1130,7 +1130,7 @@
             <b class="text-dark-blue">75</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -1158,7 +1158,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -1186,7 +1186,7 @@
             <b class="text-dark-blue">70</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -1207,7 +1207,7 @@
                                                             d'acquisto</small></div>
                                                 </td>
                                                 <td class="text-right x4 cell-team-info">
-                                                    <div class="team-main-info full-width">11<i
+                                                    <div class="team-main-info full-width">36<i
                                                             class="icon fg-fm"></i><small>Anni Rimanenti</small>
                                                     </div>
                                                 </td>
@@ -1299,7 +1299,7 @@
             <b class="text-dark-blue">16</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -1327,7 +1327,7 @@
             <b class="text-dark-blue">2</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -1355,7 +1355,7 @@
             <b class="text-dark-blue">6</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -1383,7 +1383,7 @@
             <b class="text-dark-blue">6</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -1411,7 +1411,7 @@
             <b class="text-dark-blue">2</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -1439,7 +1439,7 @@
             <b class="text-dark-blue">10</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -1467,7 +1467,7 @@
             <b class="text-dark-blue">5</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -1495,7 +1495,7 @@
             <b class="text-dark-blue">4</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -1523,7 +1523,7 @@
             <b class="text-dark-blue">5</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -1551,7 +1551,7 @@
             <b class="text-dark-blue">10</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -1579,7 +1579,7 @@
             <b class="text-dark-blue">4</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -1607,7 +1607,7 @@
             <b class="text-dark-blue">8</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -1635,7 +1635,7 @@
             <b class="text-dark-blue">112</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -1663,7 +1663,7 @@
             <b class="text-dark-blue">20</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -1691,7 +1691,7 @@
             <b class="text-dark-blue">3</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -1719,7 +1719,7 @@
             <b class="text-dark-blue">16</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -1747,7 +1747,7 @@
             <b class="text-dark-blue">31</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -1775,7 +1775,7 @@
             <b class="text-dark-blue">6</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -1803,7 +1803,7 @@
             <b class="text-dark-blue">20</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -1831,7 +1831,7 @@
             <b class="text-dark-blue">42</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -1859,7 +1859,7 @@
             <b class="text-dark-blue">230</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -1887,7 +1887,7 @@
             <b class="text-dark-blue">10</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -1908,7 +1908,7 @@
                                                             d'acquisto</small></div>
                                                 </td>
                                                 <td class="text-right x4 cell-team-info">
-                                                    <div class="team-main-info full-width">17<i
+                                                    <div class="team-main-info full-width">39<i
                                                             class="icon fg-fm"></i><small>Anni Rimanenti</small>
                                                     </div>
                                                 </td>
@@ -2000,7 +2000,7 @@
             <b class="text-dark-blue">61</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -2028,7 +2028,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -2056,7 +2056,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -2084,7 +2084,7 @@
             <b class="text-dark-blue">3</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -2112,7 +2112,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -2140,7 +2140,7 @@
             <b class="text-dark-blue">11</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -2168,7 +2168,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -2196,7 +2196,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -2224,7 +2224,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -2252,7 +2252,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -2280,7 +2280,7 @@
             <b class="text-dark-blue">5</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -2308,7 +2308,7 @@
             <b class="text-dark-blue">11</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -2336,7 +2336,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -2364,7 +2364,7 @@
             <b class="text-dark-blue">4</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -2392,7 +2392,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -2420,7 +2420,7 @@
             <b class="text-dark-blue">2</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -2448,7 +2448,7 @@
             <b class="text-dark-blue">30</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -2476,7 +2476,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -2504,7 +2504,7 @@
             <b class="text-dark-blue">4</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -2532,7 +2532,7 @@
             <b class="text-dark-blue">85</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -2560,7 +2560,7 @@
             <b class="text-dark-blue">37</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -2588,7 +2588,7 @@
             <b class="text-dark-blue">7</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -2616,7 +2616,7 @@
             <b class="text-dark-blue">67</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -2644,7 +2644,7 @@
             <b class="text-dark-blue">22</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -2672,7 +2672,7 @@
             <b class="text-dark-blue">25</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -2693,7 +2693,7 @@
                                                             d'acquisto</small></div>
                                                 </td>
                                                 <td class="text-right x4 cell-team-info">
-                                                    <div class="team-main-info full-width">18<i
+                                                    <div class="team-main-info full-width">43<i
                                                             class="icon fg-fm"></i><small>Anni Rimanenti</small>
                                                     </div>
                                                 </td>
@@ -2785,7 +2785,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -2813,7 +2813,7 @@
             <b class="text-dark-blue">37</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -2841,7 +2841,7 @@
             <b class="text-dark-blue">4</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -2869,7 +2869,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -2897,7 +2897,7 @@
             <b class="text-dark-blue">21</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -2925,7 +2925,7 @@
             <b class="text-dark-blue">2</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -2953,7 +2953,7 @@
             <b class="text-dark-blue">14</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -2981,7 +2981,7 @@
             <b class="text-dark-blue">23</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -3009,7 +3009,7 @@
             <b class="text-dark-blue">30</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -3037,7 +3037,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -3065,7 +3065,7 @@
             <b class="text-dark-blue">10</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -3093,7 +3093,7 @@
             <b class="text-dark-blue">83</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -3121,7 +3121,7 @@
             <b class="text-dark-blue">5</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -3149,7 +3149,7 @@
             <b class="text-dark-blue">37</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -3177,7 +3177,7 @@
             <b class="text-dark-blue">5</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -3205,7 +3205,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -3233,7 +3233,7 @@
             <b class="text-dark-blue">66</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -3261,7 +3261,7 @@
             <b class="text-dark-blue">193</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -3282,7 +3282,7 @@
                                                             d'acquisto</small></div>
                                                 </td>
                                                 <td class="text-right x4 cell-team-info">
-                                                    <div class="team-main-info full-width">29<i
+                                                    <div class="team-main-info full-width">47<i
                                                             class="icon fg-fm"></i><small>Anni Rimanenti</small>
                                                     </div>
                                                 </td>
@@ -3374,7 +3374,7 @@
             <b class="text-dark-blue">0</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -3402,7 +3402,7 @@
             <b class="text-dark-blue">18</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -3430,7 +3430,7 @@
             <b class="text-dark-blue">4</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -3458,7 +3458,7 @@
             <b class="text-dark-blue">19</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -3486,7 +3486,7 @@
             <b class="text-dark-blue">6</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -3514,7 +3514,7 @@
             <b class="text-dark-blue">7</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -3542,7 +3542,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -3570,7 +3570,7 @@
             <b class="text-dark-blue">4</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -3598,7 +3598,7 @@
             <b class="text-dark-blue">4</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -3626,7 +3626,7 @@
             <b class="text-dark-blue">41</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -3654,7 +3654,7 @@
             <b class="text-dark-blue">3</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -3682,7 +3682,7 @@
             <b class="text-dark-blue">8</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -3710,7 +3710,7 @@
             <b class="text-dark-blue">15</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -3738,7 +3738,7 @@
             <b class="text-dark-blue">8</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -3766,7 +3766,7 @@
             <b class="text-dark-blue">12</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -3794,7 +3794,7 @@
             <b class="text-dark-blue">18</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -3822,7 +3822,7 @@
             <b class="text-dark-blue">22</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -3850,7 +3850,7 @@
             <b class="text-dark-blue">6</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -3878,7 +3878,7 @@
             <b class="text-dark-blue">27</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -3906,7 +3906,7 @@
             <b class="text-dark-blue">70</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -3934,7 +3934,7 @@
             <b class="text-dark-blue">17</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -3962,7 +3962,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -3990,7 +3990,7 @@
             <b class="text-dark-blue">4</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -4018,7 +4018,7 @@
             <b class="text-dark-blue">52</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -4046,7 +4046,7 @@
             <b class="text-dark-blue">6</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -4074,7 +4074,7 @@
             <b class="text-dark-blue">50</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -4102,7 +4102,7 @@
             <b class="text-dark-blue">47</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -4130,7 +4130,7 @@
             <b class="text-dark-blue">172</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -4151,7 +4151,7 @@
                                                             d'acquisto</small></div>
                                                 </td>
                                                 <td class="text-right x4 cell-team-info">
-                                                    <div class="team-main-info full-width">15<i
+                                                    <div class="team-main-info full-width">43<i
                                                             class="icon fg-fm"></i><small>Anni Rimanenti</small>
                                                     </div>
                                                 </td>
@@ -4243,7 +4243,7 @@
             <b class="text-dark-blue">2</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -4271,7 +4271,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -4299,7 +4299,7 @@
             <b class="text-dark-blue">56</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -4327,7 +4327,7 @@
             <b class="text-dark-blue">9</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -4355,7 +4355,7 @@
             <b class="text-dark-blue">10</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -4383,7 +4383,7 @@
             <b class="text-dark-blue">9</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -4411,7 +4411,7 @@
             <b class="text-dark-blue">4</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -4439,7 +4439,7 @@
             <b class="text-dark-blue">8</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -4467,7 +4467,7 @@
             <b class="text-dark-blue">9</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -4495,7 +4495,7 @@
             <b class="text-dark-blue">7</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -4523,7 +4523,7 @@
             <b class="text-dark-blue">15</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -4551,7 +4551,7 @@
             <b class="text-dark-blue">9</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -4579,7 +4579,7 @@
             <b class="text-dark-blue">5</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -4607,7 +4607,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -4635,7 +4635,7 @@
             <b class="text-dark-blue">2</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -4663,7 +4663,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -4691,7 +4691,7 @@
             <b class="text-dark-blue">80</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -4719,7 +4719,7 @@
             <b class="text-dark-blue">3</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -4747,7 +4747,7 @@
             <b class="text-dark-blue">50</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -4775,7 +4775,7 @@
             <b class="text-dark-blue">15</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -4803,7 +4803,7 @@
             <b class="text-dark-blue">11</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -4831,7 +4831,7 @@
             <b class="text-dark-blue">10</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -4859,7 +4859,7 @@
             <b class="text-dark-blue">146</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -4887,7 +4887,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -4915,7 +4915,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -4943,7 +4943,7 @@
             <b class="text-dark-blue">19</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -4964,7 +4964,7 @@
                                                             d'acquisto</small></div>
                                                 </td>
                                                 <td class="text-right x4 cell-team-info">
-                                                    <div class="team-main-info full-width">14<i
+                                                    <div class="team-main-info full-width">40<i
                                                             class="icon fg-fm"></i><small>Anni Rimanenti</small>
                                                     </div>
                                                 </td>
@@ -5056,7 +5056,7 @@
             <b class="text-dark-blue">57</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -5084,7 +5084,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -5112,7 +5112,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -5140,7 +5140,7 @@
             <b class="text-dark-blue">10</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -5168,7 +5168,7 @@
             <b class="text-dark-blue">14</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -5196,7 +5196,7 @@
             <b class="text-dark-blue">5</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -5224,7 +5224,7 @@
             <b class="text-dark-blue">4</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -5252,7 +5252,7 @@
             <b class="text-dark-blue">17</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -5280,7 +5280,7 @@
             <b class="text-dark-blue">11</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -5308,7 +5308,7 @@
             <b class="text-dark-blue">9</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -5336,7 +5336,7 @@
             <b class="text-dark-blue">17</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -5364,7 +5364,7 @@
             <b class="text-dark-blue">10</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -5392,7 +5392,7 @@
             <b class="text-dark-blue">36</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -5420,7 +5420,7 @@
             <b class="text-dark-blue">5</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -5448,7 +5448,7 @@
             <b class="text-dark-blue">5</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -5476,7 +5476,7 @@
             <b class="text-dark-blue">11</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -5504,7 +5504,7 @@
             <b class="text-dark-blue">16</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -5532,7 +5532,7 @@
             <b class="text-dark-blue">10</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -5560,7 +5560,7 @@
             <b class="text-dark-blue">54</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -5588,7 +5588,7 @@
             <b class="text-dark-blue">7</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -5616,7 +5616,7 @@
             <b class="text-dark-blue">9</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -5644,7 +5644,7 @@
             <b class="text-dark-blue">20</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -5672,7 +5672,7 @@
             <b class="text-dark-blue">19</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -5700,7 +5700,7 @@
             <b class="text-dark-blue">8</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -5728,7 +5728,7 @@
             <b class="text-dark-blue">75</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -5756,7 +5756,7 @@
             <b class="text-dark-blue">57</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -5777,7 +5777,7 @@
                                                             d'acquisto</small></div>
                                                 </td>
                                                 <td class="text-right x4 cell-team-info">
-                                                    <div class="team-main-info full-width">11<i
+                                                    <div class="team-main-info full-width">37<i
                                                             class="icon fg-fm"></i><small>Anni Rimanenti</small>
                                                     </div>
                                                 </td>
@@ -5869,7 +5869,7 @@
             <b class="text-dark-blue">5</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -5897,7 +5897,7 @@
             <b class="text-dark-blue">11</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -5925,7 +5925,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -5953,7 +5953,7 @@
             <b class="text-dark-blue">35</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -5981,7 +5981,7 @@
             <b class="text-dark-blue">19</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -6009,7 +6009,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -6037,7 +6037,7 @@
             <b class="text-dark-blue">3</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -6065,7 +6065,7 @@
             <b class="text-dark-blue">6</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -6093,7 +6093,7 @@
             <b class="text-dark-blue">6</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -6121,7 +6121,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">2</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -6149,7 +6149,7 @@
             <b class="text-dark-blue">75</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -6177,7 +6177,7 @@
             <b class="text-dark-blue">7</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -6205,7 +6205,7 @@
             <b class="text-dark-blue">5</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -6233,7 +6233,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -6261,7 +6261,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -6289,7 +6289,7 @@
             <b class="text-dark-blue">8</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -6317,7 +6317,7 @@
             <b class="text-dark-blue">8</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -6345,7 +6345,7 @@
             <b class="text-dark-blue">9</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -6373,7 +6373,7 @@
             <b class="text-dark-blue">9</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -6401,7 +6401,7 @@
             <b class="text-dark-blue">12</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -6429,7 +6429,7 @@
             <b class="text-dark-blue">50</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -6457,7 +6457,7 @@
             <b class="text-dark-blue">261</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">1</b>
+            <b class="text-blue2">0</b>
         </td>
     </tr>
                     
@@ -6485,7 +6485,7 @@
             <b class="text-dark-blue">7</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">3</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -6506,7 +6506,7 @@
                                                             d'acquisto</small></div>
                                                 </td>
                                                 <td class="text-right x4 cell-team-info">
-                                                    <div class="team-main-info full-width">15<i
+                                                    <div class="team-main-info full-width">38<i
                                                             class="icon fg-fm"></i><small>Anni Rimanenti</small>
                                                     </div>
                                                 </td>

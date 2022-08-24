@@ -15,22 +15,8 @@
       <td>rigori</td>
     </tr>
     <tr>
-      <td>USS Torquemada</td>
-      <td>Fantacalcio for Dumfries</td>
-      <td>67</td>
-      <td>79</td>
-      <td>1</td>
-      <td>3</td>
-      <td>64</td>
-      <td>70.5</td>
-      <td>0</td>
-      <td>1</td>
-      <td>0</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>83.69381</td>
-      <td>78.103333</td>
+      <td>Semif. 1</td>
+      <td>Semif. 2</td>
       <td></td>
       <td></td>
       <td></td>
@@ -39,26 +25,40 @@
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Il Diritto Di Riscatto</td>
-      <td>Docklands United Football Club</td>
-      <td>75</td>
-      <td>79.5</td>
-      <td>2</td>
-      <td>3</td>
-      <td>66.5</td>
-      <td>66.5</td>
-      <td>1</td>
-      <td>1</td>
       <td>0</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>77.824762</td>
-      <td>84.87381</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Semif. 3</td>
+      <td>Semif. 4</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -84,18 +84,18 @@
       <td>rigori</td>
     </tr>
     <tr>
-      <td>Fantacalcio for Dumfries</td>
-      <td>Docklands United Football Club</td>
-      <td>61.5</td>
-      <td>75</td>
+      <td></td>
+      <td></td>
       <td>0</td>
-      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
       <td>0</td>
       <td>0</td>
     </tr>
     <tr>
       <td></td>
-      <td>0</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>

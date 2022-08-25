@@ -14,7 +14,7 @@
     </tr>
     <tr>
       <td>Il Diritto Di Riscatto</td>
-      <td>CS Cannabis Street</td>
+      <td>CS Cardio Salma</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -25,8 +25,8 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Sic Mundus</td>
-      <td>Docklands United Football Club</td>
+      <td>A.F.C. Richmond</td>
+      <td>Docklands United F.C.</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -49,7 +49,7 @@
       <td>Gol</td>
     </tr>
     <tr>
-      <td>Docklands United Football Club</td>
+      <td>Docklands United F.C.</td>
       <td>Il Diritto Di Riscatto</td>
       <td>0</td>
       <td>0</td>
@@ -61,8 +61,8 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>CS Cannabis Street</td>
-      <td>Sic Mundus</td>
+      <td>CS Cardio Salma</td>
+      <td>A.F.C. Richmond</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -85,8 +85,8 @@
       <td>Gol</td>
     </tr>
     <tr>
-      <td>Docklands United Football Club</td>
-      <td>CS Cannabis Street</td>
+      <td>Docklands United F.C.</td>
+      <td>CS Cardio Salma</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -97,7 +97,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Sic Mundus</td>
+      <td>A.F.C. Richmond</td>
       <td>Il Diritto Di Riscatto</td>
       <td>0</td>
       <td>0</td>
@@ -129,7 +129,7 @@
   <tbody>
     <tr>
       <th>1</th>
-      <td>Docklands United Football Club</td>
+      <td>Docklands United F.C.</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -157,7 +157,7 @@
     </tr>
     <tr>
       <th>3</th>
-      <td>Sic Mundus</td>
+      <td>A.F.C. Richmond</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -171,7 +171,7 @@
     </tr>
     <tr>
       <th>4</th>
-      <td>CS Cannabis Street</td>
+      <td>CS Cardio Salma</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>

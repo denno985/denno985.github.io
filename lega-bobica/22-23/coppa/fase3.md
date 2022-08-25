@@ -13,7 +13,7 @@
       <td>Gol</td>
     </tr>
     <tr>
-      <td>Docklands United Football Club</td>
+      <td>Docklands United F.C.</td>
       <td>riposa</td>
       <td>0</td>
       <td></td>
@@ -50,7 +50,7 @@
     </tr>
     <tr>
       <td>Il Diritto Di Riscatto</td>
-      <td>Docklands United Football Club</td>
+      <td>Docklands United F.C.</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -85,7 +85,7 @@
       <td>Gol</td>
     </tr>
     <tr>
-      <td>Docklands United Football Club</td>
+      <td>Docklands United F.C.</td>
       <td>Ans Rei Sport Verein</td>
       <td>0</td>
       <td>0</td>
@@ -157,7 +157,7 @@
     </tr>
     <tr>
       <th>3</th>
-      <td>Docklands United Football Club</td>
+      <td>Docklands United F.C.</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -185,7 +185,7 @@
       <td>Gol</td>
     </tr>
     <tr>
-      <td>CS Cannabis Street</td>
+      <td>CS Cardio Salma</td>
       <td>riposa</td>
       <td>0</td>
       <td></td>
@@ -222,7 +222,7 @@
     </tr>
     <tr>
       <td>Fantacalcio for Dumfries</td>
-      <td>CS Cannabis Street</td>
+      <td>CS Cardio Salma</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -257,7 +257,7 @@
       <td>Gol</td>
     </tr>
     <tr>
-      <td>CS Cannabis Street</td>
+      <td>CS Cardio Salma</td>
       <td>USS Torquemada</td>
       <td>0</td>
       <td>0</td>
@@ -301,7 +301,7 @@
   <tbody>
     <tr>
       <th>1</th>
-      <td>CS Cannabis Street</td>
+      <td>CS Cardio Salma</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>

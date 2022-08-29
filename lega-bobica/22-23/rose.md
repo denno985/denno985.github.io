@@ -1372,7 +1372,7 @@
                                                 </a>
                                             </div>
                                             <div class="media-body">
-                                                <h4 class="media-heading">CS Cardio Salma</h4>
+                                                <h4 class="media-heading">Cs Cannabis Street</h4>
                                                 <h5>Marco</h5>
                                             </div>
                                             <a class="left-heading-link btn btn-clear"
@@ -4932,7 +4932,7 @@
                                                 </a>
                                             </div>
                                             <div class="media-body">
-                                                <h4 class="media-heading">Il Diritto Di Riscatto </h4>
+                                                <h4 class="media-heading">La Domenica del Dipendente Pubblico</h4>
                                                 <h5>Mattia</h5>
                                             </div>
                                             <a class="left-heading-link btn btn-clear"
@@ -6782,7 +6782,7 @@
                                                 </a>
                                             </div>
                                             <div class="media-body">
-                                                <h4 class="media-heading">Fantacalcio for Dumfries</h4>
+                                                <h4 class="media-heading">LeBuscemi Revenge</h4>
                                                 <h5>Ivan</h5>
                                             </div>
                                             <a class="left-heading-link btn btn-clear"

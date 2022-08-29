@@ -21,7 +21,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>CS Cardio Salma</td>
+      <td>Cs Cannabis Street</td>
       <td>0</td>
     </tr>
     <tr>
@@ -33,7 +33,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Il Diritto Di Riscatto</td>
+      <td>La Domenica del Dipendente Pubblico</td>
       <td>0</td>
     </tr>
     <tr>
@@ -41,7 +41,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Fantacalcio for Dumfries</td>
+      <td>LeBuscemi Revenge</td>
       <td>0</td>
     </tr>
   </tbody>
@@ -56,7 +56,7 @@
       <td></td>
     </tr>
     <tr>
-      <td>CS Cardio Salma</td>
+      <td>Cs Cannabis Street</td>
       <td>0</td>
     </tr>
     <tr>
@@ -76,7 +76,7 @@
       <td></td>
     </tr>
     <tr>
-      <td>Fantacalcio for Dumfries</td>
+      <td>LeBuscemi Revenge</td>
       <td>0</td>
     </tr>
     <tr>
@@ -88,7 +88,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Il Diritto Di Riscatto</td>
+      <td>La Domenica del Dipendente Pubblico</td>
       <td>0</td>
     </tr>
   </tbody>
@@ -107,7 +107,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>CS Cardio Salma</td>
+      <td>Cs Cannabis Street</td>
       <td>0</td>
     </tr>
     <tr>
@@ -127,11 +127,11 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Fantacalcio for Dumfries</td>
+      <td>LeBuscemi Revenge</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>Il Diritto Di Riscatto</td>
+      <td>La Domenica del Dipendente Pubblico</td>
       <td>0</td>
     </tr>
     <tr>
@@ -173,7 +173,7 @@
     </tr>
     <tr>
       <th>4</th>
-      <td>CS Cardio Salma</td>
+      <td>Cs Cannabis Street</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -213,14 +213,14 @@
     </tr>
     <tr>
       <th>3</th>
-      <td>Il Diritto Di Riscatto</td>
+      <td>La Domenica del Dipendente Pubblico</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>Fantacalcio for Dumfries</td>
+      <td>LeBuscemi Revenge</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>

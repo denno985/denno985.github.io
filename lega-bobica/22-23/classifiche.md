@@ -74,34 +74,20 @@
     </tr>
     <tr>
       <th>5</th>
-      <td>USS Torquemada</td>
+      <td>Piove sul Bagnato</td>
       <td>3</td>
-      <td>3</td>
+      <td>2</td>
       <td>1</td>
       <td>0</td>
+      <td>1</td>
       <td>2</td>
-      <td>3</td>
-      <td>3</td>
+      <td>2</td>
       <td>0</td>
-      <td>207.5</td>
-      <td>69.17</td>
+      <td>136.5</td>
+      <td>68.25</td>
     </tr>
     <tr>
       <th>6</th>
-      <td>Piove sul Bagnato</td>
-      <td>3</td>
-      <td>3</td>
-      <td>1</td>
-      <td>0</td>
-      <td>2</td>
-      <td>2</td>
-      <td>4</td>
-      <td>-2</td>
-      <td>136.5</td>
-      <td>45.50</td>
-    </tr>
-    <tr>
-      <th>7</th>
       <td>La Domenica del Dipendente Pubblico</td>
       <td>1</td>
       <td>2</td>
@@ -113,6 +99,20 @@
       <td>-1</td>
       <td>155</td>
       <td>77.50</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>USS Torquemada</td>
+      <td>0</td>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>1</td>
+      <td>3</td>
+      <td>-2</td>
+      <td>133.5</td>
+      <td>66.75</td>
     </tr>
     <tr>
       <th>8</th>
@@ -140,38 +140,38 @@
   <tbody>
     <tr>
       <th>1</th>
-      <td>USS Torquemada</td>
-      <td>207.5</td>
-    </tr>
-    <tr>
-      <th>2</th>
       <td>Docklands United F.C.</td>
       <td>159</td>
     </tr>
     <tr>
-      <th>3</th>
+      <th>2</th>
       <td>La Domenica del Dipendente Pubblico</td>
       <td>155</td>
     </tr>
     <tr>
-      <th>4</th>
+      <th>3</th>
       <td>LeBuscemi Revenge</td>
       <td>154.5</td>
     </tr>
     <tr>
-      <th>5</th>
+      <th>4</th>
       <td>Ans Rei Sport Verein</td>
       <td>151.5</td>
     </tr>
     <tr>
-      <th>6</th>
+      <th>5</th>
       <td>A.F.C. Richmond</td>
       <td>137</td>
     </tr>
     <tr>
-      <th>7</th>
+      <th>6</th>
       <td>Piove sul Bagnato</td>
       <td>136.5</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>USS Torquemada</td>
+      <td>133.5</td>
     </tr>
     <tr>
       <th>8</th>
@@ -355,34 +355,20 @@
     </tr>
     <tr>
       <th>5</th>
-      <td>USS Torquemada</td>
+      <td>Piove sul Bagnato</td>
       <td>3</td>
-      <td>3</td>
+      <td>2</td>
       <td>1</td>
       <td>0</td>
+      <td>1</td>
       <td>2</td>
-      <td>3</td>
-      <td>3</td>
+      <td>2</td>
       <td>0</td>
-      <td>207.5</td>
-      <td>69.17</td>
+      <td>136.5</td>
+      <td>68.25</td>
     </tr>
     <tr>
       <th>6</th>
-      <td>Piove sul Bagnato</td>
-      <td>3</td>
-      <td>3</td>
-      <td>1</td>
-      <td>0</td>
-      <td>2</td>
-      <td>2</td>
-      <td>4</td>
-      <td>-2</td>
-      <td>136.5</td>
-      <td>45.50</td>
-    </tr>
-    <tr>
-      <th>7</th>
       <td>La Domenica del Dipendente Pubblico</td>
       <td>1</td>
       <td>2</td>
@@ -394,6 +380,20 @@
       <td>-1</td>
       <td>155</td>
       <td>77.50</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>USS Torquemada</td>
+      <td>0</td>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>1</td>
+      <td>3</td>
+      <td>-2</td>
+      <td>133.5</td>
+      <td>66.75</td>
     </tr>
     <tr>
       <th>8</th>

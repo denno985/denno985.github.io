@@ -1007,12 +1007,12 @@
             <span class="nation-flag nation-ita">ita</span>
         </td>
         <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-            <small class="uppercase">Juventus</small>
+            <small class="uppercase">Monza</small>
         </td>
         <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-            <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
+            <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/monza.png"
                 onerror="handleImageError(this, Settings.missingCrestSrc)" />
-             <small class="ellipsis">Juventus</small>
+             <small class="ellipsis">Monza</small>
         </td>
         <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
             <b class="text-dark-blue">1</b>
@@ -1147,12 +1147,12 @@
             <span class="nation-flag nation-ita">ita</span>
         </td>
         <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-            <small class="uppercase">Verona</small>
+            <small class="uppercase">Fiorentina</small>
         </td>
         <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-            <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/verona.png"
+            <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/fiorentina.png"
                 onerror="handleImageError(this, Settings.missingCrestSrc)" />
-             <small class="ellipsis">Verona</small>
+             <small class="ellipsis">Fiorentina</small>
         </td>
         <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
             <b class="text-dark-blue">8</b>
@@ -1379,7 +1379,7 @@
                                                 href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
                                                 Movimenti</a>
                                         </div>
-                                        <div class="team-main-info"><small>Crediti residui</small>1
+                                        <div class="team-main-info"><small>Crediti residui</small>-7
                                             <i class="icon fg-fm"></i>
                                         </div>
                                     </div>
@@ -1439,7 +1439,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -1467,7 +1467,7 @@
             <b class="text-dark-blue">31</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -1523,7 +1523,7 @@
             <b class="text-dark-blue">10</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -1551,7 +1551,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -1607,7 +1607,35 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">1</b>
+        </td>
+    </tr>
+                    
+        <tr data-id="387" class="">
+        <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+        <span>
+                    <span Class="role role-dd">Dd</span><span Class="role role-dc">Dc</span>
+        </span>
+        </td>
+        <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+            <b class="capitalize">patric</b>
+        </td>
+        <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+            <span class="nation-flag nation-ita">ita</span>
+        </td>
+        <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+            <small class="uppercase">Lazio</small>
+        </td>
+        <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+            <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/lazio.png"
+                onerror="handleImageError(this, Settings.missingCrestSrc)" />
+             <small class="ellipsis">Lazio</small>
+        </td>
+        <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+            <b class="text-dark-blue">8</b>
+        </td>
+        <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -1635,7 +1663,7 @@
             <b class="text-dark-blue">6</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -1663,7 +1691,7 @@
             <b class="text-dark-blue">15</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -1691,7 +1719,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -1719,7 +1747,7 @@
             <b class="text-dark-blue">23</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -1747,7 +1775,7 @@
             <b class="text-dark-blue">12</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -1775,7 +1803,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -1803,7 +1831,7 @@
             <b class="text-dark-blue">3</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -1831,7 +1859,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -1859,7 +1887,7 @@
             <b class="text-dark-blue">3</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -1926,34 +1954,6 @@
         </span>
         </td>
         <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-            <b class="capitalize">matheus henrique</b>
-        </td>
-        <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-            <span class="nation-flag nation-ita">ita</span>
-        </td>
-        <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-            <small class="uppercase">Sassuolo</small>
-        </td>
-        <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-            <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/sassuolo.png"
-                onerror="handleImageError(this, Settings.missingCrestSrc)" />
-             <small class="ellipsis">Sassuolo</small>
-        </td>
-        <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-dark-blue">2</b>
-        </td>
-        <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
-        </td>
-    </tr>
-                    
-        <tr data-id="387" class="">
-        <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-        <span>
-                    <span Class="role role-m">M</span><span Class="role role-c">C</span>
-        </span>
-        </td>
-        <td data-key="name" class="cell-text cell-primary x6 smart-x4">
             <b class="capitalize">zambo anguissa</b>
         </td>
         <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
@@ -1999,7 +1999,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -2027,7 +2027,7 @@
             <b class="text-dark-blue">5</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -2055,7 +2055,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -2083,7 +2083,7 @@
             <b class="text-dark-blue">13</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -2111,7 +2111,7 @@
             <b class="text-dark-blue">47</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -2195,7 +2195,7 @@
             <b class="text-dark-blue">12</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -2223,7 +2223,7 @@
             <b class="text-dark-blue">72</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -2251,7 +2251,7 @@
             <b class="text-dark-blue">151</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -2267,12 +2267,12 @@
                                                         calciatore non più in <span class="euro">EuroLega</span><span
                                                             class="no-euro">Serie A</span></em></td>
                                                 <td class="text-right x4 cell-team-info">
-                                                    <div class="team-main-info full-width">526<i
+                                                    <div class="team-main-info full-width">532<i
                                                             class="icon fg-fm"></i><small>Costo totale
                                                             d'acquisto</small></div>
                                                 </td>
                                                 <td class="text-right x4 cell-team-info">
-                                                    <div class="team-main-info full-width">58<i
+                                                    <div class="team-main-info full-width">0<i
                                                             class="icon fg-fm"></i><small>Anni Rimanenti</small>
                                                     </div>
                                                 </td>
@@ -2304,7 +2304,7 @@
                                                 href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
                                                 Movimenti</a>
                                         </div>
-                                        <div class="team-main-info"><small>Crediti residui</small>52
+                                        <div class="team-main-info"><small>Crediti residui</small>44
                                             <i class="icon fg-fm"></i>
                                         </div>
                                     </div>
@@ -2364,7 +2364,7 @@
             <b class="text-dark-blue">2</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -2392,7 +2392,7 @@
             <b class="text-dark-blue">11</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -2476,7 +2476,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -2504,35 +2504,7 @@
             <b class="text-dark-blue">12</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
-        </td>
-    </tr>
-                    
-        <tr data-id="387" class="">
-        <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-        <span>
-                    <span Class="role role-dd">Dd</span><span Class="role role-ds">Ds</span><span Class="role role-dc">Dc</span>
-        </span>
-        </td>
-        <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-            <b class="capitalize">retsos</b>
-        </td>
-        <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-            <span class="nation-flag nation-ita">ita</span>
-        </td>
-        <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-            <small class="uppercase">Verona</small>
-        </td>
-        <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-            <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/verona.png"
-                onerror="handleImageError(this, Settings.missingCrestSrc)" />
-             <small class="ellipsis">Verona</small>
-        </td>
-        <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-dark-blue">1</b>
-        </td>
-        <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -2560,7 +2532,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -2586,6 +2558,34 @@
         </td>
         <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
             <b class="text-dark-blue">6</b>
+        </td>
+        <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+            <b class="text-blue2">3</b>
+        </td>
+    </tr>
+                    
+        <tr data-id="387" class="">
+        <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+        <span>
+                    <span Class="role role-ds">Ds</span><span Class="role role-dc">Dc</span>
+        </span>
+        </td>
+        <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+            <b class="capitalize">luperto</b>
+        </td>
+        <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+            <span class="nation-flag nation-ita">ita</span>
+        </td>
+        <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+            <small class="uppercase">Empoli</small>
+        </td>
+        <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+            <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/empoli.png"
+                onerror="handleImageError(this, Settings.missingCrestSrc)" />
+             <small class="ellipsis">Empoli</small>
+        </td>
+        <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+            <b class="text-dark-blue">5</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
             <b class="text-blue2">0</b>
@@ -2644,7 +2644,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -2672,7 +2672,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -2700,7 +2700,7 @@
             <b class="text-dark-blue">3</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -2756,7 +2756,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -2784,7 +2784,7 @@
             <b class="text-dark-blue">2</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -2868,6 +2868,34 @@
             <b class="text-dark-blue">11</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+            <b class="text-blue2">3</b>
+        </td>
+    </tr>
+                    
+        <tr data-id="387" class="">
+        <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+        <span>
+                    <span Class="role role-c">C</span><span Class="role role-t">T</span>
+        </span>
+        </td>
+        <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+            <b class="capitalize">miretti</b>
+        </td>
+        <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+            <span class="nation-flag nation-ita">ita</span>
+        </td>
+        <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+            <small class="uppercase">Juventus</small>
+        </td>
+        <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+            <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
+                onerror="handleImageError(this, Settings.missingCrestSrc)" />
+             <small class="ellipsis">Juventus</small>
+        </td>
+        <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+            <b class="text-dark-blue">5</b>
+        </td>
+        <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
             <b class="text-blue2">0</b>
         </td>
     </tr>
@@ -2896,7 +2924,7 @@
             <b class="text-dark-blue">163</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -2924,7 +2952,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -2952,7 +2980,7 @@
             <b class="text-dark-blue">13</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -3019,34 +3047,6 @@
         </span>
         </td>
         <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-            <b class="capitalize">ilicic</b>
-        </td>
-        <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-            <span class="nation-flag nation-ita">ita</span>
-        </td>
-        <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-            <small class="uppercase">Atalanta</small>
-        </td>
-        <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-            <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/atalanta.png"
-                onerror="handleImageError(this, Settings.missingCrestSrc)" />
-             <small class="ellipsis">Atalanta</small>
-        </td>
-        <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-dark-blue">1</b>
-        </td>
-        <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
-        </td>
-    </tr>
-                    
-        <tr data-id="387" class="">
-        <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-        <span>
-                    <span Class="role role-a">A</span>
-        </span>
-        </td>
-        <td data-key="name" class="cell-text cell-primary x6 smart-x4">
             <b class="capitalize">okereke</b>
         </td>
         <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
@@ -3064,7 +3064,7 @@
             <b class="text-dark-blue">2</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -3092,7 +3092,7 @@
             <b class="text-dark-blue">7</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -3120,7 +3120,7 @@
             <b class="text-dark-blue">270</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -3148,7 +3148,7 @@
             <b class="text-dark-blue">3</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -3192,12 +3192,12 @@
                                                         calciatore non più in <span class="euro">EuroLega</span><span
                                                             class="no-euro">Serie A</span></em></td>
                                                 <td class="text-right x4 cell-team-info">
-                                                    <div class="team-main-info full-width">601<i
+                                                    <div class="team-main-info full-width">609<i
                                                             class="icon fg-fm"></i><small>Costo totale
                                                             d'acquisto</small></div>
                                                 </td>
                                                 <td class="text-right x4 cell-team-info">
-                                                    <div class="team-main-info full-width">53<i
+                                                    <div class="team-main-info full-width">4<i
                                                             class="icon fg-fm"></i><small>Anni Rimanenti</small>
                                                     </div>
                                                 </td>
@@ -3229,7 +3229,7 @@
                                                 href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
                                                 Movimenti</a>
                                         </div>
-                                        <div class="team-main-info"><small>Crediti residui</small>0
+                                        <div class="team-main-info"><small>Crediti residui</small>-18
                                             <i class="icon fg-fm"></i>
                                         </div>
                                     </div>
@@ -3289,7 +3289,7 @@
             <b class="text-dark-blue">65</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -3345,7 +3345,7 @@
             <b class="text-dark-blue">0</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -3373,7 +3373,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -3401,7 +3401,7 @@
             <b class="text-dark-blue">11</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -3429,7 +3429,7 @@
             <b class="text-dark-blue">23</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -3485,7 +3485,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -3513,7 +3513,7 @@
             <b class="text-dark-blue">85</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -3558,18 +3558,18 @@
             <span class="nation-flag nation-ita">ita</span>
         </td>
         <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-            <small class="uppercase">Lazio</small>
+            <small class="uppercase">Inter</small>
         </td>
         <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-            <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/lazio.png"
+            <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/inter.png"
                 onerror="handleImageError(this, Settings.missingCrestSrc)" />
-             <small class="ellipsis">Lazio</small>
+             <small class="ellipsis">Inter</small>
         </td>
         <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -3653,7 +3653,35 @@
             <b class="text-dark-blue">4</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
+        </td>
+    </tr>
+                    
+        <tr data-id="387" class="">
+        <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+        <span>
+                    <span Class="role role-m">M</span><span Class="role role-c">C</span>
+        </span>
+        </td>
+        <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+            <b class="capitalize">paredes</b>
+        </td>
+        <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+            <span class="nation-flag nation-ita">ita</span>
+        </td>
+        <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+            <small class="uppercase">Juventus</small>
+        </td>
+        <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+            <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
+                onerror="handleImageError(this, Settings.missingCrestSrc)" />
+             <small class="ellipsis">Juventus</small>
+        </td>
+        <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+            <b class="text-dark-blue">18</b>
+        </td>
+        <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -3681,7 +3709,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -3737,7 +3765,7 @@
             <b class="text-dark-blue">108</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -3849,7 +3877,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -3877,7 +3905,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -3905,7 +3933,7 @@
             <b class="text-dark-blue">125</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -3961,7 +3989,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -3989,7 +4017,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -4045,7 +4073,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -4061,12 +4089,12 @@
                                                         calciatore non più in <span class="euro">EuroLega</span><span
                                                             class="no-euro">Serie A</span></em></td>
                                                 <td class="text-right x4 cell-team-info">
-                                                    <div class="team-main-info full-width">569<i
+                                                    <div class="team-main-info full-width">587<i
                                                             class="icon fg-fm"></i><small>Costo totale
                                                             d'acquisto</small></div>
                                                 </td>
                                                 <td class="text-right x4 cell-team-info">
-                                                    <div class="team-main-info full-width">53<i
+                                                    <div class="team-main-info full-width">3<i
                                                             class="icon fg-fm"></i><small>Anni Rimanenti</small>
                                                     </div>
                                                 </td>
@@ -4098,7 +4126,7 @@
                                                 href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
                                                 Movimenti</a>
                                         </div>
-                                        <div class="team-main-info"><small>Crediti residui</small>2
+                                        <div class="team-main-info"><small>Crediti residui</small>-20
                                             <i class="icon fg-fm"></i>
                                         </div>
                                     </div>
@@ -4158,7 +4186,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -4186,7 +4214,7 @@
             <b class="text-dark-blue">3</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -4242,7 +4270,7 @@
             <b class="text-dark-blue">0</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -4270,7 +4298,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -4298,7 +4326,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -4354,7 +4382,7 @@
             <b class="text-dark-blue">4</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -4382,7 +4410,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -4410,7 +4438,7 @@
             <b class="text-dark-blue">16</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -4494,7 +4522,7 @@
             <b class="text-dark-blue">41</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -4550,7 +4578,7 @@
             <b class="text-dark-blue">8</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -4606,7 +4634,7 @@
             <b class="text-dark-blue">6</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -4634,7 +4662,7 @@
             <b class="text-dark-blue">81</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -4718,7 +4746,7 @@
             <b class="text-dark-blue">14</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -4858,7 +4886,35 @@
             <b class="text-dark-blue">2</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
+        </td>
+    </tr>
+                    
+        <tr data-id="387" class="">
+        <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+        <span>
+                    <span Class="role role-pc">Pc</span>
+        </span>
+        </td>
+        <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+            <b class="capitalize">milik</b>
+        </td>
+        <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+            <span class="nation-flag nation-ita">ita</span>
+        </td>
+        <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+            <small class="uppercase">Juventus</small>
+        </td>
+        <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+            <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/juventus.png"
+                onerror="handleImageError(this, Settings.missingCrestSrc)" />
+             <small class="ellipsis">Juventus</small>
+        </td>
+        <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+            <b class="text-dark-blue">22</b>
+        </td>
+        <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -4886,7 +4942,7 @@
             <b class="text-dark-blue">3</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -4902,12 +4958,12 @@
                                                         calciatore non più in <span class="euro">EuroLega</span><span
                                                             class="no-euro">Serie A</span></em></td>
                                                 <td class="text-right x4 cell-team-info">
-                                                    <div class="team-main-info full-width">499<i
+                                                    <div class="team-main-info full-width">521<i
                                                             class="icon fg-fm"></i><small>Costo totale
                                                             d'acquisto</small></div>
                                                 </td>
                                                 <td class="text-right x4 cell-team-info">
-                                                    <div class="team-main-info full-width">53<i
+                                                    <div class="team-main-info full-width">5<i
                                                             class="icon fg-fm"></i><small>Anni Rimanenti</small>
                                                     </div>
                                                 </td>
@@ -4939,7 +4995,7 @@
                                                 href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
                                                 Movimenti</a>
                                         </div>
-                                        <div class="team-main-info"><small>Crediti residui</small>43
+                                        <div class="team-main-info"><small>Crediti residui</small>42
                                             <i class="icon fg-fm"></i>
                                         </div>
                                     </div>
@@ -4999,7 +5055,35 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
+        </td>
+    </tr>
+                    
+        <tr data-id="387" class="">
+        <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+        <span>
+                    <span Class="role role-por">Por</span>
+        </span>
+        </td>
+        <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+            <b class="capitalize">di gregorio</b>
+        </td>
+        <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+            <span class="nation-flag nation-ita">ita</span>
+        </td>
+        <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+            <small class="uppercase">Monza</small>
+        </td>
+        <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+            <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/monza.png"
+                onerror="handleImageError(this, Settings.missingCrestSrc)" />
+             <small class="ellipsis">Monza</small>
+        </td>
+        <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+            <b class="text-dark-blue">1</b>
+        </td>
+        <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -5027,7 +5111,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -5111,7 +5195,7 @@
             <b class="text-dark-blue">5</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -5139,7 +5223,7 @@
             <b class="text-dark-blue">2</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -5223,35 +5307,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
-        </td>
-    </tr>
-                    
-        <tr data-id="387" class="">
-        <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-        <span>
-                    <span Class="role role-dc">Dc</span>
-        </span>
-        </td>
-        <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-            <b class="capitalize">kumbulla</b>
-        </td>
-        <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-            <span class="nation-flag nation-ita">ita</span>
-        </td>
-        <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-            <small class="uppercase">Roma</small>
-        </td>
-        <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-            <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/roma.png"
-                onerror="handleImageError(this, Settings.missingCrestSrc)" />
-             <small class="ellipsis">Roma</small>
-        </td>
-        <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-dark-blue">1</b>
-        </td>
-        <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -5307,7 +5363,7 @@
             <b class="text-dark-blue">2</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -5335,7 +5391,7 @@
             <b class="text-dark-blue">37</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -5363,7 +5419,7 @@
             <b class="text-dark-blue">2</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -5391,7 +5447,7 @@
             <b class="text-dark-blue">10</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -5447,7 +5503,7 @@
             <b class="text-dark-blue">2</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -5503,7 +5559,7 @@
             <b class="text-dark-blue">60</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -5559,7 +5615,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -5587,7 +5643,7 @@
             <b class="text-dark-blue">19</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -5615,7 +5671,7 @@
             <b class="text-dark-blue">32</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -5671,7 +5727,7 @@
             <b class="text-dark-blue">193</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -5699,7 +5755,7 @@
             <b class="text-dark-blue">3</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -5727,7 +5783,7 @@
             <b class="text-dark-blue">2</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -5832,7 +5888,7 @@
                                                             d'acquisto</small></div>
                                                 </td>
                                                 <td class="text-right x4 cell-team-info">
-                                                    <div class="team-main-info full-width">50<i
+                                                    <div class="team-main-info full-width">2<i
                                                             class="icon fg-fm"></i><small>Anni Rimanenti</small>
                                                     </div>
                                                 </td>
@@ -5924,7 +5980,7 @@
             <b class="text-dark-blue">7</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -5952,7 +6008,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -5980,7 +6036,7 @@
             <b class="text-dark-blue">11</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -6008,7 +6064,7 @@
             <b class="text-dark-blue">2</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -6064,7 +6120,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -6092,7 +6148,7 @@
             <b class="text-dark-blue">19</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -6176,7 +6232,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -6204,7 +6260,7 @@
             <b class="text-dark-blue">33</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -6232,7 +6288,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -6260,7 +6316,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -6288,7 +6344,7 @@
             <b class="text-dark-blue">10</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -6344,7 +6400,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -6400,7 +6456,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -6456,7 +6512,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -6484,7 +6540,7 @@
             <b class="text-dark-blue">2</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -6540,7 +6596,7 @@
             <b class="text-dark-blue">10</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -6624,7 +6680,7 @@
             <b class="text-dark-blue">11</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -6736,7 +6792,7 @@
             <b class="text-dark-blue">258</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -6757,7 +6813,7 @@
                                                             d'acquisto</small></div>
                                                 </td>
                                                 <td class="text-right x4 cell-team-info">
-                                                    <div class="team-main-info full-width">52<i
+                                                    <div class="team-main-info full-width">12<i
                                                             class="icon fg-fm"></i><small>Anni Rimanenti</small>
                                                     </div>
                                                 </td>
@@ -6789,7 +6845,7 @@
                                                 href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
                                                 Movimenti</a>
                                         </div>
-                                        <div class="team-main-info"><small>Crediti residui</small>33
+                                        <div class="team-main-info"><small>Crediti residui</small>26
                                             <i class="icon fg-fm"></i>
                                         </div>
                                     </div>
@@ -6849,7 +6905,7 @@
             <b class="text-dark-blue">4</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -6905,7 +6961,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -6933,7 +6989,7 @@
             <b class="text-dark-blue">21</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -7017,7 +7073,7 @@
             <b class="text-dark-blue">2</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -7045,7 +7101,7 @@
             <b class="text-dark-blue">2</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -7073,7 +7129,7 @@
             <b class="text-dark-blue">10</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -7101,7 +7157,7 @@
             <b class="text-dark-blue">6</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -7213,7 +7269,7 @@
             <b class="text-dark-blue">21</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">2</b>
         </td>
     </tr>
                     
@@ -7276,34 +7332,6 @@
         <tr data-id="387" class="">
         <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
         <span>
-                    <span Class="role role-c">C</span>
-        </span>
-        </td>
-        <td data-key="name" class="cell-text cell-primary x6 smart-x4">
-            <b class="capitalize">zurkowski</b>
-        </td>
-        <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
-            <span class="nation-flag nation-ita">ita</span>
-        </td>
-        <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
-            <small class="uppercase">Fiorentina</small>
-        </td>
-        <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
-            <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/fiorentina.png"
-                onerror="handleImageError(this, Settings.missingCrestSrc)" />
-             <small class="ellipsis">Fiorentina</small>
-        </td>
-        <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-dark-blue">1</b>
-        </td>
-        <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
-        </td>
-    </tr>
-                    
-        <tr data-id="387" class="">
-        <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
-        <span>
                     <span Class="role role-c">C</span><span Class="role role-t">T</span>
         </span>
         </td>
@@ -7353,7 +7381,35 @@
             <b class="text-dark-blue">27</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
+        </td>
+    </tr>
+                    
+        <tr data-id="387" class="">
+        <td data-key="role" class="cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+        <span>
+                    <span Class="role role-c">C</span><span Class="role role-t">T</span>
+        </span>
+        </td>
+        <td data-key="name" class="cell-text cell-primary x6 smart-x4">
+            <b class="capitalize">lovric</b>
+        </td>
+        <td data-key="nation" Class="cell-text cell-primary x0 euro-x1 overflow-visible">
+            <span class="nation-flag nation-ita">ita</span>
+        </td>
+        <td data-key="team" class="cell-text cell-primary x4 smart-x2 euro-x3 visible-xs"> 
+            <small class="uppercase">Udinese</small>
+        </td>
+        <td data-key="team" class="cell-text cell-primary x4 euro-x3 no-wrap hidden-xs">
+            <img class="crest-ico" src="https://d22uzg7kr35tkk.cloudfront.net/web/img/team/ico/udinese.png"
+                onerror="handleImageError(this, Settings.missingCrestSrc)" />
+             <small class="ellipsis">Udinese</small>
+        </td>
+        <td data-key="price" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+            <b class="text-dark-blue">7</b>
+        </td>
+        <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -7381,7 +7437,7 @@
             <b class="text-dark-blue">3</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -7409,7 +7465,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -7437,7 +7493,7 @@
             <b class="text-dark-blue">12</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -7465,7 +7521,7 @@
             <b class="text-dark-blue">11</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -7493,7 +7549,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -7549,7 +7605,7 @@
             <b class="text-dark-blue">1</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -7577,7 +7633,7 @@
             <b class="text-dark-blue">8</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -7605,7 +7661,7 @@
             <b class="text-dark-blue">21</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">1</b>
         </td>
     </tr>
                     
@@ -7633,7 +7689,7 @@
             <b class="text-dark-blue">189</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -7661,7 +7717,7 @@
             <b class="text-dark-blue">40</b>
         </td>
         <td data-key="contract" class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
-            <b class="text-blue2">0</b>
+            <b class="text-blue2">3</b>
         </td>
     </tr>
                     
@@ -7677,12 +7733,12 @@
                                                         calciatore non più in <span class="euro">EuroLega</span><span
                                                             class="no-euro">Serie A</span></em></td>
                                                 <td class="text-right x4 cell-team-info">
-                                                    <div class="team-main-info full-width">518<i
+                                                    <div class="team-main-info full-width">524<i
                                                             class="icon fg-fm"></i><small>Costo totale
                                                             d'acquisto</small></div>
                                                 </td>
                                                 <td class="text-right x4 cell-team-info">
-                                                    <div class="team-main-info full-width">53<i
+                                                    <div class="team-main-info full-width">0<i
                                                             class="icon fg-fm"></i><small>Anni Rimanenti</small>
                                                     </div>
                                                 </td>

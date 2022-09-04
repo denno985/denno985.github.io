@@ -82,9 +82,9 @@
       <td>Piove sul Bagnato</td>
       <td>USS Torquemada</td>
       <td>0.0</td>
-      <td>0.0</td>
+      <td>74.0</td>
       <td>0</td>
-      <td>0</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>A.F.C. Richmond</td>

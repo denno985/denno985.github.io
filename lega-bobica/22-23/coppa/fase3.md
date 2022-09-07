@@ -13,28 +13,28 @@
       <td>Gol</td>
     </tr>
     <tr>
-      <td>Docklands United F.C.</td>
+      <td>0</td>
       <td>riposa</td>
-      <td>0</td>
       <td></td>
       <td></td>
       <td></td>
-      <td>0</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Ans Rei Sport Verein</td>
-      <td>Il Diritto Di Riscatto</td>
       <td>0</td>
       <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>2a giornata</td>
@@ -49,26 +49,26 @@
       <td>Gol</td>
     </tr>
     <tr>
-      <td>Il Diritto Di Riscatto</td>
-      <td>Docklands United F.C.</td>
       <td>0</td>
       <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>riposa</td>
-      <td>Ans Rei Sport Verein</td>
-      <td></td>
       <td>0</td>
       <td></td>
       <td></td>
       <td></td>
-      <td>0</td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -85,25 +85,25 @@
       <td>Gol</td>
     </tr>
     <tr>
-      <td>Docklands United F.C.</td>
-      <td>Ans Rei Sport Verein</td>
       <td>0</td>
       <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td>Il Diritto Di Riscatto</td>
+      <td>0</td>
       <td>riposa</td>
-      <td>0</td>
       <td></td>
       <td></td>
       <td></td>
-      <td>0</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -128,46 +128,18 @@
   </thead>
   <tbody>
     <tr>
-      <th>1</th>
-      <td>Il Diritto Di Riscatto</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>Ans Rei Sport Verein</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>Docklands United F.C.</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <th>6</th>
+      <td>Squadra</td>
+      <td>Punti</td>
+      <td>Giocate</td>
+      <td>Vinte</td>
+      <td>Nulle</td>
+      <td>Perse</td>
+      <td>Gol fatti</td>
+      <td>Gol subiti</td>
+      <td>Diff. Reti</td>
+      <td>Punti tot.</td>
+      <td>Media pti</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Calendario girone B</th><table border="1" class="dataframe">
@@ -185,28 +157,28 @@
       <td>Gol</td>
     </tr>
     <tr>
-      <td>CS Cardio Salma</td>
+      <td>0</td>
       <td>riposa</td>
-      <td>0</td>
       <td></td>
       <td></td>
       <td></td>
-      <td>0</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>USS Torquemada</td>
-      <td>Fantacalcio for Dumfries</td>
       <td>0</td>
       <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>2a giornata</td>
@@ -221,26 +193,26 @@
       <td>Gol</td>
     </tr>
     <tr>
-      <td>Fantacalcio for Dumfries</td>
-      <td>CS Cardio Salma</td>
       <td>0</td>
       <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>riposa</td>
-      <td>USS Torquemada</td>
-      <td></td>
       <td>0</td>
       <td></td>
       <td></td>
       <td></td>
-      <td>0</td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -257,25 +229,25 @@
       <td>Gol</td>
     </tr>
     <tr>
-      <td>CS Cardio Salma</td>
-      <td>USS Torquemada</td>
       <td>0</td>
       <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td>Fantacalcio for Dumfries</td>
+      <td>0</td>
       <td>riposa</td>
-      <td>0</td>
       <td></td>
       <td></td>
       <td></td>
-      <td>0</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -299,47 +271,5 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <th>1</th>
-      <td>CS Cardio Salma</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>Fantacalcio for Dumfries</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>USS Torquemada</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-    </tr>
   </tbody>
 </table><th><br/></th>

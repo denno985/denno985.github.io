@@ -73,34 +73,34 @@
     <tr>
       <td>Ans Rei Sport Verein</td>
       <td>Cs Cannabis Street</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
+      <td>71.5</td>
+      <td>56.5</td>
+      <td>1</td>
       <td>0</td>
     </tr>
     <tr>
       <td>Piove sul Bagnato</td>
       <td>USS Torquemada</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>63.5</td>
+      <td>74.0</td>
       <td>0</td>
-      <td>0</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>A.F.C. Richmond</td>
       <td>LeBuscemi Revenge</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>79.0</td>
+      <td>75.0</td>
+      <td>3</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Docklands United F.C.</td>
       <td>La Domenica del Dipendente Pubblico</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>74.5</td>
+      <td>68.0</td>
+      <td>2</td>
+      <td>1</td>
     </tr>
   </tbody>
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/22-23/giornate/4" class="active">4a giornata</a></li><table border="1" class="dataframe">

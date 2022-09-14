@@ -18,115 +18,115 @@
   <tbody>
     <tr>
       <th>1</th>
-      <td>Docklands United F.C.</td>
-      <td>9</td>
-      <td>3</td>
-      <td>3</td>
+      <td>A.F.C. Richmond</td>
+      <td>12</td>
+      <td>4</td>
+      <td>4</td>
       <td>0</td>
       <td>0</td>
-      <td>8</td>
-      <td>2</td>
-      <td>6</td>
-      <td>233.5</td>
-      <td>77.83</td>
+      <td>7</td>
+      <td>3</td>
+      <td>4</td>
+      <td>292</td>
+      <td>73.00</td>
     </tr>
     <tr>
       <th>2</th>
-      <td>A.F.C. Richmond</td>
+      <td>Docklands United F.C.</td>
       <td>9</td>
-      <td>3</td>
+      <td>4</td>
       <td>3</td>
       <td>0</td>
-      <td>0</td>
+      <td>1</td>
+      <td>10</td>
       <td>5</td>
-      <td>2</td>
-      <td>3</td>
-      <td>216</td>
-      <td>72.00</td>
+      <td>5</td>
+      <td>306.5</td>
+      <td>76.62</td>
     </tr>
     <tr>
       <th>3</th>
       <td>Ans Rei Sport Verein</td>
       <td>6</td>
-      <td>3</td>
+      <td>4</td>
       <td>2</td>
       <td>0</td>
-      <td>1</td>
+      <td>2</td>
       <td>5</td>
-      <td>6</td>
-      <td>-1</td>
-      <td>223</td>
-      <td>74.33</td>
+      <td>7</td>
+      <td>-2</td>
+      <td>286.5</td>
+      <td>71.62</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>LeBuscemi Revenge</td>
+      <td>USS Torquemada</td>
+      <td>6</td>
+      <td>4</td>
+      <td>2</td>
+      <td>0</td>
+      <td>2</td>
       <td>4</td>
       <td>3</td>
       <td>1</td>
-      <td>1</td>
-      <td>1</td>
-      <td>7</td>
-      <td>7</td>
-      <td>0</td>
-      <td>229.5</td>
-      <td>76.50</td>
+      <td>274.5</td>
+      <td>68.62</td>
     </tr>
     <tr>
       <th>5</th>
-      <td>USS Torquemada</td>
-      <td>3</td>
-      <td>3</td>
+      <td>LeBuscemi Revenge</td>
+      <td>5</td>
+      <td>4</td>
       <td>1</td>
-      <td>0</td>
       <td>2</td>
-      <td>3</td>
-      <td>3</td>
+      <td>1</td>
+      <td>8</td>
+      <td>8</td>
       <td>0</td>
-      <td>207.5</td>
-      <td>69.17</td>
+      <td>300.5</td>
+      <td>75.12</td>
     </tr>
     <tr>
       <th>6</th>
       <td>Piove sul Bagnato</td>
-      <td>3</td>
-      <td>3</td>
-      <td>1</td>
-      <td>0</td>
-      <td>2</td>
-      <td>2</td>
       <td>4</td>
+      <td>4</td>
+      <td>1</td>
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
+      <td>5</td>
       <td>-2</td>
-      <td>200</td>
-      <td>66.67</td>
+      <td>269.5</td>
+      <td>67.38</td>
     </tr>
     <tr>
       <th>7</th>
-      <td>La Domenica del Dipendente Pubblico</td>
-      <td>1</td>
+      <td>Cs Cannabis Street</td>
       <td>3</td>
-      <td>0</td>
+      <td>4</td>
       <td>1</td>
-      <td>2</td>
+      <td>0</td>
+      <td>3</td>
+      <td>3</td>
       <td>6</td>
-      <td>8</td>
-      <td>-2</td>
-      <td>223</td>
-      <td>74.33</td>
+      <td>-3</td>
+      <td>265</td>
+      <td>66.25</td>
     </tr>
     <tr>
       <th>8</th>
-      <td>Cs Cannabis Street</td>
-      <td>0</td>
-      <td>3</td>
-      <td>0</td>
-      <td>0</td>
-      <td>3</td>
-      <td>0</td>
+      <td>La Domenica del Dipendente Pubblico</td>
+      <td>1</td>
       <td>4</td>
-      <td>-4</td>
-      <td>186</td>
-      <td>62.00</td>
+      <td>0</td>
+      <td>1</td>
+      <td>3</td>
+      <td>7</td>
+      <td>10</td>
+      <td>-3</td>
+      <td>291</td>
+      <td>72.75</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Classifica a punti</th><table border="1" class="dataframe">
@@ -141,42 +141,42 @@
     <tr>
       <th>1</th>
       <td>Docklands United F.C.</td>
-      <td>233.5</td>
+      <td>306.5</td>
     </tr>
     <tr>
       <th>2</th>
       <td>LeBuscemi Revenge</td>
-      <td>229.5</td>
+      <td>300.5</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>Ans Rei Sport Verein</td>
-      <td>223</td>
+      <td>A.F.C. Richmond</td>
+      <td>292</td>
     </tr>
     <tr>
       <th>4</th>
       <td>La Domenica del Dipendente Pubblico</td>
-      <td>223</td>
+      <td>291</td>
     </tr>
     <tr>
       <th>5</th>
-      <td>A.F.C. Richmond</td>
-      <td>216</td>
+      <td>Ans Rei Sport Verein</td>
+      <td>286.5</td>
     </tr>
     <tr>
       <th>6</th>
       <td>USS Torquemada</td>
-      <td>207.5</td>
+      <td>274.5</td>
     </tr>
     <tr>
       <th>7</th>
       <td>Piove sul Bagnato</td>
-      <td>200</td>
+      <td>269.5</td>
     </tr>
     <tr>
       <th>8</th>
       <td>Cs Cannabis Street</td>
-      <td>186</td>
+      <td>265</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Classifica Sprint</th><table border="1" class="dataframe">
@@ -205,12 +205,12 @@
     </tr>
     <tr>
       <th>4</th>
-      <td>La Domenica del Dipendente Pubblico</td>
-      <td>0</td>
+      <td>Cs Cannabis Street</td>
+      <td>1</td>
     </tr>
     <tr>
       <th>5</th>
-      <td>Cs Cannabis Street</td>
+      <td>La Domenica del Dipendente Pubblico</td>
       <td>0</td>
     </tr>
     <tr>
@@ -299,115 +299,115 @@
   <tbody>
     <tr>
       <th>1</th>
-      <td>Docklands United F.C.</td>
-      <td>9</td>
-      <td>3</td>
-      <td>3</td>
+      <td>A.F.C. Richmond</td>
+      <td>12</td>
+      <td>4</td>
+      <td>4</td>
       <td>0</td>
       <td>0</td>
-      <td>8</td>
-      <td>2</td>
-      <td>6</td>
-      <td>233.5</td>
-      <td>77.83</td>
+      <td>7</td>
+      <td>3</td>
+      <td>4</td>
+      <td>292</td>
+      <td>73.00</td>
     </tr>
     <tr>
       <th>2</th>
-      <td>A.F.C. Richmond</td>
+      <td>Docklands United F.C.</td>
       <td>9</td>
-      <td>3</td>
+      <td>4</td>
       <td>3</td>
       <td>0</td>
-      <td>0</td>
+      <td>1</td>
+      <td>10</td>
       <td>5</td>
-      <td>2</td>
-      <td>3</td>
-      <td>216</td>
-      <td>72.00</td>
+      <td>5</td>
+      <td>306.5</td>
+      <td>76.62</td>
     </tr>
     <tr>
       <th>3</th>
       <td>Ans Rei Sport Verein</td>
       <td>6</td>
-      <td>3</td>
+      <td>4</td>
       <td>2</td>
       <td>0</td>
-      <td>1</td>
+      <td>2</td>
       <td>5</td>
-      <td>6</td>
-      <td>-1</td>
-      <td>223</td>
-      <td>74.33</td>
+      <td>7</td>
+      <td>-2</td>
+      <td>286.5</td>
+      <td>71.62</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>LeBuscemi Revenge</td>
+      <td>USS Torquemada</td>
+      <td>6</td>
+      <td>4</td>
+      <td>2</td>
+      <td>0</td>
+      <td>2</td>
       <td>4</td>
       <td>3</td>
       <td>1</td>
-      <td>1</td>
-      <td>1</td>
-      <td>7</td>
-      <td>7</td>
-      <td>0</td>
-      <td>229.5</td>
-      <td>76.50</td>
+      <td>274.5</td>
+      <td>68.62</td>
     </tr>
     <tr>
       <th>5</th>
-      <td>USS Torquemada</td>
-      <td>3</td>
-      <td>3</td>
+      <td>LeBuscemi Revenge</td>
+      <td>5</td>
+      <td>4</td>
       <td>1</td>
-      <td>0</td>
       <td>2</td>
-      <td>3</td>
-      <td>3</td>
+      <td>1</td>
+      <td>8</td>
+      <td>8</td>
       <td>0</td>
-      <td>207.5</td>
-      <td>69.17</td>
+      <td>300.5</td>
+      <td>75.12</td>
     </tr>
     <tr>
       <th>6</th>
       <td>Piove sul Bagnato</td>
-      <td>3</td>
-      <td>3</td>
-      <td>1</td>
-      <td>0</td>
-      <td>2</td>
-      <td>2</td>
       <td>4</td>
+      <td>4</td>
+      <td>1</td>
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
+      <td>5</td>
       <td>-2</td>
-      <td>200</td>
-      <td>66.67</td>
+      <td>269.5</td>
+      <td>67.38</td>
     </tr>
     <tr>
       <th>7</th>
-      <td>La Domenica del Dipendente Pubblico</td>
-      <td>1</td>
+      <td>Cs Cannabis Street</td>
       <td>3</td>
-      <td>0</td>
+      <td>4</td>
       <td>1</td>
-      <td>2</td>
+      <td>0</td>
+      <td>3</td>
+      <td>3</td>
       <td>6</td>
-      <td>8</td>
-      <td>-2</td>
-      <td>223</td>
-      <td>74.33</td>
+      <td>-3</td>
+      <td>265</td>
+      <td>66.25</td>
     </tr>
     <tr>
       <th>8</th>
-      <td>Cs Cannabis Street</td>
-      <td>0</td>
-      <td>3</td>
-      <td>0</td>
-      <td>0</td>
-      <td>3</td>
-      <td>0</td>
+      <td>La Domenica del Dipendente Pubblico</td>
+      <td>1</td>
       <td>4</td>
-      <td>-4</td>
-      <td>186</td>
-      <td>62.00</td>
+      <td>0</td>
+      <td>1</td>
+      <td>3</td>
+      <td>7</td>
+      <td>10</td>
+      <td>-3</td>
+      <td>291</td>
+      <td>72.75</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Classifica 2° girone</th><table border="1" class="dataframe">

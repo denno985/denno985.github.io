@@ -13,28 +13,28 @@
       <td>Gol</td>
     </tr>
     <tr>
+      <td>LeBuscemi Revenge</td>
+      <td>Ans Rei Sport Verein</td>
+      <td>75</td>
+      <td>75.5</td>
+      <td>2</td>
+      <td>2</td>
       <td>0</td>
       <td>0</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
+      <td>USS Torquemada</td>
+      <td>Docklands United F.C.</td>
+      <td>71.5</td>
+      <td>83</td>
+      <td>1</td>
+      <td>3</td>
       <td>0</td>
       <td>0</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>2a giornata</td>
@@ -49,28 +49,28 @@
       <td>Gol</td>
     </tr>
     <tr>
+      <td>Docklands United F.C.</td>
+      <td>LeBuscemi Revenge</td>
       <td>0</td>
       <td>0</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
+      <td>Ans Rei Sport Verein</td>
+      <td>USS Torquemada</td>
       <td>0</td>
       <td>0</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>3a giornata</td>
@@ -85,28 +85,28 @@
       <td>Gol</td>
     </tr>
     <tr>
+      <td>Docklands United F.C.</td>
+      <td>Ans Rei Sport Verein</td>
       <td>0</td>
       <td>0</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
+      <td>USS Torquemada</td>
+      <td>LeBuscemi Revenge</td>
       <td>0</td>
       <td>0</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Classifica girone A</th><table border="1" class="dataframe">
@@ -128,18 +128,60 @@
   </thead>
   <tbody>
     <tr>
-      <th>23</th>
-      <td>Squadra</td>
-      <td>Punti</td>
-      <td>Giocate</td>
-      <td>Vinte</td>
-      <td>Nulle</td>
-      <td>Perse</td>
-      <td>Gol fatti</td>
-      <td>Gol subiti</td>
-      <td>Diff. Reti</td>
-      <td>Punti tot.</td>
-      <td>Media pti</td>
+      <th>1</th>
+      <td>Docklands United F.C.</td>
+      <td>3</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>3</td>
+      <td>1</td>
+      <td>2</td>
+      <td>83</td>
+      <td>83.0</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Ans Rei Sport Verein</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>2</td>
+      <td>2</td>
+      <td>0</td>
+      <td>75.5</td>
+      <td>75.5</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>LeBuscemi Revenge</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>2</td>
+      <td>2</td>
+      <td>0</td>
+      <td>75</td>
+      <td>75.0</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>USS Torquemada</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+      <td>3</td>
+      <td>-2</td>
+      <td>71.5</td>
+      <td>71.5</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Calendario girone B</th><table border="1" class="dataframe">
@@ -157,28 +199,28 @@
       <td>Gol</td>
     </tr>
     <tr>
+      <td>La Domenica del Dipendente Pubblico</td>
+      <td>Cs Cannabis Street</td>
+      <td>76</td>
+      <td>84.5</td>
+      <td>2</td>
+      <td>4</td>
       <td>0</td>
       <td>0</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
+      <td>Piove sul Bagnato</td>
+      <td>A.F.C. Richmond</td>
+      <td>83</td>
+      <td>73.5</td>
+      <td>3</td>
+      <td>2</td>
       <td>0</td>
       <td>0</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>2a giornata</td>
@@ -193,28 +235,28 @@
       <td>Gol</td>
     </tr>
     <tr>
+      <td>A.F.C. Richmond</td>
+      <td>La Domenica del Dipendente Pubblico</td>
       <td>0</td>
       <td>0</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
+      <td>Cs Cannabis Street</td>
+      <td>Piove sul Bagnato</td>
       <td>0</td>
       <td>0</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>3a giornata</td>
@@ -229,28 +271,28 @@
       <td>Gol</td>
     </tr>
     <tr>
+      <td>A.F.C. Richmond</td>
+      <td>Cs Cannabis Street</td>
       <td>0</td>
       <td>0</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
+      <td>Piove sul Bagnato</td>
+      <td>La Domenica del Dipendente Pubblico</td>
       <td>0</td>
       <td>0</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Classifica girone B</th><table border="1" class="dataframe">
@@ -271,6 +313,62 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <th>1</th>
+      <td>Cs Cannabis Street</td>
+      <td>3</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>4</td>
+      <td>2</td>
+      <td>2</td>
+      <td>84.5</td>
+      <td>84.5</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Piove sul Bagnato</td>
+      <td>3</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>3</td>
+      <td>2</td>
+      <td>1</td>
+      <td>83</td>
+      <td>83.0</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>La Domenica del Dipendente Pubblico</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>2</td>
+      <td>4</td>
+      <td>-2</td>
+      <td>76</td>
+      <td>76.0</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>A.F.C. Richmond</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
+      <td>-1</td>
+      <td>73.5</td>
+      <td>73.5</td>
+    </tr>
   </tbody>
 </table><th><br/></th><th>Battaglia dei Bastardi</th><table border="1" class="dataframe">
   <tbody>
@@ -285,18 +383,18 @@
       <td>rigori</td>
     </tr>
     <tr>
+      <td>Cs Cannabis Street</td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
+      <td>78.171429</td>
       <td></td>
-      <td>77.68</td>
       <td></td>
       <td></td>
       <td></td>

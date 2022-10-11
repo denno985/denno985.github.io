@@ -19,58 +19,58 @@
     <tr>
       <th>1</th>
       <td>Docklands United F.C.</td>
-      <td>16</td>
+      <td>18</td>
       <td>7</td>
-      <td>5</td>
+      <td>6</td>
+      <td>0</td>
       <td>1</td>
-      <td>1</td>
-      <td>16</td>
+      <td>18</td>
       <td>8</td>
-      <td>8</td>
-      <td>532</td>
-      <td>76.00</td>
+      <td>10</td>
+      <td>546</td>
+      <td>78.00</td>
     </tr>
     <tr>
       <th>2</th>
-      <td>A.F.C. Richmond</td>
-      <td>14</td>
+      <td>Piove sul Bagnato</td>
+      <td>13</td>
       <td>7</td>
       <td>4</td>
-      <td>2</td>
       <td>1</td>
+      <td>2</td>
       <td>10</td>
-      <td>7</td>
-      <td>3</td>
-      <td>492.5</td>
-      <td>70.36</td>
+      <td>9</td>
+      <td>1</td>
+      <td>503</td>
+      <td>71.86</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>Ans Rei Sport Verein</td>
-      <td>11</td>
+      <td>A.F.C. Richmond</td>
+      <td>13</td>
       <td>7</td>
-      <td>3</td>
+      <td>4</td>
+      <td>1</td>
       <td>2</td>
-      <td>2</td>
-      <td>11</td>
-      <td>11</td>
-      <td>0</td>
-      <td>512</td>
-      <td>73.14</td>
+      <td>10</td>
+      <td>9</td>
+      <td>1</td>
+      <td>495.5</td>
+      <td>70.79</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>Piove sul Bagnato</td>
-      <td>11</td>
+      <td>Ans Rei Sport Verein</td>
+      <td>10</td>
       <td>7</td>
       <td>3</td>
-      <td>2</td>
-      <td>2</td>
-      <td>8</td>
-      <td>8</td>
-      <td>0</td>
-      <td>489.5</td>
-      <td>69.93</td>
+      <td>1</td>
+      <td>3</td>
+      <td>12</td>
+      <td>13</td>
+      <td>-1</td>
+      <td>520.5</td>
+      <td>74.36</td>
     </tr>
     <tr>
       <th>5</th>
@@ -83,8 +83,8 @@
       <td>10</td>
       <td>8</td>
       <td>2</td>
-      <td>488.5</td>
-      <td>69.79</td>
+      <td>490</td>
+      <td>70.00</td>
     </tr>
     <tr>
       <th>6</th>
@@ -111,8 +111,8 @@
       <td>12</td>
       <td>15</td>
       <td>-3</td>
-      <td>508</td>
-      <td>72.57</td>
+      <td>507.5</td>
+      <td>72.50</td>
     </tr>
     <tr>
       <th>8</th>
@@ -141,37 +141,37 @@
     <tr>
       <th>1</th>
       <td>Docklands United F.C.</td>
-      <td>532</td>
+      <td>546</td>
     </tr>
     <tr>
       <th>2</th>
       <td>Ans Rei Sport Verein</td>
-      <td>512</td>
+      <td>520.5</td>
     </tr>
     <tr>
       <th>3</th>
       <td>LeBuscemi Revenge</td>
-      <td>508</td>
+      <td>507.5</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>A.F.C. Richmond</td>
-      <td>492.5</td>
+      <td>Piove sul Bagnato</td>
+      <td>503</td>
     </tr>
     <tr>
       <th>5</th>
+      <td>A.F.C. Richmond</td>
+      <td>495.5</td>
+    </tr>
+    <tr>
+      <th>6</th>
       <td>La Domenica del Dipendente Pubblico</td>
       <td>492</td>
     </tr>
     <tr>
-      <th>6</th>
-      <td>Piove sul Bagnato</td>
-      <td>489.5</td>
-    </tr>
-    <tr>
       <th>7</th>
       <td>Cs Cannabis Street</td>
-      <td>488.5</td>
+      <td>490</td>
     </tr>
     <tr>
       <th>8</th>
@@ -201,7 +201,7 @@
     <tr>
       <th>3</th>
       <td>Docklands United F.C.</td>
-      <td>1</td>
+      <td>2</td>
     </tr>
     <tr>
       <th>4</th>
@@ -210,12 +210,12 @@
     </tr>
     <tr>
       <th>5</th>
-      <td>USS Torquemada</td>
-      <td>1</td>
+      <td>La Domenica del Dipendente Pubblico</td>
+      <td>0</td>
     </tr>
     <tr>
       <th>6</th>
-      <td>La Domenica del Dipendente Pubblico</td>
+      <td>USS Torquemada</td>
       <td>0</td>
     </tr>
     <tr>
@@ -300,58 +300,58 @@
     <tr>
       <th>1</th>
       <td>Docklands United F.C.</td>
-      <td>16</td>
+      <td>18</td>
       <td>7</td>
-      <td>5</td>
+      <td>6</td>
+      <td>0</td>
       <td>1</td>
-      <td>1</td>
-      <td>16</td>
+      <td>18</td>
       <td>8</td>
-      <td>8</td>
-      <td>532</td>
-      <td>76.00</td>
+      <td>10</td>
+      <td>546</td>
+      <td>78.00</td>
     </tr>
     <tr>
       <th>2</th>
-      <td>A.F.C. Richmond</td>
-      <td>14</td>
+      <td>Piove sul Bagnato</td>
+      <td>13</td>
       <td>7</td>
       <td>4</td>
-      <td>2</td>
       <td>1</td>
+      <td>2</td>
       <td>10</td>
-      <td>7</td>
-      <td>3</td>
-      <td>492.5</td>
-      <td>70.36</td>
+      <td>9</td>
+      <td>1</td>
+      <td>503</td>
+      <td>71.86</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>Ans Rei Sport Verein</td>
-      <td>11</td>
+      <td>A.F.C. Richmond</td>
+      <td>13</td>
       <td>7</td>
-      <td>3</td>
+      <td>4</td>
+      <td>1</td>
       <td>2</td>
-      <td>2</td>
-      <td>11</td>
-      <td>11</td>
-      <td>0</td>
-      <td>512</td>
-      <td>73.14</td>
+      <td>10</td>
+      <td>9</td>
+      <td>1</td>
+      <td>495.5</td>
+      <td>70.79</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>Piove sul Bagnato</td>
-      <td>11</td>
+      <td>Ans Rei Sport Verein</td>
+      <td>10</td>
       <td>7</td>
       <td>3</td>
-      <td>2</td>
-      <td>2</td>
-      <td>8</td>
-      <td>8</td>
-      <td>0</td>
-      <td>489.5</td>
-      <td>69.93</td>
+      <td>1</td>
+      <td>3</td>
+      <td>12</td>
+      <td>13</td>
+      <td>-1</td>
+      <td>520.5</td>
+      <td>74.36</td>
     </tr>
     <tr>
       <th>5</th>
@@ -364,8 +364,8 @@
       <td>10</td>
       <td>8</td>
       <td>2</td>
-      <td>488.5</td>
-      <td>69.79</td>
+      <td>490</td>
+      <td>70.00</td>
     </tr>
     <tr>
       <th>6</th>
@@ -392,8 +392,8 @@
       <td>12</td>
       <td>15</td>
       <td>-3</td>
-      <td>508</td>
-      <td>72.57</td>
+      <td>507.5</td>
+      <td>72.50</td>
     </tr>
     <tr>
       <th>8</th>

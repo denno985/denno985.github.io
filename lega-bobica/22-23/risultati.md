@@ -213,25 +213,25 @@
     <tr>
       <td>Ans Rei Sport Verein</td>
       <td>Piove sul Bagnato</td>
-      <td>67.0</td>
-      <td>67.0</td>
-      <td>1</td>
-      <td>1</td>
+      <td>75.5</td>
+      <td>80.5</td>
+      <td>2</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>Cs Cannabis Street</td>
       <td>LeBuscemi Revenge</td>
-      <td>67.0</td>
-      <td>67.0</td>
+      <td>68.5</td>
+      <td>66.5</td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
       <td>Docklands United F.C.</td>
       <td>A.F.C. Richmond</td>
-      <td>67.0</td>
-      <td>67.0</td>
-      <td>1</td>
+      <td>81.0</td>
+      <td>70.0</td>
+      <td>3</td>
       <td>1</td>
     </tr>
     <tr>

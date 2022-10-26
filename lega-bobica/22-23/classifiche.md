@@ -19,114 +19,114 @@
     <tr>
       <th>1</th>
       <td>Docklands United F.C.</td>
-      <td>18</td>
-      <td>8</td>
-      <td>6</td>
+      <td>21</td>
+      <td>9</td>
+      <td>7</td>
       <td>0</td>
       <td>2</td>
-      <td>19</td>
-      <td>10</td>
-      <td>9</td>
-      <td>617.5</td>
-      <td>77.19</td>
+      <td>24</td>
+      <td>12</td>
+      <td>12</td>
+      <td>707.5</td>
+      <td>78.61</td>
     </tr>
     <tr>
       <th>2</th>
       <td>Piove sul Bagnato</td>
-      <td>16</td>
-      <td>8</td>
-      <td>5</td>
+      <td>19</td>
+      <td>9</td>
+      <td>6</td>
       <td>1</td>
       <td>2</td>
-      <td>12</td>
+      <td>14</td>
       <td>10</td>
-      <td>2</td>
-      <td>575</td>
-      <td>71.88</td>
+      <td>4</td>
+      <td>648.5</td>
+      <td>72.06</td>
     </tr>
     <tr>
       <th>3</th>
       <td>A.F.C. Richmond</td>
       <td>14</td>
-      <td>8</td>
+      <td>9</td>
       <td>4</td>
       <td>2</td>
-      <td>2</td>
-      <td>11</td>
-      <td>10</td>
-      <td>1</td>
-      <td>564</td>
-      <td>70.50</td>
+      <td>3</td>
+      <td>12</td>
+      <td>12</td>
+      <td>0</td>
+      <td>635</td>
+      <td>70.56</td>
     </tr>
     <tr>
       <th>4</th>
       <td>Ans Rei Sport Verein</td>
       <td>13</td>
-      <td>8</td>
+      <td>9</td>
       <td>4</td>
       <td>1</td>
-      <td>3</td>
-      <td>15</td>
-      <td>14</td>
-      <td>1</td>
-      <td>598.5</td>
-      <td>74.81</td>
+      <td>4</td>
+      <td>17</td>
+      <td>19</td>
+      <td>-2</td>
+      <td>672</td>
+      <td>74.67</td>
     </tr>
     <tr>
       <th>5</th>
-      <td>Cs Cannabis Street</td>
-      <td>11</td>
-      <td>8</td>
-      <td>3</td>
-      <td>2</td>
-      <td>3</td>
-      <td>11</td>
+      <td>USS Torquemada</td>
+      <td>13</td>
       <td>9</td>
-      <td>2</td>
-      <td>561</td>
-      <td>70.12</td>
+      <td>4</td>
+      <td>1</td>
+      <td>4</td>
+      <td>10</td>
+      <td>11</td>
+      <td>-1</td>
+      <td>632</td>
+      <td>70.22</td>
     </tr>
     <tr>
       <th>6</th>
-      <td>USS Torquemada</td>
-      <td>10</td>
-      <td>8</td>
+      <td>Cs Cannabis Street</td>
+      <td>11</td>
+      <td>9</td>
       <td>3</td>
-      <td>1</td>
+      <td>2</td>
       <td>4</td>
-      <td>8</td>
-      <td>10</td>
-      <td>-2</td>
-      <td>554.5</td>
-      <td>69.31</td>
+      <td>11</td>
+      <td>11</td>
+      <td>0</td>
+      <td>624</td>
+      <td>69.33</td>
     </tr>
     <tr>
       <th>7</th>
       <td>LeBuscemi Revenge</td>
-      <td>7</td>
-      <td>8</td>
-      <td>1</td>
+      <td>10</td>
+      <td>9</td>
+      <td>2</td>
       <td>4</td>
       <td>3</td>
-      <td>13</td>
-      <td>16</td>
-      <td>-3</td>
-      <td>579</td>
-      <td>72.38</td>
+      <td>15</td>
+      <td>17</td>
+      <td>-2</td>
+      <td>651</td>
+      <td>72.33</td>
     </tr>
     <tr>
       <th>8</th>
       <td>La Domenica del Dipendente Pubblico</td>
       <td>1</td>
-      <td>8</td>
+      <td>9</td>
       <td>0</td>
       <td>1</td>
-      <td>7</td>
-      <td>10</td>
-      <td>20</td>
-      <td>-10</td>
-      <td>562.5</td>
-      <td>70.31</td>
+      <td>8</td>
+      <td>11</td>
+      <td>22</td>
+      <td>-11</td>
+      <td>631</td>
+      <td>70.11</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Classifica a punti</th><table border="1" class="dataframe">
@@ -141,42 +141,42 @@
     <tr>
       <th>1</th>
       <td>Docklands United F.C.</td>
-      <td>617.5</td>
+      <td>707.5</td>
     </tr>
     <tr>
       <th>2</th>
       <td>Ans Rei Sport Verein</td>
-      <td>598.5</td>
+      <td>672</td>
     </tr>
     <tr>
       <th>3</th>
       <td>LeBuscemi Revenge</td>
-      <td>579</td>
+      <td>651</td>
     </tr>
     <tr>
       <th>4</th>
       <td>Piove sul Bagnato</td>
-      <td>575</td>
+      <td>648.5</td>
     </tr>
     <tr>
       <th>5</th>
       <td>A.F.C. Richmond</td>
-      <td>564</td>
+      <td>635</td>
     </tr>
     <tr>
       <th>6</th>
-      <td>La Domenica del Dipendente Pubblico</td>
-      <td>562.5</td>
+      <td>USS Torquemada</td>
+      <td>632</td>
     </tr>
     <tr>
       <th>7</th>
-      <td>Cs Cannabis Street</td>
-      <td>561</td>
+      <td>La Domenica del Dipendente Pubblico</td>
+      <td>631</td>
     </tr>
     <tr>
       <th>8</th>
-      <td>USS Torquemada</td>
-      <td>554.5</td>
+      <td>Cs Cannabis Street</td>
+      <td>624</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Classifica Sprint</th><table border="1" class="dataframe">
@@ -195,12 +195,12 @@
     </tr>
     <tr>
       <th>2</th>
-      <td>Cs Cannabis Street</td>
-      <td>2</td>
+      <td>Docklands United F.C.</td>
+      <td>3</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>Docklands United F.C.</td>
+      <td>Cs Cannabis Street</td>
       <td>2</td>
     </tr>
     <tr>
@@ -241,7 +241,7 @@
     <tr>
       <th>1</th>
       <td>Docklands United F.C.</td>
-      <td>8</td>
+      <td>13</td>
     </tr>
     <tr>
       <th>2</th>
@@ -250,22 +250,22 @@
     </tr>
     <tr>
       <th>3</th>
+      <td>Ans Rei Sport Verein</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <th>4</th>
       <td>LeBuscemi Revenge</td>
       <td>3</td>
     </tr>
     <tr>
-      <th>4</th>
-      <td>La Domenica del Dipendente Pubblico</td>
-      <td>1</td>
-    </tr>
-    <tr>
       <th>5</th>
-      <td>Ans Rei Sport Verein</td>
-      <td>1</td>
+      <td>Piove sul Bagnato</td>
+      <td>2</td>
     </tr>
     <tr>
       <th>6</th>
-      <td>Piove sul Bagnato</td>
+      <td>La Domenica del Dipendente Pubblico</td>
       <td>1</td>
     </tr>
     <tr>
@@ -430,115 +430,115 @@
   <tbody>
     <tr>
       <th>1</th>
-      <td>Ans Rei Sport Verein</td>
-      <td>3</td>
-      <td>1</td>
-      <td>1</td>
-      <td>0</td>
-      <td>0</td>
-      <td>3</td>
-      <td>1</td>
+      <td>Piove sul Bagnato</td>
+      <td>6</td>
       <td>2</td>
-      <td>78</td>
-      <td>78.0</td>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>4</td>
+      <td>1</td>
+      <td>3</td>
+      <td>145.5</td>
+      <td>72.75</td>
     </tr>
     <tr>
       <th>2</th>
-      <td>Piove sul Bagnato</td>
-      <td>3</td>
-      <td>1</td>
-      <td>1</td>
-      <td>0</td>
-      <td>0</td>
+      <td>USS Torquemada</td>
+      <td>4</td>
       <td>2</td>
       <td>1</td>
       <td>1</td>
-      <td>72</td>
-      <td>72.0</td>
+      <td>0</td>
+      <td>3</td>
+      <td>2</td>
+      <td>1</td>
+      <td>148.5</td>
+      <td>74.25</td>
     </tr>
     <tr>
       <th>3</th>
       <td>LeBuscemi Revenge</td>
+      <td>4</td>
+      <td>2</td>
       <td>1</td>
       <td>1</td>
       <td>0</td>
+      <td>3</td>
+      <td>2</td>
       <td>1</td>
-      <td>0</td>
-      <td>1</td>
-      <td>1</td>
-      <td>0</td>
-      <td>71.5</td>
-      <td>71.5</td>
+      <td>143.5</td>
+      <td>71.75</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>USS Torquemada</td>
-      <td>1</td>
-      <td>1</td>
-      <td>0</td>
-      <td>1</td>
-      <td>0</td>
-      <td>1</td>
+      <td>Docklands United F.C.</td>
+      <td>3</td>
+      <td>2</td>
       <td>1</td>
       <td>0</td>
-      <td>71</td>
-      <td>71.0</td>
+      <td>1</td>
+      <td>6</td>
+      <td>4</td>
+      <td>2</td>
+      <td>161.5</td>
+      <td>80.75</td>
     </tr>
     <tr>
       <th>5</th>
-      <td>Cs Cannabis Street</td>
-      <td>1</td>
-      <td>1</td>
-      <td>0</td>
-      <td>1</td>
-      <td>0</td>
-      <td>1</td>
+      <td>Ans Rei Sport Verein</td>
+      <td>3</td>
+      <td>2</td>
       <td>1</td>
       <td>0</td>
-      <td>71</td>
-      <td>71.0</td>
+      <td>1</td>
+      <td>5</td>
+      <td>6</td>
+      <td>-1</td>
+      <td>151.5</td>
+      <td>75.75</td>
     </tr>
     <tr>
       <th>6</th>
       <td>A.F.C. Richmond</td>
       <td>1</td>
-      <td>1</td>
-      <td>0</td>
-      <td>1</td>
-      <td>0</td>
-      <td>1</td>
-      <td>1</td>
-      <td>0</td>
-      <td>68.5</td>
-      <td>68.5</td>
-    </tr>
-    <tr>
-      <th>7</th>
-      <td>Docklands United F.C.</td>
-      <td>0</td>
-      <td>1</td>
-      <td>0</td>
+      <td>2</td>
       <td>0</td>
       <td>1</td>
       <td>1</td>
       <td>2</td>
+      <td>3</td>
       <td>-1</td>
-      <td>71.5</td>
-      <td>71.5</td>
+      <td>139.5</td>
+      <td>69.75</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Cs Cannabis Street</td>
+      <td>1</td>
+      <td>2</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>3</td>
+      <td>-2</td>
+      <td>134</td>
+      <td>67.00</td>
     </tr>
     <tr>
       <th>8</th>
       <td>La Domenica del Dipendente Pubblico</td>
       <td>0</td>
-      <td>1</td>
+      <td>2</td>
       <td>0</td>
       <td>0</td>
-      <td>1</td>
-      <td>1</td>
-      <td>3</td>
-      <td>-2</td>
-      <td>70.5</td>
-      <td>70.5</td>
+      <td>2</td>
+      <td>2</td>
+      <td>5</td>
+      <td>-3</td>
+      <td>139</td>
+      <td>69.50</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Classifica 3° girone</th><table border="1" class="dataframe">

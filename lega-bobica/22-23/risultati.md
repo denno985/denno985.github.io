@@ -318,34 +318,34 @@
     <tr>
       <td>Ans Rei Sport Verein</td>
       <td>Cs Cannabis Street</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>71.0</td>
+      <td>69.0</td>
+      <td>1</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>Piove sul Bagnato</td>
       <td>USS Torquemada</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>64.0</td>
+      <td>68.0</td>
       <td>0</td>
-      <td>0</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>A.F.C. Richmond</td>
       <td>LeBuscemi Revenge</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>77.0</td>
+      <td>69.0</td>
+      <td>2</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>Docklands United F.C.</td>
       <td>La Domenica del Dipendente Pubblico</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>77.0</td>
+      <td>66.0</td>
+      <td>2</td>
+      <td>1</td>
     </tr>
   </tbody>
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/22-23/giornate/11" class="active">11a giornata</a></li><table border="1" class="dataframe">

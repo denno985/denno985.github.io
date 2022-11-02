@@ -32,7 +32,7 @@
       <td>1</td>
       <td>3</td>
       <td>68</td>
-      <td>78</td>
+      <td>79</td>
       <td>1</td>
       <td>3</td>
     </tr>
@@ -138,8 +138,8 @@
       <td>11</td>
       <td>6</td>
       <td>5</td>
-      <td>315.5</td>
-      <td>78.88</td>
+      <td>316.5</td>
+      <td>79.12</td>
     </tr>
     <tr>
       <th>2</th>
@@ -205,7 +205,7 @@
       <td>84.5</td>
       <td>2</td>
       <td>4</td>
-      <td>66</td>
+      <td>67</td>
       <td>70</td>
       <td>1</td>
       <td>1</td>
@@ -366,8 +366,8 @@
       <td>4</td>
       <td>8</td>
       <td>-4</td>
-      <td>275.5</td>
-      <td>68.88</td>
+      <td>276.5</td>
+      <td>69.12</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Battaglia dei Bastardi</th><table border="1" class="dataframe">

@@ -342,9 +342,9 @@
     <tr>
       <td>Docklands United F.C.</td>
       <td>La Domenica del Dipendente Pubblico</td>
-      <td>77.0</td>
-      <td>66.0</td>
-      <td>2</td>
+      <td>78.0</td>
+      <td>67.0</td>
+      <td>3</td>
       <td>1</td>
     </tr>
   </tbody>

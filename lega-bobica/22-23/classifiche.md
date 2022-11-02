@@ -24,11 +24,11 @@
       <td>8</td>
       <td>0</td>
       <td>2</td>
-      <td>26</td>
+      <td>27</td>
       <td>13</td>
-      <td>13</td>
-      <td>784.5</td>
-      <td>78.45</td>
+      <td>14</td>
+      <td>785.5</td>
+      <td>78.55</td>
     </tr>
     <tr>
       <th>2</th>
@@ -123,10 +123,10 @@
       <td>1</td>
       <td>9</td>
       <td>12</td>
-      <td>24</td>
-      <td>-12</td>
-      <td>697</td>
-      <td>69.70</td>
+      <td>25</td>
+      <td>-13</td>
+      <td>698</td>
+      <td>69.80</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Classifica a punti</th><table border="1" class="dataframe">
@@ -141,7 +141,7 @@
     <tr>
       <th>1</th>
       <td>Docklands United F.C.</td>
-      <td>784.5</td>
+      <td>785.5</td>
     </tr>
     <tr>
       <th>2</th>
@@ -171,7 +171,7 @@
     <tr>
       <th>7</th>
       <td>La Domenica del Dipendente Pubblico</td>
-      <td>697</td>
+      <td>698</td>
     </tr>
     <tr>
       <th>8</th>
@@ -206,7 +206,7 @@
     <tr>
       <th>4</th>
       <td>A.F.C. Richmond</td>
-      <td>2</td>
+      <td>1</td>
     </tr>
     <tr>
       <th>5</th>
@@ -450,11 +450,11 @@
       <td>2</td>
       <td>0</td>
       <td>1</td>
-      <td>8</td>
+      <td>9</td>
       <td>5</td>
-      <td>3</td>
-      <td>238.5</td>
-      <td>79.50</td>
+      <td>4</td>
+      <td>239.5</td>
+      <td>79.83</td>
     </tr>
     <tr>
       <th>3</th>
@@ -535,10 +535,10 @@
       <td>0</td>
       <td>3</td>
       <td>3</td>
-      <td>7</td>
-      <td>-4</td>
-      <td>205</td>
-      <td>68.33</td>
+      <td>8</td>
+      <td>-5</td>
+      <td>206</td>
+      <td>68.67</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Classifica 3° girone</th><table border="1" class="dataframe">

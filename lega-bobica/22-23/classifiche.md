@@ -13,6 +13,7 @@
       <th>Diff. Reti</th>
       <th>Punti tot.</th>
       <th>Media pti</th>
+      <th>Form. Non date</th>
     </tr>
   </thead>
   <tbody>
@@ -29,6 +30,7 @@
       <td>14</td>
       <td>785.5</td>
       <td>78.55</td>
+      <td>0</td>
     </tr>
     <tr>
       <th>2</th>
@@ -43,6 +45,7 @@
       <td>3</td>
       <td>712.5</td>
       <td>71.25</td>
+      <td>0</td>
     </tr>
     <tr>
       <th>3</th>
@@ -57,6 +60,7 @@
       <td>1</td>
       <td>712</td>
       <td>71.20</td>
+      <td>0</td>
     </tr>
     <tr>
       <th>4</th>
@@ -71,6 +75,7 @@
       <td>0</td>
       <td>700</td>
       <td>70.00</td>
+      <td>1</td>
     </tr>
     <tr>
       <th>5</th>
@@ -85,6 +90,7 @@
       <td>-2</td>
       <td>743</td>
       <td>74.30</td>
+      <td>0</td>
     </tr>
     <tr>
       <th>6</th>
@@ -99,6 +105,7 @@
       <td>0</td>
       <td>693</td>
       <td>69.30</td>
+      <td>1</td>
     </tr>
     <tr>
       <th>7</th>
@@ -113,6 +120,7 @@
       <td>-3</td>
       <td>720</td>
       <td>72.00</td>
+      <td>0</td>
     </tr>
     <tr>
       <th>8</th>
@@ -127,6 +135,7 @@
       <td>-13</td>
       <td>698</td>
       <td>69.80</td>
+      <td>0</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Classifica a punti</th><table border="1" class="dataframe">

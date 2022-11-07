@@ -55,10 +55,10 @@
       <td>66.5</td>
       <td>3</td>
       <td>1</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>73.5</td>
+      <td>73.5</td>
+      <td>2</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Ans Rei Sport Verein</td>
@@ -67,10 +67,10 @@
       <td>77</td>
       <td>2</td>
       <td>2</td>
+      <td>65</td>
+      <td>74</td>
       <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>3a giornata</td>
@@ -130,58 +130,58 @@
     <tr>
       <th>1</th>
       <td>Docklands United F.C.</td>
-      <td>9</td>
-      <td>4</td>
-      <td>3</td>
-      <td>0</td>
-      <td>1</td>
-      <td>11</td>
-      <td>6</td>
+      <td>10</td>
       <td>5</td>
-      <td>316.5</td>
-      <td>79.12</td>
+      <td>3</td>
+      <td>1</td>
+      <td>1</td>
+      <td>13</td>
+      <td>8</td>
+      <td>5</td>
+      <td>390</td>
+      <td>78.0</td>
     </tr>
     <tr>
       <th>2</th>
       <td>Ans Rei Sport Verein</td>
       <td>8</td>
-      <td>4</td>
+      <td>5</td>
       <td>2</td>
       <td>2</td>
-      <td>0</td>
+      <td>1</td>
       <td>9</td>
-      <td>7</td>
-      <td>2</td>
-      <td>302</td>
-      <td>75.50</td>
+      <td>9</td>
+      <td>0</td>
+      <td>367</td>
+      <td>73.4</td>
     </tr>
     <tr>
       <th>3</th>
       <td>USS Torquemada</td>
-      <td>4</td>
-      <td>4</td>
-      <td>1</td>
+      <td>7</td>
+      <td>5</td>
+      <td>2</td>
       <td>1</td>
       <td>2</td>
-      <td>6</td>
+      <td>8</td>
       <td>9</td>
-      <td>-3</td>
-      <td>288.5</td>
-      <td>72.12</td>
+      <td>-1</td>
+      <td>362.5</td>
+      <td>72.5</td>
     </tr>
     <tr>
       <th>4</th>
       <td>LeBuscemi Revenge</td>
-      <td>1</td>
-      <td>4</td>
-      <td>0</td>
-      <td>1</td>
-      <td>3</td>
+      <td>2</td>
       <td>5</td>
-      <td>9</td>
+      <td>0</td>
+      <td>2</td>
+      <td>3</td>
+      <td>7</td>
+      <td>11</td>
       <td>-4</td>
-      <td>282</td>
-      <td>70.50</td>
+      <td>355.5</td>
+      <td>71.1</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Calendario girone B</th><table border="1" class="dataframe">
@@ -241,10 +241,10 @@
       <td>63</td>
       <td>1</td>
       <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>81</td>
+      <td>73</td>
+      <td>3</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Cs Cannabis Street</td>
@@ -253,10 +253,10 @@
       <td>80.5</td>
       <td>1</td>
       <td>3</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>69</td>
+      <td>75.5</td>
+      <td>1</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>3a giornata</td>
@@ -316,58 +316,58 @@
     <tr>
       <th>1</th>
       <td>Piove sul Bagnato</td>
-      <td>9</td>
+      <td>12</td>
+      <td>5</td>
       <td>4</td>
-      <td>3</td>
       <td>0</td>
       <td>1</td>
+      <td>10</td>
       <td>8</td>
-      <td>7</td>
-      <td>1</td>
-      <td>300.5</td>
-      <td>75.12</td>
+      <td>2</td>
+      <td>376</td>
+      <td>75.2</td>
     </tr>
     <tr>
       <th>2</th>
       <td>A.F.C. Richmond</td>
-      <td>7</td>
-      <td>4</td>
-      <td>2</td>
-      <td>1</td>
-      <td>1</td>
-      <td>7</td>
-      <td>4</td>
+      <td>10</td>
+      <td>5</td>
       <td>3</td>
-      <td>292</td>
-      <td>73.00</td>
+      <td>1</td>
+      <td>1</td>
+      <td>10</td>
+      <td>6</td>
+      <td>4</td>
+      <td>373</td>
+      <td>74.6</td>
     </tr>
     <tr>
       <th>3</th>
       <td>Cs Cannabis Street</td>
       <td>5</td>
-      <td>4</td>
+      <td>5</td>
       <td>1</td>
       <td>2</td>
-      <td>1</td>
-      <td>7</td>
-      <td>7</td>
-      <td>0</td>
-      <td>295</td>
-      <td>73.75</td>
+      <td>2</td>
+      <td>8</td>
+      <td>9</td>
+      <td>-1</td>
+      <td>364</td>
+      <td>72.8</td>
     </tr>
     <tr>
       <th>4</th>
       <td>La Domenica del Dipendente Pubblico</td>
       <td>1</td>
-      <td>4</td>
+      <td>5</td>
       <td>0</td>
       <td>1</td>
-      <td>3</td>
       <td>4</td>
-      <td>8</td>
-      <td>-4</td>
-      <td>276.5</td>
-      <td>69.12</td>
+      <td>6</td>
+      <td>11</td>
+      <td>-5</td>
+      <td>349.5</td>
+      <td>69.9</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Battaglia dei Bastardi</th><table border="1" class="dataframe">

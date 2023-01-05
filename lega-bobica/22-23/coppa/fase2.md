@@ -385,16 +385,16 @@
     <tr>
       <td>Cs Cannabis Street</td>
       <td>LeBuscemi Revenge</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>69</td>
+      <td>73.5</td>
+      <td>1</td>
+      <td>2</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>78.171429</td>
-      <td></td>
+      <td>0</td>
+      <td>0</td>
       <td></td>
       <td></td>
       <td></td>

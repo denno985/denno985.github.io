@@ -51,10 +51,10 @@
     <tr>
       <td>LeBuscemi Revenge</td>
       <td>Docklands United F.C.</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>72.5</td>
+      <td>68</td>
+      <td>2</td>
+      <td>1</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -64,7 +64,7 @@
       <td>riposa</td>
       <td>Piove sul Bagnato</td>
       <td></td>
-      <td>0</td>
+      <td>65.5</td>
       <td></td>
       <td></td>
       <td></td>
@@ -129,6 +129,20 @@
   <tbody>
     <tr>
       <th>1</th>
+      <td>LeBuscemi Revenge</td>
+      <td>3</td>
+      <td>2</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>3</td>
+      <td>3</td>
+      <td>0</td>
+      <td>138.5</td>
+      <td>69.25</td>
+    </tr>
+    <tr>
+      <th>2</th>
       <td>Piove sul Bagnato</td>
       <td>3</td>
       <td>1</td>
@@ -138,26 +152,12 @@
       <td>2</td>
       <td>1</td>
       <td>1</td>
-      <td>72.5</td>
-      <td>72.5</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>Docklands United F.C.</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>68</td>
-      <td>68.0</td>
+      <td>138</td>
+      <td>69.00</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>LeBuscemi Revenge</td>
+      <td>Docklands United F.C.</td>
       <td>0</td>
       <td>1</td>
       <td>0</td>
@@ -166,8 +166,8 @@
       <td>1</td>
       <td>2</td>
       <td>-1</td>
-      <td>66</td>
-      <td>66.0</td>
+      <td>136</td>
+      <td>68.00</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Calendario girone B</th><table border="1" class="dataframe">
@@ -223,9 +223,9 @@
     <tr>
       <td>A.F.C. Richmond</td>
       <td>Ans Rei Sport Verein</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>77.5</td>
+      <td>62</td>
+      <td>2</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -236,7 +236,7 @@
       <td>riposa</td>
       <td>USS Torquemada</td>
       <td></td>
-      <td>0</td>
+      <td>81</td>
       <td></td>
       <td></td>
       <td></td>
@@ -310,36 +310,36 @@
       <td>1</td>
       <td>0</td>
       <td>1</td>
-      <td>69.5</td>
-      <td>69.5</td>
+      <td>150.5</td>
+      <td>75.25</td>
     </tr>
     <tr>
       <th>2</th>
-      <td>Ans Rei Sport Verein</td>
+      <td>A.F.C. Richmond</td>
+      <td>3</td>
+      <td>2</td>
+      <td>1</td>
       <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>78.5</td>
-      <td>78.5</td>
+      <td>1</td>
+      <td>2</td>
+      <td>1</td>
+      <td>1</td>
+      <td>142.5</td>
+      <td>71.25</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>A.F.C. Richmond</td>
+      <td>Ans Rei Sport Verein</td>
       <td>0</td>
       <td>1</td>
       <td>0</td>
       <td>0</td>
       <td>1</td>
       <td>0</td>
-      <td>1</td>
-      <td>-1</td>
-      <td>65</td>
-      <td>65.0</td>
+      <td>2</td>
+      <td>-2</td>
+      <td>140.5</td>
+      <td>70.25</td>
     </tr>
   </tbody>
 </table><th><br/></th>

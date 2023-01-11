@@ -493,34 +493,34 @@
     <tr>
       <td>LeBuscemi Revenge</td>
       <td>USS Torquemada</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>71.5</td>
+      <td>81.0</td>
+      <td>1</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>Ans Rei Sport Verein</td>
       <td>La Domenica del Dipendente Pubblico</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>62.0</td>
+      <td>75.0</td>
       <td>0</td>
-      <td>0</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Piove sul Bagnato</td>
       <td>Docklands United F.C.</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>65.5</td>
+      <td>68.0</td>
       <td>0</td>
-      <td>0</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>A.F.C. Richmond</td>
       <td>Cs Cannabis Street</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>76.5</td>
+      <td>68.5</td>
+      <td>2</td>
+      <td>1</td>
     </tr>
   </tbody>
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/22-23/giornate/16" class="active">16a giornata</a></li><table border="1" class="dataframe">

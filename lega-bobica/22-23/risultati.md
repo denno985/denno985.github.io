@@ -528,34 +528,34 @@
     <tr>
       <td>USS Torquemada</td>
       <td>A.F.C. Richmond</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>66.0</td>
+      <td>72.0</td>
+      <td>1</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Cs Cannabis Street</td>
       <td>Piove sul Bagnato</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>79.5</td>
+      <td>75.5</td>
+      <td>3</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Docklands United F.C.</td>
       <td>Ans Rei Sport Verein</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>83.5</td>
+      <td>79.5</td>
+      <td>3</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>La Domenica del Dipendente Pubblico</td>
       <td>LeBuscemi Revenge</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>62.5</td>
+      <td>68.0</td>
       <td>0</td>
-      <td>0</td>
+      <td>1</td>
     </tr>
   </tbody>
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/22-23/giornate/17" class="active">17a giornata</a></li><table border="1" class="dataframe">

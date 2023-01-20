@@ -80,14 +80,14 @@
     <tr>
       <th>5</th>
       <td>LeBuscemi Revenge</td>
-      <td>21</td>
+      <td>19</td>
       <td>16</td>
-      <td>5</td>
-      <td>6</td>
+      <td>4</td>
+      <td>7</td>
       <td>5</td>
       <td>27</td>
-      <td>29</td>
-      <td>-2</td>
+      <td>30</td>
+      <td>-3</td>
       <td>1156.5</td>
       <td>72.28</td>
       <td>0</td>
@@ -125,16 +125,16 @@
     <tr>
       <th>8</th>
       <td>La Domenica del Dipendente Pubblico</td>
-      <td>10</td>
+      <td>11</td>
       <td>16</td>
       <td>3</td>
-      <td>1</td>
-      <td>12</td>
-      <td>21</td>
+      <td>2</td>
+      <td>11</td>
+      <td>22</td>
       <td>32</td>
-      <td>-11</td>
-      <td>1128</td>
-      <td>70.50</td>
+      <td>-10</td>
+      <td>1133.5</td>
+      <td>70.84</td>
       <td>1</td>
     </tr>
   </tbody>
@@ -174,12 +174,12 @@
     </tr>
     <tr>
       <th>6</th>
-      <td>USS Torquemada</td>
-      <td>1128</td>
+      <td>La Domenica del Dipendente Pubblico</td>
+      <td>1133.5</td>
     </tr>
     <tr>
       <th>7</th>
-      <td>La Domenica del Dipendente Pubblico</td>
+      <td>USS Torquemada</td>
       <td>1128</td>
     </tr>
     <tr>
@@ -598,6 +598,20 @@
     </tr>
     <tr>
       <th>3</th>
+      <td>La Domenica del Dipendente Pubblico</td>
+      <td>4</td>
+      <td>2</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>3</td>
+      <td>1</td>
+      <td>2</td>
+      <td>143</td>
+      <td>71.50</td>
+    </tr>
+    <tr>
+      <th>4</th>
       <td>Cs Cannabis Street</td>
       <td>3</td>
       <td>2</td>
@@ -611,7 +625,7 @@
       <td>74.00</td>
     </tr>
     <tr>
-      <th>4</th>
+      <th>5</th>
       <td>USS Torquemada</td>
       <td>3</td>
       <td>2</td>
@@ -625,35 +639,7 @@
       <td>73.50</td>
     </tr>
     <tr>
-      <th>5</th>
-      <td>LeBuscemi Revenge</td>
-      <td>3</td>
-      <td>2</td>
-      <td>1</td>
-      <td>0</td>
-      <td>1</td>
-      <td>2</td>
-      <td>3</td>
-      <td>-1</td>
-      <td>139.5</td>
-      <td>69.75</td>
-    </tr>
-    <tr>
       <th>6</th>
-      <td>La Domenica del Dipendente Pubblico</td>
-      <td>3</td>
-      <td>2</td>
-      <td>1</td>
-      <td>0</td>
-      <td>1</td>
-      <td>2</td>
-      <td>1</td>
-      <td>1</td>
-      <td>137.5</td>
-      <td>68.75</td>
-    </tr>
-    <tr>
-      <th>7</th>
       <td>Ans Rei Sport Verein</td>
       <td>1</td>
       <td>2</td>
@@ -665,6 +651,20 @@
       <td>-2</td>
       <td>141.5</td>
       <td>70.75</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>LeBuscemi Revenge</td>
+      <td>1</td>
+      <td>2</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+      <td>2</td>
+      <td>4</td>
+      <td>-2</td>
+      <td>139.5</td>
+      <td>69.75</td>
     </tr>
     <tr>
       <th>8</th>

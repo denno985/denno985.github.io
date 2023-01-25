@@ -19,7 +19,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>69</td>
+      <td>70</td>
       <td></td>
       <td></td>
       <td></td>
@@ -152,8 +152,8 @@
       <td>5</td>
       <td>4</td>
       <td>1</td>
-      <td>289.5</td>
-      <td>72.38</td>
+      <td>290.5</td>
+      <td>72.62</td>
     </tr>
     <tr>
       <th>3</th>

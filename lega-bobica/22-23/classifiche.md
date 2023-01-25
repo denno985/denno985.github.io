@@ -28,8 +28,8 @@
       <td>39</td>
       <td>23</td>
       <td>16</td>
-      <td>1295</td>
-      <td>76.18</td>
+      <td>1296</td>
+      <td>76.24</td>
       <td>0</td>
     </tr>
     <tr>
@@ -101,8 +101,8 @@
       <td>3</td>
       <td>9</td>
       <td>27</td>
-      <td>36</td>
-      <td>-9</td>
+      <td>37</td>
+      <td>-10</td>
       <td>1237</td>
       <td>72.76</td>
       <td>1</td>
@@ -115,11 +115,11 @@
       <td>5</td>
       <td>3</td>
       <td>9</td>
-      <td>21</td>
+      <td>22</td>
       <td>24</td>
-      <td>-3</td>
-      <td>1191</td>
-      <td>70.06</td>
+      <td>-2</td>
+      <td>1191.5</td>
+      <td>70.09</td>
       <td>0</td>
     </tr>
     <tr>
@@ -150,7 +150,7 @@
     <tr>
       <th>1</th>
       <td>Docklands United F.C.</td>
-      <td>1295</td>
+      <td>1296</td>
     </tr>
     <tr>
       <th>2</th>
@@ -185,7 +185,7 @@
     <tr>
       <th>8</th>
       <td>Cs Cannabis Street</td>
-      <td>1191</td>
+      <td>1191.5</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Classifica Sprint</th><table border="1" class="dataframe">
@@ -604,11 +604,11 @@
       <td>2</td>
       <td>0</td>
       <td>1</td>
-      <td>7</td>
+      <td>8</td>
       <td>5</td>
-      <td>2</td>
-      <td>231.5</td>
-      <td>77.17</td>
+      <td>3</td>
+      <td>232</td>
+      <td>77.33</td>
     </tr>
     <tr>
       <th>4</th>
@@ -635,8 +635,8 @@
       <td>5</td>
       <td>6</td>
       <td>-1</td>
-      <td>220.5</td>
-      <td>73.50</td>
+      <td>221.5</td>
+      <td>73.83</td>
     </tr>
     <tr>
       <th>6</th>
@@ -661,8 +661,8 @@
       <td>1</td>
       <td>2</td>
       <td>4</td>
-      <td>8</td>
-      <td>-4</td>
+      <td>9</td>
+      <td>-5</td>
       <td>211</td>
       <td>70.33</td>
     </tr>

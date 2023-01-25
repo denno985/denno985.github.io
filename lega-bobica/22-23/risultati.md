@@ -564,9 +564,9 @@
       <td>Ans Rei Sport Verein</td>
       <td>Cs Cannabis Street</td>
       <td>69.5</td>
-      <td>83.5</td>
+      <td>84.0</td>
       <td>1</td>
-      <td>3</td>
+      <td>4</td>
     </tr>
     <tr>
       <td>Piove sul Bagnato</td>
@@ -587,7 +587,7 @@
     <tr>
       <td>Docklands United F.C.</td>
       <td>La Domenica del Dipendente Pubblico</td>
-      <td>69.0</td>
+      <td>70.0</td>
       <td>80.0</td>
       <td>1</td>
       <td>3</td>

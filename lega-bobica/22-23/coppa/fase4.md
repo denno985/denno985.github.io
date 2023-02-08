@@ -10,39 +10,39 @@
   <tbody>
     <tr>
       <th>1</th>
-      <td>Penultimo</td>
-      <td>NaN</td>
-      <td>NaN</td>
+      <td>Docklands United F.C.</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <th>2</th>
-      <td>2a Gir. B</td>
-      <td>NaN</td>
-      <td>NaN</td>
+      <td>USS Torquemada</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>Ultimo</td>
-      <td>NaN</td>
-      <td>NaN</td>
+      <td>A.F.C. Richmond</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>1a Gir. A</td>
-      <td>NaN</td>
-      <td>NaN</td>
+      <td>LeBuscemi Revenge</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <th>5</th>
-      <td>1a Gir. B</td>
-      <td>NaN</td>
-      <td>NaN</td>
+      <td>Ans Rei Sport Verein</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <th>6</th>
-      <td>2a Gir. A</td>
-      <td>NaN</td>
-      <td>NaN</td>
+      <td>Piove sul Bagnato</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>1a giornata</th><table border="1" class="dataframe">
@@ -53,32 +53,32 @@
       <td>Pti</td>
     </tr>
     <tr>
-      <td>1a Gir. A</td>
+      <td>LeBuscemi Revenge</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>1a Gir. B</td>
+      <td>Ans Rei Sport Verein</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>2a Gir. A</td>
+      <td>Piove sul Bagnato</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>2a Gir. B</td>
+      <td>USS Torquemada</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Penultimo</td>
+      <td>Docklands United F.C.</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Ultimo</td>
+      <td>A.F.C. Richmond</td>
       <td></td>
       <td></td>
     </tr>
@@ -91,32 +91,32 @@
       <td>Pti</td>
     </tr>
     <tr>
-      <td>1a Gir. A</td>
+      <td>LeBuscemi Revenge</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>1a Gir. B</td>
+      <td>Ans Rei Sport Verein</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>2a Gir. A</td>
+      <td>Piove sul Bagnato</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>2a Gir. B</td>
+      <td>USS Torquemada</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Penultimo</td>
+      <td>Docklands United F.C.</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Ultimo</td>
+      <td>A.F.C. Richmond</td>
       <td></td>
       <td></td>
     </tr>
@@ -129,32 +129,32 @@
       <td>Pti</td>
     </tr>
     <tr>
-      <td>1a Gir. A</td>
+      <td>LeBuscemi Revenge</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>1a Gir. B</td>
+      <td>Ans Rei Sport Verein</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>2a Gir. A</td>
+      <td>Piove sul Bagnato</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>2a Gir. B</td>
+      <td>USS Torquemada</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Penultimo</td>
+      <td>Docklands United F.C.</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Ultimo</td>
+      <td>A.F.C. Richmond</td>
       <td></td>
       <td></td>
     </tr>
@@ -167,32 +167,32 @@
       <td>Pti</td>
     </tr>
     <tr>
-      <td>1a Gir. A</td>
+      <td>LeBuscemi Revenge</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>1a Gir. B</td>
+      <td>Ans Rei Sport Verein</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>2a Gir. A</td>
+      <td>Piove sul Bagnato</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>2a Gir. B</td>
+      <td>USS Torquemada</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Penultimo</td>
+      <td>Docklands United F.C.</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Ultimo</td>
+      <td>A.F.C. Richmond</td>
       <td></td>
       <td></td>
     </tr>
@@ -205,32 +205,32 @@
       <td>Pti</td>
     </tr>
     <tr>
-      <td>1a Gir. A</td>
+      <td>LeBuscemi Revenge</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>1a Gir. B</td>
+      <td>Ans Rei Sport Verein</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>2a Gir. A</td>
+      <td>Piove sul Bagnato</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>2a Gir. B</td>
+      <td>USS Torquemada</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Penultimo</td>
+      <td>Docklands United F.C.</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Ultimo</td>
+      <td>A.F.C. Richmond</td>
       <td></td>
       <td></td>
     </tr>
@@ -243,32 +243,32 @@
       <td>Pti</td>
     </tr>
     <tr>
-      <td>1a Gir. A</td>
+      <td>LeBuscemi Revenge</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>1a Gir. B</td>
+      <td>Ans Rei Sport Verein</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>2a Gir. A</td>
+      <td>Piove sul Bagnato</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>2a Gir. B</td>
+      <td>USS Torquemada</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Penultimo</td>
+      <td>Docklands United F.C.</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Ultimo</td>
+      <td>A.F.C. Richmond</td>
       <td></td>
       <td></td>
     </tr>

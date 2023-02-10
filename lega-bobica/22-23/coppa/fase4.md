@@ -10,7 +10,7 @@
   <tbody>
     <tr>
       <th>1</th>
-      <td>Docklands United F.C.</td>
+      <td>A.F.C. Richmond</td>
       <td>0</td>
       <td>0</td>
     </tr>
@@ -22,7 +22,7 @@
     </tr>
     <tr>
       <th>3</th>
-      <td>A.F.C. Richmond</td>
+      <td>Piove sul Bagnato</td>
       <td>0</td>
       <td>0</td>
     </tr>
@@ -40,7 +40,7 @@
     </tr>
     <tr>
       <th>6</th>
-      <td>Piove sul Bagnato</td>
+      <td>Docklands United F.C.</td>
       <td>0</td>
       <td>0</td>
     </tr>
@@ -63,7 +63,7 @@
       <td></td>
     </tr>
     <tr>
-      <td>Piove sul Bagnato</td>
+      <td>Docklands United F.C.</td>
       <td></td>
       <td></td>
     </tr>
@@ -73,12 +73,12 @@
       <td></td>
     </tr>
     <tr>
-      <td>Docklands United F.C.</td>
+      <td>A.F.C. Richmond</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>A.F.C. Richmond</td>
+      <td>Piove sul Bagnato</td>
       <td></td>
       <td></td>
     </tr>
@@ -101,7 +101,7 @@
       <td></td>
     </tr>
     <tr>
-      <td>Piove sul Bagnato</td>
+      <td>Docklands United F.C.</td>
       <td></td>
       <td></td>
     </tr>
@@ -111,12 +111,12 @@
       <td></td>
     </tr>
     <tr>
-      <td>Docklands United F.C.</td>
+      <td>A.F.C. Richmond</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>A.F.C. Richmond</td>
+      <td>Piove sul Bagnato</td>
       <td></td>
       <td></td>
     </tr>
@@ -139,7 +139,7 @@
       <td></td>
     </tr>
     <tr>
-      <td>Piove sul Bagnato</td>
+      <td>Docklands United F.C.</td>
       <td></td>
       <td></td>
     </tr>
@@ -149,12 +149,12 @@
       <td></td>
     </tr>
     <tr>
-      <td>Docklands United F.C.</td>
+      <td>A.F.C. Richmond</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>A.F.C. Richmond</td>
+      <td>Piove sul Bagnato</td>
       <td></td>
       <td></td>
     </tr>
@@ -177,7 +177,7 @@
       <td></td>
     </tr>
     <tr>
-      <td>Piove sul Bagnato</td>
+      <td>Docklands United F.C.</td>
       <td></td>
       <td></td>
     </tr>
@@ -187,12 +187,12 @@
       <td></td>
     </tr>
     <tr>
-      <td>Docklands United F.C.</td>
+      <td>A.F.C. Richmond</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>A.F.C. Richmond</td>
+      <td>Piove sul Bagnato</td>
       <td></td>
       <td></td>
     </tr>
@@ -215,7 +215,7 @@
       <td></td>
     </tr>
     <tr>
-      <td>Piove sul Bagnato</td>
+      <td>Docklands United F.C.</td>
       <td></td>
       <td></td>
     </tr>
@@ -225,12 +225,12 @@
       <td></td>
     </tr>
     <tr>
-      <td>Docklands United F.C.</td>
+      <td>A.F.C. Richmond</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>A.F.C. Richmond</td>
+      <td>Piove sul Bagnato</td>
       <td></td>
       <td></td>
     </tr>
@@ -253,7 +253,7 @@
       <td></td>
     </tr>
     <tr>
-      <td>Piove sul Bagnato</td>
+      <td>Docklands United F.C.</td>
       <td></td>
       <td></td>
     </tr>
@@ -263,12 +263,12 @@
       <td></td>
     </tr>
     <tr>
-      <td>Docklands United F.C.</td>
+      <td>A.F.C. Richmond</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>A.F.C. Richmond</td>
+      <td>Piove sul Bagnato</td>
       <td></td>
       <td></td>
     </tr>

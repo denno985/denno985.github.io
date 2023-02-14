@@ -668,34 +668,34 @@
     <tr>
       <td>LeBuscemi Revenge</td>
       <td>Docklands United F.C.</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>74.0</td>
+      <td>79.0</td>
+      <td>2</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>USS Torquemada</td>
       <td>Cs Cannabis Street</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>75.0</td>
+      <td>67.5</td>
+      <td>2</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>Piove sul Bagnato</td>
       <td>La Domenica del Dipendente Pubblico</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
+      <td>67.0</td>
+      <td>59.0</td>
+      <td>1</td>
       <td>0</td>
     </tr>
     <tr>
       <td>A.F.C. Richmond</td>
       <td>Ans Rei Sport Verein</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>71.5</td>
+      <td>72.5</td>
+      <td>1</td>
+      <td>2</td>
     </tr>
   </tbody>
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/22-23/giornate/21" class="active">21a giornata</a></li><table border="1" class="dataframe">

@@ -10,15 +10,15 @@
   <tbody>
     <tr>
       <th>1</th>
-      <td>Docklands United F.C.</td>
-      <td>10</td>
-      <td>79</td>
+      <td>USS Torquemada</td>
+      <td>19</td>
+      <td>146</td>
     </tr>
     <tr>
       <th>2</th>
-      <td>USS Torquemada</td>
-      <td>9</td>
-      <td>75</td>
+      <td>Docklands United F.C.</td>
+      <td>10</td>
+      <td>79</td>
     </tr>
     <tr>
       <th>3</th>
@@ -97,8 +97,8 @@
     </tr>
     <tr>
       <td>USS Torquemada</td>
-      <td></td>
-      <td></td>
+      <td>71</td>
+      <td>10</td>
     </tr>
     <tr>
       <td>LeBuscemi Revenge</td>

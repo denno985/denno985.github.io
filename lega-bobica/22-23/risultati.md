@@ -727,10 +727,10 @@
     <tr>
       <td>La Domenica del Dipendente Pubblico</td>
       <td>USS Torquemada</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>75.5</td>
+      <td>71.0</td>
+      <td>2</td>
+      <td>1</td>
     </tr>
   </tbody>
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/22-23/giornate/22" class="active">22a giornata</a></li><table border="1" class="dataframe">

@@ -51,15 +51,15 @@
       <th>3</th>
       <td>USS Torquemada</td>
       <td>32</td>
-      <td>20</td>
+      <td>21</td>
       <td>10</td>
       <td>2</td>
-      <td>8</td>
-      <td>29</td>
-      <td>26</td>
-      <td>3</td>
-      <td>1427.5</td>
-      <td>71.38</td>
+      <td>9</td>
+      <td>30</td>
+      <td>28</td>
+      <td>2</td>
+      <td>1498.5</td>
+      <td>71.36</td>
       <td>0</td>
     </tr>
     <tr>
@@ -109,6 +109,21 @@
     </tr>
     <tr>
       <th>7</th>
+      <td>La Domenica del Dipendente Pubblico</td>
+      <td>21</td>
+      <td>21</td>
+      <td>6</td>
+      <td>3</td>
+      <td>12</td>
+      <td>32</td>
+      <td>38</td>
+      <td>-6</td>
+      <td>1507.5</td>
+      <td>71.79</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>8</th>
       <td>Cs Cannabis Street</td>
       <td>21</td>
       <td>20</td>
@@ -121,21 +136,6 @@
       <td>1413</td>
       <td>70.65</td>
       <td>0</td>
-    </tr>
-    <tr>
-      <th>8</th>
-      <td>La Domenica del Dipendente Pubblico</td>
-      <td>18</td>
-      <td>20</td>
-      <td>5</td>
-      <td>3</td>
-      <td>12</td>
-      <td>30</td>
-      <td>37</td>
-      <td>-7</td>
-      <td>1432</td>
-      <td>71.60</td>
-      <td>1</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Classifica a punti</th><table border="1" class="dataframe">
@@ -154,28 +154,28 @@
     </tr>
     <tr>
       <th>2</th>
+      <td>La Domenica del Dipendente Pubblico</td>
+      <td>1507.5</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>USS Torquemada</td>
+      <td>1498.5</td>
+    </tr>
+    <tr>
+      <th>4</th>
       <td>LeBuscemi Revenge</td>
       <td>1460.5</td>
     </tr>
     <tr>
-      <th>3</th>
+      <th>5</th>
       <td>Ans Rei Sport Verein</td>
       <td>1457.5</td>
     </tr>
     <tr>
-      <th>4</th>
-      <td>La Domenica del Dipendente Pubblico</td>
-      <td>1432</td>
-    </tr>
-    <tr>
-      <th>5</th>
+      <th>6</th>
       <td>Piove sul Bagnato</td>
       <td>1428.5</td>
-    </tr>
-    <tr>
-      <th>6</th>
-      <td>USS Torquemada</td>
-      <td>1427.5</td>
     </tr>
     <tr>
       <th>7</th>
@@ -571,30 +571,30 @@
     <tr>
       <th>1</th>
       <td>La Domenica del Dipendente Pubblico</td>
-      <td>11</td>
-      <td>6</td>
-      <td>3</td>
+      <td>14</td>
+      <td>7</td>
+      <td>4</td>
       <td>2</td>
       <td>1</td>
-      <td>11</td>
+      <td>13</td>
+      <td>7</td>
       <td>6</td>
-      <td>5</td>
-      <td>441.5</td>
-      <td>73.58</td>
+      <td>517</td>
+      <td>73.86</td>
     </tr>
     <tr>
       <th>2</th>
       <td>USS Torquemada</td>
       <td>10</td>
-      <td>6</td>
+      <td>7</td>
       <td>3</td>
       <td>1</td>
-      <td>2</td>
+      <td>3</td>
+      <td>13</td>
       <td>12</td>
-      <td>10</td>
-      <td>2</td>
-      <td>446.5</td>
-      <td>74.42</td>
+      <td>1</td>
+      <td>517.5</td>
+      <td>73.93</td>
     </tr>
     <tr>
       <th>3</th>

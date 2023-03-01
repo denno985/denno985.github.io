@@ -11,38 +11,38 @@
     <tr>
       <th>1</th>
       <td>Docklands United F.C.</td>
-      <td>19</td>
-      <td>157</td>
+      <td>29</td>
+      <td>228.5</td>
     </tr>
     <tr>
       <th>2</th>
       <td>Ans Rei Sport Verein</td>
-      <td>17</td>
-      <td>152</td>
+      <td>24</td>
+      <td>217</td>
     </tr>
     <tr>
       <th>3</th>
       <td>USS Torquemada</td>
-      <td>15</td>
-      <td>146</td>
+      <td>23</td>
+      <td>215</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>A.F.C. Richmond</td>
-      <td>14</td>
-      <td>144</td>
+      <td>Piove sul Bagnato</td>
+      <td>22</td>
+      <td>210.5</td>
     </tr>
     <tr>
       <th>5</th>
-      <td>LeBuscemi Revenge</td>
-      <td>13</td>
-      <td>141.5</td>
+      <td>A.F.C. Richmond</td>
+      <td>19</td>
+      <td>202</td>
     </tr>
     <tr>
       <th>6</th>
-      <td>Piove sul Bagnato</td>
-      <td>13</td>
-      <td>139.5</td>
+      <td>LeBuscemi Revenge</td>
+      <td>19</td>
+      <td>205</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>1a giornata</th><table border="1" class="dataframe">
@@ -130,33 +130,33 @@
     </tr>
     <tr>
       <td>Docklands United F.C.</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>USS Torquemada</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>LeBuscemi Revenge</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ans Rei Sport Verein</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>A.F.C. Richmond</td>
-      <td></td>
-      <td></td>
+      <td>71.5</td>
+      <td>10</td>
     </tr>
     <tr>
       <td>Piove sul Bagnato</td>
-      <td></td>
-      <td></td>
+      <td>71</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>USS Torquemada</td>
+      <td>69</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>Ans Rei Sport Verein</td>
+      <td>65</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>LeBuscemi Revenge</td>
+      <td>63.5</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>A.F.C. Richmond</td>
+      <td>58</td>
+      <td>5</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>4a giornata</th><table border="1" class="dataframe">

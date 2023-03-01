@@ -15,22 +15,22 @@
       <td>rigori</td>
     </tr>
     <tr>
-      <td>Semif. 1</td>
-      <td>Semif. 2</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Docklands United F.C.</td>
+      <td>Piove sul Bagnato</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
       <td>0</td>
       <td>0</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>84.87381</td>
+      <td>77.684762</td>
       <td></td>
       <td></td>
       <td></td>
@@ -43,22 +43,22 @@
       <td></td>
     </tr>
     <tr>
-      <td>Semif. 3</td>
-      <td>Semif. 4</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Ans Rei Sport Verein</td>
+      <td>USS Torquemada</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
       <td>0</td>
       <td>0</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>83.462381</td>
+      <td>83.69381</td>
       <td></td>
       <td></td>
       <td></td>

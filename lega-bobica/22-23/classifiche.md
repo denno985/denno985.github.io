@@ -14,6 +14,7 @@
       <th>Punti tot.</th>
       <th>Media pti</th>
       <th>Form. Non date</th>
+      <th>Penalità</th>
     </tr>
   </thead>
   <tbody>
@@ -31,6 +32,7 @@
       <td>1878.5</td>
       <td>75.14</td>
       <td>0</td>
+      <td>0.0</td>
     </tr>
     <tr>
       <th>2</th>
@@ -46,6 +48,7 @@
       <td>1784</td>
       <td>71.36</td>
       <td>0</td>
+      <td>0.0</td>
     </tr>
     <tr>
       <th>3</th>
@@ -61,6 +64,7 @@
       <td>1788.5</td>
       <td>71.54</td>
       <td>2</td>
+      <td>-2.0</td>
     </tr>
     <tr>
       <th>4</th>
@@ -76,6 +80,7 @@
       <td>1776</td>
       <td>71.04</td>
       <td>0</td>
+      <td>0.0</td>
     </tr>
     <tr>
       <th>5</th>
@@ -91,6 +96,7 @@
       <td>1828.5</td>
       <td>73.14</td>
       <td>0</td>
+      <td>0.0</td>
     </tr>
     <tr>
       <th>6</th>
@@ -106,6 +112,7 @@
       <td>1805</td>
       <td>72.20</td>
       <td>0</td>
+      <td>0.0</td>
     </tr>
     <tr>
       <th>7</th>
@@ -121,6 +128,7 @@
       <td>1747</td>
       <td>69.88</td>
       <td>1</td>
+      <td>0.0</td>
     </tr>
     <tr>
       <th>8</th>
@@ -136,6 +144,7 @@
       <td>1761.5</td>
       <td>70.46</td>
       <td>2</td>
+      <td>-2.0</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Classifica a punti</th><table border="1" class="dataframe">

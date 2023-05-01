@@ -17,10 +17,10 @@
     <tr>
       <td>Docklands United F.C.</td>
       <td>Piove sul Bagnato</td>
+      <td>63</td>
+      <td>77</td>
       <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>2</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -45,10 +45,10 @@
     <tr>
       <td>Ans Rei Sport Verein</td>
       <td>USS Torquemada</td>
+      <td>61</td>
+      <td>78</td>
       <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>3</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>

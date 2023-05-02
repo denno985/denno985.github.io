@@ -125,8 +125,8 @@
       <td>36</td>
       <td>44</td>
       <td>-8</td>
-      <td>2090.5</td>
-      <td>69.68</td>
+      <td>2090</td>
+      <td>69.67</td>
       <td>1</td>
       <td>0.0</td>
     </tr>
@@ -194,7 +194,7 @@
     <tr>
       <th>8</th>
       <td>Cs Cannabis Street</td>
-      <td>2090.5</td>
+      <td>2090</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Classifica Sprint</th><table border="1" class="dataframe">
@@ -934,8 +934,8 @@
       <td>2</td>
       <td>5</td>
       <td>-3</td>
-      <td>137.5</td>
-      <td>68.75</td>
+      <td>137</td>
+      <td>68.50</td>
     </tr>
     <tr>
       <th>8</th>

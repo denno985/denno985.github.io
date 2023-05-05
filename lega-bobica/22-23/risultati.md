@@ -1053,34 +1053,34 @@
     <tr>
       <td>Ans Rei Sport Verein</td>
       <td>Cs Cannabis Street</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
+      <td>78.5</td>
+      <td>65.5</td>
+      <td>3</td>
       <td>0</td>
     </tr>
     <tr>
       <td>Piove sul Bagnato</td>
       <td>USS Torquemada</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>59.5</td>
+      <td>80.0</td>
       <td>0</td>
-      <td>0</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>A.F.C. Richmond</td>
       <td>LeBuscemi Revenge</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>72.0</td>
+      <td>78.5</td>
+      <td>2</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>Docklands United F.C.</td>
       <td>La Domenica del Dipendente Pubblico</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>80.5</td>
+      <td>77.0</td>
+      <td>3</td>
+      <td>2</td>
     </tr>
   </tbody>
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/22-23/giornate/32" class="active">32a giornata</a></li><table border="1" class="dataframe">

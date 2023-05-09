@@ -21,12 +21,12 @@
       <td>77</td>
       <td>0</td>
       <td>2</td>
+      <td>73.5</td>
+      <td>62.5</td>
+      <td>2</td>
       <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>3</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>84.87381</td>
@@ -49,10 +49,10 @@
       <td>78</td>
       <td>0</td>
       <td>3</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>66</td>
+      <td>70</td>
+      <td>1</td>
+      <td>1</td>
       <td>0</td>
       <td>0</td>
     </tr>
@@ -84,8 +84,8 @@
       <td>rigori</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Docklands United F.C.</td>
+      <td>USS Torquemada</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>

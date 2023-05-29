@@ -1193,34 +1193,34 @@
     <tr>
       <td>Ans Rei Sport Verein</td>
       <td>Piove sul Bagnato</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>60.5</td>
+      <td>62.0</td>
       <td>0</td>
       <td>0</td>
     </tr>
     <tr>
       <td>Cs Cannabis Street</td>
       <td>LeBuscemi Revenge</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>68.0</td>
+      <td>81.5</td>
+      <td>1</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>Docklands United F.C.</td>
       <td>A.F.C. Richmond</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>85.0</td>
+      <td>68.5</td>
+      <td>4</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>La Domenica del Dipendente Pubblico</td>
       <td>USS Torquemada</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>64.5</td>
+      <td>68.5</td>
       <td>0</td>
-      <td>0</td>
+      <td>1</td>
     </tr>
   </tbody>
 </table><th><br/></th>

@@ -431,6 +431,686 @@
                             </h4>
                             <ul class="list-rosters" data-lazy-load=".list-rosters-item">
     
+                                <li class="list-rosters-item raised-2" data-id="583620"
+                                    data-display-none-after-hide="hidden">
+                                    <div class="no-padding flex-row">
+                                        <div class="media team-header team-header-sm flex-item-fill relative">
+                                            <div class="media-left">
+                                                <a href="#" class="team-crest"><img class="media-object crest circle"
+                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/squadra/583620_08026945.png"
+                                                        onerror="handleImageError(this, Settings.missingLogoSrc)">
+                                                </a>
+                                                <a href="#" class="team-shirt">
+                                                    <img class="media-object shirt circle"
+                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
+                                                        onerror="handleImageError(this, Settings.missingShirtSrc)">
+                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <h4 class="media-heading">USS Torquemada</h4>
+                                                <h5>Daniele</h5>
+                                            </div>
+                                            <a class="left-heading-link btn btn-clear"
+                                                href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
+                                                Movimenti</a>
+                                        </div>
+                                        <div class="team-main-info"><small>Crediti residui</small>582
+                                            <i class="icon fg-fm"></i>
+                                        </div>
+                                    </div>
+                                    <table class="smart-table table-striped fixed table no-margin has-subheader"
+                                        id="rosterTable">
+                                        <thead>
+                                            <tr class="subheader">
+                                                <th data-key="role"
+                                                    class="sortable cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                                                    <span></span>
+                                                </th>
+                                                <th data-key="name" class="sortable cell-text cell-primary x6 smart-x4">
+                                                    <span>Calciatore</span>
+                                                </th>
+                                                <th data-key="nation"
+                                                    class="sortable cell-text cell-primary x0 euro-x1">
+                                                    <span></span>
+                                                </th>
+                                                <th data-key="team"
+                                                    class="sortable cell-text cell-primary x4 euro-x3 smart-x2">
+                                                    <span>Squadra</span>
+                                                </th>
+                                                <th data-key="price"
+                                                    class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                                                    <span data-toggle="tooltip"
+                                                        title="Quotazione d'acquisto">Q.acq.</span>
+                                                </th>
+                                                <th data-key="cost"
+                                                    class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                                                    <span data-toggle="tooltip" title="Anni residui">Anni</span>
+                                                </th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+
+                                            <tr class="no-results">
+                                                <td class="padding _finalizing-hidden _free-player-visible" colspan="6">
+                                                    <div class="alert alert-info">Nessun giocatore in rosa</div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                        <tfoot class="priced-visible flex-footer">
+                                            <tr>
+                                                <td class="padding cell-middle text-middle x4" colspan="4"><em>*
+                                                        calciatore non più in <span class="euro">EuroLega</span><span
+                                                            class="no-euro">Serie A</span></em></td>
+                                                <td class="text-right x4 cell-team-info">
+                                                    <div class="team-main-info full-width">0<i
+                                                            class="icon fg-fm"></i><small>Costo totale
+                                                            d'acquisto</small></div>
+                                                </td>
+                                                <td class="text-right x4 cell-team-info">
+                                                    <div class="team-main-info full-width">70<i
+                                                            class="icon fg-fm"></i><small>Anni Rimanenti</small>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </tfoot>
+                                    </table>
+                                </li>
+    
+                                <li class="list-rosters-item raised-2" data-id="583620"
+                                    data-display-none-after-hide="hidden">
+                                    <div class="no-padding flex-row">
+                                        <div class="media team-header team-header-sm flex-item-fill relative">
+                                            <div class="media-left">
+                                                <a href="#" class="team-crest"><img class="media-object crest circle"
+                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/squadra/583620_08026945.png"
+                                                        onerror="handleImageError(this, Settings.missingLogoSrc)">
+                                                </a>
+                                                <a href="#" class="team-shirt">
+                                                    <img class="media-object shirt circle"
+                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
+                                                        onerror="handleImageError(this, Settings.missingShirtSrc)">
+                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <h4 class="media-heading">Cs Cannabis Street</h4>
+                                                <h5>Marco</h5>
+                                            </div>
+                                            <a class="left-heading-link btn btn-clear"
+                                                href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
+                                                Movimenti</a>
+                                        </div>
+                                        <div class="team-main-info"><small>Crediti residui</small>518
+                                            <i class="icon fg-fm"></i>
+                                        </div>
+                                    </div>
+                                    <table class="smart-table table-striped fixed table no-margin has-subheader"
+                                        id="rosterTable">
+                                        <thead>
+                                            <tr class="subheader">
+                                                <th data-key="role"
+                                                    class="sortable cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                                                    <span></span>
+                                                </th>
+                                                <th data-key="name" class="sortable cell-text cell-primary x6 smart-x4">
+                                                    <span>Calciatore</span>
+                                                </th>
+                                                <th data-key="nation"
+                                                    class="sortable cell-text cell-primary x0 euro-x1">
+                                                    <span></span>
+                                                </th>
+                                                <th data-key="team"
+                                                    class="sortable cell-text cell-primary x4 euro-x3 smart-x2">
+                                                    <span>Squadra</span>
+                                                </th>
+                                                <th data-key="price"
+                                                    class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                                                    <span data-toggle="tooltip"
+                                                        title="Quotazione d'acquisto">Q.acq.</span>
+                                                </th>
+                                                <th data-key="cost"
+                                                    class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                                                    <span data-toggle="tooltip" title="Anni residui">Anni</span>
+                                                </th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+
+                                            <tr class="no-results">
+                                                <td class="padding _finalizing-hidden _free-player-visible" colspan="6">
+                                                    <div class="alert alert-info">Nessun giocatore in rosa</div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                        <tfoot class="priced-visible flex-footer">
+                                            <tr>
+                                                <td class="padding cell-middle text-middle x4" colspan="4"><em>*
+                                                        calciatore non più in <span class="euro">EuroLega</span><span
+                                                            class="no-euro">Serie A</span></em></td>
+                                                <td class="text-right x4 cell-team-info">
+                                                    <div class="team-main-info full-width">0<i
+                                                            class="icon fg-fm"></i><small>Costo totale
+                                                            d'acquisto</small></div>
+                                                </td>
+                                                <td class="text-right x4 cell-team-info">
+                                                    <div class="team-main-info full-width">70<i
+                                                            class="icon fg-fm"></i><small>Anni Rimanenti</small>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </tfoot>
+                                    </table>
+                                </li>
+    
+                                <li class="list-rosters-item raised-2" data-id="583620"
+                                    data-display-none-after-hide="hidden">
+                                    <div class="no-padding flex-row">
+                                        <div class="media team-header team-header-sm flex-item-fill relative">
+                                            <div class="media-left">
+                                                <a href="#" class="team-crest"><img class="media-object crest circle"
+                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/squadra/583620_08026945.png"
+                                                        onerror="handleImageError(this, Settings.missingLogoSrc)">
+                                                </a>
+                                                <a href="#" class="team-shirt">
+                                                    <img class="media-object shirt circle"
+                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
+                                                        onerror="handleImageError(this, Settings.missingShirtSrc)">
+                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <h4 class="media-heading">Ans Rei Sport Verein</h4>
+                                                <h5>Tasso</h5>
+                                            </div>
+                                            <a class="left-heading-link btn btn-clear"
+                                                href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
+                                                Movimenti</a>
+                                        </div>
+                                        <div class="team-main-info"><small>Crediti residui</small>580
+                                            <i class="icon fg-fm"></i>
+                                        </div>
+                                    </div>
+                                    <table class="smart-table table-striped fixed table no-margin has-subheader"
+                                        id="rosterTable">
+                                        <thead>
+                                            <tr class="subheader">
+                                                <th data-key="role"
+                                                    class="sortable cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                                                    <span></span>
+                                                </th>
+                                                <th data-key="name" class="sortable cell-text cell-primary x6 smart-x4">
+                                                    <span>Calciatore</span>
+                                                </th>
+                                                <th data-key="nation"
+                                                    class="sortable cell-text cell-primary x0 euro-x1">
+                                                    <span></span>
+                                                </th>
+                                                <th data-key="team"
+                                                    class="sortable cell-text cell-primary x4 euro-x3 smart-x2">
+                                                    <span>Squadra</span>
+                                                </th>
+                                                <th data-key="price"
+                                                    class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                                                    <span data-toggle="tooltip"
+                                                        title="Quotazione d'acquisto">Q.acq.</span>
+                                                </th>
+                                                <th data-key="cost"
+                                                    class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                                                    <span data-toggle="tooltip" title="Anni residui">Anni</span>
+                                                </th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+
+                                            <tr class="no-results">
+                                                <td class="padding _finalizing-hidden _free-player-visible" colspan="6">
+                                                    <div class="alert alert-info">Nessun giocatore in rosa</div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                        <tfoot class="priced-visible flex-footer">
+                                            <tr>
+                                                <td class="padding cell-middle text-middle x4" colspan="4"><em>*
+                                                        calciatore non più in <span class="euro">EuroLega</span><span
+                                                            class="no-euro">Serie A</span></em></td>
+                                                <td class="text-right x4 cell-team-info">
+                                                    <div class="team-main-info full-width">0<i
+                                                            class="icon fg-fm"></i><small>Costo totale
+                                                            d'acquisto</small></div>
+                                                </td>
+                                                <td class="text-right x4 cell-team-info">
+                                                    <div class="team-main-info full-width">70<i
+                                                            class="icon fg-fm"></i><small>Anni Rimanenti</small>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </tfoot>
+                                    </table>
+                                </li>
+    
+                                <li class="list-rosters-item raised-2" data-id="583620"
+                                    data-display-none-after-hide="hidden">
+                                    <div class="no-padding flex-row">
+                                        <div class="media team-header team-header-sm flex-item-fill relative">
+                                            <div class="media-left">
+                                                <a href="#" class="team-crest"><img class="media-object crest circle"
+                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/squadra/583620_08026945.png"
+                                                        onerror="handleImageError(this, Settings.missingLogoSrc)">
+                                                </a>
+                                                <a href="#" class="team-shirt">
+                                                    <img class="media-object shirt circle"
+                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
+                                                        onerror="handleImageError(this, Settings.missingShirtSrc)">
+                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <h4 class="media-heading">Docklands United F.C.</h4>
+                                                <h5>Jacopo</h5>
+                                            </div>
+                                            <a class="left-heading-link btn btn-clear"
+                                                href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
+                                                Movimenti</a>
+                                        </div>
+                                        <div class="team-main-info"><small>Crediti residui</small>592
+                                            <i class="icon fg-fm"></i>
+                                        </div>
+                                    </div>
+                                    <table class="smart-table table-striped fixed table no-margin has-subheader"
+                                        id="rosterTable">
+                                        <thead>
+                                            <tr class="subheader">
+                                                <th data-key="role"
+                                                    class="sortable cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                                                    <span></span>
+                                                </th>
+                                                <th data-key="name" class="sortable cell-text cell-primary x6 smart-x4">
+                                                    <span>Calciatore</span>
+                                                </th>
+                                                <th data-key="nation"
+                                                    class="sortable cell-text cell-primary x0 euro-x1">
+                                                    <span></span>
+                                                </th>
+                                                <th data-key="team"
+                                                    class="sortable cell-text cell-primary x4 euro-x3 smart-x2">
+                                                    <span>Squadra</span>
+                                                </th>
+                                                <th data-key="price"
+                                                    class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                                                    <span data-toggle="tooltip"
+                                                        title="Quotazione d'acquisto">Q.acq.</span>
+                                                </th>
+                                                <th data-key="cost"
+                                                    class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                                                    <span data-toggle="tooltip" title="Anni residui">Anni</span>
+                                                </th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+
+                                            <tr class="no-results">
+                                                <td class="padding _finalizing-hidden _free-player-visible" colspan="6">
+                                                    <div class="alert alert-info">Nessun giocatore in rosa</div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                        <tfoot class="priced-visible flex-footer">
+                                            <tr>
+                                                <td class="padding cell-middle text-middle x4" colspan="4"><em>*
+                                                        calciatore non più in <span class="euro">EuroLega</span><span
+                                                            class="no-euro">Serie A</span></em></td>
+                                                <td class="text-right x4 cell-team-info">
+                                                    <div class="team-main-info full-width">0<i
+                                                            class="icon fg-fm"></i><small>Costo totale
+                                                            d'acquisto</small></div>
+                                                </td>
+                                                <td class="text-right x4 cell-team-info">
+                                                    <div class="team-main-info full-width">70<i
+                                                            class="icon fg-fm"></i><small>Anni Rimanenti</small>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </tfoot>
+                                    </table>
+                                </li>
+    
+                                <li class="list-rosters-item raised-2" data-id="583620"
+                                    data-display-none-after-hide="hidden">
+                                    <div class="no-padding flex-row">
+                                        <div class="media team-header team-header-sm flex-item-fill relative">
+                                            <div class="media-left">
+                                                <a href="#" class="team-crest"><img class="media-object crest circle"
+                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/squadra/583620_08026945.png"
+                                                        onerror="handleImageError(this, Settings.missingLogoSrc)">
+                                                </a>
+                                                <a href="#" class="team-shirt">
+                                                    <img class="media-object shirt circle"
+                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
+                                                        onerror="handleImageError(this, Settings.missingShirtSrc)">
+                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <h4 class="media-heading">Piove sul Bagnato</h4>
+                                                <h5>Silvio</h5>
+                                            </div>
+                                            <a class="left-heading-link btn btn-clear"
+                                                href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
+                                                Movimenti</a>
+                                        </div>
+                                        <div class="team-main-info"><small>Crediti residui</small>533
+                                            <i class="icon fg-fm"></i>
+                                        </div>
+                                    </div>
+                                    <table class="smart-table table-striped fixed table no-margin has-subheader"
+                                        id="rosterTable">
+                                        <thead>
+                                            <tr class="subheader">
+                                                <th data-key="role"
+                                                    class="sortable cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                                                    <span></span>
+                                                </th>
+                                                <th data-key="name" class="sortable cell-text cell-primary x6 smart-x4">
+                                                    <span>Calciatore</span>
+                                                </th>
+                                                <th data-key="nation"
+                                                    class="sortable cell-text cell-primary x0 euro-x1">
+                                                    <span></span>
+                                                </th>
+                                                <th data-key="team"
+                                                    class="sortable cell-text cell-primary x4 euro-x3 smart-x2">
+                                                    <span>Squadra</span>
+                                                </th>
+                                                <th data-key="price"
+                                                    class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                                                    <span data-toggle="tooltip"
+                                                        title="Quotazione d'acquisto">Q.acq.</span>
+                                                </th>
+                                                <th data-key="cost"
+                                                    class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                                                    <span data-toggle="tooltip" title="Anni residui">Anni</span>
+                                                </th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+
+                                            <tr class="no-results">
+                                                <td class="padding _finalizing-hidden _free-player-visible" colspan="6">
+                                                    <div class="alert alert-info">Nessun giocatore in rosa</div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                        <tfoot class="priced-visible flex-footer">
+                                            <tr>
+                                                <td class="padding cell-middle text-middle x4" colspan="4"><em>*
+                                                        calciatore non più in <span class="euro">EuroLega</span><span
+                                                            class="no-euro">Serie A</span></em></td>
+                                                <td class="text-right x4 cell-team-info">
+                                                    <div class="team-main-info full-width">0<i
+                                                            class="icon fg-fm"></i><small>Costo totale
+                                                            d'acquisto</small></div>
+                                                </td>
+                                                <td class="text-right x4 cell-team-info">
+                                                    <div class="team-main-info full-width">70<i
+                                                            class="icon fg-fm"></i><small>Anni Rimanenti</small>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </tfoot>
+                                    </table>
+                                </li>
+    
+                                <li class="list-rosters-item raised-2" data-id="583620"
+                                    data-display-none-after-hide="hidden">
+                                    <div class="no-padding flex-row">
+                                        <div class="media team-header team-header-sm flex-item-fill relative">
+                                            <div class="media-left">
+                                                <a href="#" class="team-crest"><img class="media-object crest circle"
+                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/squadra/583620_08026945.png"
+                                                        onerror="handleImageError(this, Settings.missingLogoSrc)">
+                                                </a>
+                                                <a href="#" class="team-shirt">
+                                                    <img class="media-object shirt circle"
+                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
+                                                        onerror="handleImageError(this, Settings.missingShirtSrc)">
+                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <h4 class="media-heading">La Domenica del Dipendente Pubblico</h4>
+                                                <h5>Mattia</h5>
+                                            </div>
+                                            <a class="left-heading-link btn btn-clear"
+                                                href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
+                                                Movimenti</a>
+                                        </div>
+                                        <div class="team-main-info"><small>Crediti residui</small>589
+                                            <i class="icon fg-fm"></i>
+                                        </div>
+                                    </div>
+                                    <table class="smart-table table-striped fixed table no-margin has-subheader"
+                                        id="rosterTable">
+                                        <thead>
+                                            <tr class="subheader">
+                                                <th data-key="role"
+                                                    class="sortable cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                                                    <span></span>
+                                                </th>
+                                                <th data-key="name" class="sortable cell-text cell-primary x6 smart-x4">
+                                                    <span>Calciatore</span>
+                                                </th>
+                                                <th data-key="nation"
+                                                    class="sortable cell-text cell-primary x0 euro-x1">
+                                                    <span></span>
+                                                </th>
+                                                <th data-key="team"
+                                                    class="sortable cell-text cell-primary x4 euro-x3 smart-x2">
+                                                    <span>Squadra</span>
+                                                </th>
+                                                <th data-key="price"
+                                                    class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                                                    <span data-toggle="tooltip"
+                                                        title="Quotazione d'acquisto">Q.acq.</span>
+                                                </th>
+                                                <th data-key="cost"
+                                                    class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                                                    <span data-toggle="tooltip" title="Anni residui">Anni</span>
+                                                </th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+
+                                            <tr class="no-results">
+                                                <td class="padding _finalizing-hidden _free-player-visible" colspan="6">
+                                                    <div class="alert alert-info">Nessun giocatore in rosa</div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                        <tfoot class="priced-visible flex-footer">
+                                            <tr>
+                                                <td class="padding cell-middle text-middle x4" colspan="4"><em>*
+                                                        calciatore non più in <span class="euro">EuroLega</span><span
+                                                            class="no-euro">Serie A</span></em></td>
+                                                <td class="text-right x4 cell-team-info">
+                                                    <div class="team-main-info full-width">0<i
+                                                            class="icon fg-fm"></i><small>Costo totale
+                                                            d'acquisto</small></div>
+                                                </td>
+                                                <td class="text-right x4 cell-team-info">
+                                                    <div class="team-main-info full-width">70<i
+                                                            class="icon fg-fm"></i><small>Anni Rimanenti</small>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </tfoot>
+                                    </table>
+                                </li>
+    
+                                <li class="list-rosters-item raised-2" data-id="583620"
+                                    data-display-none-after-hide="hidden">
+                                    <div class="no-padding flex-row">
+                                        <div class="media team-header team-header-sm flex-item-fill relative">
+                                            <div class="media-left">
+                                                <a href="#" class="team-crest"><img class="media-object crest circle"
+                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/squadra/583620_08026945.png"
+                                                        onerror="handleImageError(this, Settings.missingLogoSrc)">
+                                                </a>
+                                                <a href="#" class="team-shirt">
+                                                    <img class="media-object shirt circle"
+                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
+                                                        onerror="handleImageError(this, Settings.missingShirtSrc)">
+                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <h4 class="media-heading">A.F.C. Richmond</h4>
+                                                <h5>Pippo</h5>
+                                            </div>
+                                            <a class="left-heading-link btn btn-clear"
+                                                href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
+                                                Movimenti</a>
+                                        </div>
+                                        <div class="team-main-info"><small>Crediti residui</small>544
+                                            <i class="icon fg-fm"></i>
+                                        </div>
+                                    </div>
+                                    <table class="smart-table table-striped fixed table no-margin has-subheader"
+                                        id="rosterTable">
+                                        <thead>
+                                            <tr class="subheader">
+                                                <th data-key="role"
+                                                    class="sortable cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                                                    <span></span>
+                                                </th>
+                                                <th data-key="name" class="sortable cell-text cell-primary x6 smart-x4">
+                                                    <span>Calciatore</span>
+                                                </th>
+                                                <th data-key="nation"
+                                                    class="sortable cell-text cell-primary x0 euro-x1">
+                                                    <span></span>
+                                                </th>
+                                                <th data-key="team"
+                                                    class="sortable cell-text cell-primary x4 euro-x3 smart-x2">
+                                                    <span>Squadra</span>
+                                                </th>
+                                                <th data-key="price"
+                                                    class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                                                    <span data-toggle="tooltip"
+                                                        title="Quotazione d'acquisto">Q.acq.</span>
+                                                </th>
+                                                <th data-key="cost"
+                                                    class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                                                    <span data-toggle="tooltip" title="Anni residui">Anni</span>
+                                                </th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+
+                                            <tr class="no-results">
+                                                <td class="padding _finalizing-hidden _free-player-visible" colspan="6">
+                                                    <div class="alert alert-info">Nessun giocatore in rosa</div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                        <tfoot class="priced-visible flex-footer">
+                                            <tr>
+                                                <td class="padding cell-middle text-middle x4" colspan="4"><em>*
+                                                        calciatore non più in <span class="euro">EuroLega</span><span
+                                                            class="no-euro">Serie A</span></em></td>
+                                                <td class="text-right x4 cell-team-info">
+                                                    <div class="team-main-info full-width">0<i
+                                                            class="icon fg-fm"></i><small>Costo totale
+                                                            d'acquisto</small></div>
+                                                </td>
+                                                <td class="text-right x4 cell-team-info">
+                                                    <div class="team-main-info full-width">70<i
+                                                            class="icon fg-fm"></i><small>Anni Rimanenti</small>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </tfoot>
+                                    </table>
+                                </li>
+    
+                                <li class="list-rosters-item raised-2" data-id="583620"
+                                    data-display-none-after-hide="hidden">
+                                    <div class="no-padding flex-row">
+                                        <div class="media team-header team-header-sm flex-item-fill relative">
+                                            <div class="media-left">
+                                                <a href="#" class="team-crest"><img class="media-object crest circle"
+                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/squadra/583620_08026945.png"
+                                                        onerror="handleImageError(this, Settings.missingLogoSrc)">
+                                                </a>
+                                                <a href="#" class="team-shirt">
+                                                    <img class="media-object shirt circle"
+                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
+                                                        onerror="handleImageError(this, Settings.missingShirtSrc)">
+                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <h4 class="media-heading">LeBuscemi Revenge</h4>
+                                                <h5>Ivan</h5>
+                                            </div>
+                                            <a class="left-heading-link btn btn-clear"
+                                                href="https://leghe.fantacalcio.it/lega-bobica/movimenti?t=583620">Lista
+                                                Movimenti</a>
+                                        </div>
+                                        <div class="team-main-info"><small>Crediti residui</small>594
+                                            <i class="icon fg-fm"></i>
+                                        </div>
+                                    </div>
+                                    <table class="smart-table table-striped fixed table no-margin has-subheader"
+                                        id="rosterTable">
+                                        <thead>
+                                            <tr class="subheader">
+                                                <th data-key="role"
+                                                    class="sortable cell-text cell-role cell-primary x1 smart-x2 mantra-x3 free-player-hidden">
+                                                    <span></span>
+                                                </th>
+                                                <th data-key="name" class="sortable cell-text cell-primary x6 smart-x4">
+                                                    <span>Calciatore</span>
+                                                </th>
+                                                <th data-key="nation"
+                                                    class="sortable cell-text cell-primary x0 euro-x1">
+                                                    <span></span>
+                                                </th>
+                                                <th data-key="team"
+                                                    class="sortable cell-text cell-primary x4 euro-x3 smart-x2">
+                                                    <span>Squadra</span>
+                                                </th>
+                                                <th data-key="price"
+                                                    class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                                                    <span data-toggle="tooltip"
+                                                        title="Quotazione d'acquisto">Q.acq.</span>
+                                                </th>
+                                                <th data-key="cost"
+                                                    class="sortable cell-digit cell-middle text-center cell-primary x3 smart-x2 priced-visible">
+                                                    <span data-toggle="tooltip" title="Anni residui">Anni</span>
+                                                </th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+
+                                            <tr class="no-results">
+                                                <td class="padding _finalizing-hidden _free-player-visible" colspan="6">
+                                                    <div class="alert alert-info">Nessun giocatore in rosa</div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                        <tfoot class="priced-visible flex-footer">
+                                            <tr>
+                                                <td class="padding cell-middle text-middle x4" colspan="4"><em>*
+                                                        calciatore non più in <span class="euro">EuroLega</span><span
+                                                            class="no-euro">Serie A</span></em></td>
+                                                <td class="text-right x4 cell-team-info">
+                                                    <div class="team-main-info full-width">0<i
+                                                            class="icon fg-fm"></i><small>Costo totale
+                                                            d'acquisto</small></div>
+                                                </td>
+                                                <td class="text-right x4 cell-team-info">
+                                                    <div class="team-main-info full-width">70<i
+                                                            class="icon fg-fm"></i><small>Anni Rimanenti</small>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </tfoot>
+                                    </table>
+                                </li>
+    
                                 <li class="no-current-competition-team">
 
 

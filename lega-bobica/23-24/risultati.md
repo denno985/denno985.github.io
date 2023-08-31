@@ -1,7 +1,7 @@
 <li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/1" class="active">1a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>USS Torquemada</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -61,7 +61,7 @@
     </tr>
     <tr>
       <td>La Domenica del Dipendente Pubblico</td>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -88,7 +88,7 @@
     </tr>
     <tr>
       <td>Waystar Royco</td>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -106,7 +106,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/4" class="active">4a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>Piove sul Bagnato</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -142,7 +142,7 @@
   <tbody>
     <tr>
       <td>Union Bagnur</td>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -176,7 +176,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/6" class="active">6a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>Docklands United F.C.</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -220,7 +220,7 @@
     </tr>
     <tr>
       <td>Cs Cannabis Street</td>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -246,7 +246,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/8" class="active">8a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>USS Torquemada</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -306,7 +306,7 @@
     </tr>
     <tr>
       <td>La Domenica del Dipendente Pubblico</td>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -333,7 +333,7 @@
     </tr>
     <tr>
       <td>Waystar Royco</td>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -351,7 +351,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/11" class="active">11a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>Piove sul Bagnato</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -387,7 +387,7 @@
   <tbody>
     <tr>
       <td>Union Bagnur</td>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -421,7 +421,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/13" class="active">13a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>Docklands United F.C.</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -465,7 +465,7 @@
     </tr>
     <tr>
       <td>Cs Cannabis Street</td>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -491,7 +491,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/15" class="active">15a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>USS Torquemada</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -551,7 +551,7 @@
     </tr>
     <tr>
       <td>La Domenica del Dipendente Pubblico</td>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -578,7 +578,7 @@
     </tr>
     <tr>
       <td>Waystar Royco</td>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -596,7 +596,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/18" class="active">18a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>Piove sul Bagnato</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -632,7 +632,7 @@
   <tbody>
     <tr>
       <td>Union Bagnur</td>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -666,7 +666,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/20" class="active">20a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>Docklands United F.C.</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -710,7 +710,7 @@
     </tr>
     <tr>
       <td>Cs Cannabis Street</td>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -736,7 +736,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/22" class="active">22a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>USS Torquemada</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -796,7 +796,7 @@
     </tr>
     <tr>
       <td>La Domenica del Dipendente Pubblico</td>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -823,7 +823,7 @@
     </tr>
     <tr>
       <td>Waystar Royco</td>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -841,7 +841,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/25" class="active">25a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>Piove sul Bagnato</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -877,7 +877,7 @@
   <tbody>
     <tr>
       <td>Union Bagnur</td>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -911,7 +911,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/27" class="active">27a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>Docklands United F.C.</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -955,7 +955,7 @@
     </tr>
     <tr>
       <td>Cs Cannabis Street</td>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -981,7 +981,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/29" class="active">29a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>USS Torquemada</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -1041,7 +1041,7 @@
     </tr>
     <tr>
       <td>La Domenica del Dipendente Pubblico</td>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -1068,7 +1068,7 @@
     </tr>
     <tr>
       <td>Waystar Royco</td>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -1086,7 +1086,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/32" class="active">32a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>Piove sul Bagnato</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -1122,7 +1122,7 @@
   <tbody>
     <tr>
       <td>Union Bagnur</td>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -1156,7 +1156,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/34" class="active">34a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>Docklands United F.C.</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -1200,7 +1200,7 @@
     </tr>
     <tr>
       <td>Cs Cannabis Street</td>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>

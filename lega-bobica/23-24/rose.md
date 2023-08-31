@@ -4,9 +4,8 @@
 <div>
     <h4 class="media-heading">USS Torquemada</h4>
     <h5>Daniele</h5>        
-    <small>Crediti residui</small> 22
-    <small>Anni rimanenti</small> 0
-
+    <h5>Crediti residui:</h5> 22
+    <h5>Anni rimanenti:</h5> 0
 </div>                                               
 <table border="1" class="dataframe">
   <thead>
@@ -234,9 +233,8 @@
 <div>
     <h4 class="media-heading">Cs Cannabis Street</h4>
     <h5>Marco</h5>        
-    <small>Crediti residui</small> 0
-    <small>Anni rimanenti</small> 58
-
+    <h5>Crediti residui:</h5> 0
+    <h5>Anni rimanenti:</h5> 58
 </div>                                               
 <table border="1" class="dataframe">
   <thead>
@@ -450,9 +448,8 @@
 <div>
     <h4 class="media-heading">Union Bagnur</h4>
     <h5>Tasso</h5>        
-    <small>Crediti residui</small> 32
-    <small>Anni rimanenti</small> 62
-
+    <h5>Crediti residui:</h5> 32
+    <h5>Anni rimanenti:</h5> 62
 </div>                                               
 <table border="1" class="dataframe">
   <thead>
@@ -666,9 +663,8 @@
 <div>
     <h4 class="media-heading">Docklands United F.C.</h4>
     <h5>Jacopo</h5>        
-    <small>Crediti residui</small> 5
-    <small>Anni rimanenti</small> 56
-
+    <h5>Crediti residui:</h5> 5
+    <h5>Anni rimanenti:</h5> 56
 </div>                                               
 <table border="1" class="dataframe">
   <thead>
@@ -896,9 +892,8 @@
 <div>
     <h4 class="media-heading">Piove sul Bagnato</h4>
     <h5>Silvio</h5>        
-    <small>Crediti residui</small> 30
-    <small>Anni rimanenti</small> 57
-
+    <h5>Crediti residui:</h5> 30
+    <h5>Anni rimanenti:</h5> 57
 </div>                                               
 <table border="1" class="dataframe">
   <thead>
@@ -1112,9 +1107,8 @@
 <div>
     <h4 class="media-heading">La Domenica del Dipendente Pubblico</h4>
     <h5>Mattia</h5>        
-    <small>Crediti residui</small> 16
-    <small>Anni rimanenti</small> 59
-
+    <h5>Crediti residui:</h5> 16
+    <h5>Anni rimanenti:</h5> 59
 </div>                                               
 <table border="1" class="dataframe">
   <thead>
@@ -1342,9 +1336,8 @@
 <div>
     <h4 class="media-heading">Waystar Royco</h4>
     <h5>Pippo</h5>        
-    <small>Crediti residui</small> 26
-    <small>Anni rimanenti</small> 53
-
+    <h5>Crediti residui:</h5> 26
+    <h5>Anni rimanenti:</h5> 53
 </div>                                               
 <table border="1" class="dataframe">
   <thead>
@@ -1572,9 +1565,8 @@
 <div>
     <h4 class="media-heading">LeBuscemi Revenge</h4>
     <h5>Ivan</h5>        
-    <small>Crediti residui</small> 9
-    <small>Anni rimanenti</small> 50
-
+    <h5>Crediti residui:</h5> 9
+    <h5>Anni rimanenti:</h5> 50
 </div>                                               
 <table border="1" class="dataframe">
   <thead>

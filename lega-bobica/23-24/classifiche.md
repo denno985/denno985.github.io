@@ -60,7 +60,7 @@
     </tr>
     <tr>
       <th>5</th>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>0</td>
     </tr>
     <tr>
@@ -95,7 +95,7 @@
     </tr>
     <tr>
       <th>2</th>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>0</td>
     </tr>
     <tr>
@@ -247,7 +247,7 @@
     </tr>
     <tr>
       <th>8</th>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -336,7 +336,7 @@
     </tr>
     <tr>
       <th>5</th>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -425,7 +425,7 @@
     </tr>
     <tr>
       <th>2</th>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -640,7 +640,7 @@
     </tr>
     <tr>
       <th>8</th>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -687,7 +687,7 @@
     </tr>
     <tr>
       <th>2</th>
-      <td>LeBuscemi Revenge</td>
+      <td>The Curse of Buscemi</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>

@@ -5,7 +5,7 @@
     <h4 class="media-heading">USS Torquemada</h4>
     <h5>Daniele</h5>
 </div>                    
-    <div class="team-main-info"><small>Crediti residui</small>22
+    <small>Crediti residui</small>22
                                             
 
                     <span Class="role role-por">Por</span>
@@ -769,7 +769,7 @@
     <h4 class="media-heading">Cs Cannabis Street</h4>
     <h5>Marco</h5>
 </div>                    
-    <div class="team-main-info"><small>Crediti residui</small>0
+    <small>Crediti residui</small>0
                                             
 
                     <span Class="role role-por">Por</span>
@@ -1483,7 +1483,7 @@
     <h4 class="media-heading">Union Bagnur</h4>
     <h5>Tasso</h5>
 </div>                    
-    <div class="team-main-info"><small>Crediti residui</small>32
+    <small>Crediti residui</small>32
                                             
 
                     <span Class="role role-por">Por</span>
@@ -2197,7 +2197,7 @@
     <h4 class="media-heading">Docklands United F.C.</h4>
     <h5>Jacopo</h5>
 </div>                    
-    <div class="team-main-info"><small>Crediti residui</small>5
+    <small>Crediti residui</small>5
                                             
 
                     <span Class="role role-por">Por</span>
@@ -2961,7 +2961,7 @@
     <h4 class="media-heading">Piove sul Bagnato</h4>
     <h5>Silvio</h5>
 </div>                    
-    <div class="team-main-info"><small>Crediti residui</small>30
+    <small>Crediti residui</small>30
                                             
 
                     <span Class="role role-por">Por</span>
@@ -3675,7 +3675,7 @@
     <h4 class="media-heading">La Domenica del Dipendente Pubblico</h4>
     <h5>Mattia</h5>
 </div>                    
-    <div class="team-main-info"><small>Crediti residui</small>16
+    <small>Crediti residui</small>16
                                             
 
                     <span Class="role role-por">Por</span>
@@ -4439,7 +4439,7 @@
     <h4 class="media-heading">Waystar Royco</h4>
     <h5>Pippo</h5>
 </div>                    
-    <div class="team-main-info"><small>Crediti residui</small>26
+    <small>Crediti residui</small>26
                                             
 
                     <span Class="role role-por">Por</span>
@@ -5203,7 +5203,7 @@
     <h4 class="media-heading">LeBuscemi Revenge</h4>
     <h5>Ivan</h5>
 </div>                    
-    <div class="team-main-info"><small>Crediti residui</small>9
+    <small>Crediti residui</small>9
                                             
 
                     <span Class="role role-por">Por</span>

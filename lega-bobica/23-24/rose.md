@@ -124,7 +124,6 @@
         __.s('li', data);
 
     </script>
-    <script src="https://d2lhpso9w1g8dk.cloudfront.net/web/js/settings.js?_v=191020201000"></script>
 </head>
 
 <body Class="fg  leagues guest internal-layout" data-setup="0">

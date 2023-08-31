@@ -443,7 +443,7 @@
                                                 <a href="#" class="team-shirt">
                                                     <img class="media-object shirt circle"
                                                         src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
-                                                        onerror="handleImageError(this, Settings.missingShirtSrc)">
+                                                        >
                                                 </a>
                                             </div>
                                             <div class="media-body">
@@ -528,7 +528,7 @@
                                                 <a href="#" class="team-shirt">
                                                     <img class="media-object shirt circle"
                                                         src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
-                                                        onerror="handleImageError(this, Settings.missingShirtSrc)">
+                                                        >
                                                 </a>
                                             </div>
                                             <div class="media-body">
@@ -613,7 +613,7 @@
                                                 <a href="#" class="team-shirt">
                                                     <img class="media-object shirt circle"
                                                         src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
-                                                        onerror="handleImageError(this, Settings.missingShirtSrc)">
+                                                        >
                                                 </a>
                                             </div>
                                             <div class="media-body">
@@ -698,7 +698,7 @@
                                                 <a href="#" class="team-shirt">
                                                     <img class="media-object shirt circle"
                                                         src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
-                                                        onerror="handleImageError(this, Settings.missingShirtSrc)">
+                                                        >
                                                 </a>
                                             </div>
                                             <div class="media-body">
@@ -783,7 +783,7 @@
                                                 <a href="#" class="team-shirt">
                                                     <img class="media-object shirt circle"
                                                         src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
-                                                        onerror="handleImageError(this, Settings.missingShirtSrc)">
+                                                        >
                                                 </a>
                                             </div>
                                             <div class="media-body">
@@ -868,7 +868,7 @@
                                                 <a href="#" class="team-shirt">
                                                     <img class="media-object shirt circle"
                                                         src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
-                                                        onerror="handleImageError(this, Settings.missingShirtSrc)">
+                                                        >
                                                 </a>
                                             </div>
                                             <div class="media-body">
@@ -953,7 +953,7 @@
                                                 <a href="#" class="team-shirt">
                                                     <img class="media-object shirt circle"
                                                         src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
-                                                        onerror="handleImageError(this, Settings.missingShirtSrc)">
+                                                        >
                                                 </a>
                                             </div>
                                             <div class="media-body">
@@ -1038,7 +1038,7 @@
                                                 <a href="#" class="team-shirt">
                                                     <img class="media-object shirt circle"
                                                         src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
-                                                        onerror="handleImageError(this, Settings.missingShirtSrc)">
+                                                        >
                                                 </a>
                                             </div>
                                             <div class="media-body">

@@ -16,7 +16,7 @@
             var element = document.createElement('script');
             var firstScript = document.getElementsByTagName('script')[0];
             var url = 'https://quantcast.mgr.consensu.org'
-                .concat('/choice/', 'Z3sQVQNy9sAbB', '/', host, '/choice.js')
+                .concat('/choice/', 'Z3sQVQNy9sAbB', '/', host, '/choice.js?tag_version=V2')
             var uspTries = 0;
             var uspTriesLimit = 3;
             element.async = true;
@@ -288,7 +288,6 @@
 <body Class="fg  leagues guest internal-layout" data-setup="0">
     <!-- PAGE SETUP 0 -->
     <ins data-revive-zoneid="8296" data-revive-id="6609ba8ff88606794e22ff360400bcea"></ins>
-    <script async src="//adx.4strokemedia.com/www/delivery/asyncjs.php"></script>
     <div id="toastStack" class="toast-stack">
         <!-- TOASTS STACK -->
         <script id="toastTemplate" type="text/x-handlebars-template">
@@ -437,12 +436,10 @@
                                         <div class="media team-header team-header-sm flex-item-fill relative">
                                             <div class="media-left">
                                                 <a href="#" class="team-crest"><img class="media-object crest circle"
-                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/squadra/583620_08026945.png"
                                                         >
                                                 </a>
                                                 <a href="#" class="team-shirt">
                                                     <img class="media-object shirt circle"
-                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
                                                         >
                                                 </a>
                                             </div>
@@ -1362,12 +1359,10 @@
                                         <div class="media team-header team-header-sm flex-item-fill relative">
                                             <div class="media-left">
                                                 <a href="#" class="team-crest"><img class="media-object crest circle"
-                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/squadra/583620_08026945.png"
                                                         >
                                                 </a>
                                                 <a href="#" class="team-shirt">
                                                     <img class="media-object shirt circle"
-                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
                                                         >
                                                 </a>
                                             </div>
@@ -2231,12 +2226,10 @@
                                         <div class="media team-header team-header-sm flex-item-fill relative">
                                             <div class="media-left">
                                                 <a href="#" class="team-crest"><img class="media-object crest circle"
-                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/squadra/583620_08026945.png"
                                                         >
                                                 </a>
                                                 <a href="#" class="team-shirt">
                                                     <img class="media-object shirt circle"
-                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
                                                         >
                                                 </a>
                                             </div>
@@ -3100,12 +3093,10 @@
                                         <div class="media team-header team-header-sm flex-item-fill relative">
                                             <div class="media-left">
                                                 <a href="#" class="team-crest"><img class="media-object crest circle"
-                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/squadra/583620_08026945.png"
                                                         >
                                                 </a>
                                                 <a href="#" class="team-shirt">
                                                     <img class="media-object shirt circle"
-                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
                                                         >
                                                 </a>
                                             </div>
@@ -4025,12 +4016,10 @@
                                         <div class="media team-header team-header-sm flex-item-fill relative">
                                             <div class="media-left">
                                                 <a href="#" class="team-crest"><img class="media-object crest circle"
-                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/squadra/583620_08026945.png"
                                                         >
                                                 </a>
                                                 <a href="#" class="team-shirt">
                                                     <img class="media-object shirt circle"
-                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
                                                         >
                                                 </a>
                                             </div>
@@ -4894,12 +4883,10 @@
                                         <div class="media team-header team-header-sm flex-item-fill relative">
                                             <div class="media-left">
                                                 <a href="#" class="team-crest"><img class="media-object crest circle"
-                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/squadra/583620_08026945.png"
                                                         >
                                                 </a>
                                                 <a href="#" class="team-shirt">
                                                     <img class="media-object shirt circle"
-                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
                                                         >
                                                 </a>
                                             </div>
@@ -5819,12 +5806,10 @@
                                         <div class="media team-header team-header-sm flex-item-fill relative">
                                             <div class="media-left">
                                                 <a href="#" class="team-crest"><img class="media-object crest circle"
-                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/squadra/583620_08026945.png"
                                                         >
                                                 </a>
                                                 <a href="#" class="team-shirt">
                                                     <img class="media-object shirt circle"
-                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
                                                         >
                                                 </a>
                                             </div>
@@ -6744,12 +6729,10 @@
                                         <div class="media team-header team-header-sm flex-item-fill relative">
                                             <div class="media-left">
                                                 <a href="#" class="team-crest"><img class="media-object crest circle"
-                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/squadra/583620_08026945.png"
                                                         >
                                                 </a>
                                                 <a href="#" class="team-shirt">
                                                     <img class="media-object shirt circle"
-                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/maglietta/583620_05797981.png"
                                                         >
                                                 </a>
                                             </div>
@@ -8690,9 +8673,7 @@
                                         <div class="media league-header">
                                             <div class="media-left">
                                                 <a href="#" class="league-crest circle-link">
-                                                    <img class="media-object img-rounded crest"
-                                                        src="https://d2lhpso9w1g8dk.cloudfront.net/web/risorse/lega/147953_06139095.png"
-                                                        >
+
                                                 </a>
                                             </div>
                                             <div class="media-body full-width">

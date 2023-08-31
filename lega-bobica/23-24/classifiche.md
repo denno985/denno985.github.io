@@ -45,7 +45,7 @@
     </tr>
     <tr>
       <th>2</th>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>0</td>
     </tr>
     <tr>
@@ -55,7 +55,7 @@
     </tr>
     <tr>
       <th>4</th>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>0</td>
     </tr>
     <tr>
@@ -100,7 +100,7 @@
     </tr>
     <tr>
       <th>3</th>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>0</td>
     </tr>
     <tr>
@@ -125,7 +125,7 @@
     </tr>
     <tr>
       <th>8</th>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>0</td>
     </tr>
   </tbody>
@@ -149,7 +149,7 @@
   <tbody>
     <tr>
       <th>1</th>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -219,7 +219,7 @@
     </tr>
     <tr>
       <th>6</th>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -280,7 +280,7 @@
   <tbody>
     <tr>
       <th>1</th>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -378,7 +378,7 @@
     </tr>
     <tr>
       <th>8</th>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -495,7 +495,7 @@
     </tr>
     <tr>
       <th>7</th>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -509,7 +509,7 @@
     </tr>
     <tr>
       <th>8</th>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -570,7 +570,7 @@
     </tr>
     <tr>
       <th>3</th>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -598,7 +598,7 @@
     </tr>
     <tr>
       <th>5</th>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -757,7 +757,7 @@
     </tr>
     <tr>
       <th>7</th>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -771,7 +771,7 @@
     </tr>
     <tr>
       <th>8</th>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>

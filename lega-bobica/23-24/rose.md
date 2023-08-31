@@ -4,7 +4,7 @@
 <div>
     <h4 class="media-heading">USS Torquemada</h4>
     <h5>Daniele</h5>        
-    <h5>Crediti residui: 22</h5>
+    <h5>Crediti residui: 72</h5>
     <h5>Anni rimanenti: 0</h5>
 </div>                                               
 <table border="1" class="dataframe">
@@ -233,7 +233,7 @@
 <div>
     <h4 class="media-heading">Cs Cannabis Street</h4>
     <h5>Marco</h5>        
-    <h5>Crediti residui: 0</h5>
+    <h5>Crediti residui: 50</h5>
     <h5>Anni rimanenti: 58</h5>
 </div>                                               
 <table border="1" class="dataframe">
@@ -448,7 +448,7 @@
 <div>
     <h4 class="media-heading">Union Bagnur</h4>
     <h5>Tasso</h5>        
-    <h5>Crediti residui: 32</h5>
+    <h5>Crediti residui: 82</h5>
     <h5>Anni rimanenti: 62</h5>
 </div>                                               
 <table border="1" class="dataframe">
@@ -663,7 +663,7 @@
 <div>
     <h4 class="media-heading">Docklands United F.C.</h4>
     <h5>Jacopo</h5>        
-    <h5>Crediti residui: 5</h5>
+    <h5>Crediti residui: 55</h5>
     <h5>Anni rimanenti: 56</h5>
 </div>                                               
 <table border="1" class="dataframe">
@@ -892,7 +892,7 @@
 <div>
     <h4 class="media-heading">Piove sul Bagnato</h4>
     <h5>Silvio</h5>        
-    <h5>Crediti residui: 30</h5>
+    <h5>Crediti residui: 80</h5>
     <h5>Anni rimanenti: 57</h5>
 </div>                                               
 <table border="1" class="dataframe">
@@ -1107,7 +1107,7 @@
 <div>
     <h4 class="media-heading">La Domenica del Dipendente Pubblico</h4>
     <h5>Mattia</h5>        
-    <h5>Crediti residui: 16</h5>
+    <h5>Crediti residui: 66</h5>
     <h5>Anni rimanenti: 59</h5>
 </div>                                               
 <table border="1" class="dataframe">
@@ -1336,7 +1336,7 @@
 <div>
     <h4 class="media-heading">Waystar Royco</h4>
     <h5>Pippo</h5>        
-    <h5>Crediti residui: 26</h5>
+    <h5>Crediti residui: 76</h5>
     <h5>Anni rimanenti: 53</h5>
 </div>                                               
 <table border="1" class="dataframe">
@@ -1565,7 +1565,7 @@
 <div>
     <h4 class="media-heading">LeBuscemi Revenge</h4>
     <h5>Ivan</h5>        
-    <h5>Crediti residui: 9</h5>
+    <h5>Crediti residui: 59</h5>
     <h5>Anni rimanenti: 50</h5>
 </div>                                               
 <table border="1" class="dataframe">

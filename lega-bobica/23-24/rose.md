@@ -449,7 +449,7 @@
     <h4 class="media-heading">Union Bagnur</h4>
     <h5>Tasso</h5>        
     <h5>Crediti residui: 82</h5>
-    <h5>Anni rimanenti: 62</h5>
+    <h5>Anni rimanenti: 10</h5>
 </div>                                               
 <table border="1" class="dataframe">
   <thead>
@@ -473,28 +473,28 @@
       <td>Por</td>
       <td>Rui Patricio</td>
       <td>10</td>
-      <td>0</td>
+      <td>1</td>
       <td>Roma</td>
     </tr>
     <tr>
       <td>Por</td>
       <td>Sepe</td>
       <td>1</td>
-      <td>0</td>
+      <td>1</td>
       <td>Lazio</td>
     </tr>
     <tr>
       <td>Dd;Ds;E</td>
       <td>Marusic</td>
       <td>2</td>
-      <td>0</td>
+      <td>1</td>
       <td>Lazio</td>
     </tr>
     <tr>
       <td>Dd;Ds;Dc</td>
       <td>D'Ambrosio</td>
       <td>2</td>
-      <td>0</td>
+      <td>1</td>
       <td>Monza</td>
     </tr>
     <tr>
@@ -508,28 +508,28 @@
       <td>Ds;Dc</td>
       <td>Vasquez</td>
       <td>1</td>
-      <td>0</td>
+      <td>2</td>
       <td>Genoa</td>
     </tr>
     <tr>
       <td>Dc</td>
       <td>De Vrij</td>
       <td>3</td>
-      <td>0</td>
+      <td>3</td>
       <td>Inter</td>
     </tr>
     <tr>
       <td>Dc</td>
       <td>Luperto</td>
       <td>1</td>
-      <td>0</td>
+      <td>1</td>
       <td>Empoli</td>
     </tr>
     <tr>
       <td>Dc</td>
       <td>Monterisi</td>
       <td>1</td>
-      <td>0</td>
+      <td>2</td>
       <td>Frosinone</td>
     </tr>
     <tr>
@@ -543,42 +543,42 @@
       <td>E</td>
       <td>Spinazzola</td>
       <td>1</td>
-      <td>0</td>
+      <td>3</td>
       <td>Roma</td>
     </tr>
     <tr>
       <td>E;C</td>
       <td>Nandez</td>
       <td>7</td>
-      <td>0</td>
+      <td>2</td>
       <td>Cagliari</td>
     </tr>
     <tr>
       <td>E;W</td>
       <td>Kostic</td>
       <td>5</td>
-      <td>0</td>
+      <td>3</td>
       <td>Juventus</td>
     </tr>
     <tr>
       <td>M;C</td>
       <td>Arthur Melo</td>
       <td>9</td>
-      <td>0</td>
+      <td>3</td>
       <td>Fiorentina</td>
     </tr>
     <tr>
       <td>M;C</td>
       <td>Mandragora</td>
       <td>1</td>
-      <td>0</td>
+      <td>2</td>
       <td>Fiorentina</td>
     </tr>
     <tr>
       <td>M;C</td>
       <td>Walace</td>
       <td>1</td>
-      <td>0</td>
+      <td>1</td>
       <td>Udinese</td>
     </tr>
     <tr>
@@ -592,49 +592,49 @@
       <td>C</td>
       <td>Loftus-Cheek</td>
       <td>20</td>
-      <td>0</td>
+      <td>3</td>
       <td>Milan</td>
     </tr>
     <tr>
       <td>C</td>
       <td>Musah</td>
       <td>1</td>
-      <td>0</td>
+      <td>3</td>
       <td>Milan</td>
     </tr>
     <tr>
       <td>C;T</td>
       <td>Ederson D.S.</td>
       <td>2</td>
-      <td>0</td>
+      <td>3</td>
       <td>Atalanta</td>
     </tr>
     <tr>
       <td>C;T</td>
       <td>Zielinski</td>
       <td>30</td>
-      <td>0</td>
+      <td>3</td>
       <td>Napoli</td>
     </tr>
     <tr>
       <td>W;A</td>
       <td>Ndoye</td>
       <td>7</td>
-      <td>0</td>
+      <td>3</td>
       <td>Bologna</td>
     </tr>
     <tr>
       <td>W;A</td>
       <td>Zaccagni</td>
       <td>78</td>
-      <td>0</td>
+      <td>3</td>
       <td>Lazio</td>
     </tr>
     <tr>
       <td>Pc</td>
       <td>Colombo</td>
       <td>2</td>
-      <td>0</td>
+      <td>2</td>
       <td>Milan</td>
     </tr>
     <tr>
@@ -648,14 +648,14 @@
       <td>Pc</td>
       <td>Thuram</td>
       <td>84</td>
-      <td>0</td>
+      <td>3</td>
       <td>Inter</td>
     </tr>
     <tr>
       <td>Pc</td>
       <td>Vlahovic</td>
       <td>229</td>
-      <td>0</td>
+      <td>3</td>
       <td>Juventus</td>
     </tr>
   </tbody>
@@ -893,7 +893,7 @@
     <h4 class="media-heading">Piove sul Bagnato</h4>
     <h5>Silvio</h5>        
     <h5>Crediti residui: 80</h5>
-    <h5>Anni rimanenti: 57</h5>
+    <h5>Anni rimanenti: 7</h5>
 </div>                                               
 <table border="1" class="dataframe">
   <thead>
@@ -910,21 +910,21 @@
       <td>Por</td>
       <td>Audero</td>
       <td>1</td>
-      <td>0</td>
+      <td>2</td>
       <td>Inter</td>
     </tr>
     <tr>
       <td>Por</td>
       <td>Di Gennaro</td>
       <td>0</td>
-      <td>0</td>
+      <td>2</td>
       <td>Inter</td>
     </tr>
     <tr>
       <td>Por</td>
       <td>Sommer</td>
       <td>44</td>
-      <td>0</td>
+      <td>3</td>
       <td>Inter</td>
     </tr>
     <tr>
@@ -938,49 +938,49 @@
       <td>Dd;Ds;Dc</td>
       <td>Oyono</td>
       <td>4</td>
-      <td>0</td>
+      <td>2</td>
       <td>Frosinone</td>
     </tr>
     <tr>
       <td>Dc</td>
       <td>Bastoni</td>
       <td>42</td>
-      <td>0</td>
+      <td>3</td>
       <td>Inter</td>
     </tr>
     <tr>
       <td>Dc</td>
       <td>Casale</td>
       <td>11</td>
-      <td>0</td>
+      <td>3</td>
       <td>Lazio</td>
     </tr>
     <tr>
       <td>Dc</td>
       <td>Erlic</td>
       <td>1</td>
-      <td>0</td>
+      <td>2</td>
       <td>Sassuolo</td>
     </tr>
     <tr>
       <td>Dc</td>
       <td>Mancini</td>
       <td>20</td>
-      <td>0</td>
+      <td>3</td>
       <td>Roma</td>
     </tr>
     <tr>
       <td>E</td>
       <td>Cuadrado</td>
       <td>4</td>
-      <td>0</td>
+      <td>2</td>
       <td>Inter</td>
     </tr>
     <tr>
       <td>E;M</td>
       <td>Frendrup</td>
       <td>5</td>
-      <td>0</td>
+      <td>2</td>
       <td>Genoa</td>
     </tr>
     <tr>
@@ -1001,21 +1001,21 @@
       <td>M;C</td>
       <td>Cataldi</td>
       <td>1</td>
-      <td>0</td>
+      <td>3</td>
       <td>Lazio</td>
     </tr>
     <tr>
       <td>M;C</td>
       <td>Locatelli</td>
       <td>10</td>
-      <td>0</td>
+      <td>3</td>
       <td>Juventus</td>
     </tr>
     <tr>
       <td>C</td>
       <td>Barella</td>
       <td>70</td>
-      <td>0</td>
+      <td>3</td>
       <td>Inter</td>
     </tr>
     <tr>
@@ -1029,14 +1029,14 @@
       <td>C;T</td>
       <td>Duda</td>
       <td>9</td>
-      <td>0</td>
+      <td>3</td>
       <td>Verona</td>
     </tr>
     <tr>
       <td>W</td>
       <td>Baez</td>
       <td>1</td>
-      <td>0</td>
+      <td>2</td>
       <td>Frosinone</td>
     </tr>
     <tr>
@@ -1050,21 +1050,21 @@
       <td>W;T;A</td>
       <td>Oristanio</td>
       <td>6</td>
-      <td>0</td>
+      <td>2</td>
       <td>Cagliari</td>
     </tr>
     <tr>
       <td>T;A</td>
       <td>Gudmundsson A.</td>
       <td>25</td>
-      <td>0</td>
+      <td>2</td>
       <td>Genoa</td>
     </tr>
     <tr>
       <td>A</td>
       <td>Cambiaghi</td>
       <td>4</td>
-      <td>0</td>
+      <td>3</td>
       <td>Empoli</td>
     </tr>
     <tr>
@@ -1092,14 +1092,14 @@
       <td>Pc</td>
       <td>Scamacca</td>
       <td>112</td>
-      <td>0</td>
+      <td>3</td>
       <td>Atalanta</td>
     </tr>
     <tr>
       <td>Pc</td>
       <td>Simeone</td>
       <td>2</td>
-      <td>0</td>
+      <td>2</td>
       <td>Napoli</td>
     </tr>
   </tbody>
@@ -1337,7 +1337,7 @@
     <h4 class="media-heading">Waystar Royco</h4>
     <h5>Pippo</h5>        
     <h5>Crediti residui: 76</h5>
-    <h5>Anni rimanenti: 53</h5>
+    <h5>Anni rimanenti: 3</h5>
 </div>                                               
 <table border="1" class="dataframe">
   <thead>
@@ -1361,14 +1361,14 @@
       <td>Por</td>
       <td>Musso</td>
       <td>12</td>
-      <td>0</td>
+      <td>3</td>
       <td>Atalanta</td>
     </tr>
     <tr>
       <td>Por</td>
       <td>Rossi F.</td>
       <td>0</td>
-      <td>0</td>
+      <td>1</td>
       <td>Atalanta</td>
     </tr>
     <tr>
@@ -1396,35 +1396,35 @@
       <td>Dd;Dc</td>
       <td>Darmian</td>
       <td>3</td>
-      <td>0</td>
+      <td>2</td>
       <td>Inter</td>
     </tr>
     <tr>
       <td>Ds;Dc</td>
       <td>Juan Jesus</td>
       <td>3</td>
-      <td>0</td>
+      <td>2</td>
       <td>Napoli</td>
     </tr>
     <tr>
       <td>Ds;E</td>
       <td>Doig</td>
       <td>4</td>
-      <td>0</td>
+      <td>3</td>
       <td>Verona</td>
     </tr>
     <tr>
       <td>Ds;E</td>
       <td>Hernandez T.</td>
       <td>75</td>
-      <td>0</td>
+      <td>3</td>
       <td>Milan</td>
     </tr>
     <tr>
       <td>Dc</td>
       <td>Beukema</td>
       <td>6</td>
-      <td>0</td>
+      <td>3</td>
       <td>Bologna</td>
     </tr>
     <tr>
@@ -1438,49 +1438,49 @@
       <td>Dc</td>
       <td>Natan</td>
       <td>5</td>
-      <td>0</td>
+      <td>3</td>
       <td>Napoli</td>
     </tr>
     <tr>
       <td>Dc</td>
       <td>Wieteska</td>
       <td>1</td>
-      <td>0</td>
+      <td>3</td>
       <td>Cagliari</td>
     </tr>
     <tr>
       <td>E</td>
       <td>Dumfries</td>
       <td>29</td>
-      <td>0</td>
+      <td>3</td>
       <td>Inter</td>
     </tr>
     <tr>
       <td>E;C</td>
       <td>Jankto</td>
       <td>2</td>
-      <td>0</td>
+      <td>2</td>
       <td>Cagliari</td>
     </tr>
     <tr>
       <td>M;C</td>
       <td>Bennacer</td>
       <td>1</td>
-      <td>0</td>
+      <td>3</td>
       <td>Milan</td>
     </tr>
     <tr>
       <td>M;C</td>
       <td>Cajuste</td>
       <td>1</td>
-      <td>0</td>
+      <td>3</td>
       <td>Napoli</td>
     </tr>
     <tr>
       <td>M;C</td>
       <td>Harroui</td>
       <td>5</td>
-      <td>0</td>
+      <td>2</td>
       <td>Frosinone</td>
     </tr>
     <tr>
@@ -1515,14 +1515,14 @@
       <td>W</td>
       <td>Candreva</td>
       <td>28</td>
-      <td>0</td>
+      <td>2</td>
       <td>Salernitana</td>
     </tr>
     <tr>
       <td>W;T</td>
       <td>Infantino</td>
       <td>3</td>
-      <td>0</td>
+      <td>3</td>
       <td>Fiorentina</td>
     </tr>
     <tr>
@@ -1536,7 +1536,7 @@
       <td>A</td>
       <td>Raspadori</td>
       <td>1</td>
-      <td>0</td>
+      <td>3</td>
       <td>Napoli</td>
     </tr>
     <tr>
@@ -1550,14 +1550,14 @@
       <td>Pc</td>
       <td>Castellanos</td>
       <td>1</td>
-      <td>0</td>
+      <td>3</td>
       <td>Lazio</td>
     </tr>
     <tr>
       <td>Pc</td>
       <td>Immobile</td>
       <td>190</td>
-      <td>0</td>
+      <td>3</td>
       <td>Lazio</td>
     </tr>
   </tbody>

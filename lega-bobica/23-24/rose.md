@@ -81,7 +81,6 @@
     <script>
         var data = {
 
-            name: __.ph("Lega Bobica"),
             logo: "147953_06139095.png",
             setup: { "info_principali": true, "tre_confermati": true, "regolamento": true, "almeno_competizione": true, "mercato_creato": true },
             //setup: {regolamento:false},
@@ -92,7 +91,7 @@
             open: "0",
             competitionId: "197054",
             currentCompetition: {"id":296201,"id_lega":147953,"nome":"Lega Bobica","tipo":1,"giornata_inizio":3,"giornata_fine":37,"schedina":false,"vincitore":"","eliminata":false,"state":1693474323642,"squadre":[{"id":606740,"g":0,"p":0.0,"s_p":0.00,"pos":1,"pen":0.0,"b":0.0,"v":0,"n":0,"pr":0,"gf":0,"gs":0,"d_r":0,"gr":"A","pk":"296201_606740"},{"id":611980,"g":0,"p":0.0,"s_p":0.00,"pos":2,"pen":0.0,"b":0.0,"v":0,"n":0,"pr":0,"gf":0,"gs":0,"d_r":0,"gr":"A","pk":"296201_611980"},{"id":649234,"g":0,"p":0.0,"s_p":0.00,"pos":3,"pen":0.0,"b":0.0,"v":0,"n":0,"pr":0,"gf":0,"gs":0,"d_r":0,"gr":"A","pk":"296201_649234"},{"id":671529,"g":0,"p":0.0,"s_p":0.00,"pos":4,"pen":0.0,"b":0.0,"v":0,"n":0,"pr":0,"gf":0,"gs":0,"d_r":0,"gr":"A","pk":"296201_671529"},{"id":699436,"g":0,"p":0.0,"s_p":0.00,"pos":5,"pen":0.0,"b":0.0,"v":0,"n":0,"pr":0,"gf":0,"gs":0,"d_r":0,"gr":"A","pk":"296201_699436"},{"id":3129894,"g":0,"p":0.0,"s_p":0.00,"pos":6,"pen":0.0,"b":0.0,"v":0,"n":0,"pr":0,"gf":0,"gs":0,"d_r":0,"gr":"A","pk":"296201_3129894"},{"id":6020064,"g":0,"p":0.0,"s_p":0.00,"pos":7,"pen":0.0,"b":0.0,"v":0,"n":0,"pr":0,"gf":0,"gs":0,"d_r":0,"gr":"A","pk":"296201_6020064"},{"id":6756036,"g":0,"p":0.0,"s_p":0.00,"pos":8,"pen":0.0,"b":0.0,"v":0,"n":0,"pr":0,"gf":0,"gs":0,"d_r":0,"gr":"A","pk":"296201_6756036"}]},            
-            inCompetition: __.pb("True"),
+
             competitionStartSerieA: "3",
             competitionEndSerieA: "37",
             president: "",
@@ -120,7 +119,6 @@
             teamId: "606740"
 
         };
-        __.s('li', data);
 
     </script>
 </head>
@@ -221,11 +219,6 @@
                 <!-- MAIN CONTENTS -->
                 <div
                     class="main-content col-xs-12 col-sm-12 col-md-8 col-lg-8 flex-col flex-start no-padding wait-css-loading">
-
-
-
-                    <script
-                        id="gkiop12"> __.s('tmp', __.d('NTgzNjIwOzYwNjc0MDs2MTE5ODA7NjM3NjUwOzY0OTIzNDs2NzE1Mjk7MzEyOTg5NDs2MDIwMDY0', true) + "|0|1603310440607|False"); __.X('gkiop12');</script>
 
                     <ol class="breadcrumb">
                         <li><a href="https://leghe.fantacalcio.it/lega-bobica/area-gioco">Area Gioco</a></li>

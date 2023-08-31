@@ -8691,7 +8691,6 @@
     <script src="https://d2lhpso9w1g8dk.cloudfront.net/web/js/utils/auth.js?_v=191020201000"></script>
     <script src="https://d2lhpso9w1g8dk.cloudfront.net/web/js/services/notifications.js?_v=191020201000"></script>
     <script src="https://d2lhpso9w1g8dk.cloudfront.net/web/js/widgets/team_slider.js?_v=191020201000"></script>
-    <script src="https://d2lhpso9w1g8dk.cloudfront.net/web/js/widgets/real_calendar.js?_v=191020201000"></script>
 
 
     <link rel="stylesheet" href="https://d2lhpso9w1g8dk.cloudfront.net/web/css/libs/bootstrap-select.min.css">

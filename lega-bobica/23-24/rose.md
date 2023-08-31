@@ -5,6 +5,8 @@
     <h4 class="media-heading">USS Torquemada</h4>
     <h5>Daniele</h5>        
     <small>Crediti residui</small> 22
+    <small>Anni rimanenti</small> 0
+
 </div>                                               
 <table border="1" class="dataframe">
   <thead>
@@ -229,13 +231,12 @@
     </tr>
   </tbody>
 </table>
-                        <h4 class="media-heading">560 <small>Costo totale d'acquisto</small></h4>
-                        <h4 class="media-heading">0<small>Valore totale rosa</small></h4>
-    
 <div>
     <h4 class="media-heading">Cs Cannabis Street</h4>
     <h5>Marco</h5>        
     <small>Crediti residui</small> 0
+    <small>Anni rimanenti</small> 58
+
 </div>                                               
 <table border="1" class="dataframe">
   <thead>
@@ -446,13 +447,12 @@
     </tr>
   </tbody>
 </table>
-                        <h4 class="media-heading">518 <small>Costo totale d'acquisto</small></h4>
-                        <h4 class="media-heading">58<small>Valore totale rosa</small></h4>
-    
 <div>
     <h4 class="media-heading">Union Bagnur</h4>
     <h5>Tasso</h5>        
     <small>Crediti residui</small> 32
+    <small>Anni rimanenti</small> 62
+
 </div>                                               
 <table border="1" class="dataframe">
   <thead>
@@ -663,13 +663,12 @@
     </tr>
   </tbody>
 </table>
-                        <h4 class="media-heading">548 <small>Costo totale d'acquisto</small></h4>
-                        <h4 class="media-heading">62<small>Valore totale rosa</small></h4>
-    
 <div>
     <h4 class="media-heading">Docklands United F.C.</h4>
     <h5>Jacopo</h5>        
     <small>Crediti residui</small> 5
+    <small>Anni rimanenti</small> 56
+
 </div>                                               
 <table border="1" class="dataframe">
   <thead>
@@ -894,13 +893,12 @@
     </tr>
   </tbody>
 </table>
-                        <h4 class="media-heading">587 <small>Costo totale d'acquisto</small></h4>
-                        <h4 class="media-heading">56<small>Valore totale rosa</small></h4>
-    
 <div>
     <h4 class="media-heading">Piove sul Bagnato</h4>
     <h5>Silvio</h5>        
     <small>Crediti residui</small> 30
+    <small>Anni rimanenti</small> 57
+
 </div>                                               
 <table border="1" class="dataframe">
   <thead>
@@ -1111,13 +1109,12 @@
     </tr>
   </tbody>
 </table>
-                        <h4 class="media-heading">503 <small>Costo totale d'acquisto</small></h4>
-                        <h4 class="media-heading">57<small>Valore totale rosa</small></h4>
-    
 <div>
     <h4 class="media-heading">La Domenica del Dipendente Pubblico</h4>
     <h5>Mattia</h5>        
     <small>Crediti residui</small> 16
+    <small>Anni rimanenti</small> 59
+
 </div>                                               
 <table border="1" class="dataframe">
   <thead>
@@ -1342,13 +1339,12 @@
     </tr>
   </tbody>
 </table>
-                        <h4 class="media-heading">570 <small>Costo totale d'acquisto</small></h4>
-                        <h4 class="media-heading">59<small>Valore totale rosa</small></h4>
-    
 <div>
     <h4 class="media-heading">Waystar Royco</h4>
     <h5>Pippo</h5>        
     <small>Crediti residui</small> 26
+    <small>Anni rimanenti</small> 53
+
 </div>                                               
 <table border="1" class="dataframe">
   <thead>
@@ -1573,13 +1569,12 @@
     </tr>
   </tbody>
 </table>
-                        <h4 class="media-heading">518 <small>Costo totale d'acquisto</small></h4>
-                        <h4 class="media-heading">53<small>Valore totale rosa</small></h4>
-    
 <div>
     <h4 class="media-heading">LeBuscemi Revenge</h4>
     <h5>Ivan</h5>        
     <small>Crediti residui</small> 9
+    <small>Anni rimanenti</small> 50
+
 </div>                                               
 <table border="1" class="dataframe">
   <thead>
@@ -1804,6 +1799,3 @@
     </tr>
   </tbody>
 </table>
-                        <h4 class="media-heading">584 <small>Costo totale d'acquisto</small></h4>
-                        <h4 class="media-heading">50<small>Valore totale rosa</small></h4>
-    

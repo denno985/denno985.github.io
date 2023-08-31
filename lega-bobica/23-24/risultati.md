@@ -9,7 +9,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>La Domenica del Dipendente Pubblico</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -25,7 +25,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>Cs Cannabis Street</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -37,7 +37,7 @@
   <tbody>
     <tr>
       <td>USS Torquemada</td>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -53,7 +53,7 @@
     </tr>
     <tr>
       <td>Docklands United F.C.</td>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -71,7 +71,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/3" class="active">3a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>Cs Cannabis Street</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -87,7 +87,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>LeBuscemi Revenge</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -115,7 +115,7 @@
     </tr>
     <tr>
       <td>USS Torquemada</td>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -131,7 +131,7 @@
     </tr>
     <tr>
       <td>La Domenica del Dipendente Pubblico</td>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -141,7 +141,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/5" class="active">5a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>LeBuscemi Revenge</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -150,7 +150,7 @@
     </tr>
     <tr>
       <td>Piove sul Bagnato</td>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -200,8 +200,8 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>A.F.C. Richmond</td>
-      <td>Ans Rei Sport Verein</td>
+      <td>Waystar Royco</td>
+      <td>Union Bagnur</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -211,7 +211,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/7" class="active">7a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>Piove sul Bagnato</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -228,7 +228,7 @@
     </tr>
     <tr>
       <td>Docklands United F.C.</td>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -254,7 +254,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>La Domenica del Dipendente Pubblico</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -270,7 +270,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>Cs Cannabis Street</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -282,7 +282,7 @@
   <tbody>
     <tr>
       <td>USS Torquemada</td>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -298,7 +298,7 @@
     </tr>
     <tr>
       <td>Docklands United F.C.</td>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -316,7 +316,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/10" class="active">10a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>Cs Cannabis Street</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -332,7 +332,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>LeBuscemi Revenge</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -360,7 +360,7 @@
     </tr>
     <tr>
       <td>USS Torquemada</td>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -376,7 +376,7 @@
     </tr>
     <tr>
       <td>La Domenica del Dipendente Pubblico</td>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -386,7 +386,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/12" class="active">12a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>LeBuscemi Revenge</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -395,7 +395,7 @@
     </tr>
     <tr>
       <td>Piove sul Bagnato</td>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -445,8 +445,8 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>A.F.C. Richmond</td>
-      <td>Ans Rei Sport Verein</td>
+      <td>Waystar Royco</td>
+      <td>Union Bagnur</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -456,7 +456,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/14" class="active">14a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>Piove sul Bagnato</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -473,7 +473,7 @@
     </tr>
     <tr>
       <td>Docklands United F.C.</td>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -499,7 +499,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>La Domenica del Dipendente Pubblico</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -515,7 +515,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>Cs Cannabis Street</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -527,7 +527,7 @@
   <tbody>
     <tr>
       <td>USS Torquemada</td>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -543,7 +543,7 @@
     </tr>
     <tr>
       <td>Docklands United F.C.</td>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -561,7 +561,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/17" class="active">17a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>Cs Cannabis Street</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -577,7 +577,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>LeBuscemi Revenge</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -605,7 +605,7 @@
     </tr>
     <tr>
       <td>USS Torquemada</td>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -621,7 +621,7 @@
     </tr>
     <tr>
       <td>La Domenica del Dipendente Pubblico</td>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -631,7 +631,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/19" class="active">19a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>LeBuscemi Revenge</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -640,7 +640,7 @@
     </tr>
     <tr>
       <td>Piove sul Bagnato</td>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -690,8 +690,8 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>A.F.C. Richmond</td>
-      <td>Ans Rei Sport Verein</td>
+      <td>Waystar Royco</td>
+      <td>Union Bagnur</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -701,7 +701,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/21" class="active">21a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>Piove sul Bagnato</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -718,7 +718,7 @@
     </tr>
     <tr>
       <td>Docklands United F.C.</td>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -744,7 +744,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>La Domenica del Dipendente Pubblico</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -760,7 +760,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>Cs Cannabis Street</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -772,7 +772,7 @@
   <tbody>
     <tr>
       <td>USS Torquemada</td>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -788,7 +788,7 @@
     </tr>
     <tr>
       <td>Docklands United F.C.</td>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -806,7 +806,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/24" class="active">24a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>Cs Cannabis Street</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -822,7 +822,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>LeBuscemi Revenge</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -850,7 +850,7 @@
     </tr>
     <tr>
       <td>USS Torquemada</td>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -866,7 +866,7 @@
     </tr>
     <tr>
       <td>La Domenica del Dipendente Pubblico</td>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -876,7 +876,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/26" class="active">26a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>LeBuscemi Revenge</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -885,7 +885,7 @@
     </tr>
     <tr>
       <td>Piove sul Bagnato</td>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -935,8 +935,8 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>A.F.C. Richmond</td>
-      <td>Ans Rei Sport Verein</td>
+      <td>Waystar Royco</td>
+      <td>Union Bagnur</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -946,7 +946,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/28" class="active">28a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>Piove sul Bagnato</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -963,7 +963,7 @@
     </tr>
     <tr>
       <td>Docklands United F.C.</td>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -989,7 +989,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>La Domenica del Dipendente Pubblico</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -1005,7 +1005,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>Cs Cannabis Street</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -1017,7 +1017,7 @@
   <tbody>
     <tr>
       <td>USS Torquemada</td>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -1033,7 +1033,7 @@
     </tr>
     <tr>
       <td>Docklands United F.C.</td>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -1051,7 +1051,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/31" class="active">31a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>Cs Cannabis Street</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -1067,7 +1067,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>LeBuscemi Revenge</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -1095,7 +1095,7 @@
     </tr>
     <tr>
       <td>USS Torquemada</td>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -1111,7 +1111,7 @@
     </tr>
     <tr>
       <td>La Domenica del Dipendente Pubblico</td>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -1121,7 +1121,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/33" class="active">33a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>LeBuscemi Revenge</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -1130,7 +1130,7 @@
     </tr>
     <tr>
       <td>Piove sul Bagnato</td>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -1180,8 +1180,8 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>A.F.C. Richmond</td>
-      <td>Ans Rei Sport Verein</td>
+      <td>Waystar Royco</td>
+      <td>Union Bagnur</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -1191,7 +1191,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/35" class="active">35a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>Ans Rei Sport Verein</td>
+      <td>Union Bagnur</td>
       <td>Piove sul Bagnato</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -1208,7 +1208,7 @@
     </tr>
     <tr>
       <td>Docklands United F.C.</td>
-      <td>A.F.C. Richmond</td>
+      <td>Waystar Royco</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>

@@ -4,8 +4,8 @@
 <div>
     <h4 class="media-heading">USS Torquemada</h4>
     <h5>Daniele</h5>        
-    <h5>Crediti residui:</h5> 22
-    <h5>Anni rimanenti:</h5> 0
+    <h5>Crediti residui: 22</h5>
+    <h5>Anni rimanenti:x 0</h5>
 </div>                                               
 <table border="1" class="dataframe">
   <thead>
@@ -233,8 +233,8 @@
 <div>
     <h4 class="media-heading">Cs Cannabis Street</h4>
     <h5>Marco</h5>        
-    <h5>Crediti residui:</h5> 0
-    <h5>Anni rimanenti:</h5> 58
+    <h5>Crediti residui: 0</h5>
+    <h5>Anni rimanenti:x 58</h5>
 </div>                                               
 <table border="1" class="dataframe">
   <thead>
@@ -448,8 +448,8 @@
 <div>
     <h4 class="media-heading">Union Bagnur</h4>
     <h5>Tasso</h5>        
-    <h5>Crediti residui:</h5> 32
-    <h5>Anni rimanenti:</h5> 62
+    <h5>Crediti residui: 32</h5>
+    <h5>Anni rimanenti:x 62</h5>
 </div>                                               
 <table border="1" class="dataframe">
   <thead>
@@ -663,8 +663,8 @@
 <div>
     <h4 class="media-heading">Docklands United F.C.</h4>
     <h5>Jacopo</h5>        
-    <h5>Crediti residui:</h5> 5
-    <h5>Anni rimanenti:</h5> 56
+    <h5>Crediti residui: 5</h5>
+    <h5>Anni rimanenti:x 56</h5>
 </div>                                               
 <table border="1" class="dataframe">
   <thead>
@@ -892,8 +892,8 @@
 <div>
     <h4 class="media-heading">Piove sul Bagnato</h4>
     <h5>Silvio</h5>        
-    <h5>Crediti residui:</h5> 30
-    <h5>Anni rimanenti:</h5> 57
+    <h5>Crediti residui: 30</h5>
+    <h5>Anni rimanenti:x 57</h5>
 </div>                                               
 <table border="1" class="dataframe">
   <thead>
@@ -1107,8 +1107,8 @@
 <div>
     <h4 class="media-heading">La Domenica del Dipendente Pubblico</h4>
     <h5>Mattia</h5>        
-    <h5>Crediti residui:</h5> 16
-    <h5>Anni rimanenti:</h5> 59
+    <h5>Crediti residui: 16</h5>
+    <h5>Anni rimanenti:x 59</h5>
 </div>                                               
 <table border="1" class="dataframe">
   <thead>
@@ -1336,8 +1336,8 @@
 <div>
     <h4 class="media-heading">Waystar Royco</h4>
     <h5>Pippo</h5>        
-    <h5>Crediti residui:</h5> 26
-    <h5>Anni rimanenti:</h5> 53
+    <h5>Crediti residui: 26</h5>
+    <h5>Anni rimanenti:x 53</h5>
 </div>                                               
 <table border="1" class="dataframe">
   <thead>
@@ -1565,8 +1565,8 @@
 <div>
     <h4 class="media-heading">LeBuscemi Revenge</h4>
     <h5>Ivan</h5>        
-    <h5>Crediti residui:</h5> 9
-    <h5>Anni rimanenti:</h5> 50
+    <h5>Crediti residui: 9</h5>
+    <h5>Anni rimanenti:x 50</h5>
 </div>                                               
 <table border="1" class="dataframe">
   <thead>

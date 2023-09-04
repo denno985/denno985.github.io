@@ -45,12 +45,12 @@
     </tr>
     <tr>
       <th>2</th>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>0</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>0</td>
     </tr>
     <tr>
@@ -100,12 +100,12 @@
     </tr>
     <tr>
       <th>3</th>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>0</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>0</td>
     </tr>
     <tr>
@@ -149,115 +149,115 @@
   <tbody>
     <tr>
       <th>1</th>
-      <td>Waystar Royco</td>
+      <td>Piove sul Bagnato</td>
+      <td>3</td>
+      <td>1</td>
+      <td>1</td>
       <td>0</td>
       <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>3</td>
+      <td>1</td>
+      <td>2</td>
+      <td>82.5</td>
+      <td>82.5</td>
     </tr>
     <tr>
       <th>2</th>
-      <td>Docklands United F.C.</td>
+      <td>La Domenica del Dipendente Pubblico</td>
+      <td>3</td>
+      <td>1</td>
+      <td>1</td>
       <td>0</td>
       <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>2</td>
+      <td>1</td>
+      <td>1</td>
+      <td>74.5</td>
+      <td>74.5</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>Cs Cannabis Street</td>
+      <td>USS Torquemada</td>
+      <td>3</td>
+      <td>1</td>
+      <td>1</td>
       <td>0</td>
       <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>2</td>
+      <td>1</td>
+      <td>1</td>
+      <td>74</td>
+      <td>74.0</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>La Domenica del Dipendente Pubblico</td>
+      <td>The Curse of Buscemi</td>
+      <td>1</td>
+      <td>1</td>
       <td>0</td>
+      <td>1</td>
       <td>0</td>
+      <td>2</td>
+      <td>2</td>
       <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>76.5</td>
+      <td>76.5</td>
     </tr>
     <tr>
       <th>5</th>
-      <td>USS Torquemada</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
+      <td>1</td>
+      <td>1</td>
       <td>0</td>
+      <td>1</td>
       <td>0</td>
+      <td>2</td>
+      <td>2</td>
       <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>74.5</td>
+      <td>74.5</td>
     </tr>
     <tr>
       <th>6</th>
-      <td>Union Bagnur</td>
+      <td>Waystar Royco</td>
+      <td>0</td>
+      <td>1</td>
       <td>0</td>
       <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+      <td>2</td>
+      <td>-1</td>
+      <td>70.5</td>
+      <td>70.5</td>
     </tr>
     <tr>
       <th>7</th>
-      <td>Piove sul Bagnato</td>
+      <td>Docklands United F.C.</td>
+      <td>0</td>
+      <td>1</td>
       <td>0</td>
       <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+      <td>2</td>
+      <td>-1</td>
+      <td>69.5</td>
+      <td>69.5</td>
     </tr>
     <tr>
       <th>8</th>
-      <td>The Curse of Buscemi</td>
+      <td>Ans Rei Sport Verein</td>
+      <td>0</td>
+      <td>1</td>
       <td>0</td>
       <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+      <td>3</td>
+      <td>-2</td>
+      <td>68</td>
+      <td>68.0</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Classifica 2° girone</th><table border="1" class="dataframe">
@@ -280,7 +280,7 @@
   <tbody>
     <tr>
       <th>1</th>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -350,7 +350,7 @@
     </tr>
     <tr>
       <th>6</th>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -467,7 +467,7 @@
     </tr>
     <tr>
       <th>5</th>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -495,7 +495,7 @@
     </tr>
     <tr>
       <th>7</th>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -570,7 +570,7 @@
     </tr>
     <tr>
       <th>3</th>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -612,7 +612,7 @@
     </tr>
     <tr>
       <th>6</th>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -715,7 +715,7 @@
     </tr>
     <tr>
       <th>4</th>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -771,7 +771,7 @@
     </tr>
     <tr>
       <th>8</th>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>

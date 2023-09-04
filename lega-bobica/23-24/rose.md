@@ -231,7 +231,7 @@
   </tbody>
 </table>
 <div>
-    <h4 class="media-heading">Cs Cannabis Street</h4>
+    <h4 class="media-heading">Cs Colpevoli Sopravvissuti</h4>
     <h5>Marco</h5>        
     <h5>Crediti residui: 50</h5>
     <h5>Anni rimanenti: 7</h5>
@@ -446,7 +446,7 @@
   </tbody>
 </table>
 <div>
-    <h4 class="media-heading">Union Bagnur</h4>
+    <h4 class="media-heading">Ans Rei Sport Verein</h4>
     <h5>Tasso</h5>        
     <h5>Crediti residui: 82</h5>
     <h5>Anni rimanenti: 10</h5>

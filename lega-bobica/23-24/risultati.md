@@ -1,43 +1,43 @@
 <li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/1" class="active">1a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>The Curse of Buscemi</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>74.5</td>
+      <td>76.5</td>
+      <td>2</td>
+      <td>2</td>
     </tr>
     <tr>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>Piove sul Bagnato</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>68.0</td>
+      <td>82.5</td>
+      <td>1</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>La Domenica del Dipendente Pubblico</td>
       <td>Docklands United F.C.</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>74.5</td>
+      <td>69.5</td>
+      <td>2</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>USS Torquemada</td>
       <td>Waystar Royco</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>74.0</td>
+      <td>70.5</td>
+      <td>2</td>
+      <td>1</td>
     </tr>
   </tbody>
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/2" class="active">2a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
       <td>Waystar Royco</td>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -61,7 +61,7 @@
     </tr>
     <tr>
       <td>The Curse of Buscemi</td>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -79,7 +79,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>Docklands United F.C.</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -95,7 +95,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>La Domenica del Dipendente Pubblico</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -115,7 +115,7 @@
     </tr>
     <tr>
       <td>Piove sul Bagnato</td>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -131,7 +131,7 @@
     </tr>
     <tr>
       <td>Waystar Royco</td>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -157,7 +157,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>USS Torquemada</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -165,7 +165,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>La Domenica del Dipendente Pubblico</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -185,14 +185,14 @@
     </tr>
     <tr>
       <td>USS Torquemada</td>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>Docklands United F.C.</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -235,8 +235,8 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Cs Cannabis Street</td>
-      <td>Union Bagnur</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
+      <td>Ans Rei Sport Verein</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -246,7 +246,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/8" class="active">8a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>The Curse of Buscemi</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -254,7 +254,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>Piove sul Bagnato</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -282,7 +282,7 @@
   <tbody>
     <tr>
       <td>Waystar Royco</td>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -306,7 +306,7 @@
     </tr>
     <tr>
       <td>The Curse of Buscemi</td>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -324,7 +324,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>Docklands United F.C.</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -340,7 +340,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>La Domenica del Dipendente Pubblico</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -360,7 +360,7 @@
     </tr>
     <tr>
       <td>Piove sul Bagnato</td>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -376,7 +376,7 @@
     </tr>
     <tr>
       <td>Waystar Royco</td>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -402,7 +402,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>USS Torquemada</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -410,7 +410,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>La Domenica del Dipendente Pubblico</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -430,14 +430,14 @@
     </tr>
     <tr>
       <td>USS Torquemada</td>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>Docklands United F.C.</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -480,8 +480,8 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Cs Cannabis Street</td>
-      <td>Union Bagnur</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
+      <td>Ans Rei Sport Verein</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -491,7 +491,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/15" class="active">15a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>The Curse of Buscemi</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -499,7 +499,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>Piove sul Bagnato</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -527,7 +527,7 @@
   <tbody>
     <tr>
       <td>Waystar Royco</td>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -551,7 +551,7 @@
     </tr>
     <tr>
       <td>The Curse of Buscemi</td>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -569,7 +569,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>Docklands United F.C.</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -585,7 +585,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>La Domenica del Dipendente Pubblico</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -605,7 +605,7 @@
     </tr>
     <tr>
       <td>Piove sul Bagnato</td>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -621,7 +621,7 @@
     </tr>
     <tr>
       <td>Waystar Royco</td>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -647,7 +647,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>USS Torquemada</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -655,7 +655,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>La Domenica del Dipendente Pubblico</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -675,14 +675,14 @@
     </tr>
     <tr>
       <td>USS Torquemada</td>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>Docklands United F.C.</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -725,8 +725,8 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Cs Cannabis Street</td>
-      <td>Union Bagnur</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
+      <td>Ans Rei Sport Verein</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -736,7 +736,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/22" class="active">22a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>The Curse of Buscemi</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -744,7 +744,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>Piove sul Bagnato</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -772,7 +772,7 @@
   <tbody>
     <tr>
       <td>Waystar Royco</td>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -796,7 +796,7 @@
     </tr>
     <tr>
       <td>The Curse of Buscemi</td>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -814,7 +814,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>Docklands United F.C.</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -830,7 +830,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>La Domenica del Dipendente Pubblico</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -850,7 +850,7 @@
     </tr>
     <tr>
       <td>Piove sul Bagnato</td>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -866,7 +866,7 @@
     </tr>
     <tr>
       <td>Waystar Royco</td>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -892,7 +892,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>USS Torquemada</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -900,7 +900,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>La Domenica del Dipendente Pubblico</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -920,14 +920,14 @@
     </tr>
     <tr>
       <td>USS Torquemada</td>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>Docklands United F.C.</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -970,8 +970,8 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Cs Cannabis Street</td>
-      <td>Union Bagnur</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
+      <td>Ans Rei Sport Verein</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -981,7 +981,7 @@
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/29" class="active">29a giornata</a></li><table border="1" class="dataframe">
   <tbody>
     <tr>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>The Curse of Buscemi</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -989,7 +989,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>Piove sul Bagnato</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -1017,7 +1017,7 @@
   <tbody>
     <tr>
       <td>Waystar Royco</td>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -1041,7 +1041,7 @@
     </tr>
     <tr>
       <td>The Curse of Buscemi</td>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -1059,7 +1059,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>Docklands United F.C.</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -1075,7 +1075,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>La Domenica del Dipendente Pubblico</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -1095,7 +1095,7 @@
     </tr>
     <tr>
       <td>Piove sul Bagnato</td>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -1111,7 +1111,7 @@
     </tr>
     <tr>
       <td>Waystar Royco</td>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
@@ -1137,7 +1137,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>USS Torquemada</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -1145,7 +1145,7 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>La Domenica del Dipendente Pubblico</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -1165,14 +1165,14 @@
     </tr>
     <tr>
       <td>USS Torquemada</td>
-      <td>Cs Cannabis Street</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>
       <td>0</td>
     </tr>
     <tr>
-      <td>Union Bagnur</td>
+      <td>Ans Rei Sport Verein</td>
       <td>Docklands United F.C.</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -1215,8 +1215,8 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Cs Cannabis Street</td>
-      <td>Union Bagnur</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
+      <td>Ans Rei Sport Verein</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0</td>

@@ -343,7 +343,7 @@
       <td>Lopez M.</td>
       <td>3</td>
       <td>1</td>
-      <td>Sassuolo</td>
+      <td>Fiorentina</td>
     </tr>
     <tr>
       <td>M;C</td>
@@ -635,7 +635,7 @@
       <td>Colombo</td>
       <td>2</td>
       <td>2</td>
-      <td>Milan</td>
+      <td>Monza</td>
     </tr>
     <tr>
       <td>Pc</td>
@@ -766,7 +766,7 @@
       <td>Amrabat</td>
       <td>1</td>
       <td>2</td>
-      <td>Fiorentina</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>M;C</td>
@@ -885,7 +885,7 @@
       <td>Zapata D.</td>
       <td>48</td>
       <td>3</td>
-      <td>Atalanta</td>
+      <td>Torino</td>
     </tr>
   </tbody>
 </table>

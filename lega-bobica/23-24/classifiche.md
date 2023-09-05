@@ -18,6 +18,134 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <th>1</th>
+      <td>Piove sul Bagnato</td>
+      <td>3</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>4</td>
+      <td>1</td>
+      <td>3</td>
+      <td>84</td>
+      <td>84.0</td>
+      <td>0</td>
+      <td>0.0</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>La Domenica del Dipendente Pubblico</td>
+      <td>3</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>1</td>
+      <td>1</td>
+      <td>74.5</td>
+      <td>74.5</td>
+      <td>0</td>
+      <td>0.0</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>USS Torquemada</td>
+      <td>3</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>1</td>
+      <td>1</td>
+      <td>74</td>
+      <td>74.0</td>
+      <td>0</td>
+      <td>0.0</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>The Curse of Buscemi</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>2</td>
+      <td>2</td>
+      <td>0</td>
+      <td>76.5</td>
+      <td>76.5</td>
+      <td>0</td>
+      <td>0.0</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Cs Colpevoli Sopravvissuti</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>2</td>
+      <td>2</td>
+      <td>0</td>
+      <td>74.5</td>
+      <td>74.5</td>
+      <td>0</td>
+      <td>0.0</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Waystar Royco</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+      <td>2</td>
+      <td>-1</td>
+      <td>71.5</td>
+      <td>71.5</td>
+      <td>0</td>
+      <td>0.0</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Docklands United F.C.</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+      <td>2</td>
+      <td>-1</td>
+      <td>68.5</td>
+      <td>68.5</td>
+      <td>0</td>
+      <td>0.0</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>Ans Rei Sport Verein</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+      <td>4</td>
+      <td>-3</td>
+      <td>68</td>
+      <td>68.0</td>
+      <td>0</td>
+      <td>0.0</td>
+    </tr>
   </tbody>
 </table><th><br/></th><th>Classifica a punti</th><table border="1" class="dataframe">
   <thead>
@@ -28,6 +156,46 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <th>1</th>
+      <td>Piove sul Bagnato</td>
+      <td>84</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>The Curse of Buscemi</td>
+      <td>76.5</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>La Domenica del Dipendente Pubblico</td>
+      <td>74.5</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Cs Colpevoli Sopravvissuti</td>
+      <td>74.5</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>USS Torquemada</td>
+      <td>74</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Waystar Royco</td>
+      <td>71.5</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Docklands United F.C.</td>
+      <td>68.5</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>Ans Rei Sport Verein</td>
+      <td>68</td>
+    </tr>
   </tbody>
 </table><th><br/></th><th>Classifica Sprint</th><table border="1" class="dataframe">
   <thead>
@@ -155,11 +323,11 @@
       <td>1</td>
       <td>0</td>
       <td>0</td>
-      <td>3</td>
+      <td>4</td>
       <td>1</td>
-      <td>2</td>
-      <td>82.5</td>
-      <td>82.5</td>
+      <td>3</td>
+      <td>84</td>
+      <td>84.0</td>
     </tr>
     <tr>
       <th>2</th>
@@ -228,8 +396,8 @@
       <td>1</td>
       <td>2</td>
       <td>-1</td>
-      <td>70.5</td>
-      <td>70.5</td>
+      <td>71.5</td>
+      <td>71.5</td>
     </tr>
     <tr>
       <th>7</th>
@@ -242,8 +410,8 @@
       <td>1</td>
       <td>2</td>
       <td>-1</td>
-      <td>69.5</td>
-      <td>69.5</td>
+      <td>68.5</td>
+      <td>68.5</td>
     </tr>
     <tr>
       <th>8</th>
@@ -254,8 +422,8 @@
       <td>0</td>
       <td>1</td>
       <td>1</td>
-      <td>3</td>
-      <td>-2</td>
+      <td>4</td>
+      <td>-3</td>
       <td>68</td>
       <td>68.0</td>
     </tr>

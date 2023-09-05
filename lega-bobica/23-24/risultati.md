@@ -12,9 +12,9 @@
       <td>Ans Rei Sport Verein</td>
       <td>Piove sul Bagnato</td>
       <td>68.0</td>
-      <td>84.0</td>
+      <td>82.5</td>
       <td>1</td>
-      <td>4</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>La Domenica del Dipendente Pubblico</td>

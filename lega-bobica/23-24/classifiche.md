@@ -26,11 +26,11 @@
       <td>1</td>
       <td>0</td>
       <td>0</td>
-      <td>4</td>
-      <td>1</td>
       <td>3</td>
-      <td>84</td>
-      <td>84.0</td>
+      <td>1</td>
+      <td>2</td>
+      <td>82.5</td>
+      <td>82.5</td>
       <td>0</td>
       <td>0.0</td>
     </tr>
@@ -139,8 +139,8 @@
       <td>0</td>
       <td>1</td>
       <td>1</td>
-      <td>4</td>
-      <td>-3</td>
+      <td>3</td>
+      <td>-2</td>
       <td>68</td>
       <td>68.0</td>
       <td>0</td>
@@ -159,7 +159,7 @@
     <tr>
       <th>1</th>
       <td>Piove sul Bagnato</td>
-      <td>84</td>
+      <td>82.5</td>
     </tr>
     <tr>
       <th>2</th>
@@ -323,11 +323,11 @@
       <td>1</td>
       <td>0</td>
       <td>0</td>
-      <td>4</td>
-      <td>1</td>
       <td>3</td>
-      <td>84</td>
-      <td>84.0</td>
+      <td>1</td>
+      <td>2</td>
+      <td>82.5</td>
+      <td>82.5</td>
     </tr>
     <tr>
       <th>2</th>
@@ -422,8 +422,8 @@
       <td>0</td>
       <td>1</td>
       <td>1</td>
-      <td>4</td>
-      <td>-3</td>
+      <td>3</td>
+      <td>-2</td>
       <td>68</td>
       <td>68.0</td>
     </tr>

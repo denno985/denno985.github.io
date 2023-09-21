@@ -4,7 +4,7 @@
 <div>
     <h4 class="media-heading">USS Torquemada</h4>
     <h5>Daniele</h5>        
-    <h5>Crediti residui: 72</h5>
+    <h5>Crediti residui: 64</h5>
     <h5>Anni rimanenti: 0</h5>
 </div>                                               
 <table border="1" class="dataframe">
@@ -38,13 +38,6 @@
       <td>8</td>
       <td>3</td>
       <td>Udinese</td>
-    </tr>
-    <tr>
-      <td>Por</td>
-      <td>Terracciano</td>
-      <td>5</td>
-      <td>3</td>
-      <td>Fiorentina</td>
     </tr>
     <tr>
       <td>Ds;Dc</td>
@@ -173,6 +166,13 @@
       <td>Roma</td>
     </tr>
     <tr>
+      <td>C;T</td>
+      <td>Rafia</td>
+      <td>8</td>
+      <td>3</td>
+      <td>Lecce</td>
+    </tr>
+    <tr>
       <td>W;A</td>
       <td>Soule'</td>
       <td>3</td>
@@ -233,8 +233,8 @@
 <div>
     <h4 class="media-heading">Cs Colpevoli Sopravvissuti</h4>
     <h5>Marco</h5>        
-    <h5>Crediti residui: 50</h5>
-    <h5>Anni rimanenti: 7</h5>
+    <h5>Crediti residui: 12</h5>
+    <h5>Anni rimanenti: 4</h5>
 </div>                                               
 <table border="1" class="dataframe">
   <thead>
@@ -288,6 +288,13 @@
       <td>1</td>
       <td>3</td>
       <td>Fiorentina</td>
+    </tr>
+    <tr>
+      <td>Dd;Dc</td>
+      <td>Pavard</td>
+      <td>38</td>
+      <td>3</td>
+      <td>Inter</td>
     </tr>
     <tr>
       <td>Dd;Dc</td>
@@ -663,8 +670,8 @@
 <div>
     <h4 class="media-heading">Docklands United F.C.</h4>
     <h5>Jacopo</h5>        
-    <h5>Crediti residui: 55</h5>
-    <h5>Anni rimanenti: 1</h5>
+    <h5>Crediti residui: 28</h5>
+    <h5>Anni rimanenti: 3</h5>
 </div>                                               
 <table border="1" class="dataframe">
   <thead>
@@ -763,17 +770,17 @@
     </tr>
     <tr>
       <td>M;C</td>
-      <td>Amrabat</td>
-      <td>1</td>
-      <td>2</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>M;C</td>
       <td>Gagliardini</td>
       <td>1</td>
       <td>2</td>
       <td>Monza</td>
+    </tr>
+    <tr>
+      <td>M;C</td>
+      <td>Krunic</td>
+      <td>8</td>
+      <td>1</td>
+      <td>Milan</td>
     </tr>
     <tr>
       <td>C</td>
@@ -804,11 +811,11 @@
       <td>Monza</td>
     </tr>
     <tr>
-      <td>C;T</td>
-      <td>Pogba</td>
+      <td>C;W</td>
+      <td>Pereyra</td>
       <td>19</td>
-      <td>3</td>
-      <td>Juventus</td>
+      <td>2</td>
+      <td>Udinese</td>
     </tr>
     <tr>
       <td>W</td>
@@ -1336,7 +1343,7 @@
 <div>
     <h4 class="media-heading">Waystar Royco</h4>
     <h5>Pippo</h5>        
-    <h5>Crediti residui: 76</h5>
+    <h5>Crediti residui: 68</h5>
     <h5>Anni rimanenti: 3</h5>
 </div>                                               
 <table border="1" class="dataframe">
@@ -1520,10 +1527,10 @@
     </tr>
     <tr>
       <td>W;T</td>
-      <td>Infantino</td>
+      <td>Reinier</td>
+      <td>8</td>
       <td>3</td>
-      <td>3</td>
-      <td>Fiorentina</td>
+      <td>Frosinone</td>
     </tr>
     <tr>
       <td>A</td>

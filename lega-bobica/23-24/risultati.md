@@ -73,32 +73,32 @@
     <tr>
       <td>USS Torquemada</td>
       <td>Piove sul Bagnato</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>64.5</td>
+      <td>68.0</td>
       <td>0</td>
-      <td>0</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>Cs Colpevoli Sopravvissuti</td>
       <td>Docklands United F.C.</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>79.5</td>
+      <td>71.5</td>
+      <td>3</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>The Curse of Buscemi</td>
       <td>Waystar Royco</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>76.0</td>
+      <td>72.5</td>
+      <td>2</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Ans Rei Sport Verein</td>
       <td>La Domenica del Dipendente Pubblico</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>64.0</td>
+      <td>54.0</td>
       <td>0</td>
       <td>0</td>
     </tr>

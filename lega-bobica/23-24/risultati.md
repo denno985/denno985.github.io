@@ -108,34 +108,34 @@
     <tr>
       <td>Docklands United F.C.</td>
       <td>The Curse of Buscemi</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
+      <td>66.5</td>
+      <td>61.0</td>
+      <td>1</td>
       <td>0</td>
     </tr>
     <tr>
       <td>Piove sul Bagnato</td>
       <td>Cs Colpevoli Sopravvissuti</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>61.0</td>
+      <td>75.0</td>
       <td>0</td>
-      <td>0</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>La Domenica del Dipendente Pubblico</td>
       <td>USS Torquemada</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>78.0</td>
+      <td>85.5</td>
+      <td>3</td>
+      <td>4</td>
     </tr>
     <tr>
       <td>Waystar Royco</td>
       <td>Ans Rei Sport Verein</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>78.5</td>
+      <td>74.0</td>
+      <td>3</td>
+      <td>2</td>
     </tr>
   </tbody>
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/5" class="active">5a giornata</a></li><table border="1" class="dataframe">

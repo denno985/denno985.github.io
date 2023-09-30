@@ -116,8 +116,8 @@
     <tr>
       <td>Piove sul Bagnato</td>
       <td>Cs Colpevoli Sopravvissuti</td>
-      <td>61.0</td>
-      <td>75.0</td>
+      <td>60.5</td>
+      <td>75.5</td>
       <td>0</td>
       <td>2</td>
     </tr>
@@ -133,7 +133,7 @@
       <td>Waystar Royco</td>
       <td>Ans Rei Sport Verein</td>
       <td>78.5</td>
-      <td>74.0</td>
+      <td>75.0</td>
       <td>3</td>
       <td>2</td>
     </tr>

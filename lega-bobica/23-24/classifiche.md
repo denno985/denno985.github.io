@@ -21,32 +21,32 @@
     <tr>
       <th>1</th>
       <td>Waystar Royco</td>
-      <td>7</td>
-      <td>4</td>
-      <td>2</td>
+      <td>10</td>
+      <td>5</td>
+      <td>3</td>
       <td>1</td>
       <td>1</td>
-      <td>9</td>
-      <td>7</td>
-      <td>2</td>
-      <td>303</td>
-      <td>75.75</td>
+      <td>11</td>
+      <td>8</td>
+      <td>3</td>
+      <td>377</td>
+      <td>75.4</td>
       <td>0</td>
       <td>0.0</td>
     </tr>
     <tr>
       <th>2</th>
       <td>Cs Colpevoli Sopravvissuti</td>
+      <td>10</td>
+      <td>5</td>
+      <td>3</td>
+      <td>1</td>
+      <td>1</td>
+      <td>10</td>
       <td>7</td>
-      <td>4</td>
-      <td>2</td>
-      <td>1</td>
-      <td>1</td>
-      <td>8</td>
-      <td>6</td>
-      <td>2</td>
-      <td>299</td>
-      <td>74.75</td>
+      <td>3</td>
+      <td>373.5</td>
+      <td>74.7</td>
       <td>0</td>
       <td>0.0</td>
     </tr>
@@ -61,8 +61,8 @@
       <td>9</td>
       <td>9</td>
       <td>0</td>
-      <td>366.5</td>
-      <td>73.30</td>
+      <td>366</td>
+      <td>73.2</td>
       <td>0</td>
       <td>0.0</td>
     </tr>
@@ -70,15 +70,15 @@
       <th>4</th>
       <td>Piove sul Bagnato</td>
       <td>7</td>
-      <td>4</td>
+      <td>5</td>
       <td>2</td>
       <td>1</td>
-      <td>1</td>
-      <td>4</td>
-      <td>3</td>
-      <td>1</td>
-      <td>276.5</td>
-      <td>69.12</td>
+      <td>2</td>
+      <td>6</td>
+      <td>7</td>
+      <td>-1</td>
+      <td>349.5</td>
+      <td>69.9</td>
       <td>0</td>
       <td>0.0</td>
     </tr>
@@ -86,20 +86,36 @@
       <th>5</th>
       <td>Docklands United F.C.</td>
       <td>6</td>
-      <td>4</td>
+      <td>5</td>
       <td>2</td>
       <td>0</td>
-      <td>2</td>
-      <td>6</td>
+      <td>3</td>
       <td>7</td>
-      <td>-1</td>
-      <td>285.5</td>
-      <td>71.38</td>
+      <td>9</td>
+      <td>-2</td>
+      <td>355</td>
+      <td>71.0</td>
       <td>0</td>
       <td>0.0</td>
     </tr>
     <tr>
       <th>6</th>
+      <td>The Curse of Buscemi</td>
+      <td>5</td>
+      <td>5</td>
+      <td>1</td>
+      <td>2</td>
+      <td>2</td>
+      <td>10</td>
+      <td>10</td>
+      <td>0</td>
+      <td>375</td>
+      <td>75.0</td>
+      <td>0</td>
+      <td>0.0</td>
+    </tr>
+    <tr>
+      <th>7</th>
       <td>Ans Rei Sport Verein</td>
       <td>5</td>
       <td>5</td>
@@ -109,40 +125,24 @@
       <td>7</td>
       <td>9</td>
       <td>-2</td>
-      <td>355.5</td>
-      <td>71.10</td>
-      <td>0</td>
-      <td>0.0</td>
-    </tr>
-    <tr>
-      <th>7</th>
-      <td>La Domenica del Dipendente Pubblico</td>
-      <td>5</td>
-      <td>4</td>
-      <td>1</td>
-      <td>2</td>
-      <td>1</td>
-      <td>5</td>
-      <td>5</td>
-      <td>0</td>
-      <td>271</td>
-      <td>67.75</td>
+      <td>357.5</td>
+      <td>71.5</td>
       <td>0</td>
       <td>0.0</td>
     </tr>
     <tr>
       <th>8</th>
-      <td>The Curse of Buscemi</td>
-      <td>2</td>
-      <td>4</td>
-      <td>0</td>
+      <td>La Domenica del Dipendente Pubblico</td>
+      <td>5</td>
+      <td>5</td>
+      <td>1</td>
       <td>2</td>
       <td>2</td>
       <td>6</td>
-      <td>8</td>
-      <td>-2</td>
-      <td>289</td>
-      <td>72.25</td>
+      <td>7</td>
+      <td>-1</td>
+      <td>342.5</td>
+      <td>68.5</td>
       <td>0</td>
       <td>0.0</td>
     </tr>
@@ -158,43 +158,43 @@
   <tbody>
     <tr>
       <th>1</th>
-      <td>USS Torquemada</td>
-      <td>366.5</td>
+      <td>Waystar Royco</td>
+      <td>377</td>
     </tr>
     <tr>
       <th>2</th>
-      <td>Ans Rei Sport Verein</td>
-      <td>355.5</td>
+      <td>The Curse of Buscemi</td>
+      <td>375</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>Waystar Royco</td>
-      <td>303</td>
+      <td>Cs Colpevoli Sopravvissuti</td>
+      <td>373.5</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>Cs Colpevoli Sopravvissuti</td>
-      <td>299</td>
+      <td>USS Torquemada</td>
+      <td>366</td>
     </tr>
     <tr>
       <th>5</th>
-      <td>The Curse of Buscemi</td>
-      <td>289</td>
+      <td>Ans Rei Sport Verein</td>
+      <td>357.5</td>
     </tr>
     <tr>
       <th>6</th>
       <td>Docklands United F.C.</td>
-      <td>285.5</td>
+      <td>355</td>
     </tr>
     <tr>
       <th>7</th>
       <td>Piove sul Bagnato</td>
-      <td>276.5</td>
+      <td>349.5</td>
     </tr>
     <tr>
       <th>8</th>
       <td>La Domenica del Dipendente Pubblico</td>
-      <td>271</td>
+      <td>342.5</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Classifica 1° girone</th><table border="1" class="dataframe">
@@ -218,30 +218,30 @@
     <tr>
       <th>1</th>
       <td>Waystar Royco</td>
-      <td>7</td>
-      <td>4</td>
-      <td>2</td>
+      <td>10</td>
+      <td>5</td>
+      <td>3</td>
       <td>1</td>
       <td>1</td>
-      <td>9</td>
-      <td>7</td>
-      <td>2</td>
-      <td>303</td>
-      <td>75.75</td>
+      <td>11</td>
+      <td>8</td>
+      <td>3</td>
+      <td>377</td>
+      <td>75.4</td>
     </tr>
     <tr>
       <th>2</th>
       <td>Cs Colpevoli Sopravvissuti</td>
+      <td>10</td>
+      <td>5</td>
+      <td>3</td>
+      <td>1</td>
+      <td>1</td>
+      <td>10</td>
       <td>7</td>
-      <td>4</td>
-      <td>2</td>
-      <td>1</td>
-      <td>1</td>
-      <td>8</td>
-      <td>6</td>
-      <td>2</td>
-      <td>299</td>
-      <td>74.75</td>
+      <td>3</td>
+      <td>373.5</td>
+      <td>74.7</td>
     </tr>
     <tr>
       <th>3</th>
@@ -254,39 +254,53 @@
       <td>9</td>
       <td>9</td>
       <td>0</td>
-      <td>366.5</td>
-      <td>73.30</td>
+      <td>366</td>
+      <td>73.2</td>
     </tr>
     <tr>
       <th>4</th>
       <td>Piove sul Bagnato</td>
       <td>7</td>
-      <td>4</td>
+      <td>5</td>
       <td>2</td>
       <td>1</td>
-      <td>1</td>
-      <td>4</td>
-      <td>3</td>
-      <td>1</td>
-      <td>276.5</td>
-      <td>69.12</td>
+      <td>2</td>
+      <td>6</td>
+      <td>7</td>
+      <td>-1</td>
+      <td>349.5</td>
+      <td>69.9</td>
     </tr>
     <tr>
       <th>5</th>
       <td>Docklands United F.C.</td>
       <td>6</td>
-      <td>4</td>
+      <td>5</td>
       <td>2</td>
       <td>0</td>
-      <td>2</td>
-      <td>6</td>
+      <td>3</td>
       <td>7</td>
-      <td>-1</td>
-      <td>285.5</td>
-      <td>71.38</td>
+      <td>9</td>
+      <td>-2</td>
+      <td>355</td>
+      <td>71.0</td>
     </tr>
     <tr>
       <th>6</th>
+      <td>The Curse of Buscemi</td>
+      <td>5</td>
+      <td>5</td>
+      <td>1</td>
+      <td>2</td>
+      <td>2</td>
+      <td>10</td>
+      <td>10</td>
+      <td>0</td>
+      <td>375</td>
+      <td>75.0</td>
+    </tr>
+    <tr>
+      <th>7</th>
       <td>Ans Rei Sport Verein</td>
       <td>5</td>
       <td>5</td>
@@ -296,36 +310,22 @@
       <td>7</td>
       <td>9</td>
       <td>-2</td>
-      <td>355.5</td>
-      <td>71.10</td>
-    </tr>
-    <tr>
-      <th>7</th>
-      <td>La Domenica del Dipendente Pubblico</td>
-      <td>5</td>
-      <td>4</td>
-      <td>1</td>
-      <td>2</td>
-      <td>1</td>
-      <td>5</td>
-      <td>5</td>
-      <td>0</td>
-      <td>271</td>
-      <td>67.75</td>
+      <td>357.5</td>
+      <td>71.5</td>
     </tr>
     <tr>
       <th>8</th>
-      <td>The Curse of Buscemi</td>
-      <td>2</td>
-      <td>4</td>
-      <td>0</td>
+      <td>La Domenica del Dipendente Pubblico</td>
+      <td>5</td>
+      <td>5</td>
+      <td>1</td>
       <td>2</td>
       <td>2</td>
       <td>6</td>
-      <td>8</td>
-      <td>-2</td>
-      <td>289</td>
-      <td>72.25</td>
+      <td>7</td>
+      <td>-1</td>
+      <td>342.5</td>
+      <td>68.5</td>
     </tr>
   </tbody>
 </table><th><br/></th><th>Classifica 2° girone</th><table border="1" class="dataframe">

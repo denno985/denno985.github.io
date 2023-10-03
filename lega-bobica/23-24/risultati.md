@@ -143,34 +143,34 @@
     <tr>
       <td>The Curse of Buscemi</td>
       <td>Piove sul Bagnato</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>86.0</td>
+      <td>73.0</td>
+      <td>4</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Waystar Royco</td>
       <td>Docklands United F.C.</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>74.0</td>
+      <td>69.5</td>
+      <td>2</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>Ans Rei Sport Verein</td>
       <td>USS Torquemada</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>70.5</td>
+      <td>67.5</td>
+      <td>1</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>Cs Colpevoli Sopravvissuti</td>
       <td>La Domenica del Dipendente Pubblico</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>74.5</td>
+      <td>71.5</td>
+      <td>2</td>
+      <td>1</td>
     </tr>
   </tbody>
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/6" class="active">6a giornata</a></li><table border="1" class="dataframe">

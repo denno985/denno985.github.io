@@ -178,34 +178,34 @@
     <tr>
       <td>La Domenica del Dipendente Pubblico</td>
       <td>The Curse of Buscemi</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>72.0</td>
+      <td>78.0</td>
+      <td>2</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>USS Torquemada</td>
       <td>Cs Colpevoli Sopravvissuti</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>80.5</td>
+      <td>78.0</td>
+      <td>3</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>Ans Rei Sport Verein</td>
       <td>Docklands United F.C.</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>74.5</td>
+      <td>71.0</td>
+      <td>2</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>Piove sul Bagnato</td>
       <td>Waystar Royco</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>64.5</td>
+      <td>69.5</td>
       <td>0</td>
-      <td>0</td>
+      <td>1</td>
     </tr>
   </tbody>
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/7" class="active">7a giornata</a></li><table border="1" class="dataframe">

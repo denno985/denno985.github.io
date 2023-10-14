@@ -5260,7 +5260,7 @@ header.main {
     margin-left: 10px
 }
 
-@media screen and (max-width:640px) {
+@media screen and (max-width:6px) {
     .ufg-video-container .ufg-content-container {
         display: none
     }
@@ -17316,7 +17316,7 @@ form.responsive-sign-out {
     display: none
 }
 
-@media screen and (max-width:1023px) {
+@media screen and (max-width:1px) {
     body.responsive-enabled form.responsive-sign-out {
         display: block;
         margin-bottom: 0
@@ -17642,7 +17642,7 @@ a#responsive-topnav-button {
     display: none !important
 }
 
-@media screen and (max-width:1023px) {
+@media screen and (max-width:1px) {
     body.responsive-enabled .netbar {
         position: fixed;
         top: 0;
@@ -18166,7 +18166,7 @@ html body.disable-ads #site-main #footer-push {
     height: 50px
 }
 
-@media screen and (max-width:1023px) {
+@media screen and (max-width:1px) {
     #site-main {
         -webkit-transition: .15s margin-bottom ease;
         -moz-transition: .15s margin-bottom ease;
@@ -18196,7 +18196,7 @@ footer#footer a#responsive-footer-button {
     color: #fff !important
 }
 
-@media screen and (max-width:1023px) {
+@media screen and (max-width:1px) {
     footer#footer a#responsive-footer-button body.responsive-disabled {
         display: block
     }
@@ -18511,7 +18511,7 @@ footer#footer div.footer-links span.copyright {
     color: #979AA4
 }
 
-@media screen and (max-width:1023px) {
+@media screen and (max-width:1px) {
 
     body.hide-ads.responsive-enabled footer#footer,
     body.disable-ads.responsive-enabled footer#footer {
@@ -18896,7 +18896,7 @@ body.responsive-enabled .p-article-a .video-wrapper iframe {
     height: 100%
 }
 
-@media screen and (max-width:1023px) {
+@media screen and (max-width:1px) {
     body.responsive-enabled .atf .p-base-a {
         width: 49%;
         margin-right: 0;
@@ -18934,7 +18934,7 @@ body.responsive-enabled .p-article-a .video-wrapper iframe {
     }
 }
 
-@media screen and (max-width:640px) {
+@media screen and (max-width:6px) {
     body.responsive-enabled .above-content-mobile-navigation {
         display: block;
         width: 100%;
@@ -19046,7 +19046,7 @@ body.responsive-enabled .p-article-a .video-wrapper iframe {
     }
 }
 
-@media screen and (max-width:640px) {
+@media screen and (max-width:6px) {
     body.responsive-enabled:not(.body-forum):not(.body-devtracker) .p-comments {
         margin-bottom: 24px
     }
@@ -19246,7 +19246,7 @@ body.responsive-enabled .p-article-a .video-wrapper iframe {
     }
 }
 
-@media screen and (max-width:640px) {
+@media screen and (max-width:6px) {
 
     body.responsive-enabled #reply .u-form-tabular #form-field-multi-prefix,
     body.responsive-enabled .p-comment-reply-form .u-form-tabular #form-field-multi-prefix,
@@ -19358,7 +19358,7 @@ body.responsive-enabled .p-article-a .video-wrapper iframe {
     }
 }
 
-@media screen and (max-width:1023px) {
+@media screen and (max-width:1px) {
 
     body.body-forum.responsive-enabled,
     body.body-devtracker.responsive-enabled {
@@ -19402,7 +19402,7 @@ body.body-devtracker.responsive-enabled #site #site-main.fixed .container #conte
     box-shadow: none
 }
 
-@media screen and (max-width:1023px) {
+@media screen and (max-width:1px) {
 
     body.body-forum.responsive-enabled #site #site-main .container #content,
     body.body-forum.responsive-enabled #site #site-main.fixed .container #content,
@@ -19418,7 +19418,7 @@ body.body-devtracker.responsive-enabled .b-breadcrumb-a {
     margin: 0
 }
 
-@media screen and (max-width:1023px) {
+@media screen and (max-width:1px) {
 
     body.body-forum.responsive-enabled .b-breadcrumb-a ul,
     body.body-devtracker.responsive-enabled .b-breadcrumb-a ul {
@@ -19434,7 +19434,7 @@ body.body-devtracker.responsive-enabled .b-breadcrumb-a {
     }
 }
 
-@media screen and (max-width:640px) {
+@media screen and (max-width:6px) {
 
     body.body-forum.responsive-enabled .b-breadcrumb-a ul li,
     body.body-devtracker.responsive-enabled .b-breadcrumb-a ul li {
@@ -19723,7 +19723,7 @@ body.body-devtracker .single-column #content .p-forum-a .p-comment-stats li:last
     display: none
 }
 
-@media screen and (max-width:1023px) {
+@media screen and (max-width:1px) {
 
     body.body-forum.responsive-enabled .container .p-forum-a tbody .col-last-post,
     body.body-forum.responsive-enabled .container .p-forum-a thead .col-last-post,
@@ -19756,7 +19756,7 @@ body.body-devtracker .single-column #content .p-forum-a .p-comment-stats li:last
     }
 }
 
-@media screen and (max-width:640px) {
+@media screen and (max-width:6px) {
 
     body.body-forum.responsive-enabled .container .p-forum-a tbody tr th:last-of-type.b-table-heading.col-status.asc,
     body.body-forum.responsive-enabled .container .p-forum-a thead tr th:last-of-type.b-table-heading.col-status.asc,
@@ -20308,7 +20308,7 @@ body.body-devtracker .single-column #content .p-forum-a .p-comment-stats li:last
     }
 }
 
-@media screen and (max-width:1023px) {
+@media screen and (max-width:1px) {
 
     body.body-forum.responsive-enabled .container .p-forum-a li.forum-announcement,
     body.body-forum.responsive-enabled .container .listing-forum-search li.forum-announcement,
@@ -20375,7 +20375,7 @@ body.body-devtracker .single-column #content .p-forum-a .p-comment-stats li:last
     }
 }
 
-@media screen and (max-width:640px) {
+@media screen and (max-width:6px) {
 
     body.body-forum.responsive-enabled .container footer.statistics,
     body.body-devtracker.responsive-enabled .container footer.statistics {
@@ -20953,7 +20953,7 @@ body.body-devtracker .single-column #content .p-forum-a .p-comment-stats li:last
     }
 }
 
-@media screen and (max-width:640px) and (max-width:440px) {
+@media screen and (max-width:6px) and (max-width:440px) {
 
     body.body-forum.responsive-enabled .container .p-forum-a .bread-heel .bread-buttons>div .j-jump-forum-sub,
     body.body-forum.responsive-enabled .container .listing-forum-search .bread-heel .bread-buttons>div .j-jump-forum-sub,
@@ -20963,7 +20963,7 @@ body.body-devtracker .single-column #content .p-forum-a .p-comment-stats li:last
     }
 }
 
-@media screen and (max-width:640px) {
+@media screen and (max-width:6px) {
 
     body.body-forum.responsive-enabled .container .p-forum-a .bread-heel .bread,
     body.body-forum.responsive-enabled .container .listing-forum-search .bread-heel .bread,
@@ -21771,7 +21771,7 @@ body.body-devtracker .single-column #content .p-forum-a .p-comment-stats li:last
     }
 }
 
-@media screen and (max-width:640px) {
+@media screen and (max-width:6px) {
 
     body.body-forum.responsive-enabled .modal,
     body.body-devtracker.responsive-enabled .modal {
@@ -21833,19 +21833,19 @@ body.body-devtracker .single-column #content .p-forum-a .p-comment-stats li:last
     }
 }
 
-@media screen and (max-width:640px) {
+@media screen and (max-width:6px) {
     body.body-forum.body-forum-recentlyupdatedforumthreads .container .b-pagination-a {
         display: block
     }
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     body.body-forum.body-forum-recentlyupdatedforumthreads .container .admin-controls {
         float: none
     }
 }
 
-@media(max-width:640px) {
+@media(max-width:6px) {
     body.body-forum.body-forum-recentlyupdatedforumthreads .container .admin-controls {
         display: none
     }
@@ -22101,7 +22101,7 @@ body.body-authentication div#site-main div.container div#content .p-register-a .
     text-shadow: none
 }
 
-@media screen and (max-width:1023px) {
+@media screen and (max-width:1px) {
 
     html.ios body.responsive-enabled.user-authenticated .p-nav-a form.responsive-sign-out,
     html.ios body.responsive-enabled.user-anonymous .p-nav-a a#responsive-topnav-button {
@@ -22559,7 +22559,7 @@ body.responsive-enabled #site #site-main.fixed .container #content {
     box-shadow: none
 }
 
-@media screen and (max-width:1023px) {
+@media screen and (max-width:1px) {
 
     body.responsive-enabled #site #site-main .container #content .primary-content,
     body.responsive-enabled #site #site-main.fixed .container #content .primary-content {
@@ -22624,7 +22624,7 @@ div.site-overlay {
     }
 }
 
-@media screen and (max-width:1023px) {
+@media screen and (max-width:1px) {
     html body.responsive-enabled {
         border-style: double;
         border-width: 0
@@ -22635,7 +22635,7 @@ div.site-overlay {
     }
 }
 
-@media screen and (max-width:1023px) {
+@media screen and (max-width:1px) {
     #debug {
         display: none
     }
@@ -22816,7 +22816,7 @@ div.site-overlay {
     }
 }
 
-@media screen and (max-width:1023px) {
+@media screen and (max-width:1px) {
     body.responsive-enabled .b-breadcrumb-a {
         padding: 8px 0
     }
@@ -22830,7 +22830,7 @@ div.site-overlay {
     }
 }
 
-@media screen and (max-width:640px) {
+@media screen and (max-width:6px) {
     body.responsive-enabled .b-breadcrumb-a ul li {
         display: none
     }
@@ -22847,7 +22847,7 @@ div.site-overlay {
     }
 }
 
-@media screen and (max-width:640px) {
+@media screen and (max-width:6px) {
     body.responsive-enabled .modal {
         width: 100% !important;
         left: 0 !important;
@@ -22989,7 +22989,7 @@ body.user.responsive-enabled #site #site-main.fixed .container #content {
     box-shadow: none
 }
 
-@media screen and (max-width:1023px) {
+@media screen and (max-width:1px) {
 
     body.body-user.responsive-enabled #site #site-main .container #content,
     body.body-user.responsive-enabled #site #site-main.fixed .container #content,
@@ -22999,7 +22999,7 @@ body.user.responsive-enabled #site #site-main.fixed .container #content {
     }
 }
 
-@media screen and (max-width:1023px) {
+@media screen and (max-width:1px) {
 
     body.body-user.responsive-enabled .p-user-a .p-user-info .b-userAction-a.user-actions,
     body.user.responsive-enabled .p-user-a .p-user-info .b-userAction-a.user-actions {
@@ -23176,7 +23176,7 @@ body.user.responsive-enabled #site #site-main.fixed .container #content {
     }
 }
 
-@media screen and (max-width:640px) {
+@media screen and (max-width:6px) {
 
     body.body-user.responsive-enabled .p-user-a .p-user-info .b-userAction-a.user-actions li,
     body.user.responsive-enabled .p-user-a .p-user-info .b-userAction-a.user-actions li {
@@ -23333,7 +23333,7 @@ body.user.responsive-enabled #site #site-main.fixed .container #content {
     }
 }
 
-@media screen and (max-width:640px) {
+@media screen and (max-width:6px) {
 
     body.responsive-enabled #reply .u-form-tabular #form-field-multi-prefix,
     body.responsive-enabled .p-comment-reply-form .u-form-tabular #form-field-multi-prefix,
@@ -23445,7 +23445,7 @@ body.user.responsive-enabled #site #site-main.fixed .container #content {
     }
 }
 
-@media screen and (max-width:640px) {
+@media screen and (max-width:6px) {
     body.responsive-enabled.body-user .p-comments {
         margin-bottom: 24px
     }
@@ -23826,7 +23826,7 @@ body.body-privatemessage .p-pm-a .p-pm-filter ul.user-actions li:hover a {
     background: rgba(36, 37, 39, 0.4) !important
 }
 
-@media screen and (max-width:640px) {
+@media screen and (max-width:6px) {
 
     body.body-privatemessage .p-pm-a .p-pm-filter ul.user-actions li.selected a,
     body.body-privatemessage .p-pm-a .p-pm-filter ul.user-actions li:hover a {
@@ -23852,7 +23852,7 @@ body.body-privatemessage .p-pm-a .p-pm-filter ul.user-actions>li.b-userAction-it
     background: #242527
 }
 
-@media screen and (max-width:1023px) {
+@media screen and (max-width:1px) {
     body.body-privatemessage.responsive-enabled .container .p-pm-a {
         margin-top: 10px
     }
@@ -23893,7 +23893,7 @@ body.body-privatemessage .p-pm-a .p-pm-filter ul.user-actions>li.b-userAction-it
     }
 }
 
-@media screen and (max-width:640px) {
+@media screen and (max-width:6px) {
     body.body-privatemessage.responsive-enabled .container .p-pm-a .p-pm-content {
         width: 100%;
         margin-left: 0
@@ -24166,7 +24166,7 @@ body.body-privatemessage .p-pm-a .p-pm-filter ul.user-actions>li.b-userAction-it
     }
 }
 
-@media screen and (max-width:1023px) {
+@media screen and (max-width:1px) {
     body.responsive-enabled .p-notifications-a .listing-container .listing-body .user-notification-listing>.b-list-item .notification-content-container .date {
         position: relative;
         top: initial;
@@ -24174,7 +24174,7 @@ body.body-privatemessage .p-pm-a .p-pm-filter ul.user-actions>li.b-userAction-it
     }
 }
 
-@media screen and (mmin-width:1024px) {
+@media screen and (mmin-width:1px) {
 
     .scroll-container a#leftArrow,
     .scroll-container a#rightArrow {
@@ -24182,7 +24182,7 @@ body.body-privatemessage .p-pm-a .p-pm-filter ul.user-actions>li.b-userAction-it
     }
 }
 
-@media screen and (max-width:1023px) {
+@media screen and (max-width:1px) {
     body.responsive-enabled .scroll-container {
         position: relative;
         margin-bottom: 10px
@@ -32855,7 +32855,7 @@ body {
     overflow-y: scroll
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     html body.responsive-enabled {
         background: #f9f9f9 url(../images/background_texture.png) repeat
     }
@@ -35669,7 +35669,7 @@ body:not(.tippy-touch) .tippy-popper[x-placement=left] .tippy-tooltip[data-anima
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-account-tab-header-actions .button {
         height: 35px;
         font-size: 12px;
@@ -36012,7 +36012,7 @@ body:not(.tippy-touch) .tippy-popper[x-placement=left] .tippy-tooltip[data-anima
     margin-top: 27px
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .subscriptions__container {
         -webkit-flex-direction: column;
         -ms-flex-direction: column;
@@ -36030,7 +36030,7 @@ body:not(.tippy-touch) .tippy-popper[x-placement=left] .tippy-tooltip[data-anima
     padding-bottom: 5px
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .subscriptions__free-trial {
         display: -ms-grid;
         display: grid
@@ -36045,7 +36045,7 @@ body:not(.tippy-touch) .tippy-popper[x-placement=left] .tippy-tooltip[data-anima
     }
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .subscriptions__free-trial .trial-text {
         font-size: 20px;
         font-weight: 500;
@@ -36064,7 +36064,7 @@ body:not(.tippy-touch) .tippy-popper[x-placement=left] .tippy-tooltip[data-anima
     }
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .subscriptions__free-trial .trial-panel {
         padding: 18px;
         margin-bottom: 18px
@@ -36087,7 +36087,7 @@ body:not(.tippy-touch) .tippy-popper[x-placement=left] .tippy-tooltip[data-anima
     display: flex
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .subscriptions__list {
         display: -webkit-flex;
         display: -ms-flexbox;
@@ -36116,7 +36116,7 @@ body:not(.tippy-touch) .tippy-popper[x-placement=left] .tippy-tooltip[data-anima
     align-items: center
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .subscriptions__list-item-image-container {
         margin: 12px
     }
@@ -36128,7 +36128,7 @@ body:not(.tippy-touch) .tippy-popper[x-placement=left] .tippy-tooltip[data-anima
     display: flex
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .subscriptions__list-item {
         margin: 2px 1px;
         -webkit-flex-basis: calc(50% - 5px);
@@ -36153,7 +36153,7 @@ body:not(.tippy-touch) .tippy-popper[x-placement=left] .tippy-tooltip[data-anima
     align-items: center
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .subscriptions__description {
         max-width: none;
         line-height: 16px;
@@ -36161,7 +36161,7 @@ body:not(.tippy-touch) .tippy-popper[x-placement=left] .tippy-tooltip[data-anima
     }
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .subscriptions__btn-container {
         -webkit-align-self: center;
         -ms-flex-item-align: center;
@@ -36220,7 +36220,7 @@ body:not(.tippy-touch) .tippy-popper[x-placement=left] .tippy-tooltip[data-anima
     flex: 1
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .active-subscription__container {
         -webkit-flex-direction: column;
         -ms-flex-direction: column;
@@ -36236,7 +36236,7 @@ body:not(.tippy-touch) .tippy-popper[x-placement=left] .tippy-tooltip[data-anima
     column-gap: 40px
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .active-subscription__list {
         -webkit-column-count: 1;
         column-count: 1
@@ -36278,7 +36278,7 @@ body:not(.tippy-touch) .tippy-popper[x-placement=left] .tippy-tooltip[data-anima
     align-items: flex-end
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .active-subscription__additional-information {
         margin-top: 10px;
         -webkit-align-items: flex-start;
@@ -36293,7 +36293,7 @@ body:not(.tippy-touch) .tippy-popper[x-placement=left] .tippy-tooltip[data-anima
     display: flex
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .active-subscription__data {
         display: block;
         margin-bottom: 20px
@@ -36304,14 +36304,14 @@ body:not(.tippy-touch) .tippy-popper[x-placement=left] .tippy-tooltip[data-anima
     margin-left: 42px
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .active-subscription__data>div {
         margin-bottom: 5px;
         margin-left: 0
     }
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .active-subscription__manage-button {
         -webkit-align-self: center;
         -ms-flex-item-align: center;
@@ -36360,7 +36360,7 @@ blockquote.adventure-read-aloud-text::before {
     z-index: 6
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .body-page .more-links .links .button-alt span,
     .body-category .more-links .links .button-alt span {
@@ -36442,7 +36442,7 @@ blockquote.adventure-read-aloud-text::before {
     display: none
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .p-article-a .p-article-title {
         font-size: 36px
     }
@@ -36489,7 +36489,7 @@ blockquote.adventure-read-aloud-text::before {
     text-decoration: none
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .p-article-a .p-article-footer .p-article-interact {
         height: 0;
         padding: 0;
@@ -36940,7 +36940,7 @@ blockquote.adventure-read-aloud-text::before {
     display: none
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .p-article-a .nav-select {
         display: none
     }
@@ -36959,7 +36959,7 @@ blockquote.adventure-read-aloud-text::before {
     padding: 20px 10px !important
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .section-posts .p-article-a,
     .section-changelog .p-article-a {
@@ -37020,7 +37020,7 @@ blockquote.adventure-read-aloud-text::before {
     vertical-align: top !important
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .section-posts .p-article-content,
     .section-changelog .p-article-content {
@@ -37037,7 +37037,7 @@ blockquote.adventure-read-aloud-text::before {
     flex: 0 1 auto
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .section-posts .p-article-content .article-main,
     .section-changelog .p-article-content .article-main {
@@ -37053,7 +37053,7 @@ blockquote.adventure-read-aloud-text::before {
     display: none
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .section-posts .p-article-content .article-aside,
     .section-changelog .p-article-content .article-aside {
@@ -37171,7 +37171,7 @@ blockquote.adventure-read-aloud-text::before {
     }
 }
 
-@media(max-width:640px) {
+@media(max-width:6px) {
     .post-highlighted-articles {
         margin: 15px;
         display: -webkit-flex;
@@ -37225,7 +37225,7 @@ blockquote.adventure-read-aloud-text::before {
     color: #000
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .body-authentication,
     .body-twitchidmigration,
@@ -37345,7 +37345,7 @@ blockquote.adventure-read-aloud-text::before {
     background: none !important
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .body-authentication #site-main::before,
     .body-twitchidmigration #site-main::before,
@@ -37794,7 +37794,7 @@ body:not(.body-forum):not(.section-posts):not(.section-changelog):not(.body-priv
     text-align: right
 }
 
-@media all and (max-width:1023px) {
+@media all and (max-width:1px) {
     body.responsive-enabled body:not(.body-forum):not(.section-posts):not(.section-changelog):not(.body-privatemessage-details) blockquote {
         margin: 40px 0
     }
@@ -37858,7 +37858,7 @@ blockquote.compendium-toc-blockquote {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .b-breadcrumb-a {
         display: block;
         margin: 0;
@@ -37874,7 +37874,7 @@ blockquote.compendium-toc-blockquote {
         float: left
     }
 
-    .b-breadcrumb-a .b-breadcrumb-item:first-child a::before {
+    /* .b-breadcrumb-a .b-breadcrumb-item:first-child a::before {
         content: '';
         display: inline-block;
         background: url("../images/dnd-beyond-b-red.png") no-repeat;
@@ -37882,11 +37882,11 @@ blockquote.compendium-toc-blockquote {
         width: 20px;
         height: 20px;
         vertical-align: top
-    }
+    } */
 
-    .b-breadcrumb-a .b-breadcrumb-item:first-child a span {
+    /* .b-breadcrumb-a .b-breadcrumb-item:first-child a span {
         display: none
-    }
+    } */
 
     .b-breadcrumb-a .b-breadcrumb-item+.b-breadcrumb-item::before {
         content: '';
@@ -38037,7 +38037,7 @@ blockquote.compendium-toc-blockquote {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .create-character-button {
         padding-top: 10px;
         display: none
@@ -38502,7 +38502,7 @@ a.button-material-ui:hover,
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-campaigns-detail-body-dm-notes-container {
         margin: 0
     }
@@ -38580,7 +38580,7 @@ a.button-material-ui:hover,
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-campaigns-detail-body-dm-notes-label .button {
         height: 35px;
         font-size: 12px;
@@ -38593,7 +38593,7 @@ a.button-material-ui:hover,
     background: #4baff3
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-campaigns-detail-body-dm-notes-label .button {
         min-width: 75px
     }
@@ -39678,7 +39678,7 @@ a.button-material-ui:hover,
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-campaigns-listing-active-header-primary .button {
         height: 35px;
         font-size: 12px;
@@ -39691,7 +39691,7 @@ a.button-material-ui:hover,
     background: #4baff3
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-campaigns-listing-active-header-primary .button {
         max-width: 250px
     }
@@ -39835,7 +39835,7 @@ a.button-material-ui:hover,
     font-weight: bold
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-campaigns-top-header {
         font-size: 36px
     }
@@ -39886,7 +39886,7 @@ a.button-material-ui:hover,
     max-width: 800px
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-campaigns-none .ddb-campaigns-body .button {
         max-width: 220px
     }
@@ -39896,7 +39896,7 @@ a.button-material-ui:hover,
     margin-top: 10px
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-campaigns-join .ddb-campaigns-body .button {
         max-width: 250px
     }
@@ -40049,7 +40049,7 @@ a.button-material-ui:hover,
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-campaigns-body .button {
         height: 35px;
         font-size: 12px;
@@ -40062,7 +40062,7 @@ a.button-material-ui:hover,
     background: #4baff3
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-campaigns-body .button {
         font-size: 18px;
         height: 50px;
@@ -40329,7 +40329,7 @@ a.button-material-ui:hover,
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-collapsible-filter {
         background: transparent;
         padding: 0;
@@ -40650,7 +40650,7 @@ h4.compendium-image-subtitle {
     background-image: url("../images/letters/letter-z.png")
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .compendium-margin-left-250 {
         margin-left: 250px !important
     }
@@ -40844,7 +40844,7 @@ caption h3::after {
     float: right
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .compendium-quick-actions {
         top: 0
     }
@@ -41455,7 +41455,7 @@ caption h3::after {
     justify-content: center
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .details-aside {
         width: 340px;
         margin: 0 0 0 auto
@@ -41466,14 +41466,14 @@ caption h3::after {
     display: none
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .details-aside .image {
         display: block;
         margin: 0 auto 20px
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .details-aside .image img {
         width: 100%;
         border-radius: 8px
@@ -41619,7 +41619,7 @@ caption h3::after {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .details-container-content .image-container .image {
         display: none
     }
@@ -41852,7 +41852,7 @@ caption h3::after {
     text-align: right
 }
 
-@media all and (max-width:1023px) {
+@media all and (max-width:1px) {
     body.responsive-enabled .details-container-content-description-text blockquote {
         margin: 40px 0
     }
@@ -41939,7 +41939,7 @@ caption h3::after {
     margin: 0 2px
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .details-container-content-footer .tags {
         margin-left: 0
     }
@@ -41961,7 +41961,7 @@ caption h3::after {
     display: none
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .details-container-aside {
         display: block;
         min-width: 320px;
@@ -41992,7 +41992,7 @@ caption h3::after {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .detail-content {
         width: calc(100% - 370px)
     }
@@ -42012,7 +42012,7 @@ caption h3::after {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .detail-content footer .spell-source {
         -webkit-flex: 0 1 30%;
         -ms-flex: 0 1 30%;
@@ -42020,7 +42020,7 @@ caption h3::after {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .details-more-info {
         display: -webkit-flex !important;
         display: -ms-flexbox !important;
@@ -42043,7 +42043,7 @@ caption h3::after {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .item-details,
     .spell-details,
@@ -42052,7 +42052,7 @@ caption h3::after {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .spell-info .level,
     .spell-info .range,
@@ -42099,7 +42099,7 @@ caption h3::after {
     justify-content: center
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-fab {
         display: none !important
     }
@@ -42460,7 +42460,7 @@ caption h3::after {
     left: 15px
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgspell .listing-filters .main-filter .main-list .all-items .all-icon::before {
         top: 15px;
         left: 20px
@@ -44252,7 +44252,7 @@ caption h3::after {
     justify-content: center
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-listing-filters .filter-container {
         padding-bottom: 30px
     }
@@ -44267,7 +44267,7 @@ caption h3::after {
     padding: 20px 10px 10px
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-listing-filters-field-list {
         margin-top: 0;
         display: -webkit-flex;
@@ -44280,7 +44280,7 @@ caption h3::after {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-listing-filters-field-list-item {
         display: -webkit-flex !important;
         display: -ms-flexbox !important;
@@ -44288,7 +44288,7 @@ caption h3::after {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-listing-filters-field-list-item-submit {
         width: 20% !important;
         padding-top: 25px !important
@@ -44316,13 +44316,13 @@ caption h3::after {
     display: block !important
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-listing-filters .advanced-filters {
         display: none !important
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-listing-filters-equipment .ddb-listing-filters-field-list-item {
         width: 15%;
         padding: 0 10px
@@ -44379,7 +44379,7 @@ caption h3::after {
     }
 }
 
-@media(min-width:1024px) and (min-width:1024px) {
+@media(min-width:1px) and (min-width:1px) {
     .ddb-listing-filters-equipment .ddb-listing-filters-field-list-item-submit .button {
         height: 35px;
         font-size: 12px;
@@ -44387,13 +44387,13 @@ caption h3::after {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-listing-filters-equipment .ddb-listing-filters-field-list-item-submit .button:hover {
         transition: 100ms linear all
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .ddb-listing-filters-backgrounds .ddb-listing-filters-field-list-item,
     .ddb-listing-filters-feats .ddb-listing-filters-field-list-item {
@@ -44456,7 +44456,7 @@ caption h3::after {
     }
 }
 
-@media(min-width:1024px) and (min-width:1024px) {
+@media(min-width:1px) and (min-width:1px) {
 
     .ddb-listing-filters-backgrounds .ddb-listing-filters-field-list-item-submit .button,
     .ddb-listing-filters-feats .ddb-listing-filters-field-list-item-submit .button {
@@ -44466,7 +44466,7 @@ caption h3::after {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .ddb-listing-filters-backgrounds .ddb-listing-filters-field-list-item-submit .button:hover,
     .ddb-listing-filters-feats .ddb-listing-filters-field-list-item-submit .button:hover {
@@ -44474,7 +44474,7 @@ caption h3::after {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-listing-filters-characters .ddb-listing-filters-field-list-item {
         width: 15%;
         padding: 0 10px
@@ -44523,7 +44523,7 @@ caption h3::after {
     }
 }
 
-@media(min-width:1024px) and (min-width:1024px) {
+@media(min-width:1px) and (min-width:1px) {
     .ddb-listing-filters-characters .ddb-listing-filters-field-list-item-submit .button {
         height: 35px;
         font-size: 12px;
@@ -44531,13 +44531,13 @@ caption h3::after {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-listing-filters-characters .ddb-listing-filters-field-list-item-submit .button:hover {
         transition: 100ms linear all
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-listing-filters-homebrew-creations .ddb-listing-filters-field-list-item {
         padding: 0 10px;
         width: 20%
@@ -44582,7 +44582,7 @@ caption h3::after {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-listing-filters-homebrew-creations .ddb-listing-filters-field-list-item-submit .button {
         height: 35px;
         font-size: 12px;
@@ -44599,7 +44599,7 @@ caption h3::after {
     margin-bottom: 20px
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-listing-filters-form {
         margin: 0 !important
     }
@@ -44642,7 +44642,7 @@ caption h3::after {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-listing-filters .button {
         height: 35px;
         font-size: 12px;
@@ -44654,13 +44654,13 @@ caption h3::after {
     transition: 100ms linear all
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-listing-filters .button {
         height: 50px !important
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .listing-filters {
         -webkit-flex-direction: row;
         -ms-flex-direction: row;
@@ -45431,7 +45431,7 @@ caption h3::after {
     margin: 0 0 20px 0 !important
 }
 
-@media(max-width:640px) {
+@media(max-width:6px) {
     .comment .forum-post-body-content .forum-post-body {
         clear: both
     }
@@ -45455,7 +45455,7 @@ caption h3::after {
     background: #e0e0e0
 }
 
-@media(min-width:641px) {
+@media(min-width:6px) {
     .comment .p-comment-user {
         width: 200px !important
     }
@@ -45465,13 +45465,13 @@ caption h3::after {
     background: #f6f4f3 !important
 }
 
-@media(min-width:641px) {
+@media(min-width:6px) {
     .comment .p-comment-user-background {
         width: 200px !important
     }
 }
 
-@media(min-width:641px) {
+@media(min-width:6px) {
     .comment .p-comment-wrapper {
         margin-left: 200px !important
     }
@@ -45673,7 +45673,7 @@ caption h3::after {
     display: none
 }
 
-@media(min-width:641px) {
+@media(min-width:6px) {
     .comment .p-comment-avatar .avatar a {
         box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.3), inset 0 0 0 3px #222, inset 0 0 0 4px #222, 0 0 10px rgba(50, 50, 50, 0.75);
         border-radius: 8px
@@ -45755,7 +45755,7 @@ caption h3::after {
     background-color: #7789C6
 }
 
-@media(min-width:641px) {
+@media(min-width:6px) {
     .comment.user-role-d-d-staff .p-comment-avatar .avatar a {
         box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.3), inset 0 0 0 3px #7789C6, inset 0 0 0 4px #000, 0 0 10px rgba(119, 137, 198, 0.75);
         border-radius: 8px
@@ -45767,7 +45767,7 @@ caption h3::after {
     }
 }
 
-@media(max-width:640px) {
+@media(max-width:6px) {
     .comment.user-role-d-d-staff .p-comment-username .user {
         color: #fff !important
     }
@@ -45785,7 +45785,7 @@ caption h3::after {
     background-size: contain
 }
 
-@media(min-width:641px) {
+@media(min-width:6px) {
     .comment.user-role-d-d-staff .p-comment-wrapper::before {
         top: 10px
     }
@@ -45807,7 +45807,7 @@ caption h3::after {
     display: none
 }
 
-@media(min-width:641px) {
+@media(min-width:6px) {
     .comment.user-role-d-d-beyond-staff .p-comment-header li[data-next-dev-comment-index] {
         display: initial
     }
@@ -45830,7 +45830,7 @@ caption h3::after {
     }
 }
 
-@media(min-width:641px) {
+@media(min-width:6px) {
     .comment.user-role-d-d-beyond-staff .p-comment-avatar .avatar a {
         box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.3), inset 0 0 0 3px #e40812, inset 0 0 0 4px #000, 0 0 10px rgba(228, 8, 18, 0.75);
         border-radius: 8px
@@ -45842,7 +45842,7 @@ caption h3::after {
     }
 }
 
-@media(max-width:640px) {
+@media(max-width:6px) {
     .comment.user-role-d-d-beyond-staff .p-comment-username .user {
         color: #fff !important;
         padding-left: 20px;
@@ -45863,13 +45863,13 @@ caption h3::after {
     background-size: contain
 }
 
-@media(min-width:641px) {
+@media(min-width:6px) {
     .comment.user-role-d-d-beyond-staff .p-comment-wrapper::before {
         top: 10px
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .p-forum-a .announcements .forum-announcement {
         height: 50px
     }
@@ -45965,7 +45965,7 @@ caption h3::after {
     border-left: 1px solid #d9d4d2 !important
 }
 
-@media(max-width:640px) {
+@media(max-width:6px) {
 
     #site .forum-row td:nth-of-type(5),
     #site .forum-thread-row td:nth-of-type(5) {
@@ -46051,7 +46051,7 @@ body.body-forum .single-column #content .p-forum-a .extra-forum-header {
     margin-bottom: 16px
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     body.body-forum .single-column #content .p-forum-a .extra-forum-header {
         font-size: 36px
     }
@@ -46126,7 +46126,7 @@ body.body-forum .single-column #content .p-forum-a .listing-comments {
     overflow: initial
 }
 
-@media(max-width:640px) {
+@media(max-width:6px) {
     body.body-forum .single-column #content .p-forum-a .p-comment-avatar .avatar a {
         height: unset;
         width: unset;
@@ -46233,7 +46233,7 @@ body.body-forum .single-column #content .p-forum-a .user-actions-threads+h2 {
     margin-bottom: 16px
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     body.body-forum .single-column #content .p-forum-a .user-actions-forums+h2,
     body.body-forum .single-column #content .p-forum-a .user-actions-threads+h2 {
@@ -46382,7 +46382,7 @@ body.body-forum .single-column #content .p-forum-a .sub-header {
     display: none
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     body.body-forum .single-column #content .p-forum-a>header h2 {
         font-size: 36px
     }
@@ -46449,7 +46449,7 @@ body.body-forum .single-column #content .p-forum-a.s-create header.h2 {
     max-width: 600px
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-forum-recentlyupdatedforumthreads .listing-filters {
         display: initial;
         margin: 0
@@ -46522,7 +46522,7 @@ body.body-forum .single-column #content .p-forum-a.s-create header.h2 {
     font-size: 36px
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .b-search {
         padding-top: 0
     }
@@ -46608,7 +46608,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(max-width:640px) {
+@media(max-width:6px) {
     body.body-forum.responsive-enabled .container .p-forum-a>.user-actions-forums {
         display: none
     }
@@ -46636,7 +46636,7 @@ body.body-forum-search .container .s-results header.h2 {
     color: #242527 !important
 }
 
-@media(min-width:641px) {
+@media(min-width:6px) {
     .comment .user-actions-post li a {
         background: none !important
     }
@@ -46646,14 +46646,14 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:641px) {
+@media(min-width:6px) {
     .forum-threads .listing-header .b-pagination {
         float: left;
         margin: 0
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .forum-row,
     .forum-thread-row {
@@ -46717,7 +46717,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     body.body-forum .single-column #content .p-forum-a footer.statistics header h2 {
         font-family: "Roboto Condensed", Roboto, Helvetica, sans-serif;
         font-size: 28px;
@@ -47017,7 +47017,7 @@ body.body-forum-search .container .s-results header.h2 {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-portal-item .button {
         height: 35px;
         font-size: 12px;
@@ -47030,7 +47030,7 @@ body.body-forum-search .container .s-results header.h2 {
     background: #76dbf9
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-portal-item .button {
         height: 50px;
         font-size: 16px
@@ -47250,7 +47250,7 @@ body.body-forum-search .container .s-results header.h2 {
     flex: 1 0 100%
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-form-fields-item-xs {
         -webkit-flex: 1 0 25%;
         -ms-flex: 1 0 25%;
@@ -47266,7 +47266,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-form-fields-item-sm {
         -webkit-flex: 1 0 33.33333%;
         -ms-flex: 1 0 33.33333%;
@@ -47282,7 +47282,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-form-fields-item-m {
         -webkit-flex: 1 0 50%;
         -ms-flex: 1 0 50%;
@@ -47298,7 +47298,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-form-fields-item-l {
         -webkit-flex: 1 0 75%;
         -ms-flex: 1 0 75%;
@@ -47314,7 +47314,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-form-fields-item-xl {
         -webkit-flex: 1 0 100%;
         -ms-flex: 1 0 100%;
@@ -47338,7 +47338,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spell .ddb-homebrew-create-form-fields-item-name {
         -webkit-flex-basis: 450px;
         -ms-flex-preferred-size: 450px;
@@ -47364,7 +47364,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .ddb-homebrew-create-spell .ddb-homebrew-create-form-fields-item-level,
     .ddb-homebrew-create-spell .ddb-homebrew-create-form-fields-item-version {
@@ -47382,7 +47382,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spell .ddb-homebrew-create-form-fields-item-school {
         -webkit-flex-basis: 155px;
         -ms-flex-preferred-size: 155px;
@@ -47420,7 +47420,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spell .ddb-homebrew-create-form-fields-item-casting-time {
         -webkit-flex-basis: 150px;
         -ms-flex-preferred-size: 150px;
@@ -47428,7 +47428,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spell .ddb-homebrew-create-form-fields-item-casting-time-description {
         -webkit-flex-basis: 360px;
         -ms-flex-preferred-size: 360px;
@@ -47444,7 +47444,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spell .ddb-homebrew-create-form-fields-item-activation-type {
         -webkit-flex-basis: 300px;
         -ms-flex-preferred-size: 300px;
@@ -47452,7 +47452,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spell .ddb-homebrew-create-form-fields-item-origin {
         -webkit-flex-basis: 220px;
         -ms-flex-preferred-size: 220px;
@@ -47460,7 +47460,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spell .ddb-homebrew-create-form-fields-item-range {
         -webkit-flex-basis: 170px;
         -ms-flex-preferred-size: 170px;
@@ -47468,7 +47468,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spell .ddb-homebrew-create-form-fields-item-duration-type {
         -webkit-flex-basis: 215px;
         -ms-flex-preferred-size: 215px;
@@ -47476,7 +47476,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spell .ddb-homebrew-create-form-fields-item-duration-interval {
         -webkit-flex-basis: 120px;
         -ms-flex-preferred-size: 120px;
@@ -47484,7 +47484,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spell .ddb-homebrew-create-form-fields-item-duration-unit {
         -webkit-flex-basis: 200px;
         -ms-flex-preferred-size: 200px;
@@ -47492,7 +47492,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spell .ddb-homebrew-create-form-fields-item-ritual {
         -webkit-flex-basis: 125px;
         -ms-flex-preferred-size: 125px;
@@ -47500,7 +47500,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spell .ddb-homebrew-create-form-fields-item-higher-level {
         -webkit-flex-basis: 190px;
         -ms-flex-preferred-size: 190px;
@@ -47508,7 +47508,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spell .ddb-homebrew-create-form-fields-item-class {
         -webkit-flex-basis: 250px;
         -ms-flex-preferred-size: 250px;
@@ -47516,7 +47516,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spell .ddb-homebrew-create-form-fields-item-higher-level-scale {
         -webkit-flex-basis: 140px;
         -ms-flex-preferred-size: 140px;
@@ -47558,7 +47558,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spell .ddb-homebrew-create-form-fields-item-large-avatar {
         -webkit-flex-basis: 20%;
         -ms-flex-preferred-size: 20%;
@@ -47591,7 +47591,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .ddb-homebrew-create-spell-modifier .ddb-homebrew-create-form-fields-item-use-primary,
     .ddb-homebrew-create-spell-modifier .ddb-homebrew-create-form-fields-item-duration,
@@ -47690,7 +47690,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .ddb-homebrew-create-magic-item .ddb-homebrew-create-form-fields-item-dex-mod,
     .ddb-homebrew-create-magic-item .ddb-homebrew-create-form-fields-item-str-req,
@@ -47738,7 +47738,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-magic-item .ddb-homebrew-create-form-fields-item-attunement {
         -webkit-flex-basis: 390px;
         -ms-flex-preferred-size: 390px;
@@ -47762,7 +47762,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-magic-item .ddb-homebrew-create-form-fields-item-attunement-description {
         -webkit-flex-basis: 630px;
         -ms-flex-preferred-size: 630px;
@@ -47880,7 +47880,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .ddb-homebrew-create-magic-item-modifier .ddb-homebrew-create-form-fields-item-modifier,
     .ddb-homebrew-create-magic-item-modifier .ddb-homebrew-create-form-fields-item-ability-score,
@@ -48010,7 +48010,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .ddb-homebrew-create-monster .ddb-homebrew-create-form-fields-item-ac,
     .ddb-homebrew-create-monster .ddb-homebrew-create-form-fields-item-ac-type {
@@ -48078,7 +48078,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .ddb-homebrew-create-monster .ddb-homebrew-create-form-fields-item-saving-throws,
     .ddb-homebrew-create-monster .ddb-homebrew-create-form-fields-item-damage-adjustment,
@@ -48098,7 +48098,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-monster .ddb-homebrew-create-form-fields-item-passive-perception {
         -webkit-flex-basis: 20%;
         -ms-flex-preferred-size: 20%;
@@ -48123,7 +48123,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .ddb-homebrew-create-monster .ddb-homebrew-create-form-fields-item-has-lair,
     .ddb-homebrew-create-monster .ddb-homebrew-create-form-fields-item-is-legendary {
@@ -48133,7 +48133,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .ddb-homebrew-create-monster .ddb-homebrew-create-form-fields-item-long-description,
     .ddb-homebrew-create-monster .ddb-homebrew-create-form-fields-item-legendary-monster-description,
@@ -48145,7 +48145,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-monster .ddb-homebrew-create-form-fields-item-tags {
         -webkit-flex-basis: 30%;
         -ms-flex-preferred-size: 30%;
@@ -48153,7 +48153,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .ddb-homebrew-create-monster .ddb-homebrew-create-form-fields-item-avatar,
     .ddb-homebrew-create-monster .ddb-homebrew-create-form-fields-item-large-avatar {
@@ -48163,7 +48163,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .ddb-homebrew-create-monster .ddb-homebrew-create-form-fields-item-special-traits-description,
     .ddb-homebrew-create-monster .ddb-homebrew-create-form-fields-item-actions-description,
@@ -48259,7 +48259,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-background .ddb-homebrew-create-form-fields-item-name {
         -webkit-flex-basis: 450px;
         -ms-flex-preferred-size: 450px;
@@ -48283,7 +48283,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-background .ddb-homebrew-create-form-fields-item-version {
         -webkit-flex-basis: 135px;
         -ms-flex-preferred-size: 135px;
@@ -48299,7 +48299,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-background .ddb-homebrew-create-form-fields-item-snippet {
         -webkit-flex-basis: 450px;
         -ms-flex-preferred-size: 450px;
@@ -48315,7 +48315,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-feat .ddb-homebrew-create-form-fields-item-name {
         -webkit-flex-basis: 50%;
         -ms-flex-preferred-size: 50%;
@@ -48331,7 +48331,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-feat .ddb-homebrew-create-form-fields-item-version {
         -webkit-flex-basis: 25%;
         -ms-flex-preferred-size: 25%;
@@ -48347,7 +48347,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-feat .ddb-homebrew-create-form-fields-item-prerequisites {
         -webkit-flex-basis: 25%;
         -ms-flex-preferred-size: 25%;
@@ -48371,7 +48371,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-feat .ddb-homebrew-create-form-fields-item-snippet {
         -webkit-flex-basis: 450px;
         -ms-flex-preferred-size: 450px;
@@ -48395,7 +48395,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-feat .ddb-homebrew-create-form-fields-item-activation-time {
         -webkit-flex-basis: 50px;
         -ms-flex-preferred-size: 50px;
@@ -48419,7 +48419,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-feat .ddb-homebrew-create-form-fields-item-activation-type {
         -webkit-flex-basis: 40%;
         -ms-flex-preferred-size: 40%;
@@ -48443,7 +48443,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spmapping .ddb-homebrew-create-form-fields-item-sp {
         -webkit-flex-basis: 33.33333%;
         -ms-flex-preferred-size: 33.33333%;
@@ -48467,7 +48467,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spmapping .ddb-homebrew-create-form-fields-item-sp-level {
         -webkit-flex-basis: 33.33333%;
         -ms-flex-preferred-size: 33.33333%;
@@ -48491,7 +48491,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spmapping .ddb-homebrew-create-form-fields-item-sp-class {
         -webkit-flex-basis: 33.33333%;
         -ms-flex-preferred-size: 33.33333%;
@@ -48515,7 +48515,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spmapping .ddb-homebrew-create-form-fields-item-attack-type {
         -webkit-flex-basis: 33.33333%;
         -ms-flex-preferred-size: 33.33333%;
@@ -48539,7 +48539,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spmapping .ddb-homebrew-create-form-fields-item-number-of-uses {
         -webkit-flex-basis: 33.33333%;
         -ms-flex-preferred-size: 33.33333%;
@@ -48563,7 +48563,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spmapping .ddb-homebrew-create-form-fields-item-number-of-uses-by-ability-modifier {
         -webkit-flex-basis: 33.33333%;
         -ms-flex-preferred-size: 33.33333%;
@@ -48587,7 +48587,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spmapping .ddb-homebrew-create-form-fields-item-reset-type {
         -webkit-flex-basis: 33.33333%;
         -ms-flex-preferred-size: 33.33333%;
@@ -48611,7 +48611,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spmapping .ddb-homebrew-create-form-fields-item-cast-at-level {
         -webkit-flex-basis: 33.33333%;
         -ms-flex-preferred-size: 33.33333%;
@@ -48635,7 +48635,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spmapping .ddb-homebrew-create-form-fields-item-casting-time {
         -webkit-flex-basis: 33.33333%;
         -ms-flex-preferred-size: 33.33333%;
@@ -48659,7 +48659,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spmapping .ddb-homebrew-create-form-fields-item-activation-type {
         -webkit-flex-basis: 33.33333%;
         -ms-flex-preferred-size: 33.33333%;
@@ -48683,7 +48683,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spmapping .ddb-homebrew-create-form-fields-item-origin-type {
         -webkit-flex-basis: 33.33333%;
         -ms-flex-preferred-size: 33.33333%;
@@ -48707,7 +48707,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spmapping .ddb-homebrew-create-form-fields-item-range {
         -webkit-flex-basis: 33.33333%;
         -ms-flex-preferred-size: 33.33333%;
@@ -48731,7 +48731,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spmapping .ddb-homebrew-create-form-fields-item-ability-score {
         -webkit-flex-basis: 25%;
         -ms-flex-preferred-size: 25%;
@@ -48755,7 +48755,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spmapping .ddb-homebrew-create-form-fields-item-consumes-slot {
         -webkit-flex-basis: 25%;
         -ms-flex-preferred-size: 25%;
@@ -48779,7 +48779,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spmapping .ddb-homebrew-create-form-fields-item-known-spell {
         -webkit-flex-basis: 25%;
         -ms-flex-preferred-size: 25%;
@@ -48803,7 +48803,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spmapping .ddb-homebrew-create-form-fields-item-always-prepared {
         -webkit-flex-basis: 33.33333%;
         -ms-flex-preferred-size: 33.33333%;
@@ -48827,7 +48827,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spmapping .ddb-homebrew-create-form-fields-item-character-level {
         -webkit-flex-basis: 33.33333%;
         -ms-flex-preferred-size: 33.33333%;
@@ -48851,7 +48851,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spmapping .ddb-homebrew-create-form-fields-item-min-charges {
         -webkit-flex-basis: 33.33333%;
         -ms-flex-preferred-size: 33.33333%;
@@ -48875,7 +48875,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spmapping .ddb-homebrew-create-form-fields-item-max-charges {
         -webkit-flex-basis: 33.33333%;
         -ms-flex-preferred-size: 33.33333%;
@@ -48899,7 +48899,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spmapping .ddb-homebrew-create-form-fields-item-save-dc {
         -webkit-flex-basis: 33.33333%;
         -ms-flex-preferred-size: 33.33333%;
@@ -48915,7 +48915,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-prereq .ddb-homebrew-create-form-fields-item-mapping .ddb-homebrew-create-prereq .ddb-homebrew-create-form-fields-item-prereq-type {
         -webkit-flex-basis: 50%;
         -ms-flex-preferred-size: 50%;
@@ -48931,7 +48931,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-prereq .ddb-homebrew-create-form-fields-item-mapping .ddb-homebrew-create-prereq .ddb-homebrew-create-form-fields-item-prereq-subtype {
         -webkit-flex-basis: 50%;
         -ms-flex-preferred-size: 50%;
@@ -48955,7 +48955,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-race .ddb-homebrew-create-form-fields-item-name {
         -webkit-flex-basis: 50%;
         -ms-flex-preferred-size: 50%;
@@ -48971,7 +48971,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .ddb-homebrew-create-race .ddb-homebrew-create-form-fields-item-version,
     .ddb-homebrew-create-race .ddb-homebrew-create-form-fields-item-size {
@@ -48991,7 +48991,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .ddb-homebrew-create-race .ddb-homebrew-create-form-fields-item-speed-walking,
     .ddb-homebrew-create-race .ddb-homebrew-create-form-fields-item-speed-burrowing,
@@ -49017,7 +49017,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-racial-trait .ddb-homebrew-create-form-fields-item-name {
         -webkit-flex-basis: 66.66667%;
         -ms-flex-preferred-size: 66.66667%;
@@ -49033,7 +49033,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-racial-trait .ddb-homebrew-create-form-fields-item-version {
         -webkit-flex-basis: 33.33333%;
         -ms-flex-preferred-size: 33.33333%;
@@ -49049,7 +49049,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .ddb-homebrew-create-racial-trait .ddb-homebrew-create-form-fields-item-activation-time,
     .ddb-homebrew-create-racial-trait .ddb-homebrew-create-form-fields-item-activation-type,
@@ -49075,7 +49075,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .ddb-homebrew-create-racial-trait .ddb-homebrew-create-form-fields-item-hide-in-builder,
     .ddb-homebrew-create-racial-trait .ddb-homebrew-create-form-fields-item-hide-in-sheet,
@@ -49097,7 +49097,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-racial-trait-option .ddb-homebrew-create-form-fields-item-name {
         -webkit-flex-basis: 66.66667%;
         -ms-flex-preferred-size: 66.66667%;
@@ -49113,7 +49113,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-racial-trait-option .ddb-homebrew-create-form-fields-item-source {
         -webkit-flex-basis: 33.33333%;
         -ms-flex-preferred-size: 33.33333%;
@@ -49129,7 +49129,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .ddb-homebrew-create-racial-trait-option .ddb-homebrew-create-form-fields-item-activation-time,
     .ddb-homebrew-create-racial-trait-option .ddb-homebrew-create-form-fields-item-activation-type,
@@ -49153,7 +49153,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .ddb-homebrew-create-rpgclass .ddb-homebrew-create-form-fields-item-can-cast-spells,
     .ddb-homebrew-create-rpgclass .ddb-homebrew-create-form-fields-item-stat,
@@ -49177,7 +49177,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-subclass .ddb-homebrew-create-form-fields-item-name {
         -webkit-flex-basis: 66.66667%;
         -ms-flex-preferred-size: 66.66667%;
@@ -49193,7 +49193,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-subclass .ddb-homebrew-create-form-fields-item-version {
         -webkit-flex-basis: 33.33333%;
         -ms-flex-preferred-size: 33.33333%;
@@ -49209,7 +49209,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .ddb-homebrew-create-subclass .ddb-homebrew-create-form-fields-item-stat,
     .ddb-homebrew-create-subclass .ddb-homebrew-create-form-fields-item-can-cast,
@@ -49235,7 +49235,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-class-feature .ddb-homebrew-create-form-fields-item-name {
         -webkit-flex-basis: 66.66667%;
         -ms-flex-preferred-size: 66.66667%;
@@ -49251,7 +49251,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .ddb-homebrew-create-class-feature .ddb-homebrew-create-form-fields-item-activation-time,
     .ddb-homebrew-create-class-feature .ddb-homebrew-create-form-fields-item-activation-type,
@@ -49275,7 +49275,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .ddb-homebrew-create-class-feature .ddb-homebrew-create-form-fields-item-has-options,
     .ddb-homebrew-create-class-feature .ddb-homebrew-create-form-fields-item-options-known,
@@ -49299,7 +49299,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .ddb-homebrew-create-class-feature-option .ddb-homebrew-create-form-fields-item-activation-time,
     .ddb-homebrew-create-class-feature-option .ddb-homebrew-create-form-fields-item-activation-type,
@@ -49323,7 +49323,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .ddb-homebrew-create-level-scale .ddb-homebrew-create-form-fields-item-level,
     .ddb-homebrew-create-level-scale .ddb-homebrew-create-form-fields-item-dice-count,
@@ -49528,7 +49528,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-form-footer {
         margin: 0
     }
@@ -49560,7 +49560,7 @@ body.body-forum-search .container .s-results header.h2 {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-form-footer-subform {
         padding: 0 10px
     }
@@ -49606,7 +49606,7 @@ body.body-forum-search .container .s-results header.h2 {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-form-footer-subform .button {
         height: 35px;
         font-size: 12px;
@@ -49619,7 +49619,7 @@ body.body-forum-search .container .s-results header.h2 {
     background: #76dbf9
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-form-footer-subform .button {
         max-width: 200px !important;
         font-size: 15px !important
@@ -49641,7 +49641,7 @@ body.body-forum-search .container .s-results header.h2 {
     background: rgba(0, 0, 0, 0) !important
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-form-footer-subform .button[type="submit"] {
         max-width: 180px !important
     }
@@ -49690,7 +49690,7 @@ body.body-forum-search .container .s-results header.h2 {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-monster .ddb-homebrew-create-form-footer .button {
         height: 35px;
         font-size: 12px;
@@ -49741,7 +49741,7 @@ body.body-forum-search .container .s-results header.h2 {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-magic-item .ddb-homebrew-create-form-footer .button {
         height: 35px;
         font-size: 12px;
@@ -49792,7 +49792,7 @@ body.body-forum-search .container .s-results header.h2 {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-spell .ddb-homebrew-create-form-footer .button {
         height: 35px;
         font-size: 12px;
@@ -49843,7 +49843,7 @@ body.body-forum-search .container .s-results header.h2 {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-background .ddb-homebrew-create-form-footer .button {
         height: 35px;
         font-size: 12px;
@@ -49894,7 +49894,7 @@ body.body-forum-search .container .s-results header.h2 {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-background-characteristic .ddb-homebrew-create-form-footer .button {
         height: 35px;
         font-size: 12px;
@@ -49945,7 +49945,7 @@ body.body-forum-search .container .s-results header.h2 {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-background-attribute .ddb-homebrew-create-form-footer .button {
         height: 35px;
         font-size: 12px;
@@ -49996,7 +49996,7 @@ body.body-forum-search .container .s-results header.h2 {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-feat .ddb-homebrew-create-form-footer .button {
         height: 35px;
         font-size: 12px;
@@ -50047,7 +50047,7 @@ body.body-forum-search .container .s-results header.h2 {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-race .ddb-homebrew-create-form-footer .button {
         height: 35px;
         font-size: 12px;
@@ -50098,7 +50098,7 @@ body.body-forum-search .container .s-results header.h2 {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-racial-trait .ddb-homebrew-create-form-footer .button {
         height: 35px;
         font-size: 12px;
@@ -50149,7 +50149,7 @@ body.body-forum-search .container .s-results header.h2 {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-racial-trait-option .ddb-homebrew-create-form-footer .button {
         height: 35px;
         font-size: 12px;
@@ -50200,7 +50200,7 @@ body.body-forum-search .container .s-results header.h2 {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-sub-race .ddb-homebrew-create-form-footer .button {
         height: 35px;
         font-size: 12px;
@@ -50251,7 +50251,7 @@ body.body-forum-search .container .s-results header.h2 {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-subclass .ddb-homebrew-create-form-footer .button {
         height: 35px;
         font-size: 12px;
@@ -50302,7 +50302,7 @@ body.body-forum-search .container .s-results header.h2 {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-class-feature .ddb-homebrew-create-form-footer .button {
         height: 35px;
         font-size: 12px;
@@ -50353,7 +50353,7 @@ body.body-forum-search .container .s-results header.h2 {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-class-feature-option .ddb-homebrew-create-form-footer .button {
         height: 35px;
         font-size: 12px;
@@ -50404,7 +50404,7 @@ body.body-forum-search .container .s-results header.h2 {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-rpgclass .ddb-homebrew-create-form-footer .button {
         height: 35px;
         font-size: 12px;
@@ -50417,7 +50417,7 @@ body.body-forum-search .container .s-results header.h2 {
     background: #ff9e22
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-form-footer .button {
         max-width: 200px !important;
         font-size: 15px !important
@@ -50439,7 +50439,7 @@ body.body-forum-search .container .s-results header.h2 {
     background: rgba(0, 0, 0, 0) !important
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-form-footer .button[type="submit"] {
         max-width: 180px !important
     }
@@ -50677,7 +50677,7 @@ body.body-forum-search .container .s-results header.h2 {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-special .button {
         height: 35px;
         font-size: 12px;
@@ -50690,7 +50690,7 @@ body.body-forum-search .container .s-results header.h2 {
     background: #76dbf9
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-homebrew-create-special .button {
         max-width: 200px
     }
@@ -51138,7 +51138,7 @@ body.body-forum-search .container .s-results header.h2 {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .toggle-in-collection {
         height: 35px;
         font-size: 12px;
@@ -52038,13 +52038,13 @@ body.lb-disable-scrolling #site {
     }
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .body-linkout #site-main::before {
         content: none
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-linkout #site-main::before {
         top: -65px
     }
@@ -53802,7 +53802,7 @@ li:nth-of-type(even) .list-row.hover {
     min-width: 0
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .list-row-name-primary-text .link {
         pointer-events: none
     }
@@ -54366,7 +54366,7 @@ li:nth-of-type(even) .list-row.hover {
     width: 40px
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .listing .info .row.monster-name .link {
         pointer-events: none
     }
@@ -54380,7 +54380,7 @@ li:nth-of-type(even) .list-row.hover {
     box-shadow: inset 0 0 0 2px #bc0f0f
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .listing .info .row.item-name .link {
         pointer-events: none
     }
@@ -54406,7 +54406,7 @@ li:nth-of-type(even) .list-row.hover {
     box-shadow: inset 0 0 0 2px #0f5cbc
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .listing .info .row.spell-name .link {
         pointer-events: none
     }
@@ -54999,7 +54999,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #242527
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
 
     .listing .info .row.spell-name .name .link,
     .listing .info .row.item-name .name .link {
@@ -55235,7 +55235,7 @@ li:nth-of-type(even) .list-row.hover {
     font-weight: normal
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .body-rpgspell .primary-content header:not(.page-header) h2,
     .body-rpgmonster .primary-content header:not(.page-header) h2,
@@ -55253,25 +55253,25 @@ li:nth-of-type(even) .list-row.hover {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgspell .primary-content header:not(.page-header) {
         padding-right: 446px
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgmagicitem .primary-content header:not(.page-header) {
         padding-right: 510px
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgmagicitem-index .primary-content header:not(.page-header) {
         padding-right: 645px
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgmonster .primary-content header:not(.page-header) {
         padding-right: 486px
     }
@@ -55308,7 +55308,7 @@ li:nth-of-type(even) .list-row.hover {
     flex-shrink: 0
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .RPGFeat-listing .info .feat-name,
     .RPGFeat-listing .info .background-name,
@@ -55348,7 +55348,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #979AA4
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .RPGFeat-listing .info .background-name,
     .RPGBackground-listing .info .background-name {
@@ -55430,7 +55430,7 @@ li:nth-of-type(even) .list-row.hover {
     display: none
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .RPGFeat-listing .info .feat-tags,
     .RPGFeat-listing .info .feat-notes,
@@ -55735,7 +55735,7 @@ li:nth-of-type(even) .list-row.hover {
     font-weight: bold
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-listing .page-header h2 {
         font-size: 36px
     }
@@ -55761,7 +55761,7 @@ li:nth-of-type(even) .list-row.hover {
     display: none
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .adohand {
         margin-top: 50px
     }
@@ -55887,7 +55887,7 @@ li:nth-of-type(even) .list-row.hover {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .listing .info:not(:first-child) {
         margin-top: 5px
     }
@@ -55992,7 +55992,7 @@ li:nth-of-type(even) .list-row.hover {
     margin-top: 25px
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-cart {
         display: -webkit-flex;
         display: -ms-flexbox;
@@ -56010,7 +56010,7 @@ li:nth-of-type(even) .list-row.hover {
     margin-top: 20px
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-cart-aside {
         -webkit-flex: 0 0 390px;
         -ms-flex: 0 0 390px;
@@ -56081,7 +56081,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #1cd2c0 !important
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-cart-contents {
         -webkit-flex: 1 1 auto;
         -ms-flex: 1 1 auto;
@@ -56303,7 +56303,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-cart-contents .button-proceed-to-checkout {
         height: 35px;
         font-size: 12px;
@@ -56316,7 +56316,7 @@ li:nth-of-type(even) .list-row.hover {
     background: #3ce5d4
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-cart-contents .button-proceed-to-checkout {
         height: 50px;
         font-size: 15px;
@@ -56564,7 +56564,7 @@ li:nth-of-type(even) .list-row.hover {
     padding: 0 18px
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-cart-actions-container {
         padding: 0
     }
@@ -56632,7 +56632,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #979aa3
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-checkout {
         display: -webkit-flex;
         display: -ms-flexbox;
@@ -56880,7 +56880,7 @@ li:nth-of-type(even) .list-row.hover {
     flex: 0 0 100%
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-checkout-form-payment-fields-item-card-number {
         -webkit-flex-basis: 50%;
         -ms-flex-preferred-size: 50%;
@@ -56898,7 +56898,7 @@ li:nth-of-type(even) .list-row.hover {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .ddb-market-checkout-form-payment-fields-item-cvv,
     .ddb-market-checkout-form-payment-fields-item-expiration-date {
@@ -56951,7 +56951,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-checkout-form-actions .button {
         height: 35px;
         font-size: 12px;
@@ -56964,7 +56964,7 @@ li:nth-of-type(even) .list-row.hover {
     background: #3ce5d4
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-checkout-form-actions .button {
         height: 50px;
         width: 200px;
@@ -57011,7 +57011,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-checkout-form-actions .address-button {
         height: 35px;
         font-size: 12px;
@@ -57024,7 +57024,7 @@ li:nth-of-type(even) .list-row.hover {
     background: #3ce5d4
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-checkout-form-actions .address-button {
         height: 50px;
         width: 250px;
@@ -57564,7 +57564,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-coupon-form-button {
         height: 35px;
         font-size: 12px;
@@ -57577,7 +57577,7 @@ li:nth-of-type(even) .list-row.hover {
     background: #3ce5d4
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-coupon-form-button {
         max-width: none;
         width: auto
@@ -57698,7 +57698,7 @@ li:nth-of-type(even) .list-row.hover {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-digital-advertisement {
         display: inline-block
     }
@@ -57716,7 +57716,7 @@ li:nth-of-type(even) .list-row.hover {
     text-align: center
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-digital-warning {
         display: inline-block
     }
@@ -58504,7 +58504,7 @@ li:nth-of-type(even) .list-row.hover {
     width: 100%
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-license-item-footer {
         margin-top: auto
     }
@@ -58619,7 +58619,7 @@ li:nth-of-type(even) .list-row.hover {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-license-item-options {
         display: -webkit-flex;
         display: -ms-flexbox;
@@ -58666,7 +58666,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-license-item-options .button {
         height: 35px;
         font-size: 12px;
@@ -58686,13 +58686,13 @@ li:nth-of-type(even) .list-row.hover {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-license-item-options .button {
         max-width: 185px
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-license-item-featured .ddb-market-license-item-options .button {
         width: 185px !important
     }
@@ -58746,7 +58746,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #1cd2c0 !important
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .ddb-market-license-item-details .ddb-market-license-item-options .button-view-purchase-options,
     .ddb-market-license-item-featured .ddb-market-license-item-options .button-view-purchase-options {
@@ -58802,7 +58802,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-license-item-small .ddb-market-license-item-options .button-view-purchase-options {
         height: 35px;
         font-size: 12px;
@@ -58829,7 +58829,7 @@ li:nth-of-type(even) .list-row.hover {
     margin-top: 10px !important
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-license-item-options .button+.button {
         margin: 0 0 0 10px !important
     }
@@ -59020,7 +59020,7 @@ li:nth-of-type(even) .list-row.hover {
     background-color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-purchase-options {
         display: -webkit-flex;
         display: -ms-flexbox;
@@ -59048,7 +59048,7 @@ li:nth-of-type(even) .list-row.hover {
     padding: 30px
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-purchase-options-main {
         -webkit-flex: 0 0 305px;
         -ms-flex: 0 0 305px;
@@ -59152,7 +59152,7 @@ li:nth-of-type(even) .list-row.hover {
     margin-top: 20px
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-purchase-options-footer .button {
         max-width: 185px;
         margin: 0
@@ -59197,7 +59197,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-purchase-options-footer .button-add-to-cart {
         height: 35px;
         font-size: 12px;
@@ -59257,7 +59257,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #979AA4 !important
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-purchase-options-footer .button-in-cart {
         height: 35px;
         font-size: 12px;
@@ -59276,7 +59276,7 @@ li:nth-of-type(even) .list-row.hover {
     padding: 30px
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-purchase-options-collection {
         width: 100%
     }
@@ -59288,7 +59288,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #242527
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-purchase-options-collection-header {
         padding-bottom: 20px;
         border-bottom: 1px solid #edeae8
@@ -59300,7 +59300,7 @@ li:nth-of-type(even) .list-row.hover {
     margin: 0 -10px
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-purchase-options-collection-list {
         display: -webkit-flex;
         display: -ms-flexbox;
@@ -59321,7 +59321,7 @@ li:nth-of-type(even) .list-row.hover {
     padding: 10px
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-purchase-options-collection-list-item {
         -webkit-flex: 0 0 50%;
         -ms-flex: 0 0 50%;
@@ -59342,7 +59342,7 @@ li:nth-of-type(even) .list-row.hover {
     background-color: #f5f3f1
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-purchase-options-collection-list-item:nth-of-type(odd) {
         background-color: #fff;
         border-right: 1px solid #EDEAE8;
@@ -59350,7 +59350,7 @@ li:nth-of-type(even) .list-row.hover {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-purchase-options-collection-list-item:nth-of-type(even) {
         padding-left: 30px
     }
@@ -59365,7 +59365,7 @@ li:nth-of-type(even) .list-row.hover {
     justify-content: space-between
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-purchase-options-collection-list-item-info {
         width: 100%;
         padding-right: 10px
@@ -59425,7 +59425,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #1cd2c0 !important
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-purchase-options-collection-list-item-action .button {
         height: 35px;
         font-size: 12px;
@@ -59440,7 +59440,7 @@ li:nth-of-type(even) .list-row.hover {
     background-color: rgba(0, 0, 0, 0)
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-market-purchase-options-collection-list-item-action .button {
         max-width: 120px;
         min-width: 0
@@ -59606,7 +59606,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-subscription-cancel-form-footer .button-submit {
         height: 35px;
         font-size: 12px;
@@ -59619,7 +59619,7 @@ li:nth-of-type(even) .list-row.hover {
     background: #3ce5d4
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-subscription-cancel-form-footer .button-submit {
         width: 250px !important
     }
@@ -59662,7 +59662,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #979AA4 !important
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-subscription-cancel-form-footer .button-cancel {
         height: 35px;
         font-size: 12px;
@@ -59677,7 +59677,7 @@ li:nth-of-type(even) .list-row.hover {
     background-color: rgba(0, 0, 0, 0)
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-subscription-cancel-form-footer .button-cancel {
         width: 180px !important
     }
@@ -59819,7 +59819,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-subscriptions-purchase-current-actions .button {
         height: 35px;
         font-size: 12px;
@@ -59871,7 +59871,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #979AA4 !important
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-subscriptions-purchase-current-actions .button-cancelled {
         height: 35px;
         font-size: 12px;
@@ -60197,7 +60197,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .ddb-subscriptions-purchase-block-secondary-item-action.monthly .button,
     .ddb-subscriptions-purchase-block-secondary-item-action.semi-annually .button {
@@ -60283,7 +60283,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-subscriptions-purchase-block-secondary-item-hero .ddb-subscriptions-purchase-block-secondary-item-action.annually .button {
         height: 35px;
         font-size: 12px;
@@ -60343,7 +60343,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-subscriptions-purchase-block-secondary-item-master .ddb-subscriptions-purchase-block-secondary-item-action.annually .button {
         height: 35px;
         font-size: 12px;
@@ -60534,7 +60534,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-subscriptions-purchase-compare-header-plans-item-action .button-upgrade {
         height: 35px;
         font-size: 12px;
@@ -60547,7 +60547,7 @@ li:nth-of-type(even) .list-row.hover {
     background: #3ce5d4
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-subscriptions-purchase-compare-header-plans-item-action .button-upgrade {
         min-width: 0
     }
@@ -60593,7 +60593,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #1cd2c0 !important
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-subscriptions-purchase-compare-header-plans-item-action .button-current {
         height: 35px;
         font-size: 12px;
@@ -60608,7 +60608,7 @@ li:nth-of-type(even) .list-row.hover {
     background-color: rgba(0, 0, 0, 0)
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-subscriptions-purchase-compare-header-plans-item-action .button-current {
         min-width: 0
     }
@@ -60654,7 +60654,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #979AA4 !important
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-subscriptions-purchase-compare-header-plans-item-action .button-change {
         height: 35px;
         font-size: 12px;
@@ -60669,7 +60669,7 @@ li:nth-of-type(even) .list-row.hover {
     background-color: rgba(0, 0, 0, 0)
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-subscriptions-purchase-compare-header-plans-item-action .button-change {
         min-width: 0
     }
@@ -60845,7 +60845,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .product-key-failure__item-button {
         height: 35px;
         font-size: 12px;
@@ -60901,7 +60901,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .product-key-failure__button.button {
         height: 35px;
         font-size: 12px;
@@ -61039,7 +61039,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .product-key-redeem-item__button.button {
         height: 35px;
         font-size: 12px;
@@ -61116,7 +61116,7 @@ li:nth-of-type(even) .list-row.hover {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .product-key-redeem-item {
         display: -webkit-flex;
         display: -ms-flexbox;
@@ -61240,7 +61240,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .product-key-form__button.button {
         height: 35px;
         font-size: 12px;
@@ -61346,7 +61346,7 @@ li:nth-of-type(even) .list-row.hover {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .body-productkey-redeemkey,
     .body-productkey-redeemkeywithkey {
@@ -61354,13 +61354,13 @@ li:nth-of-type(even) .list-row.hover {
     }
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .body-productkey-redeemkey.body-productkey-redeemkey-success.site {
         background: url(https://www.dndbeyond.com/attachments/0/84/background_texture.png) #f9f9f9 repeat !important
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-productkey-redeemkey.body-productkey-redeemkey-success.site {
         background: url(https://www.dndbeyond.com/attachments/4/423/marketplace-redeemkey1k-3.png) no-repeat center 114px, url(https://www.dndbeyond.com/attachments/0/84/background_texture.png) #f9f9f9 !important
     }
@@ -61378,7 +61378,7 @@ li:nth-of-type(even) .list-row.hover {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-memberlist header.h2 h2 {
         position: absolute;
         top: 0;
@@ -61403,7 +61403,7 @@ li:nth-of-type(even) .list-row.hover {
     margin-top: 5px
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-memberlist .listing-filters #form-field-filter-is-online {
         display: table;
         height: 80px;
@@ -61425,7 +61425,7 @@ li:nth-of-type(even) .list-row.hover {
     margin: 0
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-memberlist .listing-filters #form-field-filter-is-online #filter-is-online {
         height: 80px;
         margin-right: 5px
@@ -61501,7 +61501,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-modal .button {
         height: 35px;
         font-size: 12px;
@@ -61514,7 +61514,7 @@ li:nth-of-type(even) .list-row.hover {
     background: #4baff3
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-modal .button {
         max-width: 250px
     }
@@ -62361,7 +62361,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-blocked-content-body .button {
         height: 35px;
         font-size: 12px;
@@ -62374,7 +62374,7 @@ li:nth-of-type(even) .list-row.hover {
     background: #3ce5d4
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-blocked-content-body .button {
         min-width: 0;
         margin-left: 0;
@@ -62451,7 +62451,7 @@ li:nth-of-type(even) .list-row.hover {
     margin-top: 20px
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .more-info .info-block div {
         width: auto;
         max-width: 24%
@@ -62462,7 +62462,7 @@ li:nth-of-type(even) .list-row.hover {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .more-info {
         width: calc(100% - 10px);
         padding: 30px 26px 0
@@ -62539,7 +62539,7 @@ li:nth-of-type(even) .list-row.hover {
     padding: 20px 20px 0
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .irace-listing .more-info,
     .RPGMonster-listing .more-info,
@@ -63239,7 +63239,7 @@ li:nth-of-type(even) .list-row.hover {
     padding-top: 20px
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .irace-listing .more-info-footer,
     .RPGMonster-listing .more-info-footer,
@@ -63272,7 +63272,7 @@ li:nth-of-type(even) .list-row.hover {
     order: 1
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .irace-listing .more-info-footer-details-button,
     .RPGMonster-listing .more-info-footer-details-button,
@@ -63385,7 +63385,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .irace-listing .more-info-footer-details-button .button-characters,
     .RPGMonster-listing .more-info-footer-details-button .button-characters,
@@ -63509,7 +63509,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .irace-listing .more-info-footer-details-button .button-items,
     .RPGMonster-listing .more-info-footer-details-button .button-items,
@@ -63633,7 +63633,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .irace-listing .more-info-footer-details-button .button-spells,
     .RPGMonster-listing .more-info-footer-details-button .button-spells,
@@ -63757,7 +63757,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .irace-listing .more-info-footer-details-button .button-monsters,
     .RPGMonster-listing .more-info-footer-details-button .button-monsters,
@@ -63831,7 +63831,7 @@ li:nth-of-type(even) .list-row.hover {
     margin: 0 2px
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .irace-listing .more-info-footer-tags,
     .RPGMonster-listing .more-info-footer-tags,
@@ -63916,7 +63916,7 @@ li:nth-of-type(even) .list-row.hover {
     order: 1
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .irace-listing .more-info-footer-homebrew-actions,
     .RPGMonster-listing .more-info-footer-homebrew-actions,
@@ -63954,7 +63954,7 @@ li:nth-of-type(even) .list-row.hover {
     margin: 0 -20px
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .irace-listing .more-info::after,
     .RPGMonster-listing .more-info::after,
@@ -63990,7 +63990,7 @@ li:nth-of-type(even) .list-row.hover {
     display: flex
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .more-links__links {
         display: none !important
     }
@@ -64000,7 +64000,7 @@ li:nth-of-type(even) .list-row.hover {
     }
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .more-links__links .compendium-quick-action {
         padding: 8px 16px
     }
@@ -64067,7 +64067,7 @@ li:nth-of-type(even) .list-row.hover {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .more-links {
         z-index: 10
     }
@@ -64146,7 +64146,7 @@ li:nth-of-type(even) .list-row.hover {
     display: none
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-mycontent-characterindex .page-header {
         display: block !important
     }
@@ -64225,7 +64225,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-characters-listing-header-secondary .button {
         height: 35px;
         font-size: 12px;
@@ -64237,7 +64237,7 @@ li:nth-of-type(even) .list-row.hover {
     transition: 100ms linear all
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-characters-listing-header-secondary .button:not(.button-complete) {
         display: none
     }
@@ -64398,7 +64398,7 @@ li:nth-of-type(even) .list-row.hover {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-characters-listing-body .empty .button {
         height: 35px;
         font-size: 12px;
@@ -64410,7 +64410,7 @@ li:nth-of-type(even) .list-row.hover {
     transition: 100ms linear all
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-characters-listing-body .empty .button {
         height: 50px;
         max-width: 200px
@@ -64514,13 +64514,13 @@ li:nth-of-type(even) .list-row.hover {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-characters-listing-header-primary-callout {
         display: none
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .p-nav-a {
         z-index: auto
     }
@@ -64792,7 +64792,7 @@ li:nth-of-type(even) .list-row.hover {
     }
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     nav.main .b-list-item .override {
         display: none
     }
@@ -64837,7 +64837,7 @@ li:nth-of-type(even) .list-row.hover {
     text-transform: uppercase
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .content-container .no-results::after {
         font-size: 16px
     }
@@ -65056,7 +65056,7 @@ li:nth-of-type(even) .list-row.hover {
     max-width: 1200px !important
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
 
     .body-noncebilling .page-header,
     .body-page-details>.section-compendium-content .page-header {
@@ -65079,7 +65079,7 @@ li:nth-of-type(even) .list-row.hover {
     z-index: 2
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .section-compendium-content .page-header__primary {
         padding: 0 8px
     }
@@ -65143,7 +65143,7 @@ li:nth-of-type(even) .list-row.hover {
     display: none !important
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .section-adventuring .page-header .rule-name {
         position: absolute;
         top: -100px;
@@ -65451,13 +65451,13 @@ li:nth-of-type(even) .list-row.hover {
     text-transform: none
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .page-heading {
         padding-top: 0
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .body-mycontent-index .page-heading,
     .body-rpgcharacter-index .page-heading,
@@ -65495,7 +65495,7 @@ li:nth-of-type(even) .list-row.hover {
     margin-bottom: 0
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .page-title {
         font-size: 36px
     }
@@ -65941,7 +65941,7 @@ li.b-pagination-item+.dots {
     font-weight: bold
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .body-privatemessage .fake-title,
     .section-posts .fake-title,
@@ -66027,7 +66027,7 @@ li.b-pagination-item+.dots {
     padding-top: 60px
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .section-posts .p-pm,
     .section-changelog .p-pm,
@@ -66099,7 +66099,7 @@ li.b-pagination-item+.dots {
     content: none
 }
 
-@media(min-width:641px) {
+@media(min-width:6px) {
 
     .section-posts .p-comment-wrapper,
     .section-changelog .p-comment-wrapper,
@@ -66138,7 +66138,7 @@ li.b-pagination-item+.dots {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .section-posts .p-comment-wrapper,
     .section-changelog .p-comment-wrapper,
@@ -66741,7 +66741,7 @@ li.b-pagination-item+.dots {
     z-index: 14 !important
 }
 
-@media(min-width:641px) {
+@media(min-width:6px) {
 
     .section-posts .p-comment-user,
     .section-changelog .p-comment-user,
@@ -66849,7 +66849,7 @@ li.b-pagination-item+.dots {
     color: #fff
 }
 
-@media(min-width:641px) {
+@media(min-width:6px) {
 
     .section-posts .p-comment-footer .user-action .label,
     .section-changelog .p-comment-footer .user-action .label,
@@ -66887,7 +66887,7 @@ li.b-pagination-item+.dots {
     z-index: auto
 }
 
-@media(min-width:641px) {
+@media(min-width:6px) {
 
     .section-posts .p-comment-avatar,
     .section-changelog .p-comment-avatar,
@@ -66951,7 +66951,7 @@ li.b-pagination-item+.dots {
     padding-top: 100px
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .send-pm {
         padding-top: 0
     }
@@ -66978,7 +66978,7 @@ li.b-pagination-item+.dots {
     box-sizing: border-box
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     #form-field-bcc,
     #form-field-subject,
@@ -67259,7 +67259,7 @@ li.b-pagination-item+.dots {
     }
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .profile-nav-container {
         z-index: 1
     }
@@ -67691,7 +67691,7 @@ li.b-pagination-item+.dots {
     flex: 1 1 auto
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-search-results-body {
         padding-right: 30px
     }
@@ -67853,7 +67853,7 @@ li.b-pagination-item+.dots {
     display: none
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-search-results-sidebar {
         display: block;
         -webkit-flex: 0 0 400px;
@@ -68295,7 +68295,7 @@ li.b-pagination-item+.dots {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .ddb-top-result-footer .button-rule,
     .ddb-top-result-footer .button-wprop,
@@ -68364,7 +68364,7 @@ li.b-pagination-item+.dots {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .ddb-top-result-footer .button-gear,
     .ddb-top-result-footer .button-magic-item {
@@ -68418,7 +68418,7 @@ li.b-pagination-item+.dots {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-top-result-footer .button-monster {
         height: 35px;
         font-size: 12px;
@@ -68469,7 +68469,7 @@ li.b-pagination-item+.dots {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-top-result-footer .button-spell {
         height: 35px;
         font-size: 12px;
@@ -68520,7 +68520,7 @@ li.b-pagination-item+.dots {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-top-result-footer .button-forum {
         height: 35px;
         font-size: 12px;
@@ -68592,7 +68592,7 @@ li.b-pagination-item+.dots {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .ddb-top-result-footer .button-background,
     .ddb-top-result-footer .button-class,
@@ -68650,7 +68650,7 @@ li.b-pagination-item+.dots {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-top-result-footer .button-vehicle {
         height: 35px;
         font-size: 12px;
@@ -68679,7 +68679,7 @@ li.b-pagination-item+.dots {
     margin: 0
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .es-form-global {
         display: none
     }
@@ -68739,7 +68739,7 @@ li.b-pagination-item+.dots {
     box-shadow: 0
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .es-form-mobile-container {
         display: none
     }
@@ -69159,14 +69159,14 @@ li.b-pagination-item+.dots {
     margin: 0
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .site-bar {
         height: 64px;
         position: static
     }
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .site-bar__container {
         -webkit-justify-content: flex-end;
         -ms-flex-pack: end;
@@ -69274,7 +69274,7 @@ li.b-pagination-item+.dots {
     display: none
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .site-interactions-groups {
         height: 64px;
         padding-left: 10px
@@ -69476,7 +69476,7 @@ li.b-pagination-item+.dots {
     display: none
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .user-interactions-signin {
         height: 64px
     }
@@ -70973,13 +70973,13 @@ li.b-pagination-item+.dots {
     font-weight: bold
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .static-container-details .page-header h2 {
         font-size: 36px
     }
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .static-container-details .page-header .more-links {
         display: none
     }
@@ -71205,13 +71205,13 @@ li.b-pagination-item+.dots {
     margin-top: 30px
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .static-container-details .content-container .nav-select+.ad-container {
         margin-top: 0
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .static-container-details .content-container .nav-select {
         display: none
     }
@@ -71357,7 +71357,7 @@ li.b-pagination-item+.dots {
     margin-bottom: 4px
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgclass-details-druid {
         background: url("https://www.dndbeyond.com/attachments/0/291/druid1k.jpg") no-repeat center 114px, url(https://www.dndbeyond.com/attachments/0/84/background_texture.png) #f9f9f9
     }
@@ -71375,7 +71375,7 @@ li.b-pagination-item+.dots {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgclass-details-bard {
         background: url("https://www.dndbeyond.com/attachments/0/279/bard1k.jpg") no-repeat center 114px, url(https://www.dndbeyond.com/attachments/0/84/background_texture.png) #f9f9f9
     }
@@ -71393,7 +71393,7 @@ li.b-pagination-item+.dots {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgclass-details-warlock {
         background: url("https://www.dndbeyond.com/attachments/0/340/warlock1k.jpg") no-repeat center 114px, url(https://www.dndbeyond.com/attachments/0/84/background_texture.png) #f9f9f9
     }
@@ -71411,7 +71411,7 @@ li.b-pagination-item+.dots {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgclass-details-sorcerer {
         background: url("https://www.dndbeyond.com/attachments/0/334/sorcerer1k.jpg") no-repeat center 114px, url(https://www.dndbeyond.com/attachments/0/84/background_texture.png) #f9f9f9
     }
@@ -71429,7 +71429,7 @@ li.b-pagination-item+.dots {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgclass-details-ranger {
         background: url("https://www.dndbeyond.com/attachments/0/328/ranger1k.jpg") no-repeat center 114px, url(https://www.dndbeyond.com/attachments/0/84/background_texture.png) #f9f9f9
     }
@@ -71447,7 +71447,7 @@ li.b-pagination-item+.dots {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgclass-details-cleric {
         background: url("https://www.dndbeyond.com/attachments/0/285/cleric1k.jpg") no-repeat center 114px, url(https://www.dndbeyond.com/attachments/0/84/background_texture.png) #f9f9f9
     }
@@ -71465,7 +71465,7 @@ li.b-pagination-item+.dots {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgclass-details-monk {
         background: url("https://www.dndbeyond.com/attachments/0/322/monk1k.jpg") no-repeat center 114px, url(https://www.dndbeyond.com/attachments/0/84/background_texture.png) #f9f9f9
     }
@@ -71483,7 +71483,7 @@ li.b-pagination-item+.dots {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgclass-details-rogue {
         background: url("https://www.dndbeyond.com/attachments/0/331/rogue1k.jpg") no-repeat center 114px, url(https://www.dndbeyond.com/attachments/0/84/background_texture.png) #f9f9f9
     }
@@ -71501,7 +71501,7 @@ li.b-pagination-item+.dots {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgclass-details-paladin {
         background: url("https://www.dndbeyond.com/attachments/0/325/paladin1k.jpg") no-repeat center 114px, url(https://www.dndbeyond.com/attachments/0/84/background_texture.png) #f9f9f9
     }
@@ -71519,7 +71519,7 @@ li.b-pagination-item+.dots {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgclass-details-fighter {
         background: url("https://www.dndbeyond.com/attachments/0/297/fighter1k.jpg") no-repeat center 114px, url(https://www.dndbeyond.com/attachments/0/84/background_texture.png) #f9f9f9
     }
@@ -71537,7 +71537,7 @@ li.b-pagination-item+.dots {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgclass-details-barbarian {
         background: url("https://www.dndbeyond.com/attachments/0/276/barbarian1k.jpg") no-repeat center 114px, url(https://www.dndbeyond.com/attachments/0/84/background_texture.png) #f9f9f9
     }
@@ -71555,7 +71555,7 @@ li.b-pagination-item+.dots {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgclass-details-wizard {
         background: url("https://www.dndbeyond.com/attachments/0/343/wizard1k.jpg") no-repeat center 114px, url(https://www.dndbeyond.com/attachments/0/84/background_texture.png) #f9f9f9
     }
@@ -71573,7 +71573,7 @@ li.b-pagination-item+.dots {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgclass-details-blood-hunter {
         background: url("https://www.dndbeyond.com/attachments/3/334/bh1k.jpg") no-repeat center 114px, url(https://www.dndbeyond.com/attachments/0/84/background_texture.png) #f9f9f9
     }
@@ -71591,7 +71591,7 @@ li.b-pagination-item+.dots {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgrace-details-human {
         background: url("https://www.dndbeyond.com/attachments/0/319/human1k.jpg") no-repeat center 114px, url(https://www.dndbeyond.com/attachments/0/84/background_texture.png) #f9f9f9
     }
@@ -71609,7 +71609,7 @@ li.b-pagination-item+.dots {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgrace-details-half-elf {
         background: url("https://www.dndbeyond.com/attachments/0/310/half-elf1k.jpg") no-repeat center 114px, url(https://www.dndbeyond.com/attachments/0/84/background_texture.png) #f9f9f9
     }
@@ -71627,7 +71627,7 @@ li.b-pagination-item+.dots {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgrace-details-half-orc {
         background: url("https://www.dndbeyond.com/attachments/0/316/half-orc1k.jpg") no-repeat center 114px, url(https://www.dndbeyond.com/attachments/0/84/background_texture.png) #f9f9f9
     }
@@ -71645,7 +71645,7 @@ li.b-pagination-item+.dots {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgrace-details-elf {
         background: url("https://www.dndbeyond.com/attachments/0/294/elf1k.jpg") no-repeat center 114px, url(https://www.dndbeyond.com/attachments/0/84/background_texture.png) #f9f9f9
     }
@@ -71663,7 +71663,7 @@ li.b-pagination-item+.dots {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgrace-details-halfling {
         background: url("https://www.dndbeyond.com/attachments/0/313/halfling1k.jpg") no-repeat center 114px, url(https://www.dndbeyond.com/attachments/0/84/background_texture.png) #f9f9f9
     }
@@ -71681,7 +71681,7 @@ li.b-pagination-item+.dots {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgrace-details-dwarf {
         background: url("https://www.dndbeyond.com/attachments/0/270/dwarf1k.jpg") no-repeat center 114px, url(https://www.dndbeyond.com/attachments/0/84/background_texture.png) #f9f9f9
     }
@@ -71699,7 +71699,7 @@ li.b-pagination-item+.dots {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgrace-details-gnome {
         background: url("https://www.dndbeyond.com/attachments/0/303/gnome1k.jpg") no-repeat center 114px, url(https://www.dndbeyond.com/attachments/0/84/background_texture.png) #f9f9f9
     }
@@ -71717,7 +71717,7 @@ li.b-pagination-item+.dots {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgrace-details-tiefling {
         background: url("https://www.dndbeyond.com/attachments/0/337/tiefling1k.jpg") no-repeat center 114px, url(https://www.dndbeyond.com/attachments/0/84/background_texture.png) #f9f9f9
     }
@@ -71735,7 +71735,7 @@ li.b-pagination-item+.dots {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgrace-details-dragonborn {
         background: url("https://www.dndbeyond.com/attachments/0/288/dragonborn1k.jpg") no-repeat center 114px, url(https://www.dndbeyond.com/attachments/0/84/background_texture.png) #f9f9f9
     }
@@ -71753,7 +71753,7 @@ li.b-pagination-item+.dots {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgrace-details-aarakocra {
         background: url("https://www.dndbeyond.com/attachments/0/273/aarakocra1k.jpg") no-repeat center 114px, url(https://www.dndbeyond.com/attachments/0/84/background_texture.png) #f9f9f9
     }
@@ -71771,7 +71771,7 @@ li.b-pagination-item+.dots {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgrace-details-genasi {
         background: url("https://www.dndbeyond.com/attachments/0/770/genasi1k.jpg") no-repeat center 114px, url(https://www.dndbeyond.com/attachments/0/84/background_texture.png) #f9f9f9
     }
@@ -71789,7 +71789,7 @@ li.b-pagination-item+.dots {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgrace-details-goliath {
         background: url("https://www.dndbeyond.com/attachments/0/307/goliath1k.jpg") no-repeat center 114px, url(https://www.dndbeyond.com/attachments/0/84/background_texture.png) #f9f9f9
     }
@@ -71807,7 +71807,7 @@ li.b-pagination-item+.dots {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-rpgrace-details-firbolg {
         background: url("https://www.dndbeyond.com/attachments/0/775/firbolg1k.jpg") no-repeat center 114px, url(https://www.dndbeyond.com/attachments/0/84/background_texture.png) #f9f9f9
     }
@@ -71890,7 +71890,7 @@ li.b-pagination-item+.dots {
     background-repeat: no-repeat
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-strip-aligned-item {
         position: relative;
         padding: 20px;
@@ -72218,7 +72218,7 @@ li.b-pagination-item+.dots {
     text-decoration: none
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .tooltip {
         display: none !important
     }
@@ -73041,7 +73041,7 @@ li.b-pagination-item+.dots {
     padding: 0 10px !important
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-home-index #site-main #logo::after {
         content: none
     }
@@ -73066,7 +73066,7 @@ li.b-pagination-item+.dots {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-home-index #site-main::before {
         background-size: auto 655px;
         height: 655px;
@@ -73100,7 +73100,7 @@ li.b-pagination-item+.dots {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-home-body {
         padding-top: 16px
     }
@@ -73149,7 +73149,7 @@ li.b-pagination-item+.dots {
     color: #fff
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-home-body .see-all-container .button {
         height: 35px;
         font-size: 12px;
@@ -73162,7 +73162,7 @@ li.b-pagination-item+.dots {
     background: #eb1313
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-home-body .see-all-container .button {
         height: 50px;
         font-size: 16px
@@ -73605,7 +73605,7 @@ li.b-pagination-item+.dots {
     padding-top: 0 !important
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .single-column #content {
         padding: 15px 10px !important
     }
@@ -73654,8 +73654,8 @@ li.b-pagination-item+.dots {
 #site.two-column .secondary-content {
     position: static;
     float: none;
-    max-width: 300px;
-    min-width: 300px;
+    max-width: 10px;
+    min-width: 10px;
     margin-right: 30px;
     margin-left: 0;
     padding: 0
@@ -73672,7 +73672,7 @@ li.b-pagination-item+.dots {
     min-width: 0
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     #site.two-column #content {
         padding: 15px 10px !important
     }
@@ -73707,7 +73707,7 @@ li.b-pagination-item+.dots {
     padding-top: 0 !important
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
 
     .body-rpgbackground #content,
     .body-rpgfeat-index #content,
@@ -73828,7 +73828,7 @@ footer#footer {
     margin: 0 auto
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-footer-lower {
         -webkit-flex-direction: row;
         -ms-flex-direction: row;
@@ -73844,7 +73844,7 @@ footer#footer {
     padding-top: 10px
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-footer-lower-links {
         padding-top: 0
     }
@@ -73954,7 +73954,7 @@ footer#footer {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-footer-newlogo-container {
         margin-top: 15px;
         margin-left: 76px;
@@ -74052,7 +74052,7 @@ footer#footer {
     width: 200px
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-footer-logo-image {
         margin-left: -40px
     }
@@ -74066,7 +74066,7 @@ footer#footer {
     color: #979AA4
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-footer-logo-byline {
         margin-left: -40px
     }
@@ -74097,7 +74097,7 @@ footer#footer {
     display: none
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .site-bar #logo {
         display: none
     }
@@ -74124,7 +74124,7 @@ footer#footer {
     }
 }
 
-@media(max-width:1023px) {
+@media(max-width:1px) {
     .search-open #site-main {
         padding-top: 47px !important
     }
@@ -74150,7 +74150,7 @@ footer#footer {
     }
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     #site-main {
         padding-top: 0 !important
     }
@@ -74238,7 +74238,7 @@ footer#footer {
     text-align: left !important
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .body-error #site-main::before {
         top: -65px
     }
@@ -74266,7 +74266,7 @@ footer#footer {
     text-align: center
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .error-page-title {
         font-size: 32px
     }
@@ -74276,7 +74276,7 @@ footer#footer {
     padding: 40px 0
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .error-page-body {
         padding: 0
     }
@@ -74341,7 +74341,7 @@ footer#footer {
     padding-top: 15px
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     #site-main .atf {
         background: transparent;
         max-width: 1200px !important;
@@ -74357,7 +74357,7 @@ footer#footer {
     background-image: url("../images/dnd-beyond-pride-logo.svg")
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .logo {
         text-indent: -9999px;
         background-size: 100% 100%;
@@ -74529,7 +74529,7 @@ footer#footer {
     border: 1px solid #2196F3
 }
 
-@media(min-width:1024px) {
+@media(min-width:1px) {
     .ddb-site-banner~#site {
         position: relative
     }

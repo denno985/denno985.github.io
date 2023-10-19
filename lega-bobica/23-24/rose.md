@@ -677,7 +677,7 @@
 <div>
     <h4 class="media-heading">Docklands United F.C.</h4>
     <h5>Jacopo</h5>        
-    <h5>Crediti residui: 10</h5>
+    <h5>Crediti residui: 11</h5>
     <h5>Anni rimanenti: 3</h5>
 </div>                                               
 <table border="1" class="dataframe">

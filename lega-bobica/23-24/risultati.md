@@ -213,34 +213,34 @@
     <tr>
       <td>Docklands United F.C.</td>
       <td>Piove sul Bagnato</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>60.5</td>
+      <td>72.0</td>
       <td>0</td>
-      <td>0</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>The Curse of Buscemi</td>
       <td>USS Torquemada</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>77.0</td>
+      <td>76.5</td>
+      <td>2</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Waystar Royco</td>
       <td>La Domenica del Dipendente Pubblico</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>71.5</td>
+      <td>70.5</td>
+      <td>1</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>Cs Colpevoli Sopravvissuti</td>
       <td>Ans Rei Sport Verein</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>66.5</td>
+      <td>83.5</td>
+      <td>1</td>
+      <td>3</td>
     </tr>
   </tbody>
 </table><th><br/></th><li><a href="https://denno985.github.io/lega-bobica/23-24/giornate/8" class="active">8a giornata</a></li><table border="1" class="dataframe">

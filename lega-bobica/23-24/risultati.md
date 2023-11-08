@@ -283,33 +283,33 @@
     <tr>
       <td>Waystar Royco</td>
       <td>Cs Colpevoli Sopravvissuti</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>63.5</td>
+      <td>59.0</td>
       <td>0</td>
       <td>0</td>
     </tr>
     <tr>
       <td>Docklands United F.C.</td>
       <td>USS Torquemada</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>72.5</td>
+      <td>69.5</td>
+      <td>2</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>Piove sul Bagnato</td>
       <td>La Domenica del Dipendente Pubblico</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
-      <td>0</td>
+      <td>80.5</td>
+      <td>71.5</td>
+      <td>3</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>The Curse of Buscemi</td>
       <td>Ans Rei Sport Verein</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0</td>
+      <td>79.0</td>
+      <td>65.0</td>
+      <td>3</td>
       <td>0</td>
     </tr>
   </tbody>

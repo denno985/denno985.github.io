@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "fc-icons";
+  src:url("fonts/fc-icons.eot");
+  src:url("fonts/fc-icons.eot?#iefix") format("embedded-opentype"),
+    url("fonts/fc-icons.woff") format("woff"),
+    url("fonts/fc-icons.ttf") format("truetype"),
+    url("fonts/fc-icons.svg#fc-icons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "fc-icons" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="fc-ico-"]:before,
+[class*=" fc-ico-"]:before {
+  font-family: "fc-icons" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fc-ico-calendar:before {
+  content: "\61";
+}
+.fc-ico-cart:before {
+  content: "\62";
+}
+.fc-ico-pin:before {
+  content: "\63";
+}
+.fc-ico-search:before {
+  content: "\65";
+}
+.fc-ico-group:before {
+  content: "\64";
+}
+.fc-ico-huawei:before {
+  content: "\66";
+}

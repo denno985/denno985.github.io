@@ -1,0 +1,342 @@
+body.fg .m-0 {
+    margin: 0px;
+  }
+  body.fg .m-1 {
+    margin: 5px;
+  }
+  body.fg .m-2 {
+    margin: 10px;
+  }
+  body.fg .m-3 {
+    margin: 15px;
+  }
+  body.fg .m-4 {
+    margin: 20px;
+  }
+  body.fg .m-0\! {
+    margin: 0px !important;
+  }
+  body.fg .m-1\! {
+    margin: 5px !important;
+  }
+  body.fg .m-2\! {
+    margin: 10px !important;
+  }
+  body.fg .m-3\! {
+    margin: 15px !important;
+  }
+  body.fg .m-4\! {
+    margin: 20px !important;
+  }
+  body.fg .mt-0 {
+    margin-top: 0px;
+  }
+  body.fg .mt-1 {
+    margin-top: 5px;
+  }
+  body.fg .mt-2 {
+    margin-top: 10px;
+  }
+  body.fg .mt-3 {
+    margin-top: 15px;
+  }
+  body.fg .mt-4 {
+    margin-top: 20px;
+  }
+  body.fg .mt-auto {
+    margin-top: auto;
+  }
+  body.fg .mb-0 {
+    margin-bottom: 0px;
+  }
+  body.fg .mb-1 {
+    margin-bottom: 5px;
+  }
+  body.fg .mb-2 {
+    margin-bottom: 10px;
+  }
+  body.fg .mb-3 {
+    margin-bottom: 15px;
+  }
+  body.fg .mb-4 {
+    margin-bottom: 20px;
+  }
+  body.fg .mb-auto {
+    margin-bottom: auto;
+  }
+  body.fg .ml-0 {
+    margin-left: 0px;
+  }
+  body.fg .ml-1 {
+    margin-left: 5px;
+  }
+  body.fg .ml-2 {
+    margin-left: 10px;
+  }
+  body.fg .ml-3 {
+    margin-left: 15px;
+  }
+  body.fg .ml-4 {
+    margin-left: 20px;
+  }
+  body.fg .ml-auto {
+    margin-left: auto;
+  }
+  body.fg .mr-0 {
+    margin-right: 0px;
+  }
+  body.fg .mr-1 {
+    margin-right: 5px;
+  }
+  body.fg .mr-2 {
+    margin-right: 10px;
+  }
+  body.fg .mr-3 {
+    margin-right: 15px;
+  }
+  body.fg .mr-4 {
+    margin-right: 20px;
+  }
+  body.fg .mr-auto {
+    margin-right: auto;
+  }
+  body.fg .my-0 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  body.fg .mx-0 {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  body.fg .my-1 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  body.fg .mx-1 {
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  body.fg .my-2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  body.fg .mx-2 {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  body.fg .my-3 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  body.fg .mx-3 {
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+  body.fg .my-4 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  body.fg .mx-4 {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  body.fg .my-auto {
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+  body.fg .mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  body.fg .p-0 {
+    padding: 0px;
+  }
+  body.fg .p-1 {
+    padding: 5px;
+  }
+  body.fg .p-2 {
+    padding: 10px;
+  }
+  body.fg .p-3 {
+    padding: 15px;
+  }
+  body.fg .p-4 {
+    padding: 20px;
+  }
+  body.fg .p-0\! {
+    padding: 0px !important;
+  }
+  body.fg .p-1\! {
+    padding: 5px !important;
+  }
+  body.fg .p-2\! {
+    padding: 10px !important;
+  }
+  body.fg .p-3\! {
+    padding: 15px !important;
+  }
+  body.fg .p-4\! {
+    padding: 20px !important;
+  }
+  body.fg .pt-0 {
+    padding-top: 0px;
+  }
+  body.fg .pt-1 {
+    padding-top: 5px;
+  }
+  body.fg .pt-2 {
+    padding-top: 10px;
+  }
+  body.fg .pt-3 {
+    padding-top: 15px;
+  }
+  body.fg .pt-4 {
+    padding-top: 20px;
+  }
+  body.fg .pt-auto {
+    padding-top: auto;
+  }
+  body.fg .pb-0 {
+    padding-bottom: 0px;
+  }
+  body.fg .pb-1 {
+    padding-bottom: 5px;
+  }
+  body.fg .pb-2 {
+    padding-bottom: 10px;
+  }
+  body.fg .pb-3 {
+    padding-bottom: 15px;
+  }
+  body.fg .pb-4 {
+    padding-bottom: 20px;
+  }
+  body.fg .pb-auto {
+    padding-bottom: auto;
+  }
+  body.fg .pl-0 {
+    padding-left: 0px;
+  }
+  body.fg .pl-1 {
+    padding-left: 5px;
+  }
+  body.fg .pl-2 {
+    padding-left: 10px;
+  }
+  body.fg .pl-3 {
+    padding-left: 15px;
+  }
+  body.fg .pl-4 {
+    padding-left: 20px;
+  }
+  body.fg .pl-auto {
+    padding-left: auto;
+  }
+  body.fg .pr-0 {
+    padding-right: 0px;
+  }
+  body.fg .pr-1 {
+    padding-right: 5px;
+  }
+  body.fg .pr-2 {
+    padding-right: 10px;
+  }
+  body.fg .pr-3 {
+    padding-right: 15px;
+  }
+  body.fg .pr-4 {
+    padding-right: 20px;
+  }
+  body.fg .pr-auto {
+    padding-right: auto;
+  }
+  body.fg .py-0 {
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+  body.fg .px-0 {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  body.fg .py-1 {
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  body.fg .px-1 {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  body.fg .py-2 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  body.fg .px-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  body.fg .py-3 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  body.fg .px-3 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  body.fg .py-4 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  body.fg .px-4 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  body.fg .py-auto {
+    padding-top: auto;
+    padding-bottom: auto;
+  }
+  body.fg .px-auto {
+    padding-left: auto;
+    padding-right: auto;
+  }
+  
+  .w-20 {
+    width: 20%;
+  }
+  
+  .w-25 {
+    width: 25%;
+  }
+  
+  .w-33 {
+    width: 33.33%;
+  }
+  
+  .w-50 {
+    width: 50%;
+  }
+  
+  .w-100 {
+    width: 100%;
+  }
+  
+  .flex-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .flex-grid > * {
+    margin: 5px;
+  }
+  
+  .d-flex {
+    display: flex;
+  }
+  
+  .flex-align-center {
+    align-content: center;
+  }
+  
+  .flex-inline {
+    display: inline-flex;
+    align-items: center;
+  }

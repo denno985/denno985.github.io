@@ -1,0 +1,115 @@
+/**************************/
+/******* ANI-WIGGLE *******/
+/**************************/
+.ani-wiggle {
+    --rotation: 20deg;
+    animation-delay: 1000ms;
+    animation-name: ani-wiggle;
+    animation-direction: alternate;
+    animation-duration: 1000ms;
+    animation-iteration-count: 5;
+    animation-timing-function: ease-in-out;
+  }
+  
+  @keyframes ani-wiggle {
+    25% {
+      transform: rotate(var(--rotation));
+    }
+    75% {
+      transform: rotate(calc(var(--rotation) * -1));
+    }
+  }
+  @-webkit-keyframes ani-wiggle {
+    25% {
+      -webkit-transform: rotate(20deg);
+    }
+    75% {
+      -webkit-transform: rotate(-20deg);
+    }
+  }
+  /***************************/
+  /******* ANI-INFLATE *******/
+  /***************************/
+  .ani-inflate {
+    transform: scale(1);
+    animation: ani-inflate 0.2s normal forwards ease;
+  }
+  
+  @keyframes ani-inflate {
+    50% {
+      transform: scale(1.5);
+    }
+  }
+  @keyframes ani-deflate {
+    50% {
+      transform: scale(0.5);
+    }
+  }
+  /************************/
+  /******* ANI-FLIP *******/
+  /************************/
+  .ani-flip {
+    animation: ani-flip;
+    -webkit-animation: ani-flip;
+  }
+  
+  @keyframes ani-flip {
+    0% {
+      transform: rotateY(0deg);
+    }
+    50% {
+      transform: rotateY(90deg);
+    }
+    51% {
+      transform: rotateY(-90deg);
+    }
+    100% {
+      transform: rotateY(0deg);
+    }
+  }
+  .ani-flip-v {
+    animation: ani-flip-v;
+    -webkit-animation: ani-flip-v;
+  }
+  
+  @keyframes ani-flip-v {
+    0% {
+      max-height: 1000px;
+      opacity: 1;
+    }
+    50% {
+      max-height: 1000px;
+      opacity: 1;
+    }
+    51% {
+      max-height: 0;
+      opacity: 0.5;
+    }
+    100% {
+      max-height: 0;
+      opacity: 0.5;
+    }
+  }
+  .ani-flip-h {
+    animation: ani-flip-h;
+    -webkit-animation: ani-flip-h;
+  }
+  
+  @keyframes ani-flip-h {
+    0% {
+      max-width: 1000px;
+      opacity: 1;
+    }
+    50% {
+      max-width: 1000px;
+      opacity: 1;
+    }
+    51% {
+      max-width: 0;
+      opacity: 0.5;
+    }
+    100% {
+      max-width: 0;
+      opacity: 0.5;
+    }
+  }

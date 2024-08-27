@@ -89,7 +89,7 @@
 
 .showcase>.container {
     background-color: #1853c9;
-    background-image: url(https://d2lhpso9w1g8dk.cloudfront.net/web/img/showcase_internal.webp);
+    background-image: url(../../img/showcase_internal.webp);
     background-size: cover;
     background-position: bottom;
     padding: 0;
@@ -168,13 +168,6 @@
     justify-content: center;
     margin-left: 10px;
     text-shadow: 0 1px 1px rgba(0, 0, 0, .2);
-    max-width: 100%;
-}
-
-.showcase .my-team-card .my-team-info .my-team-name {
-    max-width: 100%;
-    overflow: hidden;
-    text-overflow: ellipsis;
 }
 
 .showcase .my-team-card .my-team-info * {
@@ -589,10 +582,7 @@ body.init-complete .showcase .shortcuts li {
         background-color: #2e6be6;
         padding: 10px;
         margin-bottom: 60px;
-        min-height: 70px;
-        position: sticky;
-        z-index: 10;
-        top: 0;
+        height: 70px;
     }
 
     .leagues .navbar.navbar-subheader.navbar-collapse>li.menu-header h2 {
@@ -617,7 +607,7 @@ body.init-complete .showcase .shortcuts li {
 }
 
 .leagues .navbar.navbar-subheader a {
-    font-family: var(--font-default);
+    font-family: "Open Sans";
     font-weight: bold;
     text-transform: uppercase;
     color: #333;
@@ -688,7 +678,7 @@ body.init-complete .showcase .shortcuts li {
     }
 }
 
-@media(max-width:768px) {
+@media(max-width:500px) {
     .leagues .shortcuts {
         display: none !important;
         transform: scale(1) !important;
@@ -745,11 +735,6 @@ body.init-complete .showcase .shortcuts li {
         box-shadow: 0 3px 6px rgba(0, 0, 0, .16), 0 3px 6px rgba(0, 0, 0, .23);
     }
 
-    .leagues #teamInfo:hover,
-    .leagues .navbar-toggle:hover {
-        background-color: color-mix(in lab, #2e6be6, #fff 10%) !important;
-    }
-
     .leagues #teamInfo {
         position: fixed;
         top: 8px;
@@ -780,14 +765,6 @@ body.init-complete .showcase .shortcuts li {
     .external-layout .showcase>.container>* {
         display: none;
     }
-}
-
-.navbar-more-button {
-    min-width: 40px;
-    text-align: center;
-    font-size: 20px;
-    font-weight: bold;
-    display: inline-block;
 }
 
 .navbar.sub-navbar.navbar-card {
@@ -1018,14 +995,12 @@ body[data-setup="4"] #leagueMenu {
     }
 }
 
-@media(max-width:767px) {
-    .leagues .navbar-leagues {
-        max-width: calc(100% - 10px);
-    }
-}
-
 .leagues .navbar-logo {
     display: none !important;
+}
+
+.leagues .navbar-leagues {
+    background: #eee;
 }
 
 .leagues .navbar-leagues .dropdown-toggle {
@@ -1064,7 +1039,7 @@ body[data-setup="4"] #leagueMenu {
 
 @media(max-width:0) {
     .leagues .league-name {
-        font-family: var(--font-condensed);
+        font-family: "Open Sans Condensed";
         font-size: 20px;
         vertical-align: -3px;
     }
@@ -1121,7 +1096,7 @@ body[data-setup="4"] #leagueMenu {
     max-height: 100px;
     transition: opacity .3s ease-in-out, max-height .2s ease-in-out;
     -webkit-transition: opacity .3s ease-in-out, max-height .2s ease-in-out;
-    font-family: var(--font-default);
+    font-family: "Open Sans";
 }
 
 .profile-card-header h4>b {
@@ -1331,7 +1306,7 @@ a.competition-icon:hover::after {
 .competition-list>li>a,
 .competition-current {
     padding: 10px;
-    font-family: var(--font-default);
+    font-family: "Open Sans";
     font-size: 16px;
     font-weight: 700;
     color: #fff;
@@ -1527,10 +1502,6 @@ th.header-sm.no-padding.cell-digit>span {
 .subheader.header-no-padding th>span,
 .header-no-padding .subheader th>span {
     vertical-align: -7px !important;
-    white-space: nowrap;
-}
-
-.formation-role-table td .match {
     white-space: nowrap;
 }
 
@@ -1792,58 +1763,26 @@ tr.myself>.cell-index:before {
     width: 4px;
 }
 
-.match-results:not(.no-versus) .match-result:is(.sleep-home, .sleep-away) * {
-    color: rgba(101, 109, 128, .5) !important;
-}
-
-.match-results:not(.no-versus) .match-result:not(.no-versus):not(.sleep-home):not(.sleep-away) .team-home,
-.match-results:not(.no-versus) .match-result:not(.no-versus):not(.sleep-home):not(.sleep-away) .team-away {
-    display: grid;
-    min-height: 65px;
-}
-
-.match-results:not(.no-versus) .match-result:not(.no-versus):not(.sleep-home):not(.sleep-away) .team-shirt {
-    margin-left: auto;
-}
-
-.match-results:not(.no-versus) .match-result:not(.no-versus):not(.sleep-home):not(.sleep-away) .team-crest,
-.match-results:not(.no-versus) .match-result:not(.no-versus):not(.sleep-home):not(.sleep-away) .team-shirt {
-    grid-row: 1;
-}
-
-.match-results:not(.no-versus) .match-result:not(.no-versus):not(.sleep-home):not(.sleep-away) .team-name,
-.match-results:not(.no-versus) .match-result:not(.no-versus):not(.sleep-home):not(.sleep-away) .team-fpt {
-    grid-column: 1/-3;
-    margin: 0;
-    text-align: center;
-}
-
-.match-results:not(.no-versus) .match-result:not(.no-versus):not(.sleep-home):not(.sleep-away) .team-score::after {
-    height: 100% !important;
-    align-items: center;
-    display: flex;
-}
-
-.match-results:not(.no-versus) .match-result.no-versus .team.team-home {
+.calendar.public .no-versus .team.team-home {
     display: flex;
     align-items: center;
 }
 
-.match-results:not(.no-versus) .match-result.no-versus .team.team-home .team-shirt,
-.match-results:not(.no-versus) .match-result.no-versus .team.team-home .team-crest {
+.calendar.public .no-versus .team.team-home .team-shirt,
+.calendar.public .no-versus .team.team-home .team-crest {
     width: 28px;
     aspect-ratio: 1/1;
     margin-top: 0;
 }
 
-.match-results:not(.no-versus) .match-result.no-versus .team.team-home .team-name {
+.calendar.public .no-versus .team.team-home .team-name {
     margin-left: 10px;
     margin-right: auto;
     text-align: left;
 }
 
-.match-results:not(.no-versus) .match-result.no-versus .team.team-home .team-score,
-.match-results:not(.no-versus) .match-result.no-versus .team.team-home .team-fpt {
+.calendar.public .no-versus .team.team-home .team-score,
+.calendar.public .no-versus .team.team-home .team-fpt {
     padding: 2px;
     margin-top: 0;
     width: 32px;
@@ -1886,10 +1825,6 @@ table>tbody>tr>th.cell-middle,
         -webkit-justify-content: center;
         vertical-align: middle;
         line-height: 16px;
-    }
-
-    .smart-table td>*.ellipsis {
-        display: inline-block;
     }
 
     .smart-table td>.flex-col {
@@ -2875,7 +2810,7 @@ tr.has-drill-down:after {
 }
 
 .smart-table.fixed .x1 {
-    width: 5%;
+    width: 8%;
 }
 
 .smart-table.fixed .x2 {
@@ -4061,7 +3996,7 @@ tbody .cell-shirt.circle>span {
     text-transform: none;
     padding: 0 6px;
     font-size: 60% !important;
-    font-family: var(--font-default);
+    font-family: "Open Sans";
 }
 
 .widget-body {
@@ -4205,7 +4140,7 @@ tbody .cell-shirt.circle>span {
     height: 40px;
 }
 
-.match-result:not(.sleep-home):not(.sleep-away):not(.pause):not(:has([data-id="-1"])):hover {
+.match-result:not(.sleep-home):not(.sleep-away):hover {
     background-color: #d3d8e0;
 }
 
@@ -4216,35 +4151,24 @@ tbody .cell-shirt.circle>span {
     float: left;
     position: relative;
     flex: 1;
-    display: flex;
-    align-items: center;
-}
-
-.team-away {
-    flex-direction: row-reverse;
 }
 
 .pause {
     order: 1000;
 }
 
+.pause .team-home[data-id="-1"],
+.pause .team-away[data-id="-1"],
 .pause .team-home .team-score,
 .pause .team-away .team-score,
 .pause .team-fpt {
     display: none;
 }
 
-.pause .team-home[data-id="-1"],
-.pause .team-away[data-id="-1"],
-.pause .team-score:after {
-    display: none !important;
-}
-
 .pause .team-home .team-name,
 .pause .team-away .team-name {
     text-align: center;
     width: 100%;
-    opacity: .5;
 }
 
 .pause .team-home .team-name:after,
@@ -4286,9 +4210,6 @@ tbody .cell-shirt.circle>span {
     height: 28px;
     position: relative;
     vertical-align: top;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 .match-results .match-result:hover .team-shirt,
@@ -4296,8 +4217,7 @@ tbody .cell-shirt.circle>span {
 .match-results .highlight .team-shirt,
 .match-results .highlight .team-crest {
     max-height: 28px !important;
-    width: fit-content;
-    aspect-ratio: 1;
+    margin-top: 5px;
 }
 
 .match-results .team-shirt .shirt,
@@ -4306,7 +4226,9 @@ tbody .cell-shirt.circle>span {
     background: #f4f4f4;
     border: 2px solid #fff;
     transform: scale(0);
+    -webkit-transform: scale(0);
     transition: .3s ease-in-out all;
+    -webkit-transition: .3s ease-in-out all;
 }
 
 .match-result:hover .team-shirt .shirt,
@@ -4314,6 +4236,7 @@ tbody .cell-shirt.circle>span {
 .highlight .team-shirt .shirt,
 .highlight .team-crest .crest {
     transform: scale(1);
+    -webkit-transform: scale(1);
 }
 
 .match-results .match-result:hover .list-group-item,
@@ -4328,7 +4251,7 @@ tbody .cell-shirt.circle>span {
 }
 
 .widget.private .list-group-item-footer .btn-raised {
-    font-family: var(--font-default);
+    font-family: "Open Sans";
     font-weight: 400;
 }
 
@@ -4369,8 +4292,6 @@ tbody .cell-shirt.circle>span {
     white-space: nowrap;
     overflow: hidden;
     padding: 0 5px;
-    margin: 5px 0;
-    text-align: center;
 }
 
 .fg .highlight .team-name {
@@ -4428,7 +4349,7 @@ tbody .cell-shirt.circle>span {
 .team-away .team-name,
 .team-away .team-fpt,
 .team-away .team-fpt-tot {
-    text-align: center;
+    text-align: left;
 }
 
 .team-home {
@@ -4453,11 +4374,10 @@ tbody .cell-shirt.circle>span {
     margin-right: 0;
     position: absolute;
     right: 0;
-    top: 0;
-    transform: translate(50%, 0%);
+    top: calc(50% - 1px);
+    transform: translate(50%, -50%);
+    -webkit-transform: translate(50%, -50%);
     text-align: center;
-    height: 48px;
-    line-height: 68px;
 }
 
 .match-result.uncalculated .team-home .team-score:after,
@@ -4482,13 +4402,8 @@ tbody .cell-shirt.circle>span {
     background-color: #f7f7f7;
 }
 
-.match-results .list-group-item:nth-child(2n+1),
-.match-results .pause~.list-group-item:nth-child(2n) {
+.match-results .list-group-item:nth-child(2n+1) {
     background-color: #fff;
-}
-
-.match-results .list-group-item:nth-child(2n+1).pause {
-    background-color: #f7f7f7;
 }
 
 .match-results .sleep-home~.list-group-item:nth-child(2n),
@@ -4514,10 +4429,9 @@ tbody .cell-shirt.circle>span {
 .match-result:hover .team-score,
 .match-result.highlight .team-score {
     font-size: 30px;
+    transform: translateY(-7px);
+    -webkit-transform: translateY(-7px);
     height: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 .team-home .team-coach,
@@ -4546,11 +4460,11 @@ tbody .cell-shirt.circle>span {
     position: absolute;
     transition: transform .3s ease-in-out, font-size .3s ease-in-out;
     -webkit-transition: -webkit-transform .3s ease-in-out, font-size .3s ease-in-out;
-    font-family: var(--font-condensed);
+    font-family: "Open Sans Condensed";
 }
 
 .team-score:after {
-    font-family: var(--font-condensed);
+    font-family: "Open Sans Condensed";
 }
 
 .list-group-item-footer {
@@ -4587,11 +4501,8 @@ tbody .cell-shirt.circle>span {
 .no-versus .team-home,
 .no-versus .team-name {
     width: 100%;
-    height: 100%;
     padding-right: 0;
     padding-left: 0;
-    align-items: center;
-    display: flex;
 }
 
 .no-versus .team-name,
@@ -4643,9 +4554,6 @@ tbody .cell-shirt.circle>span {
     font-size: 14px;
     line-height: 33px;
     border-bottom: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 .betslip .widget-body {
@@ -4680,7 +4588,7 @@ h5.betslip-title {
     line-height: 22px;
     color: #1b2c44;
     padding: 11px 20px !important;
-    font-family: var(--font-condensed);
+    font-family: "Open Sans Condensed";
     font-weight: 700;
     margin: 0;
 }
@@ -4827,7 +4735,7 @@ img.betslip-cup {
 .betslip-prize {
     font-weight: 700;
     color: #ff8b2c;
-    font-family: var(--font-default);
+    font-family: "Open Sans";
     font-size: 18px;
     width: 50%;
     display: flex;
@@ -4852,7 +4760,7 @@ img.betslip-cup {
 
 .betslip-private .text-info {
     color: #ff8b2c;
-    font-family: var(--font-default);
+    font-family: "Open Sans";
     font-size: 18px;
 }
 
@@ -4874,7 +4782,7 @@ img.betslip-cup {
     display: inline-block;
     padding: 10px 10px;
     font-size: 12px;
-    font-family: var(--font-default);
+    font-family: "Open Sans";
     position: absolute;
     z-index: 10;
     background: #fff;
@@ -5259,8 +5167,6 @@ body:not(.countdown-active) .visible-countdown-active {
     font-size: 11px;
     font-weight: 700;
     line-height: 1.5em;
-    text-overflow: ellipsis;
-    overflow: hidden;
 }
 
 .panel-teams .empty-message {
@@ -5287,7 +5193,7 @@ body:not(.countdown-active) .visible-countdown-active {
 }
 
 .modal-login .league-info .media-heading {
-    font-family: var(--font-default);
+    font-family: "Open Sans";
     font-size: 16px;
     color: #323232;
     text-align: left;
@@ -5482,7 +5388,7 @@ body:not(.countdown-active) .visible-countdown-active {
     color: #89909b;
     font-size: 18px;
     text-decoration: underline;
-    font-family: var(--font-default);
+    font-family: "Open Sans";
     padding-top: 10px;
     margin-bottom: 10px;
 }
@@ -5827,7 +5733,7 @@ body:not(.countdown-active) .visible-countdown-active {
     font-size: 21px;
     color: #656d80;
     font-weight: 700;
-    font-family: var(--font-default);
+    font-family: "Open Sans";
     margin-bottom: 15px;
 }
 
@@ -5911,7 +5817,7 @@ sup.league-type:hover {
     color: #656d80;
     font-size: 16px;
     font-weight: 700;
-    font-family: var(--font-default);
+    font-family: "Open Sans";
     max-width: 400px;
     overflow: hidden;
     display: inline-block;
@@ -5926,7 +5832,7 @@ sup.league-type:hover {
     color: #656d80;
     font-weight: 700;
     font-size: 12px !important;
-    font-family: var(--font-default);
+    font-family: "Open Sans";
     overflow: hidden;
     text-overflow: ellipsis;
 }
@@ -5981,7 +5887,7 @@ sup.league-type:hover {
 .global-menu li>h4,
 .global-menu li>a {
     text-transform: uppercase;
-    font-family: var(--font-condensed);
+    font-family: "Open Sans Condensed";
     font-size: 20px;
     font-weight: 700;
     text-decoration: none !important;
@@ -6026,7 +5932,7 @@ sup.league-type:hover {
 
 .global-menu li>a>small {
     text-transform: uppercase;
-    font-family: var(--font-default);
+    font-family: "Open Sans";
     font-size: 12px;
     font-weight: 400;
     text-decoration: none;
@@ -6065,7 +5971,7 @@ header .media-body a {
 
 .tab-pane header h4 {
     font-size: 16px;
-    font-family: var(--font-default);
+    font-family: "Open Sans";
     margin-bottom: 10px;
     text-transform: uppercase;
 }
@@ -6211,7 +6117,7 @@ header .media-body a {
 }
 
 .global-menu .well a.btn {
-    font-family: var(--font-default);
+    font-family: "Open Sans";
     font-weight: 400;
     margin: 0 auto;
     text-align: center;
@@ -6521,7 +6427,7 @@ header .media-body a {
 
 .panel-primary h4 {
     color: #656d80;
-    font-family: var(--font-default);
+    font-family: "Open Sans";
     font-size: 20px;
 }
 
@@ -6820,7 +6726,7 @@ td[data-key=email].cell-email {
     font-style: italic;
     color: #2e6be6;
     font-weight: 400;
-    font-family: var(--font-default);
+    font-family: "Open Sans";
     font-size: 14px;
     margin-bottom: 20px;
 }
@@ -6896,7 +6802,7 @@ td[data-key=email].cell-email {
 
 #editModal .edit-modal-row .sub-header strong {
     color: #fff;
-    font-family: var(--font-condensed);
+    font-family: "Open Sans Condensed";
     font-size: 12px;
     opacity: 1;
     padding-top: 4px;
@@ -7232,7 +7138,6 @@ body.fg hr[data-row*=row-content-dark] {
         top: auto;
         bottom: 0;
         width: 100%;
-        box-sizing: border-box;
     }
 
     #editModal.form-scrollable .actions.action-stack {
@@ -7291,7 +7196,7 @@ body.fg hr[data-row*=row-content-dark] {
 #editModal .groups-list .chosen-container,
 #editModal .groups-list .chosen-container input {
     width: 100% !important;
-    font-family: var(--font-default);
+    font-family: "Open Sans";
 }
 
 #editModal .groups-list .search-field {
@@ -7396,7 +7301,7 @@ body.fg hr[data-row*=row-content-dark] {
 }
 
 #editModal .chosen-container-multi .chosen-choices li.search-choice>span {
-    font-family: var(--font-default);
+    font-family: "Open Sans";
 }
 
 #editModal .chosen-container-multi .chosen-choices li.search-choice .search-choice-close {
@@ -7717,7 +7622,7 @@ ul.check-list li {
 .check-list .list-icon .caption {
     color: #656d80;
     font-size: 12px;
-    font-family: var(--font-condensed);
+    font-family: "Open Sans Condensed";
 }
 
 .check-list-item-body h5 {
@@ -8227,12 +8132,6 @@ ul.list-secondary li:before {
     padding: 10px;
     padding-bottom: 0;
     padding-top: 0;
-}
-
-@media(max-width:500px) {
-    .panel-config .panel-body {
-        padding: 0;
-    }
 }
 
 .panel-caret {
@@ -9132,12 +9031,9 @@ ul.list-secondary li:before {
     width: 100%;
     padding: 0 !important;
     height: auto;
+    margin-bottom: 20px;
     justify-content: center;
     -webkit-justify-content: center;
-}
-
-.range:not(:last-child) {
-    margin-bottom: 20px;
 }
 
 .form-group .range-info {
@@ -9329,8 +9225,10 @@ ul.list-secondary li:before {
 
 .range-cell.range-cell-tuple {
     display: flex;
+    display: -webkit-flex;
     padding: 0 20px;
     justify-content: space-around;
+    -webkit-align-content: space-around;
 }
 
 .range-cell .range-lower:before {
@@ -9638,10 +9536,6 @@ ul.list-secondary li:before {
     margin-right: 8px;
 }
 
-[data-key=man_of_the_match] .bonusmalus-icon:before {
-    background: url(https://content.fantacalcio.it/web/img/live_ico/2021/mom_s.png);
-}
-
 [data-key=gol_segnato] .bonusmalus-icon:before {
     background: url(https://content.fantacalcio.it/web/img/live_ico/2021/golFatto_s.png);
 }
@@ -9745,7 +9639,7 @@ ul.list-secondary li:before {
 
 .header-group-item>span[data-key],
 .grid-sub-headers th[data-key] {
-    font-family: var(--font-condensed);
+    font-family: "Open Sans Condensed";
     font-size: 12px;
     position: relative;
 }
@@ -9986,7 +9880,7 @@ th[data-key=HIGH] {
     color: #656d80 !important;
     font-size: 12px;
     text-transform: uppercase;
-    font-family: var(--font-default);
+    font-family: "Open Sans";
     font-weight: bold;
     margin: 1px 0;
 }
@@ -10047,10 +9941,6 @@ th[data-key=HIGH] {
 
 .range-col.range-col-medium {
     max-width: 82px !important;
-}
-
-.range-col.match-col .range-cell {
-    padding: 0 !important;
 }
 
 .range-col.text-center .range-cell {
@@ -10146,7 +10036,7 @@ th[data-key=HIGH] {
 
 .radio-competition .caption {
     font-size: 12px;
-    font-family: var(--font-condensed);
+    font-family: "Open Sans Condensed";
 }
 
 .panel.panel-no-header,
@@ -10813,7 +10703,7 @@ h4>.nav-groups.nav-pills>li>span {
     font-weight: 700;
     margin: 0;
     padding: 15px 15px 15px 15px;
-    font-family: var(--font-condensed);
+    font-family: "Open Sans Condensed";
 }
 
 .message-box h4 {
@@ -10921,7 +10811,7 @@ h4>.nav-groups.nav-pills>li>span {
     font-size: 12px;
     color: #666;
     text-transform: uppercase;
-    font-family: var(--font-default);
+    font-family: "Open Sans";
     font-weight: 700;
     padding: 4px 20px;
     margin: 0;
@@ -11021,7 +10911,7 @@ h4>.nav-groups.nav-pills>li>span {
 
 .box-dark h3 {
     color: #656d80;
-    font-family: var(--font-condensed);
+    font-family: "Open Sans Condensed";
     border-bottom: 1px dashed #ebf0f7;
     padding-bottom: 20px;
     margin-bottom: 15px;
@@ -11402,7 +11292,7 @@ label.color-picker-control-label,
 .color-picker-colors .sp-choose {
     background: #eee;
     border-radius: 1px;
-    font-family: var(--font-default);
+    font-family: "Open Sans";
     border: 0;
     background: #d9d9d9;
     padding: 10px 20px;
@@ -11782,13 +11672,13 @@ label.btn>i {
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
-    font-family: var(--font-default);
+    font-family: "Open Sans";
 }
 
 .dtpicker-cont .dtpicker-header .dtpicker-value {
     color: #2e6be6;
     font-size: 14px;
-    font-family: var(--font-default);
+    font-family: "Open Sans";
 }
 
 .dtpicker-cont .dtpicker-buttonCont {
@@ -11809,7 +11699,7 @@ label.btn>i {
     color: #656d80;
     font-weight: 700;
     font-size: 14px;
-    font-family: var(--font-default);
+    font-family: "Open Sans";
     margin: -1px 0;
     padding: 10px 0;
     height: 42px;
@@ -11890,7 +11780,7 @@ label.btn>i {
     font-size: 12px !important;
     padding: 5px 10px !important;
     line-height: 12px;
-    font-family: var(--font-default);
+    font-family: "Open Sans";
 }
 
 .dtpicker-cont .dtpicker-button:hover {
@@ -12161,7 +12051,7 @@ form {
     display: flex;
     flex: 1;
     font-size: 20px;
-    font-family: var(--font-condensed);
+    font-family: "Open Sans Condensed";
     justify-content: center;
     align-items: center;
     line-height: 26px;
@@ -12320,7 +12210,7 @@ form {
 
 .role-label {
     font-size: 12px;
-    font-family: var(--font-condensed);
+    font-family: "Open Sans Condensed";
     font-weight: 700;
     line-height: 12px;
     height: 12px;
@@ -12497,7 +12387,7 @@ li.role-slot.role-slot-type-1 {
 
 span.role-totals {
     font-size: 11px;
-    font-family: var(--font-default);
+    font-family: "Open Sans";
     font-weight: 400;
     line-height: 9px;
     height: 12px;
@@ -12581,7 +12471,7 @@ ul.list-links li a {
     background: #fff;
     border: 1px solid #656d80;
     color: #656d80;
-    font-family: var(--font-condensed);
+    font-family: "Open Sans Condensed";
     text-transform: uppercase;
     text-align: left;
 }
@@ -12716,7 +12606,7 @@ ul.list-links li a {
     left: -2px;
     height: 24px;
     margin-bottom: -5px;
-    font-family: var(--font-default);
+    font-family: "Open Sans";
     line-height: 16px;
     margin-top: -2px;
     margin-left: 0 !important;
@@ -12775,10 +12665,6 @@ ul.list-links li a {
     content: "Dc";
 }
 
-.togglebutton:not(.toggle-status).role-b label .checkbox-material:after {
-    content: "B";
-}
-
 .togglebutton:not(.toggle-status).role-dd label .checkbox-material:after {
     content: "Dd";
 }
@@ -12815,7 +12701,6 @@ ul.list-links li a {
 
 .togglebutton:not(.toggle-status).role-d label input[type=checkbox]:checked+.checkbox-material:after,
 .togglebutton:not(.toggle-status).role-dc label input[type=checkbox]:checked+.checkbox-material:after,
-.togglebutton:not(.toggle-status).role-b label input[type=checkbox]:checked+.checkbox-material:after,
 .togglebutton:not(.toggle-status).role-dd label input[type=checkbox]:checked+.checkbox-material:after,
 .togglebutton:not(.toggle-status).role-ds label input[type=checkbox]:checked+.checkbox-material:after {
     background-color: #63c623;
@@ -12868,7 +12753,7 @@ ul.list-links li a {
     color: #fff;
     line-height: 20px;
     font-size: 14px;
-    font-family: var(--font-condensed);
+    font-family: "Open Sans Condensed";
     border-radius: 50%;
     text-transform: capitalize;
     vertical-align: 0;
@@ -12971,9 +12856,6 @@ ul.list-links li a {
 }
 
 .role.role-dc,
-.role.role-dc\/b,
-.role.role-b,
-.role.role-dc,
 .role.role-ds,
 .role.role-gm,
 .role.role-dd {
@@ -13010,7 +12892,6 @@ ul.list-links li a {
 
 .role.role-por,
 .role.role-gm,
-.role.role-dc\/b,
 .role.role-e\/w,
 .role.role-m\/c,
 .role.role-t\/w,
@@ -13428,7 +13309,7 @@ td.cell-countdown>span>small {
 }
 
 .role-divider th span {
-    font-family: var(--font-condensed);
+    font-family: "Open Sans Condensed";
     font-size: 16px;
     font-weight: bold;
     color: #fff;
@@ -13445,7 +13326,7 @@ td.cell-countdown>span>small {
     margin-top: -6px;
     text-align: center;
     font-weight: 400;
-    font-family: var(--font-default);
+    font-family: "Open Sans";
     text-transform: initial;
 }
 
@@ -14094,13 +13975,6 @@ script:not(.priced)~.smart-table .priced-visible {
 
 @media(max-width:500px) {
     .row-content-type-ranges.twins-list .value-content.value-type-ranges {
-        padding: 0;
-        padding-top: 5px;
-    }
-}
-
-@media(max-width:500px) {
-    .row-content-type-ranges.twins-list .value-content.value-type-ranges {
         width: calc(100% + 40px) !important;
     }
 }
@@ -14133,12 +14007,6 @@ script:not(.priced)~.smart-table .priced-visible {
     text-overflow: ellipsis;
 }
 
-@media(min-width:500px) {
-    .twins-list .range-label .value-label {
-        padding: 0 10px;
-    }
-}
-
 .twins-list .range-col-small .range-label {
     display: flex !important;
     display: -webkit-flex !important;
@@ -14152,12 +14020,6 @@ script:not(.priced)~.smart-table .priced-visible {
 
 .seriea-team {
     text-transform: initial;
-}
-
-.seriea-match {
-    min-width: 80px;
-    display: inline-block;
-    text-align: center;
 }
 
 .twins-list .value-label {
@@ -14215,7 +14077,7 @@ script:not(.priced)~.smart-table .priced-visible {
     color: #2e6be6;
     font-size: 12px;
     font-weight: 700;
-    font-family: var(--font-default);
+    font-family: "Open Sans";
 }
 
 .alert-notice p strong {
@@ -14491,7 +14353,7 @@ kbd.link {
     box-shadow: none;
     color: #333;
     text-decoration: underline;
-    font-family: var(--font-default);
+    font-family: "Open Sans";
     font-size: 100%;
     border: 0;
     padding: 0;
@@ -14605,7 +14467,7 @@ kbd.link {
     margin-top: 8px;
     background-color: #0e377f;
     color: #fff;
-    font-family: var(--font-condensed);
+    font-family: "Open Sans Condensed";
     font-size: 20px;
     text-align: center;
     padding: 20px 10px;
@@ -15209,7 +15071,7 @@ label.radio-inline .circle {
 
 .app-style.modal-header span {
     font-weight: 400;
-    font-family: var(--font-default);
+    font-family: "Open Sans";
     font-size: 16px;
 }
 
@@ -15418,26 +15280,17 @@ label.radio-inline .circle {
 }
 
 .team-score .btn-extratime:before {
-    content: "*";
+    content: "•";
     color: #2e6be6;
     display: inline-block;
     height: 15px;
     width: 15px;
-    margin-top: -20%;
-    margin-right: -50%;
 }
 
 .match-result:hover .team-score .btn-extratime,
 .match-result.highlight .team-score .btn-extratime {
-    top: 0;
-}
-
-.team-home .btn-extratime {
-    left: -58%;
-}
-
-.team-away .btn-extratime {
-    left: 12%;
+    top: -30%;
+    left: 22%;
 }
 
 .match .popover {
@@ -15723,7 +15576,7 @@ ul.context-options-menu li>a:hover {
 
 #notificationsPopup .notification-popup-header a,
 #notificationsPopup .notification-popup-footer a {
-    font-family: var(--font-default);
+    font-family: "Open Sans";
     text-decoration: underline;
 }
 
@@ -15810,7 +15663,7 @@ ul.context-options-menu li>a:hover {
     width: 30%;
     font-size: 20px;
     color: #767d84;
-    font-family: var(--font-default);
+    font-family: "Open Sans";
     display: flex;
     flex-wrap: wrap;
     padding: 5px;
@@ -15835,6 +15688,10 @@ ul.context-options-menu li>a:hover {
 
 .competition-header .navbar {
     width: 70%;
+}
+
+.competition-header .navbar2 {
+    width: 100%;
 }
 
 .competition-header .competition-current-name {
@@ -16532,7 +16389,7 @@ img.league-logo {
     white-space: nowrap;
     padding: 0 5px;
     font-size: 12px;
-    font-family: var(--font-condensed);
+    font-family: "Open Sans Condensed";
 }
 
 .royale-matchday .row .team .team-summary b,
@@ -16687,31 +16544,4 @@ img.league-logo {
     [data-fanta-team] [data-key=name] .mantra-roles {
         margin-left: -10px;
     }
-}
-
-.switch-modal>table {
-    table-layout: auto !important;
-}
-
-.switch-modal>table tr:not(:has(input[name=formation]:checked)) [data-key=schemes] select {
-    pointer-events: none;
-    opacity: .5;
-}
-
-.switch-modal [data-key=schemes] select {
-    border-radius: 5px;
-    border-color: #d8dbe1;
-    cursor: pointer;
-    transition: opacity .2s ease;
-    min-width: 100%;
-    opacity: 1;
-}
-
-.switch-modal [data-key=schemes] select[disabled] {
-    opacity: .5;
-    appearance: none;
-    border: 0;
-    background-color: transparent;
-    cursor: default;
-    padding: 0 14px !important;
 }

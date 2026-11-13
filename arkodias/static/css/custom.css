@@ -1,0 +1,17 @@
+.avatar {
+    width:100%;
+  }
+
+.probootstrap-box {
+  box-sizing: border-box;
+  width: fit-content;
+  max-width: 100%;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.probootstrap-box img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+}

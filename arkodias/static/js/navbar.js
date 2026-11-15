@@ -16,7 +16,11 @@
   stylesheet.dataset.navbarStylesheet = "";
   document.head.append(stylesheet);
 
-  const response = await fetch(new URL("components/navbar.html", siteRoot));
+  const templateUrl = new URL("components/navbar.html", siteRoot);
+  templateUrl.searchParams.set("v", Date.now().toString());
+  const response = await fetch(templateUrl, {
+    cache: "no-store"
+  });
   if (!response.ok) {
     throw new Error(`Unable to load the navigation template: ${response.status}`);
   }

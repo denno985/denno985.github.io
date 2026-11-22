@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "Aesthrone";
+  src: url("../fonts/aesthrone/Aesthrone.otf") format("opentype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+:root {
+  --site-font-family: "Aesthrone", Georgia, "Times New Roman", serif;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.heading-with-icon,
+button,
+input,
+select,
+textarea {
+  font-family: var(--site-font-family);
+}
+
+/* The character and spell sheets have more specific typography in their theme. */
+body.site,
+body.site :is(h1, h2, h3, h4, h5, h6, p, a, li, dt, dd, label, th, td, button, input, select, textarea) {
+  font-family: var(--site-font-family) !important;
+}

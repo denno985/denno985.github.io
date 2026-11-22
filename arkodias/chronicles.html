@@ -9,52 +9,17 @@
   <link rel="apple-touch-icon" href="static/images/dragon_ico.png">
   <link rel="icon" href="static/images/dragon_ico.png">
 
-  <link href="https://fonts.googleapis.com/css?family=Rubik:300,400,500" rel="stylesheet">
   <link rel="stylesheet" href="static/css/styles-merged.css">
   <link rel="stylesheet" href="static/css/style.min.css">
   <link rel="stylesheet" href="static/css/custom.css">
 
-  <style>
-    .chronicles-page .probootstrap-header {
-      display: flex;
-      flex-direction: column;
-      height: 100vh;
-      height: 100dvh;
-    }
+  <link rel="stylesheet" href="static/js/vendor/pdfjs/pdf_viewer.css">
+  <link rel="stylesheet" href="static/css/pdf-viewer.css?v=20261121-5">
 
-    .chronicles-page [data-navbar] {
-      position: static;
-      flex: 0 0 auto;
-    }
-
-    .chronicles-page .probootstrap-header > .container-fluid {
-      flex: 1;
-      min-height: 0;
-      width: 100%;
-    }
-
-    .chronicles-page .probootstrap-header > .container-fluid > .row,
-    .chronicles-page .probootstrap-intro > .container {
-      height: 100%;
-    }
-
-    .chronicles-page .probootstrap-intro {
-      box-sizing: border-box;
-      height: 100%;
-      padding: 8px 0 16px;
-    }
-
-    .chronicles-page .probootstrap-intro object {
-      display: block;
-      width: 100%;
-      height: 100%;
-      border: 0;
-    }
-  </style>
-
+  <link rel="stylesheet" href="static/css/typography.css">
 </head>
 
-<body class="chronicles-page">
+<body class="pdf-page">
 
 
   <header role="banner" class="probootstrap-header">
@@ -65,12 +30,9 @@
         <section class="probootstrap-intro">
           <div class="container">
 
-            <object data="static/pdf/chronicles.pdf#toolbar=0&amp;navpanes=0&amp;view=FitH" type="application/pdf"
-              aria-label="Le Cronache di Arkodias, documento PDF">
-              <p>Il browser non supporta la visualizzazione dei PDF.
-                <a href="static/pdf/chronicles.pdf">Apri Le Cronache di Arkodias</a>.
-              </p>
-            </object>
+            <div data-pdf-viewer data-src="static/pdf/chronicles.pdf" data-start-page="2" data-index="static/pdf/chronicles.index.json" data-title="Le Cronache di Arkodias">
+              <p><a href="static/pdf/chronicles.pdf#page=2">Apri Le Cronache di Arkodias</a>.</p>
+            </div>
 
           </div>
         </section>
@@ -85,7 +47,8 @@
   <script src="static/js/scripts.min.js"></script>
   <script src="static/js/main.min.js"></script>
   <script src="static/js/custom.js"></script>
-  <script src="static/js/navbar.js?v=20261115-2"></script>
+  <script src="static/js/navbar.js?v=20261121-2"></script>
+  <script type="module" src="static/js/pdf-viewer.js?v=20261121-3"></script>
 </body>
 
 </html>

@@ -22,7 +22,7 @@ body {
   background: #fff;
   font-size: 16px;
   font-weight: 300;
-  font-family: "Rubik", sans-serif;
+  font-family: "Aesthrone", Georgia, serif;
   line-height: 1.8;
   color: #7e8890;
 }
@@ -44,7 +44,7 @@ body {
 
 h1, h2, .heading-with-icon, h3, h4, .probootstrap-product-tour h5 {
   color: #374252;
-  font-family: "Rubik", sans-serif;
+  font-family: "Aesthrone", Georgia, serif;
   margin: 1.414em 0 0.5em;
   font-weight: inherit;
   line-height: 1.2;

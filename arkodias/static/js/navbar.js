@@ -12,7 +12,10 @@
 
   const stylesheet = document.createElement("link");
   stylesheet.rel = "stylesheet";
-  stylesheet.href = new URL("static/css/navbar.css", siteRoot).href;
+  const stylesheetUrl = new URL("static/css/navbar.css", siteRoot);
+  const version = new URL(script.src).searchParams.get("v") || "20261121-2";
+  stylesheetUrl.searchParams.set("v", version);
+  stylesheet.href = stylesheetUrl.href;
   stylesheet.dataset.navbarStylesheet = "";
   document.head.append(stylesheet);
 
@@ -32,8 +35,14 @@
     throw new Error("The navigation template does not contain a nav element.");
   }
 
+  const currentPath = window.location.pathname === siteRoot.pathname
+    ? new URL("index.html", siteRoot).pathname
+    : window.location.pathname;
   navbar.querySelectorAll("a[href]").forEach(link => {
     link.href = new URL(link.getAttribute("href"), siteRoot).href;
+    if (new URL(link.href).pathname === currentPath) {
+      link.setAttribute("aria-current", "page");
+    }
   });
   mount.replaceChildren(navbar);
 })().catch(error => {

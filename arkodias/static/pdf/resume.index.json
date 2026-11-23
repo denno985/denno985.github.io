@@ -1,9 +1,13 @@
 {
-  "pageCount": 2,
+  "pageCount": 7,
   "entries": [
     {
-      "title": "Riassunto – Giocata 1: La gabbia e il prezzo del silenzio",
+      "title": "La gabbia e il prezzo del silenzio",
       "page": 2
+    },
+    {
+      "title": "Oltre la grotta",
+      "page": 5
     }
   ]
 }

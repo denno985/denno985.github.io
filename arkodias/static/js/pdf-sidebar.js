@@ -3,7 +3,7 @@ const siteRoot = new URL("../../", import.meta.url);
 export async function createPdfSidebar(indexUrl, source, navigate, firstPage = 1) {
   const [templateResponse, indexResponse] = await Promise.all([
     fetch(new URL("components/pdf-sidebar.html", siteRoot)),
-    fetch(indexUrl)
+    fetch(indexUrl, { cache: "no-store" })
   ]);
   if (!templateResponse.ok || !indexResponse.ok) {
     throw new Error("Unable to load the PDF sidebar template or index.");

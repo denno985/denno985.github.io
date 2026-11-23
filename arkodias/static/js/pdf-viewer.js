@@ -1,4 +1,4 @@
-import { createPdfSidebar } from "./pdf-sidebar.js";
+import { createPdfSidebar } from "./pdf-sidebar.js?v=20261123-1";
 import { getDocument, GlobalWorkerOptions, TextLayer } from "./vendor/pdfjs/pdf.min.mjs";
 
 const siteRoot = new URL("../../", import.meta.url);

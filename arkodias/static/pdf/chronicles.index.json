@@ -1,9 +1,13 @@
 {
-  "pageCount": 6,
+  "pageCount": 11,
   "entries": [
     {
-      "title": "giocata 1 - La gabbia e il prezzo del silenzio",
+      "title": "La gabbia e il prezzo del silenzio",
       "page": 2
+    },
+    {
+      "title": "Oltre la grotta",
+      "page": 7
     }
   ]
 }
